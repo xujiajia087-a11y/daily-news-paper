@@ -452,6 +452,28 @@ function setupEvents(){
   });
 }
 
+// ---- RELOAD ----
+window._jaReload=async function(){
+  $('#main-content').style.display='none';
+  $('#loading-msg').style.display='block';
+  $('#loading-msg').innerHTML='<div class="spinner"></div><p>正在重新拉取最新数据...</p>';
+  const ok=await loadData();
+  if(!ok){location.reload();return;}
+  $('#loading-msg').style.display='none';
+  $('#main-content').style.display='block';
+  renderHero();renderBrief();renderImpact();renderTop();renderMarket();renderAnime();renderWatchlist();
+  renderCards();
+  const fm=DATA.metadata||{};
+  $('#nav-time').innerHTML='🕐 最后更新<br><b>'+(fm.report_date||'')+'</b> '+(fm.generated_at||'').split(' ').pop();
+  const fb=$('#freshness-bar');
+  if(fb){fb.style.display='flex';$('#freshness-time').textContent='✅ 本页数据生成时间: '+(fm.generated_at||'未知')+' '+(fm.timezone||'');}
+  $('#site-footer').innerHTML='<p>JiaJia Daily 5.0 · Intelligence Edition · '+esc(fm.report_date||'')+'</p><p style="font-size:.72em;margin-top:4px">美股分析仅用于信息整理，不构成投资建议 · Powered by DeepSeek</p>';
+};
+
+// Wire reload button
+var _rb=document.getElementById('btn-reload');
+if(_rb){_rb.onclick=function(e){e.preventDefault();window._jaReload();};}
+
 // ---- MAIN ----
 async function main(){
   const ok=await loadData();
