@@ -521,8 +521,7 @@ async function main(){
   setupEvents();
 
   // Update nav time
-  const m=DATA.metadata||{};
-  const m=DATA.metadata||{};$('#nav-time').innerHTML='🕐 最后更新<br><b>'+(m.report_date||'')+'</b> '+(m.generated_at||'').split(' ').pop();
+  $('#nav-time').innerHTML='🕐 最后更新<br><b>'+(m.report_date||'')+'</b> '+(m.generated_at||'').split(' ').pop();
 
   // Footer
   $('#site-footer').innerHTML=`<p>JiaJia Daily 5.0 · Intelligence Edition · ${esc(m.report_date||'')}</p><p style="font-size:.72em;margin-top:4px">美股分析仅用于信息整理，不构成投资建议 · Powered by DeepSeek</p>`;
