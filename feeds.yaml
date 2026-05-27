@@ -1,0 +1,159 @@
+# =============================================================================
+# JiaJia Daily 情报日报 4.0 — RSS/活动订阅源
+# =============================================================================
+
+fetch:
+  max_per_feed: 30
+  frontpage_count: 8
+  article_body_max_chars: 3000
+  request_timeout: 8
+  user_agent: "daily-news-paper/4.0"
+
+categories:
+  # ---- 动漫活动专项 ----
+  anime_collab:
+    label: "动漫联名·IP合作·品牌联动"
+    icon: "🤝"
+    max_items: 15
+    description: "动漫联名、IP合作、品牌合作、联动活动"
+    feeds:
+      - name: "Anime News Network"
+        url: "https://www.animenewsnetwork.com/news/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["anime", "collaboration", "ip"]
+        enabled: true
+
+  merch_release:
+    label: "新周边·限定发售·抽选"
+    icon: "🛍️"
+    max_items: 15
+    description: "新周边、限定发售、抽选、一番赏、手办、谷子"
+    feeds:
+      - name: "Anime News Network"
+        url: "https://www.animenewsnetwork.com/news/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["merchandise", "figures", "limited"]
+        enabled: true
+
+  manga_signing_events:
+    label: "漫画家签售·签名会·talk show"
+    icon: "✍️"
+    max_items: 15
+    description: "漫画家签售会、发售纪念签名会、talk show、书店活动"
+    feeds:
+      - name: "Anime News Network"
+        url: "https://www.animenewsnetwork.com/news/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["signing", "autograph", "manga", "event"]
+        enabled: true
+
+  seiyuu_events:
+    label: "声优见面会·fan event·舞台挨拶"
+    icon: "🎤"
+    max_items: 15
+    description: "声优见面会、fan event、お渡し会、私物サイン会、ツーショット撮影会、舞台挨拶"
+    feeds:
+      - name: "Anime News Network"
+        url: "https://www.animenewsnetwork.com/news/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["seiyuu", "voice actor", "event", "fan"]
+        enabled: true
+
+  japan_event_calendar:
+    label: "日本活动日历·会展·展览"
+    icon: "🗓️"
+    max_items: 15
+    description: "日本动漫活动日历、会展、展览、舞台活动、售票日程"
+    feeds:
+      - name: "Anime News Network"
+        url: "https://www.animenewsnetwork.com/news/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["event", "calendar", "exhibition", "japan"]
+        enabled: true
+
+  # ---- AI / 科技 ----
+  ai_tech:
+    label: "AI·科技·模型·芯片"
+    icon: "🤖"
+    max_items: 15
+    feeds:
+      - name: "MIT Technology Review"
+        url: "https://www.technologyreview.com/feed/"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["ai", "technology", "research"]
+        enabled: true
+      - name: "TechCrunch"
+        url: "https://techcrunch.com/feed/"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["startup", "ai", "tech"]
+        enabled: true
+      - name: "Ars Technica"
+        url: "https://feeds.arstechnica.com/arstechnica/index"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["technology", "science", "ai"]
+        enabled: true
+      - name: "Hacker News"
+        url: "https://hnrss.org/frontpage"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["tech", "startup", "programming"]
+        enabled: true
+      - name: "OpenAI Blog"
+        url: "https://openai.com/blog/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["openai", "ai", "research"]
+        enabled: true
+      - name: "36氪"
+        url: "https://36kr.com/feed"
+        language: "zh"
+        region: "cn"
+        source_type: "rss"
+        tags: ["tech", "startup", "china"]
+        enabled: true
+      - name: "少数派"
+        url: "https://sspai.com/feed"
+        language: "zh"
+        region: "cn"
+        source_type: "rss"
+        tags: ["tech", "digital", "tools"]
+        enabled: true
+
+  # ---- 政治 / 全球 ----
+  politics_world:
+    label: "政治·国际·政策"
+    icon: "🌍"
+    max_items: 15
+    feeds:
+      - name: "BBC News"
+        url: "http://feeds.bbci.co.uk/news/rss.xml"
+        language: "en"
+        region: "global"
+        source_type: "rss"
+        tags: ["politics", "world", "policy"]
+        enabled: true
+      - name: "NHK World"
+        url: "https://www3.nhk.or.jp/rss/news/cat0.xml"
+        language: "en"
+        region: "jp"
+        source_type: "rss"
+        tags: ["japan", "asia", "politics"]
+        enabled: true

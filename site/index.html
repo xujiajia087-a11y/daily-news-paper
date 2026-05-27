@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="description" content="JiaJia Daily 情报日报 — AI主编的每日情报报纸，覆盖动漫联名/周边/签售/声优活动、AI科技大事件、政治全球事件、美股影响分析">
+<title>JiaJia Daily 情报日报 5.0</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<!-- ===== STICKY TOP NAV ===== -->
+<nav class="topnav">
+  <span class="brand">📰 JiaJia<span>Daily</span></span>
+  <input type="search" id="search-input" placeholder="搜索标题 / 来源 / IP / 人物 / 股票代码...">
+  <span class="nav-time" id="nav-time"></span>
+  <span class="nav-act" data-scroll="quick-brief-section">⚡ 30秒</span>
+  <span class="nav-act" data-scroll="top-stories-section">🔴 头版</span>
+  <span class="nav-act" data-scroll="anime-section">🎌 动漫</span>
+  <span class="nav-act" data-scroll="market-section">📈 美股</span>
+  <span class="nav-act" data-scroll="watchlist-section">🔭 追踪</span>
+</nav>
+
+<!-- ===== LOADING ===== -->
+<div id="loading-msg">
+  <div class="spinner"></div>
+  <p>正在整理今日情报...</p>
+  <p style="font-size:.78em;color:var(--muted);margin-top:8px">AI 主编正在分析新闻并生成报告</p>
+</div>
+
+<!-- ===== MAIN CONTENT ===== -->
+<div class="page" id="main-content" style="display:none">
+
+  <!-- HERO: Masthead + Stats -->
+  <div class="masthead" id="hero-area"></div>
+
+  <!-- 30秒看懂今天 (PRIMARY FOCUS) -->
+  <section id="quick-brief-section">
+    <div class="qlabel">⚡ 30秒看懂今天</div>
+    <div id="brief-container"></div>
+  </section>
+
+  <!-- TOP STORIES -->
+  <section id="top-stories-section">
+    <div class="slabel">🔴 今日头版重点 <span class="count" id="top-count"></span></div>
+    <div id="top-stories"></div>
+  </section>
+
+  <!-- IMPACT MAP -->
+  <section id="impact-map-section">
+    <div class="slabel">🗺️ 今日影响地图</div>
+    <div class="impact-strip" id="impact-strip"></div>
+  </section>
+
+  <!-- TOOLBAR: Chips + Sort (sticky) -->
+  <div class="toolbar-strip" id="toolbar-strip" style="display:none">
+    <div class="chips-row" id="chips-row"></div>
+    <div class="sort-row">
+      <select id="sort-select">
+        <option value="importance">按重要性 ↓</option>
+        <option value="urgency">按紧急度 ↓</option>
+        <option value="tracking">按追踪价值 ↓</option>
+        <option value="collector">按收藏价值 ↓</option>
+      </select>
+      <select id="cat-select">
+        <option value="all">全部分类</option>
+        <option value="anime">动漫 / 签售</option>
+        <option value="market">美股相关</option>
+        <option value="tech">AI 科技</option>
+        <option value="politics">政治全球</option>
+      </select>
+      <span class="count" id="result-count"></span>
+      <span style="font-size:.72em;color:var(--muted);cursor:pointer" onclick="document.querySelector('#search-input').value='';document.querySelector('#search-input').dispatchEvent(new Event('input'));document.getElementById('cat-select').value='all';" title="清除所有筛选 (ESC)">✕ 清除</span>
+    </div>
+  </div>
+
+  <!-- ALL NEWS CARDS (filterable) -->
+  <section id="news-explorer-section">
+    <div class="slabel">📋 全部新闻 <span class="count" id="all-count"></span></div>
+    <div id="news-cards"></div>
+  </section>
+
+  <!-- ANIME TIMELINE -->
+  <section id="anime-section">
+    <div class="slabel">🎌 动漫 / 周边 / 签售 / 声优活动</div>
+    <div id="anime-cards"></div>
+  </section>
+
+  <!-- US MARKET IMPACT -->
+  <section id="market-section">
+    <div class="market-panel" id="market-panel"></div>
+  </section>
+
+  <!-- WATCHLIST -->
+  <section id="watchlist-section">
+    <div class="slabel">🔭 未来追踪 Watchlist</div>
+    <div id="watchlist-content"></div>
+  </section>
+
+  <!-- FOOTER -->
+  <div id="site-footer"></div>
+</div>
+
+<noscript>
+  <div style="text-align:center;padding:60px 20px;color:#dc2626;font-size:1.1em">
+    ⚠️ 请启用 JavaScript 以查看日报内容
+  </div>
+</noscript>
+
+<!-- BACK TO TOP -->
+<button id="btt" aria-label="回到顶部">↑</button>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
