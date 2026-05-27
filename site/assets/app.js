@@ -476,7 +476,15 @@ if(_rb){_rb.onclick=function(e){e.preventDefault();window._jaReload();};}
 
 // ---- MAIN ----
 async function main(){
+  // Show slow-network warning after 5 seconds
+  const slowTimer = setTimeout(() => {
+    const el = document.getElementById('loading-slow');
+    if (el) el.style.display = 'block';
+  }, 5000);
+
   const ok=await loadData();
+  clearTimeout(slowTimer);
+
   if(!ok||!DATA){
     $('#loading-msg').innerHTML=`<div style="color:#dc2626;padding:40px;text-align:center">
       <p style="font-size:1.2em;font-weight:700;margin-bottom:8px">❌ 无法加载数据</p>

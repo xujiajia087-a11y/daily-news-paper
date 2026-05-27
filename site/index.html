@@ -33,8 +33,9 @@
 <!-- ===== LOADING ===== -->
 <div id="loading-msg">
   <div class="spinner"></div>
-  <p>正在整理今日情报...</p>
-  <p style="font-size:.78em;color:var(--muted);margin-top:8px">AI 主编正在分析新闻并生成报告</p>
+  <p>正在下载今日数据...</p>
+  <p style="font-size:.78em;color:var(--muted);margin-top:8px" id="loading-sub">从 GitHub Pages CDN 拉取数据中</p>
+  <p style="font-size:.72em;color:var(--muted);margin-top:12px;display:none" id="loading-slow">⚠️ 网络较慢，数据约 140KB，请稍候...</p>
 </div>
 
 <!-- ===== MAIN CONTENT ===== -->
