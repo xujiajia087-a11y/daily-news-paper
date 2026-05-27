@@ -15,6 +15,37 @@ main.py                  site/index.html
 site/data/*.json  ←──→  fetch + render
 ```
 
+## 🔄 数据如何更新？（重要！）
+
+> ⚠️ **刷新浏览器不会获取新数据。** 数据由 GitHub Actions 自动抓取，每天一次。
+
+```
+你的浏览器打开网站
+    └── fetch site/data/daily-news.json
+            └── 这个 JSON 是上次 GitHub Actions 生成的
+                    └── 只有 Actions 再次跑完才会更新
+```
+
+**更新流程：**
+
+1. GitHub Actions 每天 **Perth 09:00 (UTC 01:00)** 自动触发
+2. 抓取 RSS → AI 分析 → 生成 `site/data/*.json`
+3. 自动部署到 GitHub Pages
+4. 用户下次打开网页时看到最新数据（浏览器会自动拉取新 JSON，因为有 cache busting）
+
+**如何立即更新（手动触发）：**
+
+1. 打开 [Actions 页面](https://github.com/xujiajia087-a11y/daily-news-paper/actions)
+2. 左侧选 **Daily News Paper v5**
+3. 点 **Run workflow** → 绿色的 **Run workflow** 按钮
+4. 等待 5-10 分钟，刷新网站即可看到最新数据
+
+**我的网站不自动更新怎么办？**
+
+- 检查 GitHub Actions 最近一次运行是否成功
+- 确认 `DEEPSEEK_API_KEY` 在 Settings → Secrets 里没过期
+- 手动 Run workflow 一次看日志定位问题
+
 ## 🖥️ 本地运行
 
 ```bash

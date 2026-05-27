@@ -6,6 +6,11 @@
 <meta name="description" content="JiaJia Daily 情报日报 — AI主编的每日情报报纸，覆盖动漫联名/周边/签售/声优活动、AI科技大事件、政治全球事件、美股影响分析">
 <title>JiaJia Daily 情报日报 5.0</title>
 <link rel="stylesheet" href="assets/style.css">
+<style>
+  .freshness-bar{display:flex;flex-wrap:wrap;gap:8px 24px;align-items:center;justify-content:center;padding:8px 16px;background:linear-gradient(135deg,#fef3c7,#fde68a);border-radius:8px;margin:0 0 16px 0;font-size:.78em;color:#92400e;border:1px solid #fcd34d}
+  .freshness-bar b{color:#b45309}
+  @media(max-width:640px){.freshness-bar{flex-direction:column;gap:4px}}
+</style>
 </head>
 <body>
 
@@ -33,6 +38,13 @@
 
   <!-- HERO: Masthead + Stats -->
   <div class="masthead" id="hero-area"></div>
+
+  <!-- DATA FRESHNESS INDICATOR -->
+  <div class="freshness-bar" id="freshness-bar" style="display:none">
+    <span>📡 数据来源：GitHub Actions 自动抓取并部署</span>
+    <span>🔄 刷新页面不会获取新数据，每日约 <b>Perth 09:00</b> 自动更新</span>
+    <span id="freshness-time"></span>
+  </div>
 
   <!-- 30秒看懂今天 (PRIMARY FOCUS) -->
   <section id="quick-brief-section">

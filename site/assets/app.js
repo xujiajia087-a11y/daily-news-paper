@@ -20,7 +20,7 @@ function caCls(item){const c=clsCat(item);return c==='a'?'an':c==='m'?'mk':c==='
 // ---- DATA LOADING ----
 async function loadData(){
   try{
-    const[r1,r2]=await Promise.all([fetch('data/daily-news.json'),fetch('data/watchlist.json')]);
+    const ts=Date.now();const[r1,r2]=await Promise.all([fetch('data/daily-news.json?t='+ts),fetch('data/watchlist.json?t='+ts)]);
     if(!r1.ok)throw new Error('JSON HTTP '+r1.status);
     if(!r2.ok)throw new Error('WL HTTP '+r2.status);
     DATA=await r1.json(); WATCHLIST=await r2.json(); return true;
@@ -37,7 +37,7 @@ function renderHero(){
   ];
   $('#hero-area').innerHTML=`
     <div class="date-big">${esc(m.report_date||'')} ${esc(m.report_weekday||'')}<em>JiaJia Daily · Intelligence Edition</em></div>
-    <div class="sub-info">🕐 ${esc(m.generated_at||'')} · ${esc(m.timezone||'')} · 数据窗口: ${esc(m.data_window||'')}</div>
+    <div class="sub-info">🕐 <b>最后更新: ${esc(m.generated_at||'')}</b> · ${esc(m.timezone||'')} · 数据窗口: ${esc(m.data_window||'')}</div>
     <div class="stat-strip">${stats.map(([l,v])=>{
       let cls='';if(l.includes('动漫'))cls='anime';else if(l.includes('美股'))cls='market';
       return `<span class="stat-chip ${cls}">${l} <b>${v||0}</b></span>`;
@@ -460,7 +460,7 @@ async function main(){
       <p style="font-size:1.2em;font-weight:700;margin-bottom:8px">❌ 无法加载数据</p>
       <p style="color:var(--muted)">${window._loadError||'未知错误'}</p>
       <p style="margin-top:16px;font-size:.85em;color:var(--muted)">请先运行 <code>python main.py</code> 生成数据，然后刷新页面</p>
-      <p style="font-size:.78em;color:var(--muted)">再执行 <code>cd site && python3 -m http.server 8080</code></p>
+      <p style="margin-top:12px;font-size:.78em;color:var(--muted)">💡 提示：新闻数据每天由 GitHub Actions 自动更新。<br>手动刷新浏览器不会获取新数据，只有 Actions 跑完并部署后才能看到最新内容。<br>本地预览: <code>cd site && python3 -m http.server 8080</code></p>
     </div>`;
     return;
   }
@@ -470,6 +470,11 @@ async function main(){
 
   // Render all sections
   renderHero();
+
+  // Show data freshness bar
+  const _m = DATA.metadata || {};
+  const fb = $('#freshness-bar');
+  if (fb) { fb.style.display = 'flex'; $('#freshness-time').textContent = '✅ 本页数据生成时间: ' + (_m.generated_at || '未知') + ' ' + (_m.timezone || ''); }
   renderBrief();
   renderImpact();
   renderTop();
@@ -487,7 +492,7 @@ async function main(){
 
   // Update nav time
   const m=DATA.metadata||{};
-  $('#nav-time').textContent='更新 '+((m.generated_at||'').split(' ').pop()||'—');
+  const m=DATA.metadata||{};$('#nav-time').innerHTML='🕐 最后更新<br><b>'+(m.report_date||'')+'</b> '+(m.generated_at||'').split(' ').pop();
 
   // Footer
   $('#site-footer').innerHTML=`<p>JiaJia Daily 5.0 · Intelligence Edition · ${esc(m.report_date||'')}</p><p style="font-size:.72em;margin-top:4px">美股分析仅用于信息整理，不构成投资建议 · Powered by DeepSeek</p>`;
