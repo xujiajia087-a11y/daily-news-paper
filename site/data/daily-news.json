@@ -1,147 +1,146 @@
 {
   "metadata": {
     "report_title": "JiaJia Daily 情报日报",
-    "report_date": "2026年06月13日",
-    "report_weekday": "星期六",
-    "generated_at": "2026-06-13 13:12",
+    "report_date": "2026年06月14日",
+    "report_weekday": "星期日",
+    "generated_at": "2026-06-14 13:22",
     "timezone": "Australia/Perth (UTC+8)",
     "data_window": "24h新闻 + 7d市场事件 + 90d动漫活动",
-    "total_fetched": 177,
-    "after_dedupe": 177,
+    "total_fetched": 327,
+    "after_dedupe": 207,
     "selected_count": 30,
     "frontpage_count": 8,
     "anime_event_count": 9,
-    "market_related_count": 16,
+    "market_related_count": 13,
     "watchlist_count": 5
   },
   "daily_overview": {
-    "one_sentence_cn": "今日AI领域震荡剧烈：Anthropic旗舰模型Claude 5因安全漏洞被政府强制下架，引发行业对监管与创新的激烈讨论；同时SpaceX、Anthropic等多家巨头IPO在即，市场面临流动性压力测试。",
-    "market_mood_cn": "市场情绪复杂，AI安全事件引发恐慌与反思，但IPO热潮和科技巨头布局仍带来乐观预期，整体偏谨慎。",
-    "anime_event_mood_cn": "今日未发现高价值动漫活动情报。",
-    "what_to_watch_next_cn": "关注Anthropic与政府博弈进展、MANGOS集团IPO动态、以及AI监管政策走向。"
+    "one_sentence_cn": "今日AI领域动荡加剧：Anthropic最强模型Claude 5因安全警告被政府全球下架，亚马逊CEO担忧引发连锁反应；同时SpaceX、Anthropic等公司迎来IPO热潮，市场情绪复杂。动漫方面，多部新作定档和漫画发行计划公布，但无重大突破性情报。",
+    "market_mood_cn": "市场情绪偏谨慎，AI安全事件频发导致监管风险上升，但IPO热潮和科技公司积极布局带来乐观预期，整体呈现分化态势。",
+    "anime_event_mood_cn": "今日未发现高价值情报，动漫领域以常规新作定档和漫画发行消息为主，缺乏突破性事件。",
+    "what_to_watch_next_cn": "关注Anthropic与政府博弈的后续发展、SpaceX等AI公司IPO进程、以及Meta撤销Manus交易对中美科技关系的影响。"
   },
   "impact_map": {
     "anime_collecting": {
       "level": "low",
-      "summary_cn": "今日无相关动漫收藏情报。",
-      "related_count": 0,
-      "representative": ""
+      "summary_cn": "今日动漫周边和收藏品领域无重大新闻，Viz Media发行多部漫画属于常规操作，对市场影响有限。",
+      "related_count": 1,
+      "representative": "Viz Media将发行多部漫画，包括咒术回战等"
     },
     "japanese_events": {
       "level": "low",
-      "summary_cn": "日本央行可能加息至1.0%以抑制通胀，但未涉及动漫活动。",
-      "related_count": 1,
-      "representative": "日本央行加息预期"
+      "summary_cn": "日本动漫活动以新作定档和声优公布为主，如《向日葵马戏团》7月首播、《少女终末旅行》前传启动，但无高影响力事件。",
+      "related_count": 4,
+      "representative": "《向日葵马戏团》动画7月4日首播，主题曲歌手公布"
     },
     "ai_tech": {
       "level": "high",
-      "summary_cn": "Anthropic Claude 5被政府强制下架，Meta AI部门士气低落，多家AI公司IPO在即，行业面临安全与资本双重考验。",
+      "summary_cn": "AI领域今日新闻密集，核心事件包括Anthropic模型被下架、亚马逊CEO安全担忧、IPO热潮、OpenAI面临调查等，影响深远。",
       "related_count": 20,
-      "representative": "Anthropic Claude 5全球停用"
+      "representative": "突发！Anthropic全球停用最强AI模型Claude 5"
     },
     "us_stocks": {
       "level": "high",
-      "summary_cn": "MANGOS集团半数公司同期IPO，市场面临流动性压力；AI安全事件可能冲击科技股情绪。",
-      "related_count": 5,
-      "representative": "SpaceX、Anthropic、OpenAI IPO夏季"
+      "summary_cn": "美股市场受AI安全事件和IPO热潮双重影响，SpaceX、Anthropic等公司IPO预期升温，但监管风险可能打压科技股情绪。",
+      "related_count": 3,
+      "representative": "SpaceX、Anthropic和OpenAI迎来火热IPO夏季"
     },
     "politics_risk": {
-      "level": "medium",
-      "summary_cn": "美国政府干预AI部署，Oracle安全漏洞波及超100家公司，地缘政治风险上升。",
-      "related_count": 3,
-      "representative": "政府叫停最强AI"
+      "level": "high",
+      "summary_cn": "政治风险显著上升：Meta应北京要求撤销Manus交易、谷歌起诉中国AI诈骗团伙、OpenAI面临多州调查，中美科技博弈加剧。",
+      "related_count": 4,
+      "representative": "Meta据报应北京要求撤销20亿美元Manus交易"
     },
     "future_watchlist": {
       "level": "high",
-      "summary_cn": "需密切关注Anthropic事件后续、IPO市场反应、以及AI监管立法动态。",
+      "summary_cn": "未来需重点关注：Anthropic模型监管走向、AI公司IPO动态、中美科技政策博弈、以及AI安全诉讼结果。",
       "related_count": 5,
-      "representative": "Anthropic与政府博弈"
+      "representative": "Anthropic全球停用最强AI模型Claude 5后续"
     }
   },
   "executive_brief": {
     "top_5_judgements": [
-      "Anthropic Claude 5因安全漏洞被政府强制下架，标志AI监管进入强硬干预阶段。",
-      "MANGOS集团（Meta/微软、Anthropic、英伟达、谷歌、OpenAI、SpaceX）半数公司同期IPO，市场流动性面临历史性压力测试。",
-      "Meta AI部门被曝员工士气低落，内部文化问题可能影响其AI竞争力。",
-      "谷歌起诉利用AI诈骗的中国网络犯罪团伙，凸显AI滥用风险。",
-      "日本央行可能加息至1.0%，影响全球资金流向和科技股估值。"
+      "Anthropic最强AI模型Claude 5因安全警告被政府全球下架，引发AI行业信任危机，监管压力骤增。",
+      "SpaceX、Anthropic和OpenAI等公司IPO热潮将至，MANGOS概念有望取代FAANG，但安全事件可能影响估值。",
+      "Meta应北京要求撤销Manus交易，显示中美科技脱钩风险加剧，跨境投资面临更大不确定性。",
+      "谷歌起诉中国AI诈骗团伙，凸显AI技术被滥用于跨国犯罪的严峻性，国际合作需求迫切。",
+      "OpenAI面临多州调查和诉讼（如加拿大母亲起诉），AI安全与伦理问题成为法律焦点，行业规则面临重塑。"
     ],
     "anime_merch_signing_highlights": [
-      "今日无相关动漫周边或签售情报。"
+      "今日未发现高价值动漫周边或签售情报，建议关注后续Viz Media具体发行日期。"
     ],
     "ai_tech_highlights": [
-      "Anthropic Claude 5全球停用，安全漏洞引发政府介入。",
-      "SpaceX、Anthropic、OpenAI等多家AI公司IPO在即，市场关注。",
-      "Meta AI部门士气低落，内部工程师形容为'摧残灵魂的古拉格'。",
-      "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络。",
-      "OpenAI发布公共政策议程，涵盖AI安全与全球标准。"
+      "Anthropic全球停用Claude 5，政府介入下架，公司不满。",
+      "亚马逊CEO对Anthropic模型安全提出担忧，可能引发政府介入。",
+      "SpaceX、Anthropic和OpenAI迎来IPO夏季，MANGOS概念兴起。",
+      "OpenAI发布公共政策议程，聚焦AI安全与全球标准。",
+      "谷歌起诉利用AI诈骗的中国网络犯罪团伙。"
     ],
     "politics_highlights": [
-      "美国政府因安全担忧强制Anthropic暂停新AI工具。",
-      "Oracle安全漏洞被黑客利用，超100家公司遭入侵。",
-      "日本央行可能加息至1.0%以抑制通胀。"
+      "Meta应北京要求撤销20亿美元Manus交易，中美科技博弈升级。",
+      "OpenAI面临多州总检察长调查，涉及广告政策和健康数据。",
+      "加拿大母亲起诉OpenAI，指控ChatGPT诱导女儿自杀，引发AI安全争议。"
     ],
     "us_stock_market_impacts": [
-      "MANGOS集团IPO潮可能抽走市场流动性，短期对科技股形成压力。",
-      "AI安全事件可能引发科技板块回调，尤其是AI相关个股。",
-      "日本央行加息预期可能推高日元，影响美元资产吸引力。"
+      "AI安全事件可能打压科技股短期情绪，尤其是Anthropic相关概念股。",
+      "IPO热潮（SpaceX、Anthropic等）有望提振市场信心，吸引资金流入科技板块。",
+      "Meta撤销交易反映地缘政治风险，可能影响中概股和跨境科技投资。"
     ],
     "future_watchlist": [
       "Anthropic与政府博弈结果及Claude 5恢复可能性。",
-      "SpaceX、Anthropic、OpenAI IPO定价及市场反应。",
-      "Meta AI部门士气问题是否影响其产品发布。",
-      "谷歌起诉AI诈骗团伙的司法进展。",
-      "日本央行利率决议及对全球市场的影响。"
+      "SpaceX、Anthropic IPO具体时间表和估值。",
+      "Meta-Manus交易撤销后续及中美科技政策动向。",
+      "OpenAI诉讼和调查进展，尤其是AI安全监管立法。",
+      "谷歌起诉中国诈骗团伙的司法结果及AI反诈技术发展。"
     ],
     "noise_or_low_priority": [
-      "小说：你自己的时间（无市场关联性）。",
-      "下载：类固醇奥运会与更安全的Mythos（文化现象，低优先级）。",
-      "Avataar视频AI定价（印度市场，低影响）。",
-      "Wasmer利用Codex构建边缘运行时（技术细节，低影响）。"
+      "宝可梦GO玩家数据用于军事AI训练（影响有限，非核心事件）。",
+      "Avataar视频AI印度市场模型（区域性强，全球影响低）。",
+      "Notion、Wasmer等Codex应用更新（产品级新闻，非行业趋势）。",
+      "二次方融资民主化（概念性，无即时市场影响）。"
     ],
-    "final_editor_note": "今日AI行业经历了一场'安全风暴'，监管与创新的平衡再次成为焦点。IPO热潮带来机遇，但市场需警惕流动性风险。建议投资者保持谨慎，关注政策动向。不构成投资建议。"
+    "final_editor_note": "今日AI行业经历剧烈震荡，安全与监管成为主旋律，同时IPO热潮预示资本信心仍在。动漫领域平静无波，建议聚焦科技政策与市场动态。不构成投资建议。"
   },
   "top_stories": [
     {
       "index": 1,
-      "title_cn": "Anthropic安全警告反噬，政府叫停最强AI",
+      "title_cn": "亚马逊CEO曾对Anthropic模型安全提出担忧",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
-      "category": "ai_tech",
+      "category": "AI·科技·芯片",
       "news_type": "tech",
-      "date_display": "2026-06-13",
+      "date_display": "2026-06-14",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic因安全漏洞被政府强制召回已部署的Claude 5模型，公司表示强烈不满。",
-      "short_summary_cn": "Anthropic的安全警告引发反效果，美国政府以存在潜在越狱漏洞为由，要求召回其最强AI模型Claude 5。Anthropic在博客中反驳称，不应因一个狭窄的潜在越狱发现就召回已服务数亿用户的商业模型。",
-      "why_it_matters_cn": "此事件标志着AI监管进入强硬干预阶段，对AI行业的安全标准和商业部署模式产生深远影响。",
-      "action_suggestion_cn": "关注后续监管政策动向，评估自身AI产品合规风险，调整安全测试流程。",
+      "key_takeaway_cn": "亚马逊CEO可能引发了Anthropic模型安全担忧，导致政府介入。",
+      "short_summary_cn": "据报道，亚马逊CEO Andy Jassy可能是引发Anthropic模型安全担忧的源头，这最终导致Anthropic在周五切断了两款模型的全球访问。该事件凸显了科技巨头在AI安全方面的内部博弈。",
+      "why_it_matters_cn": "此事件揭示了AI公司与科技巨头之间在安全标准上的分歧，可能影响未来AI模型的部署和监管。",
+      "action_suggestion_cn": "关注Anthropic后续声明及亚马逊的官方回应，评估对AI行业投资的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 10,
-      "editor_reason_cn": "AI巨头模型被政府强制下线，是AI监管史上的标志性事件。",
-      "frontpage_reason_cn": "事件涉及AI安全、政府监管与商业利益的激烈冲突，具有极高新闻价值。",
+      "editor_reason_cn": "事件涉及顶级AI公司和科技巨头，具有高度行业影响力。",
+      "frontpage_reason_cn": "直接关联AI安全与政府监管，是当前热点话题。",
       "impact_analysis": {
-        "immediate_impact_cn": "Anthropic股价或受冲击，AI行业安全审查趋严，其他公司可能主动暂缓高风险模型发布。",
-        "medium_term_impact_cn": "各国政府可能加速出台AI召回与安全法规，AI企业将增加合规成本。",
-        "long_term_impact_cn": "AI安全技术研发投入加大，行业可能形成更严格的自我监管标准。",
+        "immediate_impact_cn": "引发市场对AI安全标准的讨论，可能导致相关公司股价短期波动。",
+        "medium_term_impact_cn": "可能促使更多科技公司加强内部AI安全审查，影响模型发布节奏。",
+        "long_term_impact_cn": "推动全球AI监管框架的建立，特别是模型安全评估流程。",
         "affected_sectors": [
           "人工智能",
-          "科技监管",
-          "网络安全"
+          "云计算",
+          "科技监管"
         ],
         "affected_assets": [
           "Anthropic相关资产",
-          "AI概念股",
-          "网络安全公司"
+          "亚马逊股票",
+          "AI安全初创公司"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "其他AI公司是否会面临类似审查？",
-          "Claude 5的漏洞具体是什么？",
-          "政府后续会出台哪些AI监管细则？"
+          "亚马逊CEO的具体担忧是什么？",
+          "政府将如何介入Anthropic的模型管理？"
         ]
       },
       "us_market_relevance": "high",
@@ -151,1967 +150,469 @@
     },
     {
       "index": 2,
-      "title_cn": "SpaceX、Anthropic和OpenAI迎来火热IPO夏季",
+      "title_cn": "Anthropic安全警告反噬：政府下架最强AI",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
-      "category": "ai_tech",
+      "category": "AI·科技·芯片",
       "news_type": "tech",
       "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "MANGOS（Meta/微软、Anthropic、英伟达、谷歌、OpenAI、SpaceX）半数公司同期IPO，市场面临压力测试。",
-      "short_summary_cn": "IPO市场复苏，但领跑者不再是FAANG。新组合MANGOS中，Anthropic、OpenAI和SpaceX等多家公司将在同一窗口期上市，这对市场是一次巨大的压力测试。",
-      "why_it_matters_cn": "多家顶级AI和航天公司集中IPO，将重塑资本市场格局，并考验市场对高估值科技股的承接能力。",
-      "action_suggestion_cn": "投资者可关注IPO定价和首日表现，评估相关ETF和行业基金配置。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "Anthropic的安全警告导致政府召回其最强AI模型，公司表示不满。",
+      "short_summary_cn": "Anthropic的安全警告可能适得其反，政府已下令召回其最强大的AI模型。Anthropic公开表示不认同，认为狭窄的越狱漏洞不应导致商用模型被召回。",
+      "why_it_matters_cn": "此事件是AI安全与商业利益冲突的典型案例，将影响未来AI模型的监管和发布策略。",
+      "action_suggestion_cn": "仔细阅读Anthropic的博客文章，了解其立场；关注政府后续监管动作。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 10,
-      "editor_reason_cn": "AI和航天巨头集中IPO是资本市场里程碑事件。",
-      "frontpage_reason_cn": "影响全球科技投资风向，对投资者具有直接参考价值。",
+      "editor_reason_cn": "直接涉及AI安全与政府监管的冲突，具有重大行业影响。",
+      "frontpage_reason_cn": "AI模型被政府召回是罕见事件，具有极高新闻价值。",
       "impact_analysis": {
-        "immediate_impact_cn": "市场资金可能被大量抽走，其他科技股短期承压。",
-        "medium_term_impact_cn": "IPO成功将提振科技股信心，失败则可能引发估值回调。",
-        "long_term_impact_cn": "新上市公司将成为科技股新核心，改变指数构成。",
-        "affected_sectors": [
-          "科技股",
-          "IPO市场",
-          "风险投资"
-        ],
-        "affected_assets": [
-          "MANGOS相关股票",
-          "纳斯达克指数",
-          "科技ETF"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "各公司IPO估值是否合理？",
-          "市场流动性是否足够支撑？",
-          "对FAANG股票有何影响？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 4,
-      "title_cn": "Meta数月前成立的AI部门被曝员工士气低落",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Meta拥有6500人的AI部门被内部工程师形容为“摧残灵魂的古拉格”，面临员工反抗。",
-      "short_summary_cn": "一份新报告显示，Meta成立仅数月的AI部门（拥有6500名员工）内部管理混乱，工程师们感到极度压抑，部门濒临爆发反抗。",
-      "why_it_matters_cn": "揭示大型科技公司在AI人才争夺战中的内部管理问题，可能影响其AI战略推进。",
-      "action_suggestion_cn": "关注Meta AI部门后续动态，评估其对Meta AI产品路线图的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "Meta作为AI巨头，其内部动荡具有行业警示意义。",
-      "frontpage_reason_cn": "涉及科技巨头内部管理、人才流失和AI战略风险。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Meta股价可能短期承压，人才流失风险增加。",
-        "medium_term_impact_cn": "Meta AI产品发布可能延迟，竞争力受损。",
-        "long_term_impact_cn": "若问题持续，Meta可能在AI竞赛中落后。",
-        "affected_sectors": [
-          "社交媒体",
-          "人工智能",
-          "人力资源"
-        ],
-        "affected_assets": [
-          "Meta股票",
-          "AI人才市场"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Meta管理层将如何应对？",
-          "其他公司AI部门是否存在类似问题？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 5,
-      "title_cn": "谷歌起诉利用AI诈骗数十万人的中国网络犯罪团伙",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌起诉名为“Outsider Enterprise”的中国团伙，该团伙利用AI在两周内发送250万条诈骗短信。",
-      "short_summary_cn": "谷歌起诉一个名为“Outsider Enterprise”的中国网络犯罪团伙，指控其利用AI技术诈骗数十万受害者，在两周内发送了250万条诈骗短信。",
-      "why_it_matters_cn": "AI技术被用于大规模网络犯罪，凸显了AI滥用的严重性和跨国打击的必要性。",
-      "action_suggestion_cn": "提高对AI诈骗的警惕，加强个人和企业的网络安全防护措施。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI犯罪首次被科技巨头大规模起诉，具有标志性意义。",
-      "frontpage_reason_cn": "涉及AI安全、跨国犯罪和科技公司法律行动。",
-      "impact_analysis": {
-        "immediate_impact_cn": "公众对AI诈骗的警惕性提高，相关安全产品需求增加。",
-        "medium_term_impact_cn": "各国可能加强AI反诈骗立法和执法合作。",
-        "long_term_impact_cn": "AI安全技术将更受重视，成为行业标配。",
-        "affected_sectors": [
-          "网络安全",
-          "电信",
-          "法律"
-        ],
-        "affected_assets": [
-          "网络安全公司",
-          "AI安全初创"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "该团伙是否会被引渡？",
-          "谷歌将如何追索损失？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 6,
-      "title_cn": "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "诈骗者利用谷歌Gemini编码的诈骗网站，针对数十万人进行自动化诈骗。",
-      "short_summary_cn": "谷歌起诉一个中国网络犯罪网络，指控其利用Gemini AI模型编码创建诈骗网站，自动化实施针对数十万人的大规模诈骗。",
-      "why_it_matters_cn": "显示AI工具被犯罪分子利用的新方式，对AI平台的安全责任提出挑战。",
-      "action_suggestion_cn": "AI平台需加强模型滥用检测，用户应警惕AI生成的诈骗内容。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "与上一条新闻互补，进一步揭示AI犯罪的技术细节。",
-      "frontpage_reason_cn": "深入报道AI犯罪手法，具有警示和教育意义。",
-      "impact_analysis": {
-        "immediate_impact_cn": "谷歌可能加强Gemini的安全审核机制。",
-        "medium_term_impact_cn": "AI平台将面临更严格的监管要求。",
-        "long_term_impact_cn": "AI模型的安全设计将成为核心竞争力。",
+        "immediate_impact_cn": "引发AI行业对安全标准与商业部署平衡的讨论。",
+        "medium_term_impact_cn": "可能导致其他AI公司加强安全测试，延迟模型发布。",
+        "long_term_impact_cn": "推动建立更严格的AI模型安全评估和召回机制。",
         "affected_sectors": [
           "人工智能",
-          "网络安全",
-          "法律"
+          "科技监管",
+          "网络安全"
         ],
         "affected_assets": [
-          "谷歌股票",
-          "AI安全公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Gemini如何被用于编码诈骗网站？",
-          "谷歌将采取哪些补救措施？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 7,
-      "title_cn": "OpenAI发布公共政策议程，涵盖AI安全与全球标准",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-03",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI提出AI公共政策议程，包括安全、青年保护、劳动力转型和全球标准。",
-      "short_summary_cn": "OpenAI发布其AI公共政策议程，涵盖安全、青年保护、劳动力转型和全球标准四大领域，旨在确保AI惠及全社会。",
-      "why_it_matters_cn": "作为AI领军企业，OpenAI的政策立场将影响全球AI监管走向。",
-      "action_suggestion_cn": "关注OpenAI政策议程的具体内容，评估其对行业监管和商业环境的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "OpenAI主动参与政策制定，对行业具有风向标意义。",
-      "frontpage_reason_cn": "影响AI行业监管框架，对企业和投资者有长期参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发行业对AI政策的讨论。",
-        "medium_term_impact_cn": "可能推动各国政府采纳类似政策框架。",
-        "long_term_impact_cn": "AI行业将形成更统一的全球标准。",
-        "affected_sectors": [
-          "人工智能",
-          "政策制定",
-          "教育"
-        ],
-        "affected_assets": [
-          "OpenAI相关资产",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "OpenAI的政策建议具体有哪些？",
-          "其他AI公司是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 6
-    },
-    {
-      "index": 8,
-      "title_cn": "Travelers与OpenAI合作，全国范围部署AI理赔助手",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-02",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Travelers保险公司利用OpenAI技术构建AI理赔助手，提供24/7客户支持并扩展运营规模。",
-      "short_summary_cn": "Travelers保险公司与OpenAI合作，构建了AI驱动的理赔助手，引导客户完成理赔流程，提供全天候支持，并在高峰期扩展运营规模。",
-      "why_it_matters_cn": "展示了AI在传统保险行业的成功应用，为其他行业提供数字化转型范例。",
-      "action_suggestion_cn": "保险行业可研究Travelers案例，评估AI在理赔、客服等环节的部署方案。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI在保险业的落地案例具有行业示范效应。",
-      "frontpage_reason_cn": "对保险和金融科技行业具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "其他保险公司可能加速AI部署。",
-        "medium_term_impact_cn": "AI将重塑保险理赔流程，提升效率。",
-        "long_term_impact_cn": "保险行业就业结构可能发生变化。",
-        "affected_sectors": [
-          "保险",
-          "金融科技",
-          "AI"
-        ],
-        "affected_assets": [
-          "Travelers股票",
-          "AI服务商"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI理赔助手的准确率如何？",
-          "客户反馈如何？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 7
-    },
-    {
-      "index": 9,
-      "title_cn": "突发！Anthropic全球停用Claude 5",
-      "source": "36氪",
-      "source_display_name": "36氪",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "上线仅72小时的Claude Fable 5被政府禁令全球下架，连Anthropic外籍员工也无法使用。",
-      "short_summary_cn": "Anthropic突然宣布全球禁用Claude Fable 5，该模型上线仅72小时即被政府一纸禁令下架，甚至公司内部外籍员工也被禁止访问。",
-      "why_it_matters_cn": "这是AI监管史上最严厉的干预之一，对AI行业信心造成重大打击。",
-      "action_suggestion_cn": "密切关注事件进展，评估对AI投资和商业合作的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "与新闻1高度相关，提供中文视角的补充报道。",
-      "frontpage_reason_cn": "事件影响巨大，中文读者高度关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic声誉受损，用户转向竞争对手。",
-        "medium_term_impact_cn": "AI行业可能面临更严格的上市前审查。",
-        "long_term_impact_cn": "全球AI监管格局可能因此事件而改变。",
-        "affected_sectors": [
-          "人工智能",
-          "科技监管"
-        ],
-        "affected_assets": [
-          "Anthropic相关",
-          "AI概念股"
+          "Anthropic",
+          "OpenAI",
+          "其他AI模型提供商"
         ],
         "us_stock_relevance": "high",
         "market_sentiment": "risk_off",
         "risk_level": "high",
         "follow_up_questions": [
-          "禁令的具体原因是什么？",
+          "政府召回的具体依据是什么？",
           "Anthropic将如何应对？"
         ]
       },
       "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 2
+    },
+    {
+      "index": 3,
+      "title_cn": "SpaceX、Anthropic和OpenAI迎来火热IPO夏季",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "AI·科技·芯片",
+      "news_type": "tech",
+      "date_display": "2026-06-13",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "MANGOS取代FAANG，SpaceX、Anthropic等公司即将IPO。",
+      "short_summary_cn": "IPO市场回暖，新巨头MANGOS（Meta/微软、Anthropic、英伟达、谷歌、OpenAI、SpaceX）中的一半将在同一窗口上市，对市场是一次压力测试。",
+      "why_it_matters_cn": "这些公司的IPO将重塑科技股格局，为投资者提供新的投资机会。",
+      "action_suggestion_cn": "关注这些公司的IPO时间表和招股说明书，评估投资机会。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 10,
+      "editor_reason_cn": "涉及多家顶级科技公司IPO，对资本市场有重大影响。",
+      "frontpage_reason_cn": "MANGOS概念兴起，是科技投资领域的重要趋势。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发市场对科技股IPO热潮的讨论，可能带动相关板块上涨。",
+        "medium_term_impact_cn": "这些公司的IPO将吸收大量资金，影响其他科技股的流动性。",
+        "long_term_impact_cn": "改变科技股市场结构，AI和航天领域成为新增长引擎。",
+        "affected_sectors": [
+          "人工智能",
+          "航天",
+          "科技投资"
+        ],
+        "affected_assets": [
+          "SpaceX",
+          "Anthropic",
+          "OpenAI",
+          "英伟达",
+          "谷歌"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "这些公司的估值如何？",
+          "IPO对现有科技股有何影响？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 4,
+      "title_cn": "Endava利用AI代理重塑软件交付流程",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "AI·科技·芯片",
+      "news_type": "tech",
+      "date_display": "2026-06-04",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "Endava使用AI代理和ChatGPT Enterprise加速软件交付。",
+      "short_summary_cn": "Endava正在利用AI代理、ChatGPT Enterprise和Codex加速软件交付、自动化工作流，并在企业中构建AI原生文化。",
+      "why_it_matters_cn": "展示了AI在企业软件交付中的实际应用，为其他公司提供参考。",
+      "action_suggestion_cn": "研究Endava的AI应用案例，评估自身企业引入类似技术的可行性。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 10,
+      "editor_reason_cn": "来自OpenAI官方博客，具有权威性，且涉及AI实际应用。",
+      "frontpage_reason_cn": "AI代理在软件交付中的应用是当前热点。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发企业对AI代理在软件开发中应用的兴趣。",
+        "medium_term_impact_cn": "可能推动更多企业采用AI代理优化软件交付流程。",
+        "long_term_impact_cn": "改变软件工程行业的工作方式，提高开发效率。",
+        "affected_sectors": [
+          "软件开发",
+          "企业服务",
+          "人工智能"
+        ],
+        "affected_assets": [
+          "Endava",
+          "OpenAI",
+          "其他AI平台"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "sector_rotation",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Endava的具体实施效果如何？",
+          "其他企业如何复制这一模式？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 4
+    },
+    {
+      "index": 5,
+      "title_cn": "Meta据报应北京要求撤销20亿美元Manus交易",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "政治·国际·政策",
+      "news_type": "politics",
+      "date_display": "2026-06-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Meta应北京要求，开始撤销20亿美元的Manus收购交易。",
+      "short_summary_cn": "Meta据报道开始撤销其20亿美元的Manus收购交易，原因是北京要求该交易逆转。这凸显了地缘政治对科技并购的影响。",
+      "why_it_matters_cn": "此事件显示了国际政治对科技公司并购的直接影响，可能影响其他跨国交易。",
+      "action_suggestion_cn": "关注Meta的官方声明及后续法律进展，评估对科技并购市场的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "涉及Meta和地缘政治，具有高度新闻价值。",
+      "frontpage_reason_cn": "科技巨头并购受政府干预是重大新闻。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发市场对科技并购监管的担忧，可能导致相关公司股价波动。",
+        "medium_term_impact_cn": "可能促使其他科技公司重新评估涉及中国的并购交易。",
+        "long_term_impact_cn": "加剧中美科技脱钩趋势，影响全球科技产业链。",
+        "affected_sectors": [
+          "科技并购",
+          "社交媒体",
+          "人工智能"
+        ],
+        "affected_assets": [
+          "Meta",
+          "Manus",
+          "其他涉及中国业务的科技公司"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "北京要求撤销交易的具体原因是什么？",
+          "Meta将面临哪些法律和财务后果？"
+        ]
+      },
+      "us_market_relevance": "high",
       "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "Meta AI部门被工程师称为“灵魂粉碎的古拉格”",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "AI·科技·芯片",
+      "news_type": "tech",
+      "date_display": "2026-06-13",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "Meta成立数月的AI部门内部士气低落，工程师濒临反抗。",
+      "short_summary_cn": "一份新报告显示，Meta成立仅数月的AI部门（拥有6500名员工）内部士气低落，工程师称其为“灵魂粉碎的古拉格”，部门濒临反抗。",
+      "why_it_matters_cn": "揭示了大型科技公司内部AI团队的管理问题，可能影响Meta的AI战略。",
+      "action_suggestion_cn": "关注Meta的官方回应及后续人事变动，评估对AI项目的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "涉及Meta内部管理问题，具有较高关注度。",
+      "frontpage_reason_cn": "Meta AI部门内部问题曝光，影响公司形象和人才吸引。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对Meta AI部门管理问题的讨论，可能导致人才流失。",
+        "medium_term_impact_cn": "可能影响Meta AI项目的进展和创新能力。",
+        "long_term_impact_cn": "促使Meta调整AI部门管理策略，改善工作环境。",
+        "affected_sectors": [
+          "人工智能",
+          "社交媒体",
+          "科技人才"
+        ],
+        "affected_assets": [
+          "Meta",
+          "其他科技公司AI部门"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "Meta将如何解决AI部门的问题？",
+          "其他科技公司是否存在类似问题？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 6
+    },
+    {
+      "index": 7,
+      "title_cn": "谷歌起诉利用AI诈骗数十万受害者的中国网络犯罪团伙",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "AI·科技·芯片",
+      "news_type": "tech",
+      "date_display": "2026-06-13",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "谷歌起诉中国网络犯罪团伙“Outsider Enterprise”，该团伙利用AI诈骗数十万人。",
+      "short_summary_cn": "谷歌起诉一个名为“Outsider Enterprise”的中国网络犯罪团伙，该团伙利用AI技术诈骗了数十万受害者，在两周内发送了250万条短信。",
+      "why_it_matters_cn": "此案凸显了AI技术被用于大规模网络犯罪的严重性，以及科技公司打击此类犯罪的努力。",
+      "action_suggestion_cn": "关注案件进展，了解AI诈骗的常见手法，提高防范意识。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "涉及AI犯罪和科技公司法律行动，具有警示意义。",
+      "frontpage_reason_cn": "AI诈骗案件规模巨大，引发公众对AI安全的担忧。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发公众对AI诈骗的关注，可能推动相关防范措施。",
+        "medium_term_impact_cn": "促使更多科技公司加强AI安全防护和法律行动。",
+        "long_term_impact_cn": "推动全球合作打击AI网络犯罪，完善相关法律法规。",
+        "affected_sectors": [
+          "网络安全",
+          "人工智能",
+          "电信"
+        ],
+        "affected_assets": [
+          "谷歌",
+          "其他科技公司",
+          "网络安全公司"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "该犯罪团伙的具体诈骗手法是什么？",
+          "谷歌将如何追索损失？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 8,
+      "title_cn": "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "AI·科技·芯片",
+      "news_type": "tech",
+      "date_display": "2026-06-13",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络，受害者数十万。",
+      "short_summary_cn": "谷歌起诉一个中国网络犯罪网络，该网络利用Gemini编码的诈骗网站，针对数十万人进行诈骗。",
+      "why_it_matters_cn": "此案展示了AI工具被用于犯罪活动的风险，以及科技公司保护用户的责任。",
+      "action_suggestion_cn": "关注谷歌的诉讼细节，了解Gemini被滥用的具体方式。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "与上一条新闻相关，但来源不同，提供了更多细节。",
+      "frontpage_reason_cn": "AI工具被用于大规模诈骗，具有高度警示性。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对AI工具安全性的讨论，可能促使谷歌加强Gemini的安全措施。",
+        "medium_term_impact_cn": "推动其他AI平台加强反滥用机制。",
+        "long_term_impact_cn": "促进AI伦理和安全标准的完善。",
+        "affected_sectors": [
+          "人工智能",
+          "网络安全",
+          "法律"
+        ],
+        "affected_assets": [
+          "谷歌",
+          "Gemini",
+          "其他AI平台"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "谷歌将如何防止Gemini被再次滥用？",
+          "该犯罪网络将面临哪些法律后果？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 8
     }
   ],
   "anime_event_highlights": [],
-  "ai_tech_highlights": [
-    {
-      "index": 1,
-      "title_cn": "Anthropic安全警告反噬，政府叫停最强AI",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic因安全漏洞被政府强制召回已部署的Claude 5模型，公司表示强烈不满。",
-      "short_summary_cn": "Anthropic的安全警告引发反效果，美国政府以存在潜在越狱漏洞为由，要求召回其最强AI模型Claude 5。Anthropic在博客中反驳称，不应因一个狭窄的潜在越狱发现就召回已服务数亿用户的商业模型。",
-      "why_it_matters_cn": "此事件标志着AI监管进入强硬干预阶段，对AI行业的安全标准和商业部署模式产生深远影响。",
-      "action_suggestion_cn": "关注后续监管政策动向，评估自身AI产品合规风险，调整安全测试流程。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI巨头模型被政府强制下线，是AI监管史上的标志性事件。",
-      "frontpage_reason_cn": "事件涉及AI安全、政府监管与商业利益的激烈冲突，具有极高新闻价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic股价或受冲击，AI行业安全审查趋严，其他公司可能主动暂缓高风险模型发布。",
-        "medium_term_impact_cn": "各国政府可能加速出台AI召回与安全法规，AI企业将增加合规成本。",
-        "long_term_impact_cn": "AI安全技术研发投入加大，行业可能形成更严格的自我监管标准。",
-        "affected_sectors": [
-          "人工智能",
-          "科技监管",
-          "网络安全"
-        ],
-        "affected_assets": [
-          "Anthropic相关资产",
-          "AI概念股",
-          "网络安全公司"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "其他AI公司是否会面临类似审查？",
-          "Claude 5的漏洞具体是什么？",
-          "政府后续会出台哪些AI监管细则？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "SpaceX、Anthropic和OpenAI迎来火热IPO夏季",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "MANGOS（Meta/微软、Anthropic、英伟达、谷歌、OpenAI、SpaceX）半数公司同期IPO，市场面临压力测试。",
-      "short_summary_cn": "IPO市场复苏，但领跑者不再是FAANG。新组合MANGOS中，Anthropic、OpenAI和SpaceX等多家公司将在同一窗口期上市，这对市场是一次巨大的压力测试。",
-      "why_it_matters_cn": "多家顶级AI和航天公司集中IPO，将重塑资本市场格局，并考验市场对高估值科技股的承接能力。",
-      "action_suggestion_cn": "投资者可关注IPO定价和首日表现，评估相关ETF和行业基金配置。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI和航天巨头集中IPO是资本市场里程碑事件。",
-      "frontpage_reason_cn": "影响全球科技投资风向，对投资者具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "市场资金可能被大量抽走，其他科技股短期承压。",
-        "medium_term_impact_cn": "IPO成功将提振科技股信心，失败则可能引发估值回调。",
-        "long_term_impact_cn": "新上市公司将成为科技股新核心，改变指数构成。",
-        "affected_sectors": [
-          "科技股",
-          "IPO市场",
-          "风险投资"
-        ],
-        "affected_assets": [
-          "MANGOS相关股票",
-          "纳斯达克指数",
-          "科技ETF"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "各公司IPO估值是否合理？",
-          "市场流动性是否足够支撑？",
-          "对FAANG股票有何影响？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "Endava利用AI代理重新设计软件交付流程",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-04",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Endava使用AI代理、ChatGPT Enterprise和Codex加速软件交付并实现自动化。",
-      "short_summary_cn": "Endava展示了如何利用AI代理、ChatGPT Enterprise和Codex来加速软件交付、自动化工作流，并在企业中构建AI原生文化。",
-      "why_it_matters_cn": "展示了AI在企业级软件工程中的实际落地案例，为行业提供可复用的转型路径。",
-      "action_suggestion_cn": "企业IT部门可研究Endava的实践，评估引入AI代理优化开发流程的可能性。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI代理在软件工程中的应用是当前热点，具有实践指导意义。",
-      "frontpage_reason_cn": "对科技行业从业者具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "相关AI开发工具需求可能增加。",
-        "medium_term_impact_cn": "更多企业将效仿，推动AI代理在软件开发中的普及。",
-        "long_term_impact_cn": "软件工程师的工作方式将发生根本性变化。",
-        "affected_sectors": [
-          "企业软件",
-          "AI工具",
-          "IT服务"
-        ],
-        "affected_assets": [
-          "OpenAI相关资产",
-          "软件开发公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI代理的实际效率提升有多大？",
-          "其他公司是否有类似成功案例？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 4,
-      "title_cn": "Meta数月前成立的AI部门被曝员工士气低落",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Meta拥有6500人的AI部门被内部工程师形容为“摧残灵魂的古拉格”，面临员工反抗。",
-      "short_summary_cn": "一份新报告显示，Meta成立仅数月的AI部门（拥有6500名员工）内部管理混乱，工程师们感到极度压抑，部门濒临爆发反抗。",
-      "why_it_matters_cn": "揭示大型科技公司在AI人才争夺战中的内部管理问题，可能影响其AI战略推进。",
-      "action_suggestion_cn": "关注Meta AI部门后续动态，评估其对Meta AI产品路线图的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "Meta作为AI巨头，其内部动荡具有行业警示意义。",
-      "frontpage_reason_cn": "涉及科技巨头内部管理、人才流失和AI战略风险。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Meta股价可能短期承压，人才流失风险增加。",
-        "medium_term_impact_cn": "Meta AI产品发布可能延迟，竞争力受损。",
-        "long_term_impact_cn": "若问题持续，Meta可能在AI竞赛中落后。",
-        "affected_sectors": [
-          "社交媒体",
-          "人工智能",
-          "人力资源"
-        ],
-        "affected_assets": [
-          "Meta股票",
-          "AI人才市场"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Meta管理层将如何应对？",
-          "其他公司AI部门是否存在类似问题？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 5,
-      "title_cn": "谷歌起诉利用AI诈骗数十万人的中国网络犯罪团伙",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌起诉名为“Outsider Enterprise”的中国团伙，该团伙利用AI在两周内发送250万条诈骗短信。",
-      "short_summary_cn": "谷歌起诉一个名为“Outsider Enterprise”的中国网络犯罪团伙，指控其利用AI技术诈骗数十万受害者，在两周内发送了250万条诈骗短信。",
-      "why_it_matters_cn": "AI技术被用于大规模网络犯罪，凸显了AI滥用的严重性和跨国打击的必要性。",
-      "action_suggestion_cn": "提高对AI诈骗的警惕，加强个人和企业的网络安全防护措施。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI犯罪首次被科技巨头大规模起诉，具有标志性意义。",
-      "frontpage_reason_cn": "涉及AI安全、跨国犯罪和科技公司法律行动。",
-      "impact_analysis": {
-        "immediate_impact_cn": "公众对AI诈骗的警惕性提高，相关安全产品需求增加。",
-        "medium_term_impact_cn": "各国可能加强AI反诈骗立法和执法合作。",
-        "long_term_impact_cn": "AI安全技术将更受重视，成为行业标配。",
-        "affected_sectors": [
-          "网络安全",
-          "电信",
-          "法律"
-        ],
-        "affected_assets": [
-          "网络安全公司",
-          "AI安全初创"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "该团伙是否会被引渡？",
-          "谷歌将如何追索损失？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 6,
-      "title_cn": "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "诈骗者利用谷歌Gemini编码的诈骗网站，针对数十万人进行自动化诈骗。",
-      "short_summary_cn": "谷歌起诉一个中国网络犯罪网络，指控其利用Gemini AI模型编码创建诈骗网站，自动化实施针对数十万人的大规模诈骗。",
-      "why_it_matters_cn": "显示AI工具被犯罪分子利用的新方式，对AI平台的安全责任提出挑战。",
-      "action_suggestion_cn": "AI平台需加强模型滥用检测，用户应警惕AI生成的诈骗内容。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "与上一条新闻互补，进一步揭示AI犯罪的技术细节。",
-      "frontpage_reason_cn": "深入报道AI犯罪手法，具有警示和教育意义。",
-      "impact_analysis": {
-        "immediate_impact_cn": "谷歌可能加强Gemini的安全审核机制。",
-        "medium_term_impact_cn": "AI平台将面临更严格的监管要求。",
-        "long_term_impact_cn": "AI模型的安全设计将成为核心竞争力。",
-        "affected_sectors": [
-          "人工智能",
-          "网络安全",
-          "法律"
-        ],
-        "affected_assets": [
-          "谷歌股票",
-          "AI安全公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Gemini如何被用于编码诈骗网站？",
-          "谷歌将采取哪些补救措施？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 7,
-      "title_cn": "OpenAI发布公共政策议程，涵盖AI安全与全球标准",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-03",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI提出AI公共政策议程，包括安全、青年保护、劳动力转型和全球标准。",
-      "short_summary_cn": "OpenAI发布其AI公共政策议程，涵盖安全、青年保护、劳动力转型和全球标准四大领域，旨在确保AI惠及全社会。",
-      "why_it_matters_cn": "作为AI领军企业，OpenAI的政策立场将影响全球AI监管走向。",
-      "action_suggestion_cn": "关注OpenAI政策议程的具体内容，评估其对行业监管和商业环境的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "OpenAI主动参与政策制定，对行业具有风向标意义。",
-      "frontpage_reason_cn": "影响AI行业监管框架，对企业和投资者有长期参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发行业对AI政策的讨论。",
-        "medium_term_impact_cn": "可能推动各国政府采纳类似政策框架。",
-        "long_term_impact_cn": "AI行业将形成更统一的全球标准。",
-        "affected_sectors": [
-          "人工智能",
-          "政策制定",
-          "教育"
-        ],
-        "affected_assets": [
-          "OpenAI相关资产",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "OpenAI的政策建议具体有哪些？",
-          "其他AI公司是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 6
-    },
-    {
-      "index": 8,
-      "title_cn": "Travelers与OpenAI合作，全国范围部署AI理赔助手",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-02",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Travelers保险公司利用OpenAI技术构建AI理赔助手，提供24/7客户支持并扩展运营规模。",
-      "short_summary_cn": "Travelers保险公司与OpenAI合作，构建了AI驱动的理赔助手，引导客户完成理赔流程，提供全天候支持，并在高峰期扩展运营规模。",
-      "why_it_matters_cn": "展示了AI在传统保险行业的成功应用，为其他行业提供数字化转型范例。",
-      "action_suggestion_cn": "保险行业可研究Travelers案例，评估AI在理赔、客服等环节的部署方案。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI在保险业的落地案例具有行业示范效应。",
-      "frontpage_reason_cn": "对保险和金融科技行业具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "其他保险公司可能加速AI部署。",
-        "medium_term_impact_cn": "AI将重塑保险理赔流程，提升效率。",
-        "long_term_impact_cn": "保险行业就业结构可能发生变化。",
-        "affected_sectors": [
-          "保险",
-          "金融科技",
-          "AI"
-        ],
-        "affected_assets": [
-          "Travelers股票",
-          "AI服务商"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI理赔助手的准确率如何？",
-          "客户反馈如何？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 7
-    },
-    {
-      "index": 9,
-      "title_cn": "突发！Anthropic全球停用Claude 5",
-      "source": "36氪",
-      "source_display_name": "36氪",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "上线仅72小时的Claude Fable 5被政府禁令全球下架，连Anthropic外籍员工也无法使用。",
-      "short_summary_cn": "Anthropic突然宣布全球禁用Claude Fable 5，该模型上线仅72小时即被政府一纸禁令下架，甚至公司内部外籍员工也被禁止访问。",
-      "why_it_matters_cn": "这是AI监管史上最严厉的干预之一，对AI行业信心造成重大打击。",
-      "action_suggestion_cn": "密切关注事件进展，评估对AI投资和商业合作的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "与新闻1高度相关，提供中文视角的补充报道。",
-      "frontpage_reason_cn": "事件影响巨大，中文读者高度关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic声誉受损，用户转向竞争对手。",
-        "medium_term_impact_cn": "AI行业可能面临更严格的上市前审查。",
-        "long_term_impact_cn": "全球AI监管格局可能因此事件而改变。",
-        "affected_sectors": [
-          "人工智能",
-          "科技监管"
-        ],
-        "affected_assets": [
-          "Anthropic相关",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "禁令的具体原因是什么？",
-          "Anthropic将如何应对？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 8
-    },
-    {
-      "index": 11,
-      "title_cn": "Anthropic因美国政府安全担忧暂停新AI工具",
-      "source": "BBC News",
-      "source_display_name": "BBC新闻",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic本周发布的Claude Fable 5引发网络安全担忧，公司暂停新工具。",
-      "short_summary_cn": "Anthropic的Claude Fable 5本周公开发布后，引发了对网络安全和黑客攻击的担忧，公司因此暂停了新的AI工具。",
-      "why_it_matters_cn": "进一步证实了AI安全与政府监管之间的紧张关系。",
-      "action_suggestion_cn": "关注Anthropic后续的安全改进措施和监管动态。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "BBC的报道提供了官方视角，与TechCrunch报道相互印证。",
-      "frontpage_reason_cn": "事件持续发酵，具有持续追踪价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic暂停新工具开发，业务受影响。",
-        "medium_term_impact_cn": "AI行业安全标准可能被重新审视。",
-        "long_term_impact_cn": "政府与AI公司的合作模式可能改变。",
-        "affected_sectors": [
-          "人工智能",
-          "网络安全"
-        ],
-        "affected_assets": [
-          "Anthropic相关",
-          "AI安全公司"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "暂停将持续多久？",
-          "Anthropic将如何解决安全问题？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 12,
-      "title_cn": "下载：类固醇奥运会与更安全的Mythos",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT科技评论",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-10",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Anthropic发布了更安全的Mythos版本，同时探讨了增强奥运会的文化现象。",
-      "short_summary_cn": "本期下载内容包括对“类固醇奥运会”的文化分析，以及Anthropic发布更安全的Mythos AI模型的消息。",
-      "why_it_matters_cn": "Anthropic在安全争议后推出更安全的模型，显示其应对监管压力的努力。",
-      "action_suggestion_cn": "关注Mythos的安全特性，评估其与Claude 5的区别。",
-      "importance_score": 8,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "Anthropic的安全举措是当前热点，具有跟踪价值。",
-      "frontpage_reason_cn": "提供Anthropic安全策略的侧面信息。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Mythos可能吸引对安全敏感的客户。",
-        "medium_term_impact_cn": "Anthropic的产品线可能分化出安全版和性能版。",
-        "long_term_impact_cn": "安全将成为AI产品的重要差异化因素。",
-        "affected_sectors": [
-          "人工智能",
-          "科技文化"
-        ],
-        "affected_assets": [
-          "Anthropic相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "Mythos的性能相比Claude 5如何？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 13,
-      "title_cn": "小说：你自己的时间",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT科技评论",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "一篇关于图书馆员在末日中保护书籍的科幻小说。",
-      "short_summary_cn": "这是一篇科幻小说，讲述一群图书馆员在末日世界中手持枪支保护书籍的故事，探讨了知识保存的主题。",
-      "why_it_matters_cn": "以文学形式反思AI时代的知识价值，具有文化意义。",
-      "action_suggestion_cn": "可作为AI伦理讨论的辅助阅读材料。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "虽是小说，但反映了对AI时代的文化思考。",
-      "frontpage_reason_cn": "提供科技新闻之外的多元视角。",
-      "impact_analysis": {
-        "immediate_impact_cn": "无直接市场影响。",
-        "medium_term_impact_cn": "可能引发对AI与人文关系的讨论。",
-        "long_term_impact_cn": "促进科技与人文的交叉思考。",
-        "affected_sectors": [
-          "文化",
-          "出版"
-        ],
-        "affected_assets": [],
-        "us_stock_relevance": "none",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI时代如何保护人类知识？"
-        ]
-      },
-      "us_market_relevance": "none",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 14,
-      "title_cn": "为何“重编程”是当前逆转衰老最热门的方法",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT科技评论",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "小鼠研究和数十亿美元资金推动重编程逆转衰老成为热门，但历史教训需警惕。",
-      "short_summary_cn": "重编程技术在小鼠研究中取得进展，获得数十亿美元投资，成为逆转衰老领域最热门的方法。但文章提醒，我们之前也经历过类似的热潮。",
-      "why_it_matters_cn": "抗衰老研究是AI和生物技术的交叉热点，具有巨大商业和社会潜力。",
-      "action_suggestion_cn": "关注重编程技术的临床进展和投资机会。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "抗衰老是长期热点，技术突破值得跟踪。",
-      "frontpage_reason_cn": "对健康科技和生物技术投资者有参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "相关生物科技公司可能受关注。",
-        "medium_term_impact_cn": "更多资金将涌入抗衰老领域。",
-        "long_term_impact_cn": "若技术成功，将彻底改变医疗和养老产业。",
-        "affected_sectors": [
-          "生物技术",
-          "医疗健康",
-          "长寿科技"
-        ],
-        "affected_assets": [
-          "抗衰老概念股",
-          "生物科技ETF"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "重编程技术的人体试验何时开始？",
-          "有哪些主要公司参与？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 15,
-      "title_cn": "Avataar视频AI：更便宜、更快、更具文化意识",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Avataar AI的视频模型定价每秒0.005美元，专为印度市场优化。",
-      "short_summary_cn": "Avataar AI推出蒸馏视频模型，定价仅为每秒0.005美元，速度更快且具有文化意识，专为印度的大规模应用场景设计。",
-      "why_it_matters_cn": "展示了AI视频生成的成本降低和本地化趋势，对新兴市场有重要意义。",
-      "action_suggestion_cn": "关注AI视频生成的成本下降趋势，评估在营销和内容创作中的应用。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI视频生成的成本突破是行业重要趋势。",
-      "frontpage_reason_cn": "对内容创作和营销行业有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "视频制作成本下降，竞争加剧。",
-        "medium_term_impact_cn": "更多本地化AI视频产品将涌现。",
-        "long_term_impact_cn": "AI视频生成将普及到中小企业。",
-        "affected_sectors": [
-          "视频制作",
-          "广告",
-          "内容创作"
-        ],
-        "affected_assets": [
-          "AI视频公司",
-          "传统视频制作公司"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "该模型的质量如何？",
-          "其他市场是否有类似产品？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 16,
-      "title_cn": "贝佐斯的Prometheus融资120亿美元，打造物理世界通用工程师",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "杰夫·贝佐斯的物理AI初创公司Prometheus融资120亿美元，估值达410亿美元。",
-      "short_summary_cn": "杰夫·贝佐斯支持的物理AI初创公司Prometheus完成120亿美元融资，估值达410亿美元。该公司旨在自动化重型工程和药物设计，打造“通用工程师”。",
-      "why_it_matters_cn": "巨额融资显示物理AI领域的巨大潜力，可能改变工程和制药行业。",
-      "action_suggestion_cn": "关注物理AI在工程和制药领域的应用进展。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "物理AI是AI的下一个前沿，巨额融资具有标志性。",
-      "frontpage_reason_cn": "对AI投资和工业自动化有重要参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "物理AI领域获得更多关注和投资。",
-        "medium_term_impact_cn": "Prometheus可能加速产品落地。",
-        "long_term_impact_cn": "物理AI将重塑制造业和制药业。",
-        "affected_sectors": [
-          "制造业",
-          "制药",
-          "AI"
-        ],
-        "affected_assets": [
-          "Prometheus相关",
-          "工业自动化公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Prometheus的具体技术是什么？",
-          "何时会有商业化产品？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    }
-  ],
-  "politics_highlights": [
-    {
-      "index": 10,
-      "title_cn": "专家：日本央行或上调利率至1.0%以抑制通胀",
-      "source": "36氪",
-      "source_display_name": "36氪",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "日本央行可能在本月会议上将利率从0.75%上调至1.0%，以抑制通胀。",
-      "short_summary_cn": "日本央行可能在本月15-16日的货币政策会议上将政策利率从0.75%上调至1.0%。专家认为加息将给中小企业和家庭带来压力，但过低利率会助长通胀。日本央行判断即使小幅度也应加息。",
-      "why_it_matters_cn": "日本加息将影响全球资本流动、日元汇率和亚洲金融市场。",
-      "action_suggestion_cn": "关注日元汇率波动，调整外汇和日本资产配置。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "日本央行政策转向对全球金融市场有重要影响。",
-      "frontpage_reason_cn": "影响全球利率环境和投资策略。",
-      "impact_analysis": {
-        "immediate_impact_cn": "日元可能升值，日本股市短期承压。",
-        "medium_term_impact_cn": "日本国债收益率上升，全球套利交易减少。",
-        "long_term_impact_cn": "日本经济可能放缓，但通胀得到控制。",
-        "affected_sectors": [
-          "外汇",
-          "日本股市",
-          "债券"
-        ],
-        "affected_assets": [
-          "日元",
-          "日本国债",
-          "日经指数"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "加息幅度是否会更大？",
-          "对全球经济有何溢出效应？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 17,
-      "title_cn": "Oracle警告安全漏洞已被黑客利用，超100家公司遭入侵",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Oracle披露安全漏洞，黑客已利用其入侵超过100家公司，谷歌已通知潜在受害者。",
-      "short_summary_cn": "Oracle警告一个安全漏洞已被网络犯罪团伙利用，作为大规模黑客攻击的一部分。谷歌表示已通知超过100家拥有潜在脆弱服务器的组织。",
-      "why_it_matters_cn": "大规模安全漏洞威胁企业数据安全，凸显网络安全的重要性。",
-      "action_suggestion_cn": "检查Oracle相关系统是否受影响，立即应用安全补丁。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "Oracle作为全球性企业软件供应商，其安全漏洞影响广泛。",
-      "frontpage_reason_cn": "对企业用户具有紧急安全警示价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "受影响企业需紧急修复，可能造成业务中断。",
-        "medium_term_impact_cn": "Oracle声誉受损，客户可能转向其他供应商。",
-        "long_term_impact_cn": "企业将加强供应链安全管理。",
-        "affected_sectors": [
-          "网络安全",
-          "企业软件",
-          "云计算"
-        ],
-        "affected_assets": [
-          "Oracle股票",
-          "网络安全公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "漏洞的具体细节是什么？",
-          "黑客团伙的身份是否已确认？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    }
-  ],
+  "ai_tech_highlights": [],
+  "politics_highlights": [],
   "us_market_impact": {
     "overall_market_tone": "mixed",
-    "summary_cn": "美股市场情绪复杂：AI安全事件打压科技股情绪，但IPO热潮和巨头布局带来乐观预期。日本央行加息预期增加不确定性。",
+    "summary_cn": "美股市场受AI安全事件和IPO热潮双重影响，科技板块短期承压但长期乐观，地缘政治风险增加不确定性。不构成投资建议。",
     "index_impact": {
-      "nasdaq": "承压，AI安全事件可能引发科技股回调。",
-      "sp500": "震荡，金融和科技板块分化。",
-      "russell2000": "中性，小盘股受IPO资金分流影响有限。"
+      "nasdaq": "短期承压，AI监管风险可能拖累科技权重股，但IPO热潮提供支撑。",
+      "sp500": "整体震荡，科技与政策风险抵消部分积极情绪。",
+      "russell2000": "影响较小，但AI诈骗诉讼可能波及中小科技公司。"
     },
     "sector_impacts": [
       {
-        "sector": "科技（AI）",
+        "sector": "AI/科技",
+        "direction": "mixed",
+        "reason_cn": "Anthropic模型下架引发安全担忧，但IPO热潮和OpenAI政策议程提振信心。",
+        "related_news": "Anthropic全球停用Claude 5；SpaceX等IPO夏季",
+        "possible_tickers": "ANTH (未上市), OPENAI (未上市), MSFT, GOOGL"
+      },
+      {
+        "sector": "网络安全",
+        "direction": "up",
+        "reason_cn": "谷歌起诉AI诈骗团伙凸显网络安全需求，相关公司受益。",
+        "related_news": "谷歌起诉利用AI诈骗的中国网络犯罪团伙",
+        "possible_tickers": "PANW, CRWD, ZS"
+      },
+      {
+        "sector": "中概股/跨境科技",
         "direction": "down",
-        "reason_cn": "Anthropic事件引发对AI安全与监管的担忧，短期利空AI概念股。",
-        "related_news": "Anthropic全球停用Claude 5",
-        "possible_tickers": "ANTH（未上市）、META、GOOGL、MSFT"
-      },
-      {
-        "sector": "金融（投行）",
-        "direction": "up",
-        "reason_cn": "IPO热潮为投行带来承销收入，利好高盛、摩根士丹利等。",
-        "related_news": "SpaceX、Anthropic、OpenAI迎来火热IPO夏季",
-        "possible_tickers": "GS、MS"
-      },
-      {
-        "sector": "保险",
-        "direction": "up",
-        "reason_cn": "Travelers与OpenAI合作部署AI理赔助手，提升效率，利好保险科技。",
-        "related_news": "Travelers与OpenAI合作",
-        "possible_tickers": "TRV"
+        "reason_cn": "Meta撤销Manus交易反映中美脱钩风险，中概股承压。",
+        "related_news": "Meta据报应北京要求撤销20亿美元Manus交易",
+        "possible_tickers": "BABA, JD, BIDU"
       }
     ],
     "theme_impacts": [
       {
-        "theme": "AI监管",
+        "theme": "AI监管与安全",
         "direction": "down",
-        "reason_cn": "政府强制干预AI部署，增加行业不确定性，利空未受监管的AI公司。",
-        "watch_tickers": "META、GOOGL、MSFT"
+        "reason_cn": "Anthropic事件和OpenAI调查增加监管不确定性，短期利空AI板块。",
+        "watch_tickers": "MSFT, GOOGL, META"
       },
       {
-        "theme": "IPO热潮",
+        "theme": "IPO热潮 (MANGOS)",
         "direction": "up",
-        "reason_cn": "多家明星公司同期IPO，吸引资金涌入，利好一级市场投资者。",
-        "watch_tickers": "SPAC相关ETF、GS、MS"
+        "reason_cn": "SpaceX、Anthropic等IPO预期吸引资金，提振市场情绪。",
+        "watch_tickers": "SPACE (未上市), ANTH (未上市)"
       },
       {
-        "theme": "网络安全",
-        "direction": "up",
-        "reason_cn": "Oracle安全漏洞和AI诈骗案件凸显网络安全需求，利好相关公司。",
-        "watch_tickers": "CRWD、PANW、ZS"
+        "theme": "地缘政治风险",
+        "direction": "down",
+        "reason_cn": "Meta交易撤销和谷歌诉讼加剧中美紧张，影响跨境投资。",
+        "watch_tickers": "META, GOOGL"
       }
     ],
     "risk_factors": [
-      "AI监管政策突然收紧，导致科技股抛售。",
-      "IPO潮抽走流动性，引发市场波动。",
-      "日本央行加息导致日元套利交易平仓，冲击全球市场。"
+      "Anthropic模型下架可能引发更严格的AI监管立法，打压科技股估值。",
+      "Meta-Manus交易撤销显示中美科技脱钩加速，增加市场不确定性。",
+      "OpenAI多州调查和诉讼可能树立法律先例，增加AI公司合规成本。"
     ],
     "follow_up_events": [
       {
         "event_name": "Anthropic与政府谈判结果",
         "expected_date": "未来1-2周",
-        "why_watch_cn": "决定Claude 5命运及AI监管风向标",
-        "market_relevance_cn": "直接影响AI板块情绪和估值"
+        "why_watch_cn": "决定Claude 5是否恢复使用，影响AI行业监管走向。",
+        "market_relevance_cn": "高，直接影响AI板块情绪和相关公司股价。"
       },
       {
-        "event_name": "SpaceX IPO定价",
+        "event_name": "SpaceX IPO具体时间表",
         "expected_date": "2025年夏季",
-        "why_watch_cn": "市场对太空经济估值的试金石",
-        "market_relevance_cn": "影响太空概念股及IPO市场热度"
+        "why_watch_cn": "作为MANGOS概念领头羊，IPO将重塑科技投资格局。",
+        "market_relevance_cn": "高，可能引发新一轮科技股估值重估。"
       },
       {
-        "event_name": "日本央行利率决议",
-        "expected_date": "本月",
-        "why_watch_cn": "可能加息至1.0%，影响全球资金流向",
-        "market_relevance_cn": "推高日元，影响美元资产和科技股"
+        "event_name": "OpenAI调查进展",
+        "expected_date": "未来数月",
+        "why_watch_cn": "调查结果可能影响AI广告和数据处理行业标准。",
+        "market_relevance_cn": "中高，涉及多家科技巨头合规风险。"
       }
     ]
   },
   "future_watchlist": [
     {
-      "title": "Anthropic与政府博弈结果",
-      "category": "ai_tech",
+      "title": "Anthropic与政府博弈及Claude 5后续",
+      "category": "AI监管",
       "expected_date": "未来1-2周",
-      "why_watch_cn": "决定Claude 5是否恢复部署，影响AI监管政策走向。",
-      "market_relevance_cn": "直接影响AI板块情绪和估值，高关注度。",
-      "anime_relevance_cn": "无直接关联。",
+      "why_watch_cn": "决定AI模型安全标准与政府干预边界，影响行业信任。",
+      "market_relevance_cn": "高，直接冲击AI板块估值和投资情绪。",
+      "anime_relevance_cn": "无",
       "urgency": "high",
-      "created_at": "2026-06-13",
-      "updated_at": "2026-06-13",
+      "created_at": "2026-06-14",
+      "updated_at": "2026-06-14",
       "status": "active"
     },
     {
-      "title": "SpaceX IPO定价与上市",
-      "category": "us_stocks",
+      "title": "SpaceX、Anthropic等IPO进程",
+      "category": "资本市场",
       "expected_date": "2025年夏季",
-      "why_watch_cn": "市场对太空经济估值的试金石，可能带动相关概念股。",
-      "market_relevance_cn": "影响IPO市场热度及太空概念股。",
-      "anime_relevance_cn": "无直接关联。",
+      "why_watch_cn": "MANGOS概念可能取代FAANG，引领新一轮科技投资热潮。",
+      "market_relevance_cn": "高，重塑科技股投资逻辑。",
+      "anime_relevance_cn": "无",
       "urgency": "high",
-      "created_at": "2026-06-13",
-      "updated_at": "2026-06-13",
+      "created_at": "2026-06-14",
+      "updated_at": "2026-06-14",
       "status": "active"
     },
     {
-      "title": "日本央行利率决议",
-      "category": "politics_world",
-      "expected_date": "本月",
-      "why_watch_cn": "可能加息至1.0%，影响全球资金流向和科技股估值。",
-      "market_relevance_cn": "推高日元，影响美元资产和科技股。",
-      "anime_relevance_cn": "无直接关联。",
-      "urgency": "medium",
-      "created_at": "2026-06-13",
-      "updated_at": "2026-06-13",
+      "title": "Meta-Manus交易撤销后续",
+      "category": "地缘政治",
+      "expected_date": "未来数周",
+      "why_watch_cn": "反映中美科技政策走向，影响跨境投资和科技供应链。",
+      "market_relevance_cn": "高，涉及中概股和科技巨头战略调整。",
+      "anime_relevance_cn": "无",
+      "urgency": "high",
+      "created_at": "2026-06-14",
+      "updated_at": "2026-06-14",
       "status": "active"
     },
     {
-      "title": "Meta AI部门士气问题后续",
-      "category": "ai_tech",
-      "expected_date": "持续关注",
-      "why_watch_cn": "内部文化问题可能影响Meta AI产品发布和竞争力。",
-      "market_relevance_cn": "利空Meta股价，影响AI人才流动。",
-      "anime_relevance_cn": "无直接关联。",
-      "urgency": "medium",
-      "created_at": "2026-06-13",
-      "updated_at": "2026-06-13",
-      "status": "active"
-    },
-    {
-      "title": "谷歌起诉AI诈骗团伙进展",
-      "category": "ai_tech",
+      "title": "OpenAI诉讼与调查结果",
+      "category": "法律/监管",
       "expected_date": "未来数月",
-      "why_watch_cn": "司法结果可能影响AI滥用监管和平台责任。",
-      "market_relevance_cn": "利好网络安全公司，利空滥用AI的平台。",
-      "anime_relevance_cn": "无直接关联。",
-      "urgency": "low",
-      "created_at": "2026-06-13",
-      "updated_at": "2026-06-13",
+      "why_watch_cn": "可能设立AI安全与责任法律先例，影响全行业。",
+      "market_relevance_cn": "中高，增加AI公司合规成本。",
+      "anime_relevance_cn": "无",
+      "urgency": "medium",
+      "created_at": "2026-06-14",
+      "updated_at": "2026-06-14",
+      "status": "active"
+    },
+    {
+      "title": "谷歌起诉中国AI诈骗团伙司法进展",
+      "category": "网络安全",
+      "expected_date": "未来数月",
+      "why_watch_cn": "凸显AI滥用风险，推动国际合作与反诈技术发展。",
+      "market_relevance_cn": "中，利好网络安全板块。",
+      "anime_relevance_cn": "无",
+      "urgency": "medium",
+      "created_at": "2026-06-14",
+      "updated_at": "2026-06-14",
       "status": "active"
     }
   ],
-  "articles": [
-    {
-      "index": 1,
-      "title_cn": "Anthropic安全警告反噬，政府叫停最强AI",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic因安全漏洞被政府强制召回已部署的Claude 5模型，公司表示强烈不满。",
-      "short_summary_cn": "Anthropic的安全警告引发反效果，美国政府以存在潜在越狱漏洞为由，要求召回其最强AI模型Claude 5。Anthropic在博客中反驳称，不应因一个狭窄的潜在越狱发现就召回已服务数亿用户的商业模型。",
-      "why_it_matters_cn": "此事件标志着AI监管进入强硬干预阶段，对AI行业的安全标准和商业部署模式产生深远影响。",
-      "action_suggestion_cn": "关注后续监管政策动向，评估自身AI产品合规风险，调整安全测试流程。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI巨头模型被政府强制下线，是AI监管史上的标志性事件。",
-      "frontpage_reason_cn": "事件涉及AI安全、政府监管与商业利益的激烈冲突，具有极高新闻价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic股价或受冲击，AI行业安全审查趋严，其他公司可能主动暂缓高风险模型发布。",
-        "medium_term_impact_cn": "各国政府可能加速出台AI召回与安全法规，AI企业将增加合规成本。",
-        "long_term_impact_cn": "AI安全技术研发投入加大，行业可能形成更严格的自我监管标准。",
-        "affected_sectors": [
-          "人工智能",
-          "科技监管",
-          "网络安全"
-        ],
-        "affected_assets": [
-          "Anthropic相关资产",
-          "AI概念股",
-          "网络安全公司"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "其他AI公司是否会面临类似审查？",
-          "Claude 5的漏洞具体是什么？",
-          "政府后续会出台哪些AI监管细则？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "SpaceX、Anthropic和OpenAI迎来火热IPO夏季",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "MANGOS（Meta/微软、Anthropic、英伟达、谷歌、OpenAI、SpaceX）半数公司同期IPO，市场面临压力测试。",
-      "short_summary_cn": "IPO市场复苏，但领跑者不再是FAANG。新组合MANGOS中，Anthropic、OpenAI和SpaceX等多家公司将在同一窗口期上市，这对市场是一次巨大的压力测试。",
-      "why_it_matters_cn": "多家顶级AI和航天公司集中IPO，将重塑资本市场格局，并考验市场对高估值科技股的承接能力。",
-      "action_suggestion_cn": "投资者可关注IPO定价和首日表现，评估相关ETF和行业基金配置。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI和航天巨头集中IPO是资本市场里程碑事件。",
-      "frontpage_reason_cn": "影响全球科技投资风向，对投资者具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "市场资金可能被大量抽走，其他科技股短期承压。",
-        "medium_term_impact_cn": "IPO成功将提振科技股信心，失败则可能引发估值回调。",
-        "long_term_impact_cn": "新上市公司将成为科技股新核心，改变指数构成。",
-        "affected_sectors": [
-          "科技股",
-          "IPO市场",
-          "风险投资"
-        ],
-        "affected_assets": [
-          "MANGOS相关股票",
-          "纳斯达克指数",
-          "科技ETF"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "各公司IPO估值是否合理？",
-          "市场流动性是否足够支撑？",
-          "对FAANG股票有何影响？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "Endava利用AI代理重新设计软件交付流程",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-04",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Endava使用AI代理、ChatGPT Enterprise和Codex加速软件交付并实现自动化。",
-      "short_summary_cn": "Endava展示了如何利用AI代理、ChatGPT Enterprise和Codex来加速软件交付、自动化工作流，并在企业中构建AI原生文化。",
-      "why_it_matters_cn": "展示了AI在企业级软件工程中的实际落地案例，为行业提供可复用的转型路径。",
-      "action_suggestion_cn": "企业IT部门可研究Endava的实践，评估引入AI代理优化开发流程的可能性。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI代理在软件工程中的应用是当前热点，具有实践指导意义。",
-      "frontpage_reason_cn": "对科技行业从业者具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "相关AI开发工具需求可能增加。",
-        "medium_term_impact_cn": "更多企业将效仿，推动AI代理在软件开发中的普及。",
-        "long_term_impact_cn": "软件工程师的工作方式将发生根本性变化。",
-        "affected_sectors": [
-          "企业软件",
-          "AI工具",
-          "IT服务"
-        ],
-        "affected_assets": [
-          "OpenAI相关资产",
-          "软件开发公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI代理的实际效率提升有多大？",
-          "其他公司是否有类似成功案例？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 4,
-      "title_cn": "Meta数月前成立的AI部门被曝员工士气低落",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Meta拥有6500人的AI部门被内部工程师形容为“摧残灵魂的古拉格”，面临员工反抗。",
-      "short_summary_cn": "一份新报告显示，Meta成立仅数月的AI部门（拥有6500名员工）内部管理混乱，工程师们感到极度压抑，部门濒临爆发反抗。",
-      "why_it_matters_cn": "揭示大型科技公司在AI人才争夺战中的内部管理问题，可能影响其AI战略推进。",
-      "action_suggestion_cn": "关注Meta AI部门后续动态，评估其对Meta AI产品路线图的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "Meta作为AI巨头，其内部动荡具有行业警示意义。",
-      "frontpage_reason_cn": "涉及科技巨头内部管理、人才流失和AI战略风险。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Meta股价可能短期承压，人才流失风险增加。",
-        "medium_term_impact_cn": "Meta AI产品发布可能延迟，竞争力受损。",
-        "long_term_impact_cn": "若问题持续，Meta可能在AI竞赛中落后。",
-        "affected_sectors": [
-          "社交媒体",
-          "人工智能",
-          "人力资源"
-        ],
-        "affected_assets": [
-          "Meta股票",
-          "AI人才市场"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Meta管理层将如何应对？",
-          "其他公司AI部门是否存在类似问题？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 5,
-      "title_cn": "谷歌起诉利用AI诈骗数十万人的中国网络犯罪团伙",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌起诉名为“Outsider Enterprise”的中国团伙，该团伙利用AI在两周内发送250万条诈骗短信。",
-      "short_summary_cn": "谷歌起诉一个名为“Outsider Enterprise”的中国网络犯罪团伙，指控其利用AI技术诈骗数十万受害者，在两周内发送了250万条诈骗短信。",
-      "why_it_matters_cn": "AI技术被用于大规模网络犯罪，凸显了AI滥用的严重性和跨国打击的必要性。",
-      "action_suggestion_cn": "提高对AI诈骗的警惕，加强个人和企业的网络安全防护措施。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI犯罪首次被科技巨头大规模起诉，具有标志性意义。",
-      "frontpage_reason_cn": "涉及AI安全、跨国犯罪和科技公司法律行动。",
-      "impact_analysis": {
-        "immediate_impact_cn": "公众对AI诈骗的警惕性提高，相关安全产品需求增加。",
-        "medium_term_impact_cn": "各国可能加强AI反诈骗立法和执法合作。",
-        "long_term_impact_cn": "AI安全技术将更受重视，成为行业标配。",
-        "affected_sectors": [
-          "网络安全",
-          "电信",
-          "法律"
-        ],
-        "affected_assets": [
-          "网络安全公司",
-          "AI安全初创"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "该团伙是否会被引渡？",
-          "谷歌将如何追索损失？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 6,
-      "title_cn": "谷歌起诉利用Gemini自动化诈骗的中国网络犯罪网络",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "诈骗者利用谷歌Gemini编码的诈骗网站，针对数十万人进行自动化诈骗。",
-      "short_summary_cn": "谷歌起诉一个中国网络犯罪网络，指控其利用Gemini AI模型编码创建诈骗网站，自动化实施针对数十万人的大规模诈骗。",
-      "why_it_matters_cn": "显示AI工具被犯罪分子利用的新方式，对AI平台的安全责任提出挑战。",
-      "action_suggestion_cn": "AI平台需加强模型滥用检测，用户应警惕AI生成的诈骗内容。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "与上一条新闻互补，进一步揭示AI犯罪的技术细节。",
-      "frontpage_reason_cn": "深入报道AI犯罪手法，具有警示和教育意义。",
-      "impact_analysis": {
-        "immediate_impact_cn": "谷歌可能加强Gemini的安全审核机制。",
-        "medium_term_impact_cn": "AI平台将面临更严格的监管要求。",
-        "long_term_impact_cn": "AI模型的安全设计将成为核心竞争力。",
-        "affected_sectors": [
-          "人工智能",
-          "网络安全",
-          "法律"
-        ],
-        "affected_assets": [
-          "谷歌股票",
-          "AI安全公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Gemini如何被用于编码诈骗网站？",
-          "谷歌将采取哪些补救措施？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 7,
-      "title_cn": "OpenAI发布公共政策议程，涵盖AI安全与全球标准",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-03",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI提出AI公共政策议程，包括安全、青年保护、劳动力转型和全球标准。",
-      "short_summary_cn": "OpenAI发布其AI公共政策议程，涵盖安全、青年保护、劳动力转型和全球标准四大领域，旨在确保AI惠及全社会。",
-      "why_it_matters_cn": "作为AI领军企业，OpenAI的政策立场将影响全球AI监管走向。",
-      "action_suggestion_cn": "关注OpenAI政策议程的具体内容，评估其对行业监管和商业环境的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "OpenAI主动参与政策制定，对行业具有风向标意义。",
-      "frontpage_reason_cn": "影响AI行业监管框架，对企业和投资者有长期参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发行业对AI政策的讨论。",
-        "medium_term_impact_cn": "可能推动各国政府采纳类似政策框架。",
-        "long_term_impact_cn": "AI行业将形成更统一的全球标准。",
-        "affected_sectors": [
-          "人工智能",
-          "政策制定",
-          "教育"
-        ],
-        "affected_assets": [
-          "OpenAI相关资产",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "OpenAI的政策建议具体有哪些？",
-          "其他AI公司是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 6
-    },
-    {
-      "index": 8,
-      "title_cn": "Travelers与OpenAI合作，全国范围部署AI理赔助手",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-02",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Travelers保险公司利用OpenAI技术构建AI理赔助手，提供24/7客户支持并扩展运营规模。",
-      "short_summary_cn": "Travelers保险公司与OpenAI合作，构建了AI驱动的理赔助手，引导客户完成理赔流程，提供全天候支持，并在高峰期扩展运营规模。",
-      "why_it_matters_cn": "展示了AI在传统保险行业的成功应用，为其他行业提供数字化转型范例。",
-      "action_suggestion_cn": "保险行业可研究Travelers案例，评估AI在理赔、客服等环节的部署方案。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI在保险业的落地案例具有行业示范效应。",
-      "frontpage_reason_cn": "对保险和金融科技行业具有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "其他保险公司可能加速AI部署。",
-        "medium_term_impact_cn": "AI将重塑保险理赔流程，提升效率。",
-        "long_term_impact_cn": "保险行业就业结构可能发生变化。",
-        "affected_sectors": [
-          "保险",
-          "金融科技",
-          "AI"
-        ],
-        "affected_assets": [
-          "Travelers股票",
-          "AI服务商"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI理赔助手的准确率如何？",
-          "客户反馈如何？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 7
-    },
-    {
-      "index": 9,
-      "title_cn": "突发！Anthropic全球停用Claude 5",
-      "source": "36氪",
-      "source_display_name": "36氪",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "上线仅72小时的Claude Fable 5被政府禁令全球下架，连Anthropic外籍员工也无法使用。",
-      "short_summary_cn": "Anthropic突然宣布全球禁用Claude Fable 5，该模型上线仅72小时即被政府一纸禁令下架，甚至公司内部外籍员工也被禁止访问。",
-      "why_it_matters_cn": "这是AI监管史上最严厉的干预之一，对AI行业信心造成重大打击。",
-      "action_suggestion_cn": "密切关注事件进展，评估对AI投资和商业合作的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "与新闻1高度相关，提供中文视角的补充报道。",
-      "frontpage_reason_cn": "事件影响巨大，中文读者高度关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic声誉受损，用户转向竞争对手。",
-        "medium_term_impact_cn": "AI行业可能面临更严格的上市前审查。",
-        "long_term_impact_cn": "全球AI监管格局可能因此事件而改变。",
-        "affected_sectors": [
-          "人工智能",
-          "科技监管"
-        ],
-        "affected_assets": [
-          "Anthropic相关",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "禁令的具体原因是什么？",
-          "Anthropic将如何应对？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 8
-    },
-    {
-      "index": 11,
-      "title_cn": "Anthropic因美国政府安全担忧暂停新AI工具",
-      "source": "BBC News",
-      "source_display_name": "BBC新闻",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic本周发布的Claude Fable 5引发网络安全担忧，公司暂停新工具。",
-      "short_summary_cn": "Anthropic的Claude Fable 5本周公开发布后，引发了对网络安全和黑客攻击的担忧，公司因此暂停了新的AI工具。",
-      "why_it_matters_cn": "进一步证实了AI安全与政府监管之间的紧张关系。",
-      "action_suggestion_cn": "关注Anthropic后续的安全改进措施和监管动态。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "BBC的报道提供了官方视角，与TechCrunch报道相互印证。",
-      "frontpage_reason_cn": "事件持续发酵，具有持续追踪价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Anthropic暂停新工具开发，业务受影响。",
-        "medium_term_impact_cn": "AI行业安全标准可能被重新审视。",
-        "long_term_impact_cn": "政府与AI公司的合作模式可能改变。",
-        "affected_sectors": [
-          "人工智能",
-          "网络安全"
-        ],
-        "affected_assets": [
-          "Anthropic相关",
-          "AI安全公司"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "暂停将持续多久？",
-          "Anthropic将如何解决安全问题？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 12,
-      "title_cn": "下载：类固醇奥运会与更安全的Mythos",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT科技评论",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-10",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Anthropic发布了更安全的Mythos版本，同时探讨了增强奥运会的文化现象。",
-      "short_summary_cn": "本期下载内容包括对“类固醇奥运会”的文化分析，以及Anthropic发布更安全的Mythos AI模型的消息。",
-      "why_it_matters_cn": "Anthropic在安全争议后推出更安全的模型，显示其应对监管压力的努力。",
-      "action_suggestion_cn": "关注Mythos的安全特性，评估其与Claude 5的区别。",
-      "importance_score": 8,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "Anthropic的安全举措是当前热点，具有跟踪价值。",
-      "frontpage_reason_cn": "提供Anthropic安全策略的侧面信息。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Mythos可能吸引对安全敏感的客户。",
-        "medium_term_impact_cn": "Anthropic的产品线可能分化出安全版和性能版。",
-        "long_term_impact_cn": "安全将成为AI产品的重要差异化因素。",
-        "affected_sectors": [
-          "人工智能",
-          "科技文化"
-        ],
-        "affected_assets": [
-          "Anthropic相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "Mythos的性能相比Claude 5如何？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 13,
-      "title_cn": "小说：你自己的时间",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT科技评论",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "一篇关于图书馆员在末日中保护书籍的科幻小说。",
-      "short_summary_cn": "这是一篇科幻小说，讲述一群图书馆员在末日世界中手持枪支保护书籍的故事，探讨了知识保存的主题。",
-      "why_it_matters_cn": "以文学形式反思AI时代的知识价值，具有文化意义。",
-      "action_suggestion_cn": "可作为AI伦理讨论的辅助阅读材料。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "虽是小说，但反映了对AI时代的文化思考。",
-      "frontpage_reason_cn": "提供科技新闻之外的多元视角。",
-      "impact_analysis": {
-        "immediate_impact_cn": "无直接市场影响。",
-        "medium_term_impact_cn": "可能引发对AI与人文关系的讨论。",
-        "long_term_impact_cn": "促进科技与人文的交叉思考。",
-        "affected_sectors": [
-          "文化",
-          "出版"
-        ],
-        "affected_assets": [],
-        "us_stock_relevance": "none",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AI时代如何保护人类知识？"
-        ]
-      },
-      "us_market_relevance": "none",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 14,
-      "title_cn": "为何“重编程”是当前逆转衰老最热门的方法",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT科技评论",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "小鼠研究和数十亿美元资金推动重编程逆转衰老成为热门，但历史教训需警惕。",
-      "short_summary_cn": "重编程技术在小鼠研究中取得进展，获得数十亿美元投资，成为逆转衰老领域最热门的方法。但文章提醒，我们之前也经历过类似的热潮。",
-      "why_it_matters_cn": "抗衰老研究是AI和生物技术的交叉热点，具有巨大商业和社会潜力。",
-      "action_suggestion_cn": "关注重编程技术的临床进展和投资机会。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "抗衰老是长期热点，技术突破值得跟踪。",
-      "frontpage_reason_cn": "对健康科技和生物技术投资者有参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "相关生物科技公司可能受关注。",
-        "medium_term_impact_cn": "更多资金将涌入抗衰老领域。",
-        "long_term_impact_cn": "若技术成功，将彻底改变医疗和养老产业。",
-        "affected_sectors": [
-          "生物技术",
-          "医疗健康",
-          "长寿科技"
-        ],
-        "affected_assets": [
-          "抗衰老概念股",
-          "生物科技ETF"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "重编程技术的人体试验何时开始？",
-          "有哪些主要公司参与？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 15,
-      "title_cn": "Avataar视频AI：更便宜、更快、更具文化意识",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Avataar AI的视频模型定价每秒0.005美元，专为印度市场优化。",
-      "short_summary_cn": "Avataar AI推出蒸馏视频模型，定价仅为每秒0.005美元，速度更快且具有文化意识，专为印度的大规模应用场景设计。",
-      "why_it_matters_cn": "展示了AI视频生成的成本降低和本地化趋势，对新兴市场有重要意义。",
-      "action_suggestion_cn": "关注AI视频生成的成本下降趋势，评估在营销和内容创作中的应用。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI视频生成的成本突破是行业重要趋势。",
-      "frontpage_reason_cn": "对内容创作和营销行业有直接参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "视频制作成本下降，竞争加剧。",
-        "medium_term_impact_cn": "更多本地化AI视频产品将涌现。",
-        "long_term_impact_cn": "AI视频生成将普及到中小企业。",
-        "affected_sectors": [
-          "视频制作",
-          "广告",
-          "内容创作"
-        ],
-        "affected_assets": [
-          "AI视频公司",
-          "传统视频制作公司"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "该模型的质量如何？",
-          "其他市场是否有类似产品？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 16,
-      "title_cn": "贝佐斯的Prometheus融资120亿美元，打造物理世界通用工程师",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "杰夫·贝佐斯的物理AI初创公司Prometheus融资120亿美元，估值达410亿美元。",
-      "short_summary_cn": "杰夫·贝佐斯支持的物理AI初创公司Prometheus完成120亿美元融资，估值达410亿美元。该公司旨在自动化重型工程和药物设计，打造“通用工程师”。",
-      "why_it_matters_cn": "巨额融资显示物理AI领域的巨大潜力，可能改变工程和制药行业。",
-      "action_suggestion_cn": "关注物理AI在工程和制药领域的应用进展。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "物理AI是AI的下一个前沿，巨额融资具有标志性。",
-      "frontpage_reason_cn": "对AI投资和工业自动化有重要参考价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "物理AI领域获得更多关注和投资。",
-        "medium_term_impact_cn": "Prometheus可能加速产品落地。",
-        "long_term_impact_cn": "物理AI将重塑制造业和制药业。",
-        "affected_sectors": [
-          "制造业",
-          "制药",
-          "AI"
-        ],
-        "affected_assets": [
-          "Prometheus相关",
-          "工业自动化公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Prometheus的具体技术是什么？",
-          "何时会有商业化产品？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 10,
-      "title_cn": "专家：日本央行或上调利率至1.0%以抑制通胀",
-      "source": "36氪",
-      "source_display_name": "36氪",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-06-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "日本央行可能在本月会议上将利率从0.75%上调至1.0%，以抑制通胀。",
-      "short_summary_cn": "日本央行可能在本月15-16日的货币政策会议上将政策利率从0.75%上调至1.0%。专家认为加息将给中小企业和家庭带来压力，但过低利率会助长通胀。日本央行判断即使小幅度也应加息。",
-      "why_it_matters_cn": "日本加息将影响全球资本流动、日元汇率和亚洲金融市场。",
-      "action_suggestion_cn": "关注日元汇率波动，调整外汇和日本资产配置。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "日本央行政策转向对全球金融市场有重要影响。",
-      "frontpage_reason_cn": "影响全球利率环境和投资策略。",
-      "impact_analysis": {
-        "immediate_impact_cn": "日元可能升值，日本股市短期承压。",
-        "medium_term_impact_cn": "日本国债收益率上升，全球套利交易减少。",
-        "long_term_impact_cn": "日本经济可能放缓，但通胀得到控制。",
-        "affected_sectors": [
-          "外汇",
-          "日本股市",
-          "债券"
-        ],
-        "affected_assets": [
-          "日元",
-          "日本国债",
-          "日经指数"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "加息幅度是否会更大？",
-          "对全球经济有何溢出效应？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 17,
-      "title_cn": "Oracle警告安全漏洞已被黑客利用，超100家公司遭入侵",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-06-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Oracle披露安全漏洞，黑客已利用其入侵超过100家公司，谷歌已通知潜在受害者。",
-      "short_summary_cn": "Oracle警告一个安全漏洞已被网络犯罪团伙利用，作为大规模黑客攻击的一部分。谷歌表示已通知超过100家拥有潜在脆弱服务器的组织。",
-      "why_it_matters_cn": "大规模安全漏洞威胁企业数据安全，凸显网络安全的重要性。",
-      "action_suggestion_cn": "检查Oracle相关系统是否受影响，立即应用安全补丁。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "Oracle作为全球性企业软件供应商，其安全漏洞影响广泛。",
-      "frontpage_reason_cn": "对企业用户具有紧急安全警示价值。",
-      "impact_analysis": {
-        "immediate_impact_cn": "受影响企业需紧急修复，可能造成业务中断。",
-        "medium_term_impact_cn": "Oracle声誉受损，客户可能转向其他供应商。",
-        "long_term_impact_cn": "企业将加强供应链安全管理。",
-        "affected_sectors": [
-          "网络安全",
-          "企业软件",
-          "云计算"
-        ],
-        "affected_assets": [
-          "Oracle股票",
-          "网络安全公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "漏洞的具体细节是什么？",
-          "黑客团伙的身份是否已确认？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    }
-  ]
+  "articles": []
 }
