@@ -1,641 +1,235 @@
 {
   "metadata": {
     "report_title": "JiaJia Daily 情报日报",
-    "report_date": "2026年07月10日",
-    "report_weekday": "星期五",
-    "generated_at": "2026-07-10 12:41",
+    "report_date": "2026年07月11日",
+    "report_weekday": "星期六",
+    "generated_at": "2026-07-11 11:58",
     "timezone": "Australia/Perth (UTC+8)",
     "data_window": "24h新闻 + 7d市场事件 + 90d动漫活动",
     "total_fetched": 327,
-    "after_dedupe": 206,
+    "after_dedupe": 207,
     "selected_count": 30,
     "frontpage_count": 8,
     "anime_event_count": 13,
-    "market_related_count": 18,
-    "watchlist_count": 5
+    "market_related_count": 19,
+    "watchlist_count": 4
   },
   "daily_overview": {
-    "one_sentence_cn": "今日AI领域密集爆发：OpenAI发布GPT-5.6系列并与博通推出定制芯片Jalapeño，Anthropic揭示模型内部机制，同时三星、惠普大规模部署AI；声优界传来韩国姜熙善去世消息。",
-    "market_mood_cn": "科技主导的积极情绪，AI产业链全面升温，但版权诉讼和监管透明度问题带来隐忧。",
-    "anime_event_mood_cn": "今日未发现高价值动漫活动情报，仅有一则声优去世消息。",
-    "what_to_watch_next_cn": "关注GPT-5.6在微软Copilot中的实际表现、OpenAI与博通芯片量产进展、以及纽约时报版权案后续判决。"
+    "one_sentence_cn": "今日AI领域密集爆发：苹果起诉OpenAI窃密、OpenAI与博通推出推理芯片、GPT-5.6成为微软Copilot首选模型，同时欧盟对Meta施压要求禁用成瘾功能，动漫方面仅有一部漫画完结消息。",
+    "market_mood_cn": "科技股情绪偏积极，AI芯片和模型迭代消息提振市场，但苹果起诉OpenAI带来不确定性，整体市场情绪混合偏正面。",
+    "anime_event_mood_cn": "今日未发现高价值动漫情报，仅有一部漫画《魔法少女与毒品战争》宣布7月21日完结，氛围平淡。",
+    "what_to_watch_next_cn": "关注苹果诉OpenAI案进展、GPT-5.6在微软Copilot中的实际表现、欧盟对Meta的处罚决定，以及OpenAI博通芯片对AI硬件格局的影响。"
   },
   "impact_map": {
     "anime_collecting": {
       "level": "low",
-      "summary_cn": "今日无动漫收藏相关重要新闻，市场平静。",
-      "related_count": 0,
-      "representative": ""
+      "summary_cn": "仅一部漫画完结消息，无重大收藏或签售活动，影响极小。",
+      "related_count": 1,
+      "representative": "魔法少女与毒品战争漫画将于7月21日完结"
     },
     "japanese_events": {
       "level": "low",
-      "summary_cn": "韩国声优姜熙善去世，但非日本本土事件，对日本动漫产业直接影响有限。",
-      "related_count": 1,
-      "representative": "韩国声优姜熙善去世，曾为蜡笔小新妈妈配音"
+      "summary_cn": "无日本相关重大事件，动漫活动情报缺失。",
+      "related_count": 0,
+      "representative": ""
     },
     "ai_tech": {
       "level": "high",
-      "summary_cn": "AI领域爆发式更新：OpenAI发布GPT-5.6系列、与博通推出推理芯片Jalapeño、微软Copilot全面采用GPT-5.6；Anthropic揭示模型内部机制；Meta、谷歌、惠普等均有重大动作。",
-      "related_count": 28,
-      "representative": "OpenAI发布GPT-5.6新模型系列"
+      "summary_cn": "AI领域密集发布：苹果起诉OpenAI、OpenAI与博通推出推理芯片、GPT-5.6成为微软Copilot首选模型、Anthropic揭示Claude内部机制等，影响深远。",
+      "related_count": 18,
+      "representative": "OpenAI与博通推出LLM优化推理芯片Jalapeño"
     },
     "us_stocks": {
       "level": "high",
-      "summary_cn": "AI芯片和模型迭代直接利好半导体和科技股，博通、英伟达、Meta等受关注；OpenAI IPO预期升温。",
+      "summary_cn": "AI芯片和模型消息利好科技股，但苹果起诉OpenAI可能引发波动，SK海力士美股大涨，整体市场关注AI板块。",
       "related_count": 5,
-      "representative": "OpenAI与博通联合发布LLM推理芯片Jalapeño"
+      "representative": "SK海力士美股上市首日大涨"
     },
     "politics_risk": {
       "level": "medium",
-      "summary_cn": "纽约时报版权诉讼升级、政府AI安全审查不透明、印度智能手机制造政策变化，构成中等风险。",
+      "summary_cn": "欧盟对Meta施压要求禁用成瘾功能，苹果起诉OpenAI涉及商业机密，政治与监管风险上升。",
       "related_count": 3,
-      "representative": "纽约时报指控OpenAI在版权审判中隐藏证据"
+      "representative": "欧盟威胁对Meta罚款，因其平台存在成瘾性功能"
     },
     "future_watchlist": {
       "level": "high",
-      "summary_cn": "GPT-5.6系列全面部署、OpenAI博通芯片量产、Meta AI芯片9月投产、OpenAI IPO进展，均需持续跟踪。",
-      "related_count": 6,
-      "representative": "Meta新款AI芯片将于9月开始生产"
+      "summary_cn": "需关注苹果诉OpenAI案法律进展、GPT-5.6在微软生态落地、欧盟对Meta最终处罚、OpenAI博通芯片量产情况。",
+      "related_count": 4,
+      "representative": "苹果起诉OpenAI涉嫌窃取商业机密"
     }
   },
   "executive_brief": {
     "top_5_judgements": [
-      "OpenAI发布GPT-5.6系列并确认成为微软Copilot首选模型，AI办公应用进入新阶段。",
-      "OpenAI与博通推出定制推理芯片Jalapeño，AI硬件竞争加剧，利好半导体产业链。",
-      "Anthropic雅可比透镜技术首次揭示LLM内部机制，AI可解释性取得突破。",
-      "纽约时报版权诉讼升级，OpenAI面临证据隐藏指控，AI版权法律风险上升。",
-      "三星、惠普大规模部署OpenAI模型，企业级AI采用加速，但隐私与安全争议并存。"
+      "AI芯片竞争白热化：OpenAI与博通推出专用推理芯片，可能改变AI硬件格局。",
+      "苹果与OpenAI法律战升级：苹果起诉OpenAI窃密，可能影响AI行业合作与人才流动。",
+      "GPT-5.6成为微软Copilot首选模型，强化微软在办公AI领域的领先地位。",
+      "欧盟监管加码：要求Meta禁用自动播放和无限滚动，科技巨头面临合规压力。",
+      "AI安全与透明度受关注：Anthropic揭示Claude内部机制，OpenAI启动生物漏洞赏金计划。"
     ],
     "anime_merch_signing_highlights": [
-      "今日未发现高价值动漫周边或签售情报。"
+      "今日无高价值动漫签售或周边情报。"
     ],
     "ai_tech_highlights": [
-      "OpenAI发布GPT-5.6系列，编程、科学、网络安全能力全面提升。",
-      "OpenAI与博通联合发布LLM推理芯片Jalapeño，性能效率大幅提升。",
-      "Anthropic开发雅可比透镜技术，首次清晰揭示大语言模型内部运作机制。",
-      "Meta发布Muse Spark 1.1，加入AI编程大战。",
-      "Meta新款AI芯片将于9月开始生产，采用模块化设计。"
+      "OpenAI与博通推出Jalapeño推理芯片，专为大语言模型优化。",
+      "苹果起诉OpenAI，指控前员工窃取商业机密。",
+      "GPT-5.6正式成为微软365 Copilot首选模型。",
+      "Anthropic开发新工具，首次清晰揭示大语言模型内部运作机制。",
+      "OpenAI预览GPT-5.6 Sol，具备更强编码和科学能力。"
     ],
     "politics_highlights": [
-      "纽约时报指控OpenAI在版权审判中隐藏证据，可能影响AI训练数据合法性。",
-      "政府与OpenAI和Anthropic的安全审查对话细节仍不透明，引发监管担忧。",
-      "印度智能手机制造进入Vivo合资新阶段，可能重塑中国手机厂商在印模式。"
+      "欧盟要求Meta禁用自动播放和无限滚动，违反数字服务法。",
+      "苹果起诉OpenAI涉及商业机密，可能引发行业连锁反应。"
     ],
     "us_stock_market_impacts": [
-      "OpenAI与博通芯片合作直接利好博通（AVGO），AI推理芯片需求预期增长。",
-      "Meta AI芯片9月投产，利好Meta（META）及半导体供应链。",
-      "三星全球部署ChatGPT，可能带动企业级AI服务需求，利好微软（MSFT）。",
-      "OpenAI IPO预期升温，但版权诉讼风险可能压制估值。"
+      "AI芯片消息利好博通（AVGO）和半导体板块。",
+      "苹果（AAPL）起诉OpenAI可能短期影响科技股情绪。",
+      "SK海力士美股上市首日大涨，提振存储芯片板块。",
+      "微软（MSFT）因GPT-5.6合作巩固AI办公优势，股价或受益。"
     ],
     "future_watchlist": [
-      "GPT-5.6在微软Copilot中的实际用户反馈和性能指标。",
-      "OpenAI与博通Jalapeño芯片的量产时间表和客户采用情况。",
-      "纽约时报版权案的关键证据披露和法院裁决。",
-      "Meta AI芯片9月投产后的性能表现和部署计划。",
-      "OpenAI IPO进展及Fidji Simo辞职后的管理层变动影响。"
+      "苹果诉OpenAI案的法律进展和判决。",
+      "GPT-5.6在微软Copilot中的实际用户反馈。",
+      "欧盟对Meta的最终罚款决定。",
+      "OpenAI博通芯片Jalapeño的量产和客户采用情况。"
     ],
     "noise_or_low_priority": [
-      "OpenAI关闭Atlas浏览器，但AI浏览器野心不减（影响有限）。",
-      "ChatGPT健康智能提升：GPT-5.5 Instant改进（细节不足）。",
-      "Codex-maxxing：长期运行工作的AI编码技巧（开发者社区内容）。",
-      "澳大利亚支付Plus用ChatGPT和Codex加速业务（单一案例）。"
+      "魔法少女与毒品战争漫画完结（动漫圈影响有限）。",
+      "中国可重复使用火箭回收（与美股和AI关联低）。",
+      "佛罗里达勒索软件谈判者被判刑（个案，无广泛影响）。",
+      "印度Vivo合资（区域新闻，非核心关注）。"
     ],
-    "final_editor_note": "今日AI领域信息量爆炸，OpenAI和Anthropic的技术突破、芯片合作、企业部署构成主线，但版权诉讼和监管透明度问题需警惕。建议重点关注GPT-5.6实际应用效果和芯片量产进展，同时留意法律风险对AI行业的影响。"
+    "final_editor_note": "今日AI领域消息密集且重磅，苹果与OpenAI的法律冲突可能重塑行业格局，同时芯片和模型迭代持续加速。建议投资者关注科技股波动，并留意监管动向。不构成投资建议。"
   },
   "top_stories": [
     {
       "index": 1,
-      "title_cn": "Anthropic发现Claude内部概念推理隐藏空间",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic开发雅可比透镜技术，首次清晰揭示大语言模型内部运作机制。",
-      "short_summary_cn": "Anthropic公司开发了一种名为雅可比透镜的新技术，得以窥见大语言模型在回答问题或执行任务时的内部活动。发现结果从平凡到令人不安，为理解AI黑箱提供了前所未有的视角。",
-      "why_it_matters_cn": "这是AI可解释性研究的重大突破，有助于提升模型安全性和透明度，影响未来AI监管与信任。",
-      "action_suggestion_cn": "关注Anthropic后续论文和技术细节，评估对AI安全投资和模型选型的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI可解释性里程碑，对行业有深远影响。",
-      "frontpage_reason_cn": "揭示AI黑箱内部，技术突破性强，读者关注度高。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发AI安全与可解释性领域热议，Anthropic技术领先地位巩固。",
-        "medium_term_impact_cn": "可能推动监管机构要求AI公司提供类似透明度工具。",
-        "long_term_impact_cn": "促进更安全的AI系统设计，影响下一代模型架构。",
-        "affected_sectors": [
-          "AI研发",
-          "AI安全",
-          "科技监管"
-        ],
-        "affected_assets": [
-          "Anthropic相关投资",
-          "AI安全初创公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "雅可比透镜能否商业化？",
-          "其他AI公司是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "OpenAI称GPT-5.6是微软Copilot 365首选模型",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI确认GPT-5.6将继续为微软办公套件提供AI能力，回应分手传闻。",
-      "short_summary_cn": "在微软与OpenAI可能分手的传闻中，OpenAI明确表示GPT-5.6是微软365 Copilot的首选模型。双方合作关系依然稳固，新模型将赋能Word、Excel等应用。",
-      "why_it_matters_cn": "澄清了市场对微软-OpenAI联盟破裂的担忧，稳定了企业AI生态预期。",
-      "action_suggestion_cn": "企业用户可继续基于微软Copilot规划AI工作流，无需担心模型切换风险。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "直接回应市场核心疑虑，影响企业AI部署决策。",
-      "frontpage_reason_cn": "微软与OpenAI关系是AI行业焦点，此消息稳定军心。",
-      "impact_analysis": {
-        "immediate_impact_cn": "平息分手传闻，微软和OpenAI股价可能企稳。",
-        "medium_term_impact_cn": "企业客户继续采用Microsoft 365 Copilot的信心增强。",
-        "long_term_impact_cn": "双方合作模式可能成为AI平台与云服务商合作的范本。",
-        "affected_sectors": [
-          "企业软件",
-          "AI平台",
-          "云计算"
-        ],
-        "affected_assets": [
-          "微软股票",
-          "OpenAI估值"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "GPT-5.6在Copilot中的具体性能提升？",
-          "微软是否仍计划自研模型？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "OpenAI发布GPT-5.6新模型系列",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI推出GPT-5.6系列，在网络安全等领域带来全面改进。",
-      "short_summary_cn": "OpenAI正式发布GPT-5.6系列模型，承诺在多个领域实现性能提升，包括网络安全。新模型系列旨在巩固其在AI领域的领先地位。",
-      "why_it_matters_cn": "GPT-5.6是OpenAI最新旗舰模型，将影响整个AI应用生态和竞争格局。",
-      "action_suggestion_cn": "开发者立即测试GPT-5.6 API性能，评估在自身产品中的集成潜力。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "重大产品发布，定义行业标准。",
-      "frontpage_reason_cn": "AI领域最受关注的模型迭代，直接影响用户和投资者。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发开发者社区广泛测试和讨论，API调用量激增。",
-        "medium_term_impact_cn": "竞争对手如Anthropic、Google可能加速模型更新。",
-        "long_term_impact_cn": "GPT-5.6能力提升将催生新应用场景，扩大AI市场。",
-        "affected_sectors": [
-          "AI开发",
-          "网络安全",
-          "企业软件"
-        ],
-        "affected_assets": [
-          "OpenAI估值",
-          "AI芯片需求"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "GPT-5.6相比GPT-5.5的具体提升？",
-          "定价策略是否有变化？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 4,
-      "title_cn": "纽约时报指控OpenAI在版权审判中隐藏证据",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "纽约时报称OpenAI隐藏了能证明ChatGPT使用受版权新闻材料的工具和数据集。",
-      "short_summary_cn": "在ChatGPT版权侵权诉讼中，纽约时报提交新动议，指控OpenAI隐藏了可识别其输出中受版权保护新闻内容的工具和数据集。此举可能升级为制裁动议。",
-      "why_it_matters_cn": "此案结果将确立AI训练数据版权边界，影响整个AI行业的数据使用规范。",
-      "action_suggestion_cn": "密切关注诉讼进展，评估对AI公司数据获取策略的潜在法律风险。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "版权诉讼核心进展，可能改变AI行业游戏规则。",
-      "frontpage_reason_cn": "涉及AI版权根本问题，法律与科技交叉热点。",
-      "impact_analysis": {
-        "immediate_impact_cn": "OpenAI面临更大法律压力，股价可能短期承压。",
-        "medium_term_impact_cn": "若制裁成立，OpenAI可能被要求提供更多内部数据。",
-        "long_term_impact_cn": "可能推动AI训练数据版权法规的明确化。",
-        "affected_sectors": [
-          "AI",
-          "出版",
-          "法律"
-        ],
-        "affected_assets": [
-          "OpenAI估值",
-          "新闻出版类股票"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "法院是否会批准制裁动议？",
-          "其他内容版权方是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 5,
-      "title_cn": "政府如何判定OpenAI前沿模型安全可发布？",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "政府与OpenAI和Anthropic的安全审查对话细节仍不透明。",
-      "short_summary_cn": "文章探讨了政府如何决定OpenAI前沿模型可以安全发布的过程。报道指出，政府与Anthropic和OpenAI之间的具体对话内容尚不清楚，引发对AI安全审查透明度的质疑。",
-      "why_it_matters_cn": "AI安全审查流程的透明度直接影响公众信任和监管政策制定。",
-      "action_suggestion_cn": "关注后续报道，了解AI安全审查标准，为合规做准备。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "触及AI治理核心问题，影响政策走向。",
-      "frontpage_reason_cn": "AI安全审查透明度是公众和投资者共同关心的话题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发对AI安全审查流程的讨论和质疑。",
-        "medium_term_impact_cn": "可能促使政府公布更多审查细节或改进流程。",
-        "long_term_impact_cn": "推动建立更标准化的AI安全评估框架。",
-        "affected_sectors": [
-          "AI监管",
-          "政府科技政策"
-        ],
-        "affected_assets": [
-          "AI公司合规成本"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "审查流程具体包含哪些步骤？",
-          "是否有第三方参与评估？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
-      "title_cn": "GPT-5.6成为Microsoft 365 Copilot首选模型",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-09",
-      "freshness_label": "36h前",
-      "key_takeaway_cn": "GPT-5.6正式为Word、Excel等微软办公应用提供更强AI能力。",
-      "short_summary_cn": "OpenAI宣布GPT-5.6成为Microsoft 365 Copilot的首选模型，在Word、Excel、PowerPoint、Chat和Cowork中提供更强大的AI功能，提升工作效率和质量。",
-      "why_it_matters_cn": "这是GPT-5.6在生产力工具中的首次大规模落地，验证其商业化价值。",
-      "action_suggestion_cn": "Microsoft 365用户立即体验新功能，评估对工作流程的实际提升。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "重要产品集成，展示AI在办公场景的实际应用。",
-      "frontpage_reason_cn": "直接面向数亿用户的产品升级，影响广泛。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Microsoft 365用户将感受到AI功能提升。",
-        "medium_term_impact_cn": "企业可能加速部署Copilot，推动AI办公普及。",
-        "long_term_impact_cn": "AI办公助手成为标准配置，改变工作方式。",
-        "affected_sectors": [
-          "企业软件",
-          "办公自动化",
-          "AI应用"
-        ],
-        "affected_assets": [
-          "微软股票",
-          "OpenAI收入"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "用户反馈如何？",
-          "是否会推出更多AI办公功能？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 6
-    },
-    {
-      "index": 9,
-      "title_cn": "OpenAI与博通联合发布LLM推理芯片Jalapeño",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-24",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI与博通推出定制AI推理芯片Jalapeño，提升性能和效率。",
-      "short_summary_cn": "OpenAI与博通合作推出Jalapeño芯片，专为大语言模型推理优化。该芯片旨在提升AI系统性能、效率和扩展能力，减少对第三方GPU的依赖。",
-      "why_it_matters_cn": "定制芯片可降低AI推理成本，增强OpenAI的供应链自主性。",
-      "action_suggestion_cn": "关注芯片性能指标和定价，评估对AI服务成本的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "硬件突破对AI行业有战略意义。",
-      "frontpage_reason_cn": "AI芯片竞争加剧，影响整个产业链。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发AI芯片行业关注，博通股价可能受益。",
-        "medium_term_impact_cn": "OpenAI推理成本降低，可能调整API定价。",
-        "long_term_impact_cn": "推动更多AI公司自研芯片，改变芯片市场格局。",
-        "affected_sectors": [
-          "半导体",
-          "AI基础设施",
-          "云计算"
-        ],
-        "affected_assets": [
-          "博通股票",
-          "英伟达股票",
-          "OpenAI估值"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "Jalapeño性能对比英伟达H100？",
-          "何时量产？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 7
-    },
-    {
-      "index": 10,
-      "title_cn": "GPT-5帮助免疫学家破解三年未解之谜",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-24",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "GPT-5 Pro助力免疫学家解决T细胞行为谜题，有望推动癌症研究。",
-      "short_summary_cn": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个困扰三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能支持癌症和自身免疫疾病研究。",
-      "why_it_matters_cn": "展示AI在科学发现中的巨大潜力，加速生物医学研究。",
-      "action_suggestion_cn": "科研机构探索将GPT-5用于数据分析，加速研究进程。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI科学应用典型案例，具有示范效应。",
-      "frontpage_reason_cn": "AI推动科学突破，故事性强，鼓舞人心。",
-      "impact_analysis": {
-        "immediate_impact_cn": "激发AI在生物医学领域的应用讨论。",
-        "medium_term_impact_cn": "更多科学家可能尝试用AI解决复杂问题。",
-        "long_term_impact_cn": "AI成为科学研究标配工具，加速发现周期。",
-        "affected_sectors": [
-          "生物技术",
-          "AI应用",
-          "医药研发"
-        ],
-        "affected_assets": [
-          "AI医疗公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "具体如何帮助解决？",
-          "是否可推广到其他领域？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 8
-    }
-  ],
-  "anime_event_highlights": [
-    {
-      "index": 14,
-      "title_cn": "韩国声优姜熙善去世，曾为蜡笔小新妈妈配音",
+      "title_cn": "魔法少女与毒品战争漫画将于7月21日完结",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
+      "category": "politics_world",
+      "news_type": "general",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "韩国资深声优姜熙善（65岁）去世，其子演员安恩锡发文悼念。",
-      "short_summary_cn": "曾为《蜡笔小新》中野原美冴配音的韩国资深声优姜熙善于近日去世，享年65岁。她的儿子、演员兼制片人安恩锡在社交媒体上发表了感人悼念。",
-      "why_it_matters_cn": "姜熙善是韩国动画配音界的标志性人物，她的离世是韩国动漫界的重大损失。",
-      "action_suggestion_cn": "关注后续纪念活动和追悼会信息，动漫迷可重温其经典作品。",
-      "importance_score": 7,
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "漫画《魔法少女与毒品战争》将于7月21日完结，作者为Yū Nomiya和Merou Meiji。",
+      "short_summary_cn": "该漫画由作家Yū Nomiya和艺术家Merou Meiji创作，于2025年5月开始连载。作品融合魔法少女与毒品战争题材，将于7月21日正式完结。",
+      "why_it_matters_cn": "该漫画的完结标志着一种独特跨界题材的阶段性结束，可能引发粉丝讨论和后续IP开发。",
+      "action_suggestion_cn": "关注完结后的官方消息，如有单行本或衍生作品可提前收藏。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 3,
-      "editor_reason_cn": "声优界重要人物去世，具有纪念意义。",
-      "frontpage_reason_cn": "蜡笔小新粉丝广泛，消息触动情感。",
+      "tracking_value": 2,
+      "editor_reason_cn": "漫画完结是动漫圈重要事件，但题材小众，影响有限。",
+      "frontpage_reason_cn": "适合放在动漫板块，提醒粉丝关注最终话。",
       "anime_event_detail": {
-        "event_type": "seiyuu_event",
-        "ip_or_work_title": "蜡笔小新",
-        "person_name": "姜熙善",
-        "role": "声优（野原美冴）",
-        "event_date": "2026-07-09",
+        "event_type": "漫画完结",
+        "ip_or_work_title": "魔法少女与毒品战争",
+        "person_name": "Yū Nomiya, Merou Meiji",
+        "role": "作者/画家",
+        "event_date": "2026-07-21",
         "event_time": "未知",
         "venue": "未知",
         "city": "未知",
-        "country": "韩国",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "low",
-        "collector_value": "medium",
+        "country": "日本",
+        "ticket_method": "无需门票",
+        "application_period": "不适用",
+        "lottery_or_first_come": "不适用",
+        "purchase_requirement": "无",
+        "goods_or_bonus": "最终话内容",
+        "official_source": "https://www.animenewsnetwork.com/news/2026-07-10/magical-girl-and-narco-wars-manga-ends-on-july-21/.239421",
+        "urgency_level": "低",
+        "collector_value": "低",
         "travel_feasibility": "不适用",
-        "action_needed_cn": "关注后续纪念活动，无需立即行动。"
+        "action_needed_cn": "阅读最终话，关注后续单行本或衍生作品。"
       },
-      "is_recent": true,
-      "is_old_context": false
-    }
-  ],
-  "ai_tech_highlights": [
-    {
-      "index": 1,
-      "title_cn": "Anthropic发现Claude内部概念推理隐藏空间",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic开发雅可比透镜技术，首次清晰揭示大语言模型内部运作机制。",
-      "short_summary_cn": "Anthropic公司开发了一种名为雅可比透镜的新技术，得以窥见大语言模型在回答问题或执行任务时的内部活动。发现结果从平凡到令人不安，为理解AI黑箱提供了前所未有的视角。",
-      "why_it_matters_cn": "这是AI可解释性研究的重大突破，有助于提升模型安全性和透明度，影响未来AI监管与信任。",
-      "action_suggestion_cn": "关注Anthropic后续论文和技术细节，评估对AI安全投资和模型选型的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI可解释性里程碑，对行业有深远影响。",
-      "frontpage_reason_cn": "揭示AI黑箱内部，技术突破性强，读者关注度高。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发AI安全与可解释性领域热议，Anthropic技术领先地位巩固。",
-        "medium_term_impact_cn": "可能推动监管机构要求AI公司提供类似透明度工具。",
-        "long_term_impact_cn": "促进更安全的AI系统设计，影响下一代模型架构。",
-        "affected_sectors": [
-          "AI研发",
-          "AI安全",
-          "科技监管"
-        ],
-        "affected_assets": [
-          "Anthropic相关投资",
-          "AI安全初创公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "雅可比透镜能否商业化？",
-          "其他AI公司是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 1
     },
     {
       "index": 2,
-      "title_cn": "OpenAI称GPT-5.6是微软Copilot 365首选模型",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "title_cn": "Anthropic发现Claude内部隐藏概念空间",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI确认GPT-5.6将继续为微软办公套件提供AI能力，回应分手传闻。",
-      "short_summary_cn": "在微软与OpenAI可能分手的传闻中，OpenAI明确表示GPT-5.6是微软365 Copilot的首选模型。双方合作关系依然稳固，新模型将赋能Word、Excel等应用。",
-      "why_it_matters_cn": "澄清了市场对微软-OpenAI联盟破裂的担忧，稳定了企业AI生态预期。",
-      "action_suggestion_cn": "企业用户可继续基于微软Copilot规划AI工作流，无需担心模型切换风险。",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "Anthropic开发新工具，首次清晰揭示大语言模型内部运作机制。",
+      "short_summary_cn": "Anthropic公司开发了名为Jacobian lens的工具，能够窥见Claude等大语言模型在回答问题或执行任务时的内部状态。研究结果既有平凡发现，也有令人不安的洞察。",
+      "why_it_matters_cn": "这标志着AI可解释性领域的重大突破，有助于理解模型行为并提升安全性。",
+      "action_suggestion_cn": "关注Anthropic后续研究论文，评估对AI安全政策的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "直接回应市场核心疑虑，影响企业AI部署决策。",
-      "frontpage_reason_cn": "微软与OpenAI关系是AI行业焦点，此消息稳定军心。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI可解释性突破对行业有深远影响，但短期不直接驱动市场。",
+      "frontpage_reason_cn": "适合科技板块头条，展示AI前沿研究。",
       "impact_analysis": {
-        "immediate_impact_cn": "平息分手传闻，微软和OpenAI股价可能企稳。",
-        "medium_term_impact_cn": "企业客户继续采用Microsoft 365 Copilot的信心增强。",
-        "long_term_impact_cn": "双方合作模式可能成为AI平台与云服务商合作的范本。",
+        "immediate_impact_cn": "引发AI安全社区讨论，可能推动更多可解释性研究。",
+        "medium_term_impact_cn": "可能影响AI监管政策，促使企业公开模型内部机制。",
+        "long_term_impact_cn": "若技术成熟，可大幅提升AI系统可靠性和信任度。",
         "affected_sectors": [
-          "企业软件",
-          "AI平台",
-          "云计算"
+          "AI研发",
+          "科技监管",
+          "学术研究"
         ],
         "affected_assets": [
-          "微软股票",
-          "OpenAI估值"
+          "AI公司股票",
+          "科技ETF"
         ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "GPT-5.6在Copilot中的具体性能提升？",
-          "微软是否仍计划自研模型？"
+          "Jacobian lens能否商业化？",
+          "其他AI公司是否会跟进？"
         ]
       },
-      "us_market_relevance": "high",
-      "is_recent": true,
+      "us_market_relevance": "medium",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 2
     },
     {
       "index": 3,
-      "title_cn": "OpenAI发布GPT-5.6新模型系列",
+      "title_cn": "苹果起诉OpenAI涉嫌窃取商业机密",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-07-10",
+      "date_display": "2026-07-11",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI推出GPT-5.6系列，在网络安全等领域带来全面改进。",
-      "short_summary_cn": "OpenAI正式发布GPT-5.6系列模型，承诺在多个领域实现性能提升，包括网络安全。新模型系列旨在巩固其在AI领域的领先地位。",
-      "why_it_matters_cn": "GPT-5.6是OpenAI最新旗舰模型，将影响整个AI应用生态和竞争格局。",
-      "action_suggestion_cn": "开发者立即测试GPT-5.6 API性能，评估在自身产品中的集成潜力。",
+      "key_takeaway_cn": "苹果指控OpenAI高层指示前员工窃取商业机密。",
+      "short_summary_cn": "苹果在诉讼中称，OpenAI的高级领导层（包括一名长期前员工）指示了不当行为，窃取了苹果的商业机密。此案涉及OpenAI的硬件业务。",
+      "why_it_matters_cn": "两大科技巨头之间的法律战可能重塑AI行业竞争格局，影响人才流动和知识产权保护。",
+      "action_suggestion_cn": "关注诉讼进展，评估对OpenAI IPO和苹果AI战略的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "重大产品发布，定义行业标准。",
-      "frontpage_reason_cn": "AI领域最受关注的模型迭代，直接影响用户和投资者。",
+      "tracking_value": 2,
+      "editor_reason_cn": "苹果诉OpenAI是重大法律事件，可能引发行业震荡。",
+      "frontpage_reason_cn": "科技板块头条，涉及两家巨头，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发开发者社区广泛测试和讨论，API调用量激增。",
-        "medium_term_impact_cn": "竞争对手如Anthropic、Google可能加速模型更新。",
-        "long_term_impact_cn": "GPT-5.6能力提升将催生新应用场景，扩大AI市场。",
+        "immediate_impact_cn": "OpenAI声誉受损，苹果股价可能短期承压。",
+        "medium_term_impact_cn": "诉讼可能导致OpenAI IPO推迟，苹果AI研发加速。",
+        "long_term_impact_cn": "若苹果胜诉，将强化知识产权保护，影响AI人才流动。",
         "affected_sectors": [
-          "AI开发",
-          "网络安全",
-          "企业软件"
+          "AI",
+          "科技硬件",
+          "法律"
         ],
         "affected_assets": [
-          "OpenAI估值",
-          "AI芯片需求"
+          "AAPL",
+          "OpenAI相关资产",
+          "科技ETF"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
         "follow_up_questions": [
-          "GPT-5.6相比GPT-5.5的具体提升？",
-          "定价策略是否有变化？"
+          "OpenAI是否会反诉？",
+          "苹果是否掌握确凿证据？",
+          "此案对AI行业人才招聘有何影响？"
         ]
       },
       "us_market_relevance": "high",
@@ -645,217 +239,541 @@
     },
     {
       "index": 4,
-      "title_cn": "纽约时报指控OpenAI在版权审判中隐藏证据",
+      "title_cn": "欧盟威胁对Meta罚款，因其平台存在成瘾性功能",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
-      "category": "ai_tech",
+      "category": "politics_world",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "纽约时报称OpenAI隐藏了能证明ChatGPT使用受版权新闻材料的工具和数据集。",
-      "short_summary_cn": "在ChatGPT版权侵权诉讼中，纽约时报提交新动议，指控OpenAI隐藏了可识别其输出中受版权保护新闻内容的工具和数据集。此举可能升级为制裁动议。",
-      "why_it_matters_cn": "此案结果将确立AI训练数据版权边界，影响整个AI行业的数据使用规范。",
-      "action_suggestion_cn": "密切关注诉讼进展，评估对AI公司数据获取策略的潜在法律风险。",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "欧盟指控Meta违反数字服务法，因其无限滚动、自动播放等成瘾性功能。",
+      "short_summary_cn": "欧盟委员会表示，Meta在Facebook和Instagram上使用无限滚动、自动播放、推送通知和高度个性化推荐算法，违反了数字服务法。Meta面临巨额罚款风险。",
+      "why_it_matters_cn": "这是欧盟对大型科技平台内容监管的又一重大行动，可能迫使Meta改变产品设计。",
+      "action_suggestion_cn": "关注Meta的回应和整改措施，评估对广告业务的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "版权诉讼核心进展，可能改变AI行业游戏规则。",
-      "frontpage_reason_cn": "涉及AI版权根本问题，法律与科技交叉热点。",
+      "tracking_value": 2,
+      "editor_reason_cn": "欧盟监管升级，对Meta商业模式构成直接威胁。",
+      "frontpage_reason_cn": "科技政策板块重要新闻，影响全球科技监管趋势。",
       "impact_analysis": {
-        "immediate_impact_cn": "OpenAI面临更大法律压力，股价可能短期承压。",
-        "medium_term_impact_cn": "若制裁成立，OpenAI可能被要求提供更多内部数据。",
-        "long_term_impact_cn": "可能推动AI训练数据版权法规的明确化。",
+        "immediate_impact_cn": "Meta股价可能下跌，公司面临合规压力。",
+        "medium_term_impact_cn": "Meta可能被迫调整产品功能，影响用户参与度和广告收入。",
+        "long_term_impact_cn": "若罚款落地，将树立监管先例，影响其他平台。",
         "affected_sectors": [
-          "AI",
-          "出版",
-          "法律"
+          "社交媒体",
+          "数字广告",
+          "科技监管"
         ],
         "affected_assets": [
-          "OpenAI估值",
-          "新闻出版类股票"
+          "META",
+          "社交媒体ETF"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
         "risk_level": "medium",
         "follow_up_questions": [
-          "法院是否会批准制裁动议？",
-          "其他内容版权方是否会跟进？"
+          "Meta是否会提起上诉？",
+          "其他欧盟国家是否会跟进？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "us_market_relevance": "high",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 4
     },
     {
       "index": 5,
-      "title_cn": "政府如何判定OpenAI前沿模型安全可发布？",
+      "title_cn": "OpenAI称GPT-5.6是微软Copilot 365首选模型",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "政府与OpenAI和Anthropic的安全审查对话细节仍不透明。",
-      "short_summary_cn": "文章探讨了政府如何决定OpenAI前沿模型可以安全发布的过程。报道指出，政府与Anthropic和OpenAI之间的具体对话内容尚不清楚，引发对AI安全审查透明度的质疑。",
-      "why_it_matters_cn": "AI安全审查流程的透明度直接影响公众信任和监管政策制定。",
-      "action_suggestion_cn": "关注后续报道，了解AI安全审查标准，为合规做准备。",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "OpenAI确认GPT-5.6将继续为微软Copilot 365提供动力，回应分手传闻。",
+      "short_summary_cn": "在微软与OpenAI可能分手的传闻中，OpenAI明确表示GPT-5.6是微软Copilot 365的“首选模型”。新模型系列将继续支持微软的办公和生产力应用套件。",
+      "why_it_matters_cn": "这稳定了市场对微软-OpenAI合作关系的预期，对两家公司的AI战略至关重要。",
+      "action_suggestion_cn": "关注微软Copilot 365的更新，评估GPT-5.6对办公效率的提升。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "触及AI治理核心问题，影响政策走向。",
-      "frontpage_reason_cn": "AI安全审查透明度是公众和投资者共同关心的话题。",
+      "tracking_value": 2,
+      "editor_reason_cn": "合作关系确认，消除市场不确定性。",
+      "frontpage_reason_cn": "AI板块重要新闻，影响企业AI应用市场。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对AI安全审查流程的讨论和质疑。",
-        "medium_term_impact_cn": "可能促使政府公布更多审查细节或改进流程。",
-        "long_term_impact_cn": "推动建立更标准化的AI安全评估框架。",
+        "immediate_impact_cn": "微软和OpenAI股价可能小幅上涨。",
+        "medium_term_impact_cn": "GPT-5.6将推动Copilot 365功能升级，增强微软在办公AI领域的竞争力。",
+        "long_term_impact_cn": "合作关系稳固，可能加速企业AI adoption。",
         "affected_sectors": [
-          "AI监管",
-          "政府科技政策"
+          "AI软件",
+          "企业办公",
+          "云计算"
         ],
         "affected_assets": [
-          "AI公司合规成本"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "审查流程具体包含哪些步骤？",
-          "是否有第三方参与评估？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
-      "title_cn": "GPT-5.6成为Microsoft 365 Copilot首选模型",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-09",
-      "freshness_label": "36h前",
-      "key_takeaway_cn": "GPT-5.6正式为Word、Excel等微软办公应用提供更强AI能力。",
-      "short_summary_cn": "OpenAI宣布GPT-5.6成为Microsoft 365 Copilot的首选模型，在Word、Excel、PowerPoint、Chat和Cowork中提供更强大的AI功能，提升工作效率和质量。",
-      "why_it_matters_cn": "这是GPT-5.6在生产力工具中的首次大规模落地，验证其商业化价值。",
-      "action_suggestion_cn": "Microsoft 365用户立即体验新功能，评估对工作流程的实际提升。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "重要产品集成，展示AI在办公场景的实际应用。",
-      "frontpage_reason_cn": "直接面向数亿用户的产品升级，影响广泛。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Microsoft 365用户将感受到AI功能提升。",
-        "medium_term_impact_cn": "企业可能加速部署Copilot，推动AI办公普及。",
-        "long_term_impact_cn": "AI办公助手成为标准配置，改变工作方式。",
-        "affected_sectors": [
-          "企业软件",
-          "办公自动化",
-          "AI应用"
-        ],
-        "affected_assets": [
-          "微软股票",
-          "OpenAI收入"
+          "MSFT",
+          "OpenAI相关资产",
+          "AI ETF"
         ],
         "us_stock_relevance": "high",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "用户反馈如何？",
-          "是否会推出更多AI办公功能？"
+          "GPT-5.6相比前代有何提升？",
+          "微软是否会减少对OpenAI的依赖？"
         ]
       },
       "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "德国电信如何用AI重塑电信业务",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "德国电信与OpenAI合作，转型为AI原生电信公司。",
+      "short_summary_cn": "德国电信正在利用OpenAI技术转型为AI原生电信公司，应用涵盖客户服务、员工工作流、网络运营和语音未来。",
+      "why_it_matters_cn": "这展示了AI在传统电信行业的深度应用，可能成为行业标杆。",
+      "action_suggestion_cn": "关注德国电信的AI转型案例，评估对电信行业的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI在电信行业的应用案例具有示范意义。",
+      "frontpage_reason_cn": "科技板块，展示AI落地场景。",
+      "impact_analysis": {
+        "immediate_impact_cn": "提升OpenAI在企业市场的声誉。",
+        "medium_term_impact_cn": "其他电信公司可能效仿，推动AI在电信行业的普及。",
+        "long_term_impact_cn": "AI原生电信公司可能成为行业新标准。",
+        "affected_sectors": [
+          "电信",
+          "AI",
+          "企业服务"
+        ],
+        "affected_assets": [
+          "DTEGY",
+          "OpenAI相关资产"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "德国电信的AI转型效果如何？",
+          "其他电信公司是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 6
     },
     {
       "index": 7,
-      "title_cn": "OpenAI推出GPT-5.5生物漏洞赏金计划",
+      "title_cn": "GPT-5.6成为微软365 Copilot首选模型",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-09",
-      "freshness_label": "36h前",
-      "key_takeaway_cn": "OpenAI启动生物安全漏洞赏金计划，鼓励发现GPT-5.5在生物领域的风险。",
-      "short_summary_cn": "OpenAI公布了GPT-5.5 Bio Bug Bounty计划，邀请安全研究人员寻找模型在生物安全方面的潜在漏洞。这是AI安全治理的前沿实践。",
-      "why_it_matters_cn": "AI生物安全是高风险领域，此计划有助于提前发现和缓解潜在威胁。",
-      "action_suggestion_cn": "生物安全研究人员可参与赏金计划，关注AI双用途风险。",
-      "importance_score": 7,
+      "freshness_label": "59h前",
+      "key_takeaway_cn": "GPT-5.6正式成为微软365 Copilot的首选模型，增强办公AI能力。",
+      "short_summary_cn": "GPT-5.6将为微软365 Copilot提供更强的AI能力，覆盖Word、Excel、PowerPoint、Chat和Cowork等应用，实现更快、更高质量的工作。",
+      "why_it_matters_cn": "这标志着GPT-5.6在办公场景的正式落地，将直接影响数亿用户的工作效率。",
+      "action_suggestion_cn": "更新微软365 Copilot，体验GPT-5.6带来的新功能。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI安全治理创新举措，值得关注。",
-      "frontpage_reason_cn": "AI生物安全是热点话题，赏金计划具有新闻价值。",
+      "tracking_value": 2,
+      "editor_reason_cn": "GPT-5.6在办公领域的应用是重要里程碑。",
+      "frontpage_reason_cn": "AI板块，关注产品更新。",
       "impact_analysis": {
-        "immediate_impact_cn": "吸引安全社区关注AI生物风险。",
-        "medium_term_impact_cn": "可能发现关键漏洞，推动模型改进。",
-        "long_term_impact_cn": "为AI生物安全标准制定提供参考。",
+        "immediate_impact_cn": "微软365用户将获得更智能的AI助手。",
+        "medium_term_impact_cn": "可能推动更多企业采用Copilot，提升微软云服务收入。",
+        "long_term_impact_cn": "AI办公助手将成为企业标配，改变工作方式。",
+        "affected_sectors": [
+          "企业软件",
+          "AI",
+          "云计算"
+        ],
+        "affected_assets": [
+          "MSFT",
+          "AI ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "GPT-5.6在Copilot中的具体表现如何？",
+          "用户反馈如何？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 8,
+      "title_cn": "OpenAI推出GPT-5.5生物漏洞赏金计划",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-09",
+      "freshness_label": "59h前",
+      "key_takeaway_cn": "OpenAI启动生物漏洞赏金计划，鼓励发现GPT-5.5的安全问题。",
+      "short_summary_cn": "OpenAI公布了关于GPT-5.5生物漏洞赏金计划的详细信息，旨在通过外部研究者发现并修复模型在生物领域的潜在风险。",
+      "why_it_matters_cn": "这体现了OpenAI对AI安全的重视，尤其是在生物等高风险领域。",
+      "action_suggestion_cn": "安全研究人员可关注赏金计划细节，参与漏洞发现。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI安全是行业焦点，赏金计划有助于提升模型安全性。",
+      "frontpage_reason_cn": "科技板块，关注AI安全动态。",
+      "impact_analysis": {
+        "immediate_impact_cn": "吸引安全社区关注，可能发现潜在漏洞。",
+        "medium_term_impact_cn": "提升GPT-5.5的安全性，增强用户信任。",
+        "long_term_impact_cn": "可能成为AI安全领域的标准实践。",
         "affected_sectors": [
           "AI安全",
           "生物技术",
           "网络安全"
         ],
         "affected_assets": [
-          "OpenAI声誉"
+          "OpenAI相关资产"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "赏金金额是多少？",
-          "已发现哪些漏洞？"
+          "赏金计划的奖励金额是多少？",
+          "是否有其他AI公司跟进？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
-      "is_old_context": false
+      "is_old_context": false,
+      "frontpage_rank": 8
+    }
+  ],
+  "anime_event_highlights": [],
+  "ai_tech_highlights": [
+    {
+      "index": 2,
+      "title_cn": "Anthropic发现Claude内部隐藏概念空间",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "Anthropic开发新工具，首次清晰揭示大语言模型内部运作机制。",
+      "short_summary_cn": "Anthropic公司开发了名为Jacobian lens的工具，能够窥见Claude等大语言模型在回答问题或执行任务时的内部状态。研究结果既有平凡发现，也有令人不安的洞察。",
+      "why_it_matters_cn": "这标志着AI可解释性领域的重大突破，有助于理解模型行为并提升安全性。",
+      "action_suggestion_cn": "关注Anthropic后续研究论文，评估对AI安全政策的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI可解释性突破对行业有深远影响，但短期不直接驱动市场。",
+      "frontpage_reason_cn": "适合科技板块头条，展示AI前沿研究。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发AI安全社区讨论，可能推动更多可解释性研究。",
+        "medium_term_impact_cn": "可能影响AI监管政策，促使企业公开模型内部机制。",
+        "long_term_impact_cn": "若技术成熟，可大幅提升AI系统可靠性和信任度。",
+        "affected_sectors": [
+          "AI研发",
+          "科技监管",
+          "学术研究"
+        ],
+        "affected_assets": [
+          "AI公司股票",
+          "科技ETF"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Jacobian lens能否商业化？",
+          "其他AI公司是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 2
+    },
+    {
+      "index": 3,
+      "title_cn": "苹果起诉OpenAI涉嫌窃取商业机密",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果指控OpenAI高层指示前员工窃取商业机密。",
+      "short_summary_cn": "苹果在诉讼中称，OpenAI的高级领导层（包括一名长期前员工）指示了不当行为，窃取了苹果的商业机密。此案涉及OpenAI的硬件业务。",
+      "why_it_matters_cn": "两大科技巨头之间的法律战可能重塑AI行业竞争格局，影响人才流动和知识产权保护。",
+      "action_suggestion_cn": "关注诉讼进展，评估对OpenAI IPO和苹果AI战略的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "苹果诉OpenAI是重大法律事件，可能引发行业震荡。",
+      "frontpage_reason_cn": "科技板块头条，涉及两家巨头，关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "OpenAI声誉受损，苹果股价可能短期承压。",
+        "medium_term_impact_cn": "诉讼可能导致OpenAI IPO推迟，苹果AI研发加速。",
+        "long_term_impact_cn": "若苹果胜诉，将强化知识产权保护，影响AI人才流动。",
+        "affected_sectors": [
+          "AI",
+          "科技硬件",
+          "法律"
+        ],
+        "affected_assets": [
+          "AAPL",
+          "OpenAI相关资产",
+          "科技ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "OpenAI是否会反诉？",
+          "苹果是否掌握确凿证据？",
+          "此案对AI行业人才招聘有何影响？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 5,
+      "title_cn": "OpenAI称GPT-5.6是微软Copilot 365首选模型",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "OpenAI确认GPT-5.6将继续为微软Copilot 365提供动力，回应分手传闻。",
+      "short_summary_cn": "在微软与OpenAI可能分手的传闻中，OpenAI明确表示GPT-5.6是微软Copilot 365的“首选模型”。新模型系列将继续支持微软的办公和生产力应用套件。",
+      "why_it_matters_cn": "这稳定了市场对微软-OpenAI合作关系的预期，对两家公司的AI战略至关重要。",
+      "action_suggestion_cn": "关注微软Copilot 365的更新，评估GPT-5.6对办公效率的提升。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "合作关系确认，消除市场不确定性。",
+      "frontpage_reason_cn": "AI板块重要新闻，影响企业AI应用市场。",
+      "impact_analysis": {
+        "immediate_impact_cn": "微软和OpenAI股价可能小幅上涨。",
+        "medium_term_impact_cn": "GPT-5.6将推动Copilot 365功能升级，增强微软在办公AI领域的竞争力。",
+        "long_term_impact_cn": "合作关系稳固，可能加速企业AI adoption。",
+        "affected_sectors": [
+          "AI软件",
+          "企业办公",
+          "云计算"
+        ],
+        "affected_assets": [
+          "MSFT",
+          "OpenAI相关资产",
+          "AI ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "GPT-5.6相比前代有何提升？",
+          "微软是否会减少对OpenAI的依赖？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "德国电信如何用AI重塑电信业务",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "德国电信与OpenAI合作，转型为AI原生电信公司。",
+      "short_summary_cn": "德国电信正在利用OpenAI技术转型为AI原生电信公司，应用涵盖客户服务、员工工作流、网络运营和语音未来。",
+      "why_it_matters_cn": "这展示了AI在传统电信行业的深度应用，可能成为行业标杆。",
+      "action_suggestion_cn": "关注德国电信的AI转型案例，评估对电信行业的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI在电信行业的应用案例具有示范意义。",
+      "frontpage_reason_cn": "科技板块，展示AI落地场景。",
+      "impact_analysis": {
+        "immediate_impact_cn": "提升OpenAI在企业市场的声誉。",
+        "medium_term_impact_cn": "其他电信公司可能效仿，推动AI在电信行业的普及。",
+        "long_term_impact_cn": "AI原生电信公司可能成为行业新标准。",
+        "affected_sectors": [
+          "电信",
+          "AI",
+          "企业服务"
+        ],
+        "affected_assets": [
+          "DTEGY",
+          "OpenAI相关资产"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "德国电信的AI转型效果如何？",
+          "其他电信公司是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 6
+    },
+    {
+      "index": 7,
+      "title_cn": "GPT-5.6成为微软365 Copilot首选模型",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-09",
+      "freshness_label": "59h前",
+      "key_takeaway_cn": "GPT-5.6正式成为微软365 Copilot的首选模型，增强办公AI能力。",
+      "short_summary_cn": "GPT-5.6将为微软365 Copilot提供更强的AI能力，覆盖Word、Excel、PowerPoint、Chat和Cowork等应用，实现更快、更高质量的工作。",
+      "why_it_matters_cn": "这标志着GPT-5.6在办公场景的正式落地，将直接影响数亿用户的工作效率。",
+      "action_suggestion_cn": "更新微软365 Copilot，体验GPT-5.6带来的新功能。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "GPT-5.6在办公领域的应用是重要里程碑。",
+      "frontpage_reason_cn": "AI板块，关注产品更新。",
+      "impact_analysis": {
+        "immediate_impact_cn": "微软365用户将获得更智能的AI助手。",
+        "medium_term_impact_cn": "可能推动更多企业采用Copilot，提升微软云服务收入。",
+        "long_term_impact_cn": "AI办公助手将成为企业标配，改变工作方式。",
+        "affected_sectors": [
+          "企业软件",
+          "AI",
+          "云计算"
+        ],
+        "affected_assets": [
+          "MSFT",
+          "AI ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "GPT-5.6在Copilot中的具体表现如何？",
+          "用户反馈如何？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 7
     },
     {
       "index": 8,
-      "title_cn": "OpenAI报告：AI将重塑欧盟就业市场",
+      "title_cn": "OpenAI推出GPT-5.5生物漏洞赏金计划",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-09",
+      "freshness_label": "59h前",
+      "key_takeaway_cn": "OpenAI启动生物漏洞赏金计划，鼓励发现GPT-5.5的安全问题。",
+      "short_summary_cn": "OpenAI公布了关于GPT-5.5生物漏洞赏金计划的详细信息，旨在通过外部研究者发现并修复模型在生物领域的潜在风险。",
+      "why_it_matters_cn": "这体现了OpenAI对AI安全的重视，尤其是在生物等高风险领域。",
+      "action_suggestion_cn": "安全研究人员可关注赏金计划细节，参与漏洞发现。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI安全是行业焦点，赏金计划有助于提升模型安全性。",
+      "frontpage_reason_cn": "科技板块，关注AI安全动态。",
+      "impact_analysis": {
+        "immediate_impact_cn": "吸引安全社区关注，可能发现潜在漏洞。",
+        "medium_term_impact_cn": "提升GPT-5.5的安全性，增强用户信任。",
+        "long_term_impact_cn": "可能成为AI安全领域的标准实践。",
+        "affected_sectors": [
+          "AI安全",
+          "生物技术",
+          "网络安全"
+        ],
+        "affected_assets": [
+          "OpenAI相关资产"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "赏金计划的奖励金额是多少？",
+          "是否有其他AI公司跟进？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 8
+    },
+    {
+      "index": 9,
+      "title_cn": "OpenAI报告：AI将重塑欧洲就业市场",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-06-29",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI报告显示AI将影响欧盟多种职业，部分岗位面临自动化风险。",
-      "short_summary_cn": "OpenAI发布新报告，绘制AI如何重塑欧盟就业市场。报告指出哪些职业可能面临自动化、增长或工作流程变化，为政策制定提供参考。",
-      "why_it_matters_cn": "为欧盟AI就业影响提供数据基础，影响劳动力政策和教育规划。",
-      "action_suggestion_cn": "企业HR和员工关注报告中的职业影响分类，提前规划技能提升。",
-      "importance_score": 7,
+      "key_takeaway_cn": "OpenAI报告显示AI将影响欧盟就业，部分岗位面临自动化风险。",
+      "short_summary_cn": "OpenAI发布新报告，绘制了AI如何重塑欧盟就业的图景，指出哪些职业可能面临自动化、增长或工作流程变化。",
+      "why_it_matters_cn": "该报告为政策制定者和企业提供了AI对就业影响的量化分析，有助于提前规划。",
+      "action_suggestion_cn": "关注报告中的职业分类，评估自身岗位的AI影响风险。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI就业影响是长期重要议题。",
-      "frontpage_reason_cn": "对欧洲读者有直接关联，就业话题关注度高。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI对就业的影响是长期重要议题。",
+      "frontpage_reason_cn": "科技政策板块，关注社会影响。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发欧盟政策讨论。",
-        "medium_term_impact_cn": "可能影响欧盟AI监管中的劳动力条款。",
-        "long_term_impact_cn": "推动职业培训和再教育体系改革。",
+        "immediate_impact_cn": "引发关于AI就业影响的讨论。",
+        "medium_term_impact_cn": "可能影响欧盟AI监管政策。",
+        "long_term_impact_cn": "推动职业培训和再教育需求。",
         "affected_sectors": [
-          "劳动力市场",
+          "就业市场",
           "教育",
-          "政策制定"
+          "政策"
         ],
         "affected_assets": [
-          "AI培训公司"
+          "无直接关联"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
           "哪些职业受影响最大？",
-          "欧盟将如何应对？"
+          "欧盟是否会出台应对政策？"
         ]
       },
       "us_market_relevance": "low",
@@ -863,133 +781,89 @@
       "is_old_context": true
     },
     {
-      "index": 9,
-      "title_cn": "OpenAI与博通联合发布LLM推理芯片Jalapeño",
+      "index": 10,
+      "title_cn": "OpenAI与博通推出LLM优化推理芯片",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-06-24",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI与博通推出定制AI推理芯片Jalapeño，提升性能和效率。",
-      "short_summary_cn": "OpenAI与博通合作推出Jalapeño芯片，专为大语言模型推理优化。该芯片旨在提升AI系统性能、效率和扩展能力，减少对第三方GPU的依赖。",
-      "why_it_matters_cn": "定制芯片可降低AI推理成本，增强OpenAI的供应链自主性。",
-      "action_suggestion_cn": "关注芯片性能指标和定价，评估对AI服务成本的影响。",
+      "key_takeaway_cn": "OpenAI与博通联合推出Jalapeño芯片，专为大语言模型推理优化。",
+      "short_summary_cn": "OpenAI和博通发布了名为Jalapeño的定制AI芯片，专为大语言模型推理设计，旨在提升性能、效率和扩展能力。",
+      "why_it_matters_cn": "定制芯片将降低AI推理成本，加速AI应用部署，并减少对英伟达的依赖。",
+      "action_suggestion_cn": "关注Jalapeño芯片的性能数据和客户采用情况。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "硬件突破对AI行业有战略意义。",
-      "frontpage_reason_cn": "AI芯片竞争加剧，影响整个产业链。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI芯片是行业关键基础设施，此合作意义重大。",
+      "frontpage_reason_cn": "科技板块，关注芯片行业动态。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI芯片行业关注，博通股价可能受益。",
-        "medium_term_impact_cn": "OpenAI推理成本降低，可能调整API定价。",
-        "long_term_impact_cn": "推动更多AI公司自研芯片，改变芯片市场格局。",
+        "immediate_impact_cn": "英伟达股价可能承压，博通股价上涨。",
+        "medium_term_impact_cn": "AI推理成本下降，推动更多AI应用。",
+        "long_term_impact_cn": "可能改变AI芯片市场格局，减少对单一供应商依赖。",
         "affected_sectors": [
           "半导体",
-          "AI基础设施",
+          "AI",
           "云计算"
         ],
         "affected_assets": [
-          "博通股票",
-          "英伟达股票",
-          "OpenAI估值"
+          "AVGO",
+          "NVDA",
+          "AMD",
+          "AI ETF"
         ],
         "us_stock_relevance": "very_high",
         "market_sentiment": "sector_rotation",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "Jalapeño性能对比英伟达H100？",
-          "何时量产？"
+          "Jalapeño芯片的量产时间表？",
+          "性能与英伟达产品相比如何？"
         ]
       },
       "us_market_relevance": "very_high",
       "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 7
+      "is_old_context": true
     },
     {
-      "index": 10,
-      "title_cn": "GPT-5帮助免疫学家破解三年未解之谜",
+      "index": 11,
+      "title_cn": "GPT-5帮助免疫学家解开三年未解之谜",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-06-24",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "GPT-5 Pro助力免疫学家解决T细胞行为谜题，有望推动癌症研究。",
-      "short_summary_cn": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个困扰三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能支持癌症和自身免疫疾病研究。",
-      "why_it_matters_cn": "展示AI在科学发现中的巨大潜力，加速生物医学研究。",
-      "action_suggestion_cn": "科研机构探索将GPT-5用于数据分析，加速研究进程。",
+      "key_takeaway_cn": "GPT-5 Pro帮助免疫学家解决了困扰三年的T细胞行为谜题。",
+      "short_summary_cn": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个长达三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能支持癌症和自身免疫疾病研究。",
+      "why_it_matters_cn": "展示了AI在科学发现中的巨大潜力，加速了生物医学研究。",
+      "action_suggestion_cn": "关注AI在生物医学领域的应用进展，评估投资机会。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI科学应用典型案例，具有示范效应。",
-      "frontpage_reason_cn": "AI推动科学突破，故事性强，鼓舞人心。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI辅助科学发现是重要趋势，此案例具有示范意义。",
+      "frontpage_reason_cn": "科技板块，展示AI在科研中的应用。",
       "impact_analysis": {
-        "immediate_impact_cn": "激发AI在生物医学领域的应用讨论。",
-        "medium_term_impact_cn": "更多科学家可能尝试用AI解决复杂问题。",
-        "long_term_impact_cn": "AI成为科学研究标配工具，加速发现周期。",
+        "immediate_impact_cn": "引发AI在生物医学领域的讨论。",
+        "medium_term_impact_cn": "可能推动更多AI辅助科研项目。",
+        "long_term_impact_cn": "加速新药研发和疾病治疗突破。",
         "affected_sectors": [
           "生物技术",
-          "AI应用",
-          "医药研发"
+          "AI",
+          "制药"
         ],
         "affected_assets": [
-          "AI医疗公司"
+          "生物科技ETF",
+          "AI ETF"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体如何帮助解决？",
-          "是否可推广到其他领域？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 8
-    },
-    {
-      "index": 11,
-      "title_cn": "三星电子为全球员工部署ChatGPT和Codex",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-22",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "三星电子全球部署ChatGPT Enterprise和Codex，为OpenAI最大企业部署之一。",
-      "short_summary_cn": "三星电子向全球员工推出ChatGPT Enterprise和Codex，成为OpenAI最大规模的企业AI部署之一。此举将AI融入日常工作和软件开发流程。",
-      "why_it_matters_cn": "显示大型企业加速采用AI，验证企业级AI产品的市场价值。",
-      "action_suggestion_cn": "企业IT决策者参考三星案例，评估自身AI部署策略。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "企业AI落地重要案例。",
-      "frontpage_reason_cn": "三星作为全球科技巨头，其AI部署具有标杆意义。",
-      "impact_analysis": {
-        "immediate_impact_cn": "推动其他大型企业跟进AI部署。",
-        "medium_term_impact_cn": "OpenAI企业业务收入有望增长。",
-        "long_term_impact_cn": "AI成为企业标配，改变工作模式。",
-        "affected_sectors": [
-          "企业软件",
-          "制造业",
-          "科技"
-        ],
-        "affected_assets": [
-          "OpenAI收入",
-          "三星生产力"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "部署规模具体多大？",
-          "员工反馈如何？"
+          "该发现是否已发表？",
+          "其他科学家是否能用AI复现类似成果？"
         ]
       },
       "us_market_relevance": "medium",
@@ -998,85 +872,42 @@
     },
     {
       "index": 12,
-      "title_cn": "下载：你在OpenAI中的股份，以及财政部的AI警告",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-07",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Sam Altman提议美国人共享AI财富，同时财政部发出AI风险警告。",
-      "short_summary_cn": "本期下载报道聚焦两个话题：Sam Altman关于美国人应分享AI创造财富的提议重新引发关注，以及美国财政部对AI风险的警告。",
-      "why_it_matters_cn": "涉及AI财富分配和社会影响，关乎公众利益。",
-      "action_suggestion_cn": "关注AI财富分配讨论，了解政策动向。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI社会影响重要议题。",
-      "frontpage_reason_cn": "财富分配和风险警告都是热点话题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发公众对AI财富分配讨论。",
-        "medium_term_impact_cn": "可能影响AI监管政策中的社会条款。",
-        "long_term_impact_cn": "推动AI利益共享机制探索。",
-        "affected_sectors": [
-          "政策",
-          "社会",
-          "AI"
-        ],
-        "affected_assets": [
-          "AI公司公众形象"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "Altman的具体提案是什么？",
-          "财政部警告的具体内容？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 13,
-      "title_cn": "惠普与OpenAI建立Frontier战略合作伙伴关系",
+      "title_cn": "三星电子向员工部署ChatGPT和Codex",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-06-29",
+      "date_display": "2026-06-22",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "惠普扩大与OpenAI的Frontier合作，在客户体验和运营中部署AI。",
-      "short_summary_cn": "惠普扩大与OpenAI的Frontier战略合作，在客户体验、软件开发和企业运营中部署AI能力。这是传统硬件巨头加速AI转型的标志。",
-      "why_it_matters_cn": "显示传统企业积极拥抱AI，AI应用从科技公司向传统行业扩展。",
-      "action_suggestion_cn": "传统行业企业参考惠普案例，探索AI转型路径。",
-      "importance_score": 9,
+      "key_takeaway_cn": "三星电子在全球范围内向员工部署ChatGPT Enterprise和Codex。",
+      "short_summary_cn": "三星电子在全球员工中部署ChatGPT Enterprise和Codex，这是OpenAI最大规模的企业AI部署之一。",
+      "why_it_matters_cn": "这标志着大型企业全面拥抱AI，可能推动其他企业效仿。",
+      "action_suggestion_cn": "关注三星的AI应用案例，评估企业AI市场的增长潜力。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "传统企业AI转型标杆案例。",
-      "frontpage_reason_cn": "惠普作为老牌科技公司，其AI战略具有示范效应。",
+      "tracking_value": 2,
+      "editor_reason_cn": "大型企业AI部署是行业风向标。",
+      "frontpage_reason_cn": "科技板块，关注企业AI应用。",
       "impact_analysis": {
-        "immediate_impact_cn": "惠普股价可能受益于AI转型预期。",
-        "medium_term_impact_cn": "更多传统企业可能宣布类似合作。",
-        "long_term_impact_cn": "AI渗透到各行各业，推动产业升级。",
+        "immediate_impact_cn": "提升OpenAI在企业市场的地位。",
+        "medium_term_impact_cn": "其他大型企业可能加速AI部署。",
+        "long_term_impact_cn": "企业AI市场将快速增长。",
         "affected_sectors": [
-          "硬件制造",
-          "企业服务",
-          "AI"
+          "企业软件",
+          "AI",
+          "制造业"
         ],
         "affected_assets": [
-          "惠普股票",
-          "OpenAI企业收入"
+          "SSNLF",
+          "OpenAI相关资产"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "合作具体范围？",
-          "预计投资金额？"
+          "三星员工的使用效果如何？",
+          "其他韩国企业是否会跟进？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1084,41 +915,119 @@
       "is_old_context": true
     },
     {
-      "index": 16,
-      "title_cn": "OpenAI二号人物Fidji Simo辞职",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "index": 13,
+      "title_cn": "下载：Claude内部运作与OpenAI超级应用",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI二号高管Fidji Simo因医疗假延长而辞职，正值公司IPO关键期。",
-      "short_summary_cn": "OpenAI二号人物Fidji Simo因医疗假超出预期而辞去全职职务。这一领导层空缺发生在公司考虑IPO并与Anthropic竞争企业市场的关键时刻。",
-      "why_it_matters_cn": "高层变动可能影响OpenAI的战略执行和IPO进程。",
-      "action_suggestion_cn": "关注OpenAI后续高管任命，评估对公司战略的影响。",
-      "importance_score": 7,
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "今日科技简报：Anthropic发现Claude隐藏空间，OpenAI超级应用进展。",
+      "short_summary_cn": "本期《下载》简报涵盖两大新闻：Anthropic对Claude内部运作的突破性洞察，以及OpenAI超级应用的最新动态。",
+      "why_it_matters_cn": "综合了当日最重要的AI新闻，适合快速了解行业动态。",
+      "action_suggestion_cn": "阅读完整简报，获取AI行业最新进展。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI巨头高层变动，影响公司治理。",
-      "frontpage_reason_cn": "OpenAI领导层变动牵动市场神经。",
+      "tracking_value": 2,
+      "editor_reason_cn": "综合简报，信息密度高。",
+      "frontpage_reason_cn": "科技板块，适合快速阅读。",
       "impact_analysis": {
-        "immediate_impact_cn": "OpenAI领导层出现真空，可能影响短期决策。",
-        "medium_term_impact_cn": "IPO进程可能延迟或调整。",
-        "long_term_impact_cn": "新领导层可能带来战略方向变化。",
+        "immediate_impact_cn": "提供AI行业当日关键信息。",
+        "medium_term_impact_cn": "无直接市场影响。",
+        "long_term_impact_cn": "有助于跟踪AI发展趋势。",
+        "affected_sectors": [
+          "AI"
+        ],
+        "affected_assets": [],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Claude内部空间研究有何后续？",
+          "OpenAI超级应用何时发布？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 14,
+      "title_cn": "下载：你在OpenAI的股份与财政部AI警告",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-07",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "今日简报：Sam Altman讨论全民AI财富分配，财政部发布AI风险警告。",
+      "short_summary_cn": "本期《下载》简报涵盖：Sam Altman关于美国人分享AI财富的提案重新受到关注，以及美国财政部对AI风险的警告。",
+      "why_it_matters_cn": "涉及AI财富分配和监管两大热点议题。",
+      "action_suggestion_cn": "关注Altman提案的进展和财政部警告的具体内容。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI财富分配和监管是长期重要议题。",
+      "frontpage_reason_cn": "科技政策板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发关于AI财富分配的讨论。",
+        "medium_term_impact_cn": "可能影响AI监管政策。",
+        "long_term_impact_cn": "AI财富分配方案可能成为政策选项。",
+        "affected_sectors": [
+          "政策",
+          "AI",
+          "金融"
+        ],
+        "affected_assets": [],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Altman的提案具体内容是什么？",
+          "财政部警告了哪些风险？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": true
+    },
+    {
+      "index": 16,
+      "title_cn": "苹果起诉OpenAI，指控前员工窃取商业机密",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果起诉OpenAI，指控其前员工窃取商业机密。",
+      "short_summary_cn": "苹果在诉讼中指控OpenAI前员工窃取商业机密，此案在Hacker News上引发广泛讨论，获得688个点赞和334条评论。",
+      "why_it_matters_cn": "社区高度关注，反映了科技界对此案的重视。",
+      "action_suggestion_cn": "关注Hacker News上的讨论，了解行业观点。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "与第3条新闻内容重复，但来源不同，社区讨论热度高。",
+      "frontpage_reason_cn": "科技板块，关注社区反应。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发科技社区广泛讨论。",
+        "medium_term_impact_cn": "可能影响公众对OpenAI的看法。",
+        "long_term_impact_cn": "诉讼结果可能影响AI行业人才流动。",
         "affected_sectors": [
           "AI",
-          "企业管理"
+          "科技"
         ],
-        "affected_assets": [
-          "OpenAI估值"
-        ],
+        "affected_assets": [],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "谁将接替Simo？",
-          "对IPO有何影响？"
+          "社区对诉讼的看法如何？",
+          "是否有更多细节曝光？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1127,405 +1036,568 @@
     },
     {
       "index": 17,
-      "title_cn": "OpenAI关闭Atlas浏览器，但AI浏览器野心不减",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "title_cn": "惠普与OpenAI建立前沿战略合作伙伴关系",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI关闭AI浏览器Atlas，但将部分功能移至桌面应用和Chrome扩展。",
-      "short_summary_cn": "OpenAI在推出不到一年后关闭了AI浏览器Atlas。但公司计划将部分代理浏览功能迁移到桌面应用和Chrome扩展中，继续探索AI浏览器领域。",
-      "why_it_matters_cn": "显示AI浏览器市场竞争激烈，OpenAI调整产品策略。",
-      "action_suggestion_cn": "关注OpenAI桌面应用的新功能，评估对浏览器市场的影响。",
-      "importance_score": 7,
+      "date_display": "2026-06-29",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "惠普扩大与OpenAI的前沿合作，部署AI于客户体验和软件开发。",
+      "short_summary_cn": "惠普公司扩大了与OpenAI的前沿合作伙伴关系，将AI部署到客户体验、软件开发和企业运营中。",
+      "why_it_matters_cn": "这标志着传统硬件公司加速AI转型，可能成为行业趋势。",
+      "action_suggestion_cn": "关注惠普的AI转型进展，评估对硬件行业的影响。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "产品战略调整反映市场变化。",
-      "frontpage_reason_cn": "AI浏览器是热门赛道，OpenAI的动向值得关注。",
+      "tracking_value": 2,
+      "editor_reason_cn": "传统企业AI转型是重要趋势。",
+      "frontpage_reason_cn": "科技板块。",
       "impact_analysis": {
-        "immediate_impact_cn": "Atlas用户需迁移到其他浏览器。",
-        "medium_term_impact_cn": "OpenAI可能通过Chrome扩展获取更多用户。",
-        "long_term_impact_cn": "AI浏览器市场格局可能重新洗牌。",
+        "immediate_impact_cn": "提升OpenAI在企业市场的地位。",
+        "medium_term_impact_cn": "惠普可能推出AI驱动的产品和服务。",
+        "long_term_impact_cn": "传统硬件公司可能全面AI化。",
         "affected_sectors": [
-          "浏览器",
-          "AI应用"
+          "硬件",
+          "AI",
+          "企业服务"
         ],
         "affected_assets": [
-          "Chrome市场份额"
+          "HPQ",
+          "OpenAI相关资产"
         ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "关闭原因？",
-          "桌面应用何时更新？"
+          "惠普的AI部署具体包括哪些方面？",
+          "其他硬件公司是否会跟进？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true
+    },
+    {
+      "index": 18,
+      "title_cn": "9点1氪：长鑫科技承销团公布；SK海力士美股大涨",
+      "source": "36氪",
+      "source_display_name": "36氪",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "今日热点：长鑫科技IPO承销团公布，SK海力士美股上市首日大涨。",
+      "short_summary_cn": "36氪今日热点包括：长鑫科技IPO承销团阵容公布，预计7月16日发行；SK海力士登陆美股首日大涨近13%；OpenAI推出ChatGPT智能体；三星李在镕拟7月底赴美会晤英伟达黄仁勋。",
+      "why_it_matters_cn": "涵盖中国存储芯片IPO、韩国半导体巨头美股上市等重大事件，反映全球半导体市场动态。",
+      "action_suggestion_cn": "关注长鑫科技IPO申购，评估SK海力士美股投资机会。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "综合了多个重要科技新闻，信息量大。",
+      "frontpage_reason_cn": "科技板块，适合快速了解当日热点。",
+      "impact_analysis": {
+        "immediate_impact_cn": "长鑫科技IPO引发市场关注，SK海力士美股表现强劲。",
+        "medium_term_impact_cn": "长鑫科技上市将影响中国存储芯片格局。",
+        "long_term_impact_cn": "全球半导体市场竞争加剧。",
+        "affected_sectors": [
+          "半导体",
+          "存储芯片",
+          "AI"
+        ],
+        "affected_assets": [
+          "SK海力士美股",
+          "长鑫科技",
+          "半导体ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "长鑫科技IPO定价如何？",
+          "SK海力士美股后续走势如何？"
+        ]
+      },
+      "us_market_relevance": "high",
       "is_recent": true,
       "is_old_context": false
     }
   ],
   "politics_highlights": [
     {
-      "index": 15,
-      "title_cn": "继苹果之后，印度智能手机制造进入Vivo合资新阶段",
+      "index": 1,
+      "title_cn": "魔法少女与毒品战争漫画将于7月21日完结",
+      "source": "Anime News Network",
+      "source_display_name": "Anime News Network",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "漫画《魔法少女与毒品战争》将于7月21日完结，作者为Yū Nomiya和Merou Meiji。",
+      "short_summary_cn": "该漫画由作家Yū Nomiya和艺术家Merou Meiji创作，于2025年5月开始连载。作品融合魔法少女与毒品战争题材，将于7月21日正式完结。",
+      "why_it_matters_cn": "该漫画的完结标志着一种独特跨界题材的阶段性结束，可能引发粉丝讨论和后续IP开发。",
+      "action_suggestion_cn": "关注完结后的官方消息，如有单行本或衍生作品可提前收藏。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "漫画完结是动漫圈重要事件，但题材小众，影响有限。",
+      "frontpage_reason_cn": "适合放在动漫板块，提醒粉丝关注最终话。",
+      "anime_event_detail": {
+        "event_type": "漫画完结",
+        "ip_or_work_title": "魔法少女与毒品战争",
+        "person_name": "Yū Nomiya, Merou Meiji",
+        "role": "作者/画家",
+        "event_date": "2026-07-21",
+        "event_time": "未知",
+        "venue": "未知",
+        "city": "未知",
+        "country": "日本",
+        "ticket_method": "无需门票",
+        "application_period": "不适用",
+        "lottery_or_first_come": "不适用",
+        "purchase_requirement": "无",
+        "goods_or_bonus": "最终话内容",
+        "official_source": "https://www.animenewsnetwork.com/news/2026-07-10/magical-girl-and-narco-wars-manga-ends-on-july-21/.239421",
+        "urgency_level": "低",
+        "collector_value": "低",
+        "travel_feasibility": "不适用",
+        "action_needed_cn": "阅读最终话，关注后续单行本或衍生作品。"
+      },
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 1
+    },
+    {
+      "index": 4,
+      "title_cn": "欧盟威胁对Meta罚款，因其平台存在成瘾性功能",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "politics_world",
-      "news_type": "politics",
+      "news_type": "tech",
       "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "欧盟指控Meta违反数字服务法，因其无限滚动、自动播放等成瘾性功能。",
+      "short_summary_cn": "欧盟委员会表示，Meta在Facebook和Instagram上使用无限滚动、自动播放、推送通知和高度个性化推荐算法，违反了数字服务法。Meta面临巨额罚款风险。",
+      "why_it_matters_cn": "这是欧盟对大型科技平台内容监管的又一重大行动，可能迫使Meta改变产品设计。",
+      "action_suggestion_cn": "关注Meta的回应和整改措施，评估对广告业务的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "欧盟监管升级，对Meta商业模式构成直接威胁。",
+      "frontpage_reason_cn": "科技政策板块重要新闻，影响全球科技监管趋势。",
+      "impact_analysis": {
+        "immediate_impact_cn": "Meta股价可能下跌，公司面临合规压力。",
+        "medium_term_impact_cn": "Meta可能被迫调整产品功能，影响用户参与度和广告收入。",
+        "long_term_impact_cn": "若罚款落地，将树立监管先例，影响其他平台。",
+        "affected_sectors": [
+          "社交媒体",
+          "数字广告",
+          "科技监管"
+        ],
+        "affected_assets": [
+          "META",
+          "社交媒体ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "Meta是否会提起上诉？",
+          "其他欧盟国家是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 4
+    },
+    {
+      "index": 15,
+      "title_cn": "欧盟要求Meta禁用自动播放和无限滚动",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "politics_world",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "欧盟根据数字服务法要求Meta禁用自动播放和无限滚动功能。",
+      "short_summary_cn": "欧盟委员会根据数字服务法，要求Meta禁用Facebook和Instagram上的自动播放、无限滚动等成瘾性功能，否则将面临巨额罚款。",
+      "why_it_matters_cn": "这可能导致Meta平台用户体验和广告收入发生重大变化。",
+      "action_suggestion_cn": "关注Meta的合规措施，评估对广告投放效果的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "与第4条新闻内容重复，但来源不同，确认信息可靠性。",
+      "frontpage_reason_cn": "科技政策板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "Meta股价可能承压。",
+        "medium_term_impact_cn": "Meta可能被迫调整产品设计。",
+        "long_term_impact_cn": "可能改变社交媒体行业标准。",
+        "affected_sectors": [
+          "社交媒体",
+          "数字广告"
+        ],
+        "affected_assets": [
+          "META"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "Meta是否会遵守？",
+          "其他平台是否会受影响？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 21,
+      "title_cn": "中国可重复使用火箭追赶马斯克",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "politics_world",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Vivo合资企业可能成为中国手机制造商在印度的新模板。",
-      "short_summary_cn": "继苹果之后，印度智能手机制造业迎来新阶段。Vivo的合资企业模式可能成为中国手机制造商在印度运营的范本，影响全球供应链布局。",
-      "why_it_matters_cn": "印度制造政策影响全球科技供应链，Vivo模式可能改变中国企业在印策略。",
-      "action_suggestion_cn": "关注印度制造政策变化，评估对中国手机供应链的影响。",
+      "key_takeaway_cn": "中国国有航天公司首次回收轨道火箭助推器。",
+      "short_summary_cn": "中国国有航天公司在发射后成功回收了首个轨道火箭助推器，标志着中国在可重复使用火箭技术方面取得重大进展，正在追赶马斯克的SpaceX。",
+      "why_it_matters_cn": "这显示了中国在航天领域的快速进步，可能改变全球航天竞争格局。",
+      "action_suggestion_cn": "关注中国可重复使用火箭的后续测试和商业化进展。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "全球供应链重组重要信号。",
-      "frontpage_reason_cn": "印度制造崛起，影响全球科技产业格局。",
+      "tracking_value": 2,
+      "editor_reason_cn": "航天技术突破是重要新闻，但短期市场影响有限。",
+      "frontpage_reason_cn": "科技板块，关注航天动态。",
       "impact_analysis": {
-        "immediate_impact_cn": "中国手机制造商可能调整印度策略。",
-        "medium_term_impact_cn": "印度智能手机产能和出口有望增长。",
-        "long_term_impact_cn": "全球供应链从中国向印度转移加速。",
+        "immediate_impact_cn": "引发航天领域讨论。",
+        "medium_term_impact_cn": "可能加速中国商业航天发展。",
+        "long_term_impact_cn": "全球航天发射成本可能进一步下降。",
+        "affected_sectors": [
+          "航天",
+          "国防"
+        ],
+        "affected_assets": [
+          "SpaceX相关资产（非上市）",
+          "中国航天概念股"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "中国可重复使用火箭的性能如何？",
+          "SpaceX如何应对竞争？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 22,
+      "title_cn": "佛罗里达勒索软件谈判者被判有罪",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "第三名勒索软件谈判者因帮助勒索团伙敲诈美国公司被判刑。",
+      "short_summary_cn": "一名佛罗里达州的勒索软件谈判者因帮助一个臭名昭著的勒索软件团伙敲诈美国受害者公司而被判有罪。这是第三名因此类行为被判刑的谈判者。",
+      "why_it_matters_cn": "显示了美国司法部门对勒索软件产业链的严厉打击。",
+      "action_suggestion_cn": "企业应加强网络安全防护，避免成为勒索软件目标。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "网络安全执法新闻，对企业和个人有警示作用。",
+      "frontpage_reason_cn": "科技安全板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "对勒索软件产业链形成威慑。",
+        "medium_term_impact_cn": "可能减少勒索软件攻击事件。",
+        "long_term_impact_cn": "推动网络安全保险和防护市场发展。",
+        "affected_sectors": [
+          "网络安全",
+          "法律"
+        ],
+        "affected_assets": [
+          "网络安全ETF"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "该谈判者具体帮助了哪个团伙？",
+          "其他谈判者是否也会被追责？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 23,
+      "title_cn": "印度智能手机制造进入新阶段：Vivo合资",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "Vivo的合资企业可能成为中国手机制造商在印度的模板。",
+      "short_summary_cn": "继苹果之后，印度智能手机制造业进入新阶段，Vivo的合资企业可能成为中国手机制造商在印度的新模式。",
+      "why_it_matters_cn": "反映了全球供应链从中国向印度转移的趋势。",
+      "action_suggestion_cn": "关注印度智能手机制造政策，评估对中国供应链的影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "供应链转移是长期趋势，值得跟踪。",
+      "frontpage_reason_cn": "科技产业板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发供应链讨论。",
+        "medium_term_impact_cn": "更多中国手机制造商可能效仿Vivo。",
+        "long_term_impact_cn": "印度可能成为全球智能手机制造中心之一。",
         "affected_sectors": [
           "智能手机制造",
-          "电子制造",
           "供应链"
         ],
         "affected_assets": [
-          "Vivo",
-          "小米",
-          "苹果供应链"
+          "中国手机制造商股票",
+          "印度相关ETF"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
         "follow_up_questions": [
-          "Vivo合资的具体条款？",
+          "Vivo合资的具体细节？",
           "其他中国厂商是否会跟进？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "us_market_relevance": "low",
+      "is_recent": false,
       "is_old_context": false
     }
   ],
   "us_market_impact": {
-    "overall_market_tone": "positive",
-    "summary_cn": "AI技术密集发布和芯片合作消息推动科技板块走强，市场情绪积极，但版权诉讼和监管不确定性带来部分压力。",
+    "overall_market_tone": "mixed",
+    "summary_cn": "AI芯片和模型升级消息提振科技股，但苹果起诉OpenAI带来法律风险，市场情绪混合偏正面。",
     "index_impact": {
-      "nasdaq": "预计上涨，AI芯片和软件股领涨",
-      "sp500": "温和上涨，科技权重股受益",
-      "russell2000": "中性，AI主题对小型股影响有限"
+      "nasdaq": "偏正面，AI芯片和软件股领涨",
+      "sp500": "中性偏正面，科技权重支撑",
+      "russell2000": "中性，AI消息对中小盘影响有限"
     },
     "sector_impacts": [
       {
         "sector": "半导体",
         "direction": "up",
-        "reason_cn": "OpenAI与博通推出定制AI推理芯片，Meta AI芯片9月投产，AI芯片需求预期强劲。",
-        "related_news": "OpenAI与博通联合发布LLM推理芯片Jalapeño；Meta新款AI芯片将于9月开始生产",
-        "possible_tickers": "AVGO, NVDA, AMD, META"
+        "reason_cn": "OpenAI与博通推出推理芯片，SK海力士大涨，利好芯片设计、制造和存储。",
+        "related_news": "OpenAI与博通推出LLM优化推理芯片；SK海力士美股大涨",
+        "possible_tickers": "AVGO, SK Hynix (间接), NVDA, AMD"
       },
       {
-        "sector": "软件与云服务",
+        "sector": "软件/云计算",
         "direction": "up",
-        "reason_cn": "GPT-5.6成为微软Copilot首选模型，三星、惠普大规模部署OpenAI，企业AI采用加速。",
-        "related_news": "GPT-5.6成为Microsoft 365 Copilot首选模型；三星电子为全球员工部署ChatGPT和Codex；惠普与OpenAI建立Frontier战略合作伙伴关系",
-        "possible_tickers": "MSFT, CRM, ORCL, NOW"
+        "reason_cn": "GPT-5.6成为微软Copilot首选模型，增强办公AI能力，利好微软及AI应用软件。",
+        "related_news": "GPT-5.6成为微软365 Copilot首选模型",
+        "possible_tickers": "MSFT, CRM, ADBE"
       },
       {
-        "sector": "媒体与出版",
+        "sector": "科技硬件",
         "direction": "mixed",
-        "reason_cn": "纽约时报版权诉讼升级，可能影响AI训练数据合法性，对内容出版商有利有弊。",
-        "related_news": "纽约时报指控OpenAI在版权审判中隐藏证据",
-        "possible_tickers": "NYT, DIS, CMCSA"
+        "reason_cn": "苹果起诉OpenAI可能影响苹果自身股价，但惠普与OpenAI合作带来正面消息。",
+        "related_news": "苹果起诉OpenAI；惠普与OpenAI建立战略合作",
+        "possible_tickers": "AAPL, HPQ"
       }
     ],
     "theme_impacts": [
       {
-        "theme": "AI芯片定制化",
+        "theme": "AI芯片自主化",
         "direction": "up",
-        "reason_cn": "OpenAI与博通合作推出定制芯片，Meta自研芯片，AI芯片定制化趋势加速。",
-        "watch_tickers": "AVGO, MRVL, AMD"
+        "reason_cn": "OpenAI与博通合作推出专用芯片，减少对英伟达依赖，利好博通和定制芯片设计。",
+        "watch_tickers": "AVGO, MRVL, NVDA"
       },
       {
-        "theme": "企业AI部署",
-        "direction": "up",
-        "reason_cn": "三星、惠普等大型企业全面部署AI，企业级AI服务需求爆发。",
-        "watch_tickers": "MSFT, CRM, NOW"
-      },
-      {
-        "theme": "AI版权与监管",
+        "theme": "AI监管风险",
         "direction": "down",
-        "reason_cn": "纽约时报诉讼和政府审查不透明，增加AI行业法律和监管风险。",
-        "watch_tickers": "GOOGL, META, MSFT"
+        "reason_cn": "苹果起诉OpenAI和欧盟对Meta施压，增加科技公司法律和合规成本。",
+        "watch_tickers": "META, AAPL, GOOGL"
+      },
+      {
+        "theme": "AI办公应用",
+        "direction": "up",
+        "reason_cn": "GPT-5.6深度集成微软Copilot，推动AI办公软件普及，利好微软生态。",
+        "watch_tickers": "MSFT, NOW, WDAY"
       }
     ],
     "risk_factors": [
-      "纽约时报版权诉讼可能迫使OpenAI改变训练数据策略，增加合规成本。",
-      "政府AI安全审查不透明，可能出台更严格监管措施。",
-      "OpenAI二号人物辞职正值IPO关键期，管理层稳定性存疑。"
+      "苹果诉OpenAI案可能扩大化，影响AI行业人才流动和合作。",
+      "欧盟对Meta的罚款可能引发其他科技公司调整产品设计。",
+      "AI芯片竞争加剧可能导致英伟达市场份额受侵蚀。"
     ],
     "follow_up_events": [
       {
-        "event_name": "纽约时报诉OpenAI版权案关键证据听证",
-        "expected_date": "未来1-2个月",
-        "why_watch_cn": "可能揭示OpenAI训练数据来源合法性，影响整个AI行业版权实践。",
-        "market_relevance_cn": "若OpenAI败诉，可能引发AI公司数据使用模式改变，增加成本。"
+        "event_name": "苹果诉OpenAI案首次听证会",
+        "expected_date": "未来1-2周",
+        "why_watch_cn": "案件进展将影响AI行业商业机密保护和竞争格局。",
+        "market_relevance_cn": "高，涉及苹果和OpenAI两大科技巨头，可能引发板块波动。"
       },
       {
-        "event_name": "OpenAI与博通Jalapeño芯片量产公告",
+        "event_name": "欧盟对Meta的正式处罚决定",
+        "expected_date": "未来1-3个月",
+        "why_watch_cn": "处罚金额和整改要求将影响Meta运营成本和产品策略。",
+        "market_relevance_cn": "高，直接涉及Meta股价和社交媒体行业监管。"
+      },
+      {
+        "event_name": "OpenAI博通芯片Jalapeño量产时间表公布",
         "expected_date": "未来3-6个月",
-        "why_watch_cn": "定制AI芯片性能与成本将影响AI推理市场格局。",
-        "market_relevance_cn": "利好博通及AI芯片供应链，可能冲击英伟达推理市场份额。"
-      },
-      {
-        "event_name": "Meta AI芯片9月投产",
-        "expected_date": "2025年9月",
-        "why_watch_cn": "Meta自研芯片将降低对外部供应商依赖，影响AI硬件竞争格局。",
-        "market_relevance_cn": "利好Meta成本控制，可能对英伟达、AMD等供应商造成压力。"
+        "why_watch_cn": "量产进度将影响AI硬件供应链和博通业绩。",
+        "market_relevance_cn": "高，利好博通和AI芯片板块。"
       }
     ]
   },
   "future_watchlist": [
     {
-      "title": "GPT-5.6在微软Copilot中的全面部署效果",
-      "category": "AI应用",
+      "title": "苹果诉OpenAI案进展",
+      "category": "法律/科技",
       "expected_date": "未来1-2周",
-      "why_watch_cn": "GPT-5.6成为微软Copilot首选模型，其性能提升将直接影响数亿用户办公体验。",
-      "market_relevance_cn": "若效果显著，将推动微软云服务订阅增长，利好MSFT。",
+      "why_watch_cn": "案件可能影响AI行业商业机密保护和合作模式。",
+      "market_relevance_cn": "高，涉及苹果和OpenAI，可能引发科技股波动。",
       "anime_relevance_cn": "低",
       "urgency": "high",
-      "created_at": "2026-07-10",
-      "updated_at": "2026-07-10",
+      "created_at": "2026-07-11",
+      "updated_at": "2026-07-11",
       "status": "active"
     },
     {
-      "title": "OpenAI与博通Jalapeño芯片量产进展",
-      "category": "AI硬件",
-      "expected_date": "未来3-6个月",
-      "why_watch_cn": "定制AI推理芯片将改变AI推理成本结构，影响整个AI产业链。",
-      "market_relevance_cn": "利好博通（AVGO），可能冲击英伟达推理市场份额。",
-      "anime_relevance_cn": "低",
-      "urgency": "high",
-      "created_at": "2026-07-10",
-      "updated_at": "2026-07-10",
-      "status": "active"
-    },
-    {
-      "title": "纽约时报版权案关键证据披露",
-      "category": "法律与监管",
+      "title": "GPT-5.6在微软Copilot中的实际表现",
+      "category": "AI/科技",
       "expected_date": "未来1-2个月",
-      "why_watch_cn": "可能揭示OpenAI训练数据来源合法性，影响AI行业版权实践。",
-      "market_relevance_cn": "若OpenAI败诉，可能引发AI公司数据使用模式改变，增加合规成本。",
+      "why_watch_cn": "用户反馈将验证模型能力，影响微软AI办公生态。",
+      "market_relevance_cn": "高，利好微软及AI软件板块。",
       "anime_relevance_cn": "低",
-      "urgency": "medium",
-      "created_at": "2026-07-10",
-      "updated_at": "2026-07-10",
+      "urgency": "high",
+      "created_at": "2026-07-11",
+      "updated_at": "2026-07-11",
       "status": "active"
     },
     {
-      "title": "Meta AI芯片9月投产及性能表现",
-      "category": "AI硬件",
-      "expected_date": "2025年9月",
-      "why_watch_cn": "Meta自研芯片将降低对外部供应商依赖，影响AI硬件竞争格局。",
-      "market_relevance_cn": "利好Meta成本控制，可能对英伟达、AMD等供应商造成压力。",
+      "title": "欧盟对Meta的最终处罚决定",
+      "category": "监管/科技",
+      "expected_date": "未来1-3个月",
+      "why_watch_cn": "处罚金额和整改要求将影响Meta运营和社交媒体行业。",
+      "market_relevance_cn": "高，直接涉及Meta股价。",
       "anime_relevance_cn": "低",
       "urgency": "medium",
-      "created_at": "2026-07-10",
-      "updated_at": "2026-07-10",
+      "created_at": "2026-07-11",
+      "updated_at": "2026-07-11",
       "status": "active"
     },
     {
-      "title": "OpenAI IPO进展及管理层变动",
-      "category": "资本市场",
-      "expected_date": "未来6-12个月",
-      "why_watch_cn": "OpenAI IPO将是科技领域最大事件之一，二号人物辞职增加不确定性。",
-      "market_relevance_cn": "IPO估值和定价将影响整个AI板块估值体系。",
+      "title": "OpenAI博通芯片Jalapeño量产进展",
+      "category": "AI/硬件",
+      "expected_date": "未来3-6个月",
+      "why_watch_cn": "量产进度将影响AI硬件供应链和博通业绩。",
+      "market_relevance_cn": "高，利好博通和AI芯片板块。",
       "anime_relevance_cn": "低",
       "urgency": "medium",
-      "created_at": "2026-07-10",
-      "updated_at": "2026-07-10",
+      "created_at": "2026-07-11",
+      "updated_at": "2026-07-11",
       "status": "active"
     }
   ],
   "articles": [
     {
-      "index": 14,
-      "title_cn": "韩国声优姜熙善去世，曾为蜡笔小新妈妈配音",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "韩国资深声优姜熙善（65岁）去世，其子演员安恩锡发文悼念。",
-      "short_summary_cn": "曾为《蜡笔小新》中野原美冴配音的韩国资深声优姜熙善于近日去世，享年65岁。她的儿子、演员兼制片人安恩锡在社交媒体上发表了感人悼念。",
-      "why_it_matters_cn": "姜熙善是韩国动画配音界的标志性人物，她的离世是韩国动漫界的重大损失。",
-      "action_suggestion_cn": "关注后续纪念活动和追悼会信息，动漫迷可重温其经典作品。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 3,
-      "editor_reason_cn": "声优界重要人物去世，具有纪念意义。",
-      "frontpage_reason_cn": "蜡笔小新粉丝广泛，消息触动情感。",
-      "anime_event_detail": {
-        "event_type": "seiyuu_event",
-        "ip_or_work_title": "蜡笔小新",
-        "person_name": "姜熙善",
-        "role": "声优（野原美冴）",
-        "event_date": "2026-07-09",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "韩国",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "low",
-        "collector_value": "medium",
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注后续纪念活动，无需立即行动。"
-      },
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 1,
-      "title_cn": "Anthropic发现Claude内部概念推理隐藏空间",
+      "index": 2,
+      "title_cn": "Anthropic发现Claude内部隐藏概念空间",
       "source": "MIT Technology Review",
       "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic开发雅可比透镜技术，首次清晰揭示大语言模型内部运作机制。",
-      "short_summary_cn": "Anthropic公司开发了一种名为雅可比透镜的新技术，得以窥见大语言模型在回答问题或执行任务时的内部活动。发现结果从平凡到令人不安，为理解AI黑箱提供了前所未有的视角。",
-      "why_it_matters_cn": "这是AI可解释性研究的重大突破，有助于提升模型安全性和透明度，影响未来AI监管与信任。",
-      "action_suggestion_cn": "关注Anthropic后续论文和技术细节，评估对AI安全投资和模型选型的影响。",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "Anthropic开发新工具，首次清晰揭示大语言模型内部运作机制。",
+      "short_summary_cn": "Anthropic公司开发了名为Jacobian lens的工具，能够窥见Claude等大语言模型在回答问题或执行任务时的内部状态。研究结果既有平凡发现，也有令人不安的洞察。",
+      "why_it_matters_cn": "这标志着AI可解释性领域的重大突破，有助于理解模型行为并提升安全性。",
+      "action_suggestion_cn": "关注Anthropic后续研究论文，评估对AI安全政策的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI可解释性里程碑，对行业有深远影响。",
-      "frontpage_reason_cn": "揭示AI黑箱内部，技术突破性强，读者关注度高。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI可解释性突破对行业有深远影响，但短期不直接驱动市场。",
+      "frontpage_reason_cn": "适合科技板块头条，展示AI前沿研究。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI安全与可解释性领域热议，Anthropic技术领先地位巩固。",
-        "medium_term_impact_cn": "可能推动监管机构要求AI公司提供类似透明度工具。",
-        "long_term_impact_cn": "促进更安全的AI系统设计，影响下一代模型架构。",
+        "immediate_impact_cn": "引发AI安全社区讨论，可能推动更多可解释性研究。",
+        "medium_term_impact_cn": "可能影响AI监管政策，促使企业公开模型内部机制。",
+        "long_term_impact_cn": "若技术成熟，可大幅提升AI系统可靠性和信任度。",
         "affected_sectors": [
           "AI研发",
-          "AI安全",
-          "科技监管"
+          "科技监管",
+          "学术研究"
         ],
         "affected_assets": [
-          "Anthropic相关投资",
-          "AI安全初创公司"
+          "AI公司股票",
+          "科技ETF"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "雅可比透镜能否商业化？",
+          "Jacobian lens能否商业化？",
           "其他AI公司是否会跟进？"
         ]
       },
       "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "OpenAI称GPT-5.6是微软Copilot 365首选模型",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI确认GPT-5.6将继续为微软办公套件提供AI能力，回应分手传闻。",
-      "short_summary_cn": "在微软与OpenAI可能分手的传闻中，OpenAI明确表示GPT-5.6是微软365 Copilot的首选模型。双方合作关系依然稳固，新模型将赋能Word、Excel等应用。",
-      "why_it_matters_cn": "澄清了市场对微软-OpenAI联盟破裂的担忧，稳定了企业AI生态预期。",
-      "action_suggestion_cn": "企业用户可继续基于微软Copilot规划AI工作流，无需担心模型切换风险。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "直接回应市场核心疑虑，影响企业AI部署决策。",
-      "frontpage_reason_cn": "微软与OpenAI关系是AI行业焦点，此消息稳定军心。",
-      "impact_analysis": {
-        "immediate_impact_cn": "平息分手传闻，微软和OpenAI股价可能企稳。",
-        "medium_term_impact_cn": "企业客户继续采用Microsoft 365 Copilot的信心增强。",
-        "long_term_impact_cn": "双方合作模式可能成为AI平台与云服务商合作的范本。",
-        "affected_sectors": [
-          "企业软件",
-          "AI平台",
-          "云计算"
-        ],
-        "affected_assets": [
-          "微软股票",
-          "OpenAI估值"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "GPT-5.6在Copilot中的具体性能提升？",
-          "微软是否仍计划自研模型？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 2
     },
     {
       "index": 3,
-      "title_cn": "OpenAI发布GPT-5.6新模型系列",
+      "title_cn": "苹果起诉OpenAI涉嫌窃取商业机密",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-07-10",
+      "date_display": "2026-07-11",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI推出GPT-5.6系列，在网络安全等领域带来全面改进。",
-      "short_summary_cn": "OpenAI正式发布GPT-5.6系列模型，承诺在多个领域实现性能提升，包括网络安全。新模型系列旨在巩固其在AI领域的领先地位。",
-      "why_it_matters_cn": "GPT-5.6是OpenAI最新旗舰模型，将影响整个AI应用生态和竞争格局。",
-      "action_suggestion_cn": "开发者立即测试GPT-5.6 API性能，评估在自身产品中的集成潜力。",
+      "key_takeaway_cn": "苹果指控OpenAI高层指示前员工窃取商业机密。",
+      "short_summary_cn": "苹果在诉讼中称，OpenAI的高级领导层（包括一名长期前员工）指示了不当行为，窃取了苹果的商业机密。此案涉及OpenAI的硬件业务。",
+      "why_it_matters_cn": "两大科技巨头之间的法律战可能重塑AI行业竞争格局，影响人才流动和知识产权保护。",
+      "action_suggestion_cn": "关注诉讼进展，评估对OpenAI IPO和苹果AI战略的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "重大产品发布，定义行业标准。",
-      "frontpage_reason_cn": "AI领域最受关注的模型迭代，直接影响用户和投资者。",
+      "tracking_value": 2,
+      "editor_reason_cn": "苹果诉OpenAI是重大法律事件，可能引发行业震荡。",
+      "frontpage_reason_cn": "科技板块头条，涉及两家巨头，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发开发者社区广泛测试和讨论，API调用量激增。",
-        "medium_term_impact_cn": "竞争对手如Anthropic、Google可能加速模型更新。",
-        "long_term_impact_cn": "GPT-5.6能力提升将催生新应用场景，扩大AI市场。",
+        "immediate_impact_cn": "OpenAI声誉受损，苹果股价可能短期承压。",
+        "medium_term_impact_cn": "诉讼可能导致OpenAI IPO推迟，苹果AI研发加速。",
+        "long_term_impact_cn": "若苹果胜诉，将强化知识产权保护，影响AI人才流动。",
         "affected_sectors": [
-          "AI开发",
-          "网络安全",
-          "企业软件"
+          "AI",
+          "科技硬件",
+          "法律"
         ],
         "affected_assets": [
-          "OpenAI估值",
-          "AI芯片需求"
+          "AAPL",
+          "OpenAI相关资产",
+          "科技ETF"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
         "follow_up_questions": [
-          "GPT-5.6相比GPT-5.5的具体提升？",
-          "定价策略是否有变化？"
+          "OpenAI是否会反诉？",
+          "苹果是否掌握确凿证据？",
+          "此案对AI行业人才招聘有何影响？"
         ]
       },
       "us_market_relevance": "high",
@@ -1534,218 +1606,222 @@
       "frontpage_rank": 3
     },
     {
-      "index": 4,
-      "title_cn": "纽约时报指控OpenAI在版权审判中隐藏证据",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "纽约时报称OpenAI隐藏了能证明ChatGPT使用受版权新闻材料的工具和数据集。",
-      "short_summary_cn": "在ChatGPT版权侵权诉讼中，纽约时报提交新动议，指控OpenAI隐藏了可识别其输出中受版权保护新闻内容的工具和数据集。此举可能升级为制裁动议。",
-      "why_it_matters_cn": "此案结果将确立AI训练数据版权边界，影响整个AI行业的数据使用规范。",
-      "action_suggestion_cn": "密切关注诉讼进展，评估对AI公司数据获取策略的潜在法律风险。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "版权诉讼核心进展，可能改变AI行业游戏规则。",
-      "frontpage_reason_cn": "涉及AI版权根本问题，法律与科技交叉热点。",
-      "impact_analysis": {
-        "immediate_impact_cn": "OpenAI面临更大法律压力，股价可能短期承压。",
-        "medium_term_impact_cn": "若制裁成立，OpenAI可能被要求提供更多内部数据。",
-        "long_term_impact_cn": "可能推动AI训练数据版权法规的明确化。",
-        "affected_sectors": [
-          "AI",
-          "出版",
-          "法律"
-        ],
-        "affected_assets": [
-          "OpenAI估值",
-          "新闻出版类股票"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "法院是否会批准制裁动议？",
-          "其他内容版权方是否会跟进？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
       "index": 5,
-      "title_cn": "政府如何判定OpenAI前沿模型安全可发布？",
+      "title_cn": "OpenAI称GPT-5.6是微软Copilot 365首选模型",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "政府与OpenAI和Anthropic的安全审查对话细节仍不透明。",
-      "short_summary_cn": "文章探讨了政府如何决定OpenAI前沿模型可以安全发布的过程。报道指出，政府与Anthropic和OpenAI之间的具体对话内容尚不清楚，引发对AI安全审查透明度的质疑。",
-      "why_it_matters_cn": "AI安全审查流程的透明度直接影响公众信任和监管政策制定。",
-      "action_suggestion_cn": "关注后续报道，了解AI安全审查标准，为合规做准备。",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "OpenAI确认GPT-5.6将继续为微软Copilot 365提供动力，回应分手传闻。",
+      "short_summary_cn": "在微软与OpenAI可能分手的传闻中，OpenAI明确表示GPT-5.6是微软Copilot 365的“首选模型”。新模型系列将继续支持微软的办公和生产力应用套件。",
+      "why_it_matters_cn": "这稳定了市场对微软-OpenAI合作关系的预期，对两家公司的AI战略至关重要。",
+      "action_suggestion_cn": "关注微软Copilot 365的更新，评估GPT-5.6对办公效率的提升。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "触及AI治理核心问题，影响政策走向。",
-      "frontpage_reason_cn": "AI安全审查透明度是公众和投资者共同关心的话题。",
+      "tracking_value": 2,
+      "editor_reason_cn": "合作关系确认，消除市场不确定性。",
+      "frontpage_reason_cn": "AI板块重要新闻，影响企业AI应用市场。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对AI安全审查流程的讨论和质疑。",
-        "medium_term_impact_cn": "可能促使政府公布更多审查细节或改进流程。",
-        "long_term_impact_cn": "推动建立更标准化的AI安全评估框架。",
+        "immediate_impact_cn": "微软和OpenAI股价可能小幅上涨。",
+        "medium_term_impact_cn": "GPT-5.6将推动Copilot 365功能升级，增强微软在办公AI领域的竞争力。",
+        "long_term_impact_cn": "合作关系稳固，可能加速企业AI adoption。",
         "affected_sectors": [
-          "AI监管",
-          "政府科技政策"
+          "AI软件",
+          "企业办公",
+          "云计算"
         ],
         "affected_assets": [
-          "AI公司合规成本"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "审查流程具体包含哪些步骤？",
-          "是否有第三方参与评估？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
-      "title_cn": "GPT-5.6成为Microsoft 365 Copilot首选模型",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-09",
-      "freshness_label": "36h前",
-      "key_takeaway_cn": "GPT-5.6正式为Word、Excel等微软办公应用提供更强AI能力。",
-      "short_summary_cn": "OpenAI宣布GPT-5.6成为Microsoft 365 Copilot的首选模型，在Word、Excel、PowerPoint、Chat和Cowork中提供更强大的AI功能，提升工作效率和质量。",
-      "why_it_matters_cn": "这是GPT-5.6在生产力工具中的首次大规模落地，验证其商业化价值。",
-      "action_suggestion_cn": "Microsoft 365用户立即体验新功能，评估对工作流程的实际提升。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "重要产品集成，展示AI在办公场景的实际应用。",
-      "frontpage_reason_cn": "直接面向数亿用户的产品升级，影响广泛。",
-      "impact_analysis": {
-        "immediate_impact_cn": "Microsoft 365用户将感受到AI功能提升。",
-        "medium_term_impact_cn": "企业可能加速部署Copilot，推动AI办公普及。",
-        "long_term_impact_cn": "AI办公助手成为标准配置，改变工作方式。",
-        "affected_sectors": [
-          "企业软件",
-          "办公自动化",
-          "AI应用"
-        ],
-        "affected_assets": [
-          "微软股票",
-          "OpenAI收入"
+          "MSFT",
+          "OpenAI相关资产",
+          "AI ETF"
         ],
         "us_stock_relevance": "high",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "用户反馈如何？",
-          "是否会推出更多AI办公功能？"
+          "GPT-5.6相比前代有何提升？",
+          "微软是否会减少对OpenAI的依赖？"
         ]
       },
       "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "德国电信如何用AI重塑电信业务",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "德国电信与OpenAI合作，转型为AI原生电信公司。",
+      "short_summary_cn": "德国电信正在利用OpenAI技术转型为AI原生电信公司，应用涵盖客户服务、员工工作流、网络运营和语音未来。",
+      "why_it_matters_cn": "这展示了AI在传统电信行业的深度应用，可能成为行业标杆。",
+      "action_suggestion_cn": "关注德国电信的AI转型案例，评估对电信行业的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI在电信行业的应用案例具有示范意义。",
+      "frontpage_reason_cn": "科技板块，展示AI落地场景。",
+      "impact_analysis": {
+        "immediate_impact_cn": "提升OpenAI在企业市场的声誉。",
+        "medium_term_impact_cn": "其他电信公司可能效仿，推动AI在电信行业的普及。",
+        "long_term_impact_cn": "AI原生电信公司可能成为行业新标准。",
+        "affected_sectors": [
+          "电信",
+          "AI",
+          "企业服务"
+        ],
+        "affected_assets": [
+          "DTEGY",
+          "OpenAI相关资产"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "德国电信的AI转型效果如何？",
+          "其他电信公司是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 6
     },
     {
       "index": 7,
-      "title_cn": "OpenAI推出GPT-5.5生物漏洞赏金计划",
+      "title_cn": "GPT-5.6成为微软365 Copilot首选模型",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-09",
-      "freshness_label": "36h前",
-      "key_takeaway_cn": "OpenAI启动生物安全漏洞赏金计划，鼓励发现GPT-5.5在生物领域的风险。",
-      "short_summary_cn": "OpenAI公布了GPT-5.5 Bio Bug Bounty计划，邀请安全研究人员寻找模型在生物安全方面的潜在漏洞。这是AI安全治理的前沿实践。",
-      "why_it_matters_cn": "AI生物安全是高风险领域，此计划有助于提前发现和缓解潜在威胁。",
-      "action_suggestion_cn": "生物安全研究人员可参与赏金计划，关注AI双用途风险。",
-      "importance_score": 7,
+      "freshness_label": "59h前",
+      "key_takeaway_cn": "GPT-5.6正式成为微软365 Copilot的首选模型，增强办公AI能力。",
+      "short_summary_cn": "GPT-5.6将为微软365 Copilot提供更强的AI能力，覆盖Word、Excel、PowerPoint、Chat和Cowork等应用，实现更快、更高质量的工作。",
+      "why_it_matters_cn": "这标志着GPT-5.6在办公场景的正式落地，将直接影响数亿用户的工作效率。",
+      "action_suggestion_cn": "更新微软365 Copilot，体验GPT-5.6带来的新功能。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI安全治理创新举措，值得关注。",
-      "frontpage_reason_cn": "AI生物安全是热点话题，赏金计划具有新闻价值。",
+      "tracking_value": 2,
+      "editor_reason_cn": "GPT-5.6在办公领域的应用是重要里程碑。",
+      "frontpage_reason_cn": "AI板块，关注产品更新。",
       "impact_analysis": {
-        "immediate_impact_cn": "吸引安全社区关注AI生物风险。",
-        "medium_term_impact_cn": "可能发现关键漏洞，推动模型改进。",
-        "long_term_impact_cn": "为AI生物安全标准制定提供参考。",
+        "immediate_impact_cn": "微软365用户将获得更智能的AI助手。",
+        "medium_term_impact_cn": "可能推动更多企业采用Copilot，提升微软云服务收入。",
+        "long_term_impact_cn": "AI办公助手将成为企业标配，改变工作方式。",
+        "affected_sectors": [
+          "企业软件",
+          "AI",
+          "云计算"
+        ],
+        "affected_assets": [
+          "MSFT",
+          "AI ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "GPT-5.6在Copilot中的具体表现如何？",
+          "用户反馈如何？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 8,
+      "title_cn": "OpenAI推出GPT-5.5生物漏洞赏金计划",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-09",
+      "freshness_label": "59h前",
+      "key_takeaway_cn": "OpenAI启动生物漏洞赏金计划，鼓励发现GPT-5.5的安全问题。",
+      "short_summary_cn": "OpenAI公布了关于GPT-5.5生物漏洞赏金计划的详细信息，旨在通过外部研究者发现并修复模型在生物领域的潜在风险。",
+      "why_it_matters_cn": "这体现了OpenAI对AI安全的重视，尤其是在生物等高风险领域。",
+      "action_suggestion_cn": "安全研究人员可关注赏金计划细节，参与漏洞发现。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI安全是行业焦点，赏金计划有助于提升模型安全性。",
+      "frontpage_reason_cn": "科技板块，关注AI安全动态。",
+      "impact_analysis": {
+        "immediate_impact_cn": "吸引安全社区关注，可能发现潜在漏洞。",
+        "medium_term_impact_cn": "提升GPT-5.5的安全性，增强用户信任。",
+        "long_term_impact_cn": "可能成为AI安全领域的标准实践。",
         "affected_sectors": [
           "AI安全",
           "生物技术",
           "网络安全"
         ],
         "affected_assets": [
-          "OpenAI声誉"
+          "OpenAI相关资产"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "赏金金额是多少？",
-          "已发现哪些漏洞？"
+          "赏金计划的奖励金额是多少？",
+          "是否有其他AI公司跟进？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
-      "is_old_context": false
+      "is_old_context": false,
+      "frontpage_rank": 8
     },
     {
-      "index": 8,
-      "title_cn": "OpenAI报告：AI将重塑欧盟就业市场",
+      "index": 9,
+      "title_cn": "OpenAI报告：AI将重塑欧洲就业市场",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-06-29",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI报告显示AI将影响欧盟多种职业，部分岗位面临自动化风险。",
-      "short_summary_cn": "OpenAI发布新报告，绘制AI如何重塑欧盟就业市场。报告指出哪些职业可能面临自动化、增长或工作流程变化，为政策制定提供参考。",
-      "why_it_matters_cn": "为欧盟AI就业影响提供数据基础，影响劳动力政策和教育规划。",
-      "action_suggestion_cn": "企业HR和员工关注报告中的职业影响分类，提前规划技能提升。",
-      "importance_score": 7,
+      "key_takeaway_cn": "OpenAI报告显示AI将影响欧盟就业，部分岗位面临自动化风险。",
+      "short_summary_cn": "OpenAI发布新报告，绘制了AI如何重塑欧盟就业的图景，指出哪些职业可能面临自动化、增长或工作流程变化。",
+      "why_it_matters_cn": "该报告为政策制定者和企业提供了AI对就业影响的量化分析，有助于提前规划。",
+      "action_suggestion_cn": "关注报告中的职业分类，评估自身岗位的AI影响风险。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI就业影响是长期重要议题。",
-      "frontpage_reason_cn": "对欧洲读者有直接关联，就业话题关注度高。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI对就业的影响是长期重要议题。",
+      "frontpage_reason_cn": "科技政策板块，关注社会影响。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发欧盟政策讨论。",
-        "medium_term_impact_cn": "可能影响欧盟AI监管中的劳动力条款。",
-        "long_term_impact_cn": "推动职业培训和再教育体系改革。",
+        "immediate_impact_cn": "引发关于AI就业影响的讨论。",
+        "medium_term_impact_cn": "可能影响欧盟AI监管政策。",
+        "long_term_impact_cn": "推动职业培训和再教育需求。",
         "affected_sectors": [
-          "劳动力市场",
+          "就业市场",
           "教育",
-          "政策制定"
+          "政策"
         ],
         "affected_assets": [
-          "AI培训公司"
+          "无直接关联"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
           "哪些职业受影响最大？",
-          "欧盟将如何应对？"
+          "欧盟是否会出台应对政策？"
         ]
       },
       "us_market_relevance": "low",
@@ -1753,133 +1829,89 @@
       "is_old_context": true
     },
     {
-      "index": 9,
-      "title_cn": "OpenAI与博通联合发布LLM推理芯片Jalapeño",
+      "index": 10,
+      "title_cn": "OpenAI与博通推出LLM优化推理芯片",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-06-24",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI与博通推出定制AI推理芯片Jalapeño，提升性能和效率。",
-      "short_summary_cn": "OpenAI与博通合作推出Jalapeño芯片，专为大语言模型推理优化。该芯片旨在提升AI系统性能、效率和扩展能力，减少对第三方GPU的依赖。",
-      "why_it_matters_cn": "定制芯片可降低AI推理成本，增强OpenAI的供应链自主性。",
-      "action_suggestion_cn": "关注芯片性能指标和定价，评估对AI服务成本的影响。",
+      "key_takeaway_cn": "OpenAI与博通联合推出Jalapeño芯片，专为大语言模型推理优化。",
+      "short_summary_cn": "OpenAI和博通发布了名为Jalapeño的定制AI芯片，专为大语言模型推理设计，旨在提升性能、效率和扩展能力。",
+      "why_it_matters_cn": "定制芯片将降低AI推理成本，加速AI应用部署，并减少对英伟达的依赖。",
+      "action_suggestion_cn": "关注Jalapeño芯片的性能数据和客户采用情况。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "硬件突破对AI行业有战略意义。",
-      "frontpage_reason_cn": "AI芯片竞争加剧，影响整个产业链。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI芯片是行业关键基础设施，此合作意义重大。",
+      "frontpage_reason_cn": "科技板块，关注芯片行业动态。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI芯片行业关注，博通股价可能受益。",
-        "medium_term_impact_cn": "OpenAI推理成本降低，可能调整API定价。",
-        "long_term_impact_cn": "推动更多AI公司自研芯片，改变芯片市场格局。",
+        "immediate_impact_cn": "英伟达股价可能承压，博通股价上涨。",
+        "medium_term_impact_cn": "AI推理成本下降，推动更多AI应用。",
+        "long_term_impact_cn": "可能改变AI芯片市场格局，减少对单一供应商依赖。",
         "affected_sectors": [
           "半导体",
-          "AI基础设施",
+          "AI",
           "云计算"
         ],
         "affected_assets": [
-          "博通股票",
-          "英伟达股票",
-          "OpenAI估值"
+          "AVGO",
+          "NVDA",
+          "AMD",
+          "AI ETF"
         ],
         "us_stock_relevance": "very_high",
         "market_sentiment": "sector_rotation",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "Jalapeño性能对比英伟达H100？",
-          "何时量产？"
+          "Jalapeño芯片的量产时间表？",
+          "性能与英伟达产品相比如何？"
         ]
       },
       "us_market_relevance": "very_high",
       "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 7
+      "is_old_context": true
     },
     {
-      "index": 10,
-      "title_cn": "GPT-5帮助免疫学家破解三年未解之谜",
+      "index": 11,
+      "title_cn": "GPT-5帮助免疫学家解开三年未解之谜",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-06-24",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "GPT-5 Pro助力免疫学家解决T细胞行为谜题，有望推动癌症研究。",
-      "short_summary_cn": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个困扰三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能支持癌症和自身免疫疾病研究。",
-      "why_it_matters_cn": "展示AI在科学发现中的巨大潜力，加速生物医学研究。",
-      "action_suggestion_cn": "科研机构探索将GPT-5用于数据分析，加速研究进程。",
+      "key_takeaway_cn": "GPT-5 Pro帮助免疫学家解决了困扰三年的T细胞行为谜题。",
+      "short_summary_cn": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个长达三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能支持癌症和自身免疫疾病研究。",
+      "why_it_matters_cn": "展示了AI在科学发现中的巨大潜力，加速了生物医学研究。",
+      "action_suggestion_cn": "关注AI在生物医学领域的应用进展，评估投资机会。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 10,
-      "editor_reason_cn": "AI科学应用典型案例，具有示范效应。",
-      "frontpage_reason_cn": "AI推动科学突破，故事性强，鼓舞人心。",
+      "tracking_value": 2,
+      "editor_reason_cn": "AI辅助科学发现是重要趋势，此案例具有示范意义。",
+      "frontpage_reason_cn": "科技板块，展示AI在科研中的应用。",
       "impact_analysis": {
-        "immediate_impact_cn": "激发AI在生物医学领域的应用讨论。",
-        "medium_term_impact_cn": "更多科学家可能尝试用AI解决复杂问题。",
-        "long_term_impact_cn": "AI成为科学研究标配工具，加速发现周期。",
+        "immediate_impact_cn": "引发AI在生物医学领域的讨论。",
+        "medium_term_impact_cn": "可能推动更多AI辅助科研项目。",
+        "long_term_impact_cn": "加速新药研发和疾病治疗突破。",
         "affected_sectors": [
           "生物技术",
-          "AI应用",
-          "医药研发"
+          "AI",
+          "制药"
         ],
         "affected_assets": [
-          "AI医疗公司"
+          "生物科技ETF",
+          "AI ETF"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体如何帮助解决？",
-          "是否可推广到其他领域？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 8
-    },
-    {
-      "index": 11,
-      "title_cn": "三星电子为全球员工部署ChatGPT和Codex",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-06-22",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "三星电子全球部署ChatGPT Enterprise和Codex，为OpenAI最大企业部署之一。",
-      "short_summary_cn": "三星电子向全球员工推出ChatGPT Enterprise和Codex，成为OpenAI最大规模的企业AI部署之一。此举将AI融入日常工作和软件开发流程。",
-      "why_it_matters_cn": "显示大型企业加速采用AI，验证企业级AI产品的市场价值。",
-      "action_suggestion_cn": "企业IT决策者参考三星案例，评估自身AI部署策略。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "企业AI落地重要案例。",
-      "frontpage_reason_cn": "三星作为全球科技巨头，其AI部署具有标杆意义。",
-      "impact_analysis": {
-        "immediate_impact_cn": "推动其他大型企业跟进AI部署。",
-        "medium_term_impact_cn": "OpenAI企业业务收入有望增长。",
-        "long_term_impact_cn": "AI成为企业标配，改变工作模式。",
-        "affected_sectors": [
-          "企业软件",
-          "制造业",
-          "科技"
-        ],
-        "affected_assets": [
-          "OpenAI收入",
-          "三星生产力"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "部署规模具体多大？",
-          "员工反馈如何？"
+          "该发现是否已发表？",
+          "其他科学家是否能用AI复现类似成果？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1888,85 +1920,42 @@
     },
     {
       "index": 12,
-      "title_cn": "下载：你在OpenAI中的股份，以及财政部的AI警告",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-07-07",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Sam Altman提议美国人共享AI财富，同时财政部发出AI风险警告。",
-      "short_summary_cn": "本期下载报道聚焦两个话题：Sam Altman关于美国人应分享AI创造财富的提议重新引发关注，以及美国财政部对AI风险的警告。",
-      "why_it_matters_cn": "涉及AI财富分配和社会影响，关乎公众利益。",
-      "action_suggestion_cn": "关注AI财富分配讨论，了解政策动向。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI社会影响重要议题。",
-      "frontpage_reason_cn": "财富分配和风险警告都是热点话题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发公众对AI财富分配讨论。",
-        "medium_term_impact_cn": "可能影响AI监管政策中的社会条款。",
-        "long_term_impact_cn": "推动AI利益共享机制探索。",
-        "affected_sectors": [
-          "政策",
-          "社会",
-          "AI"
-        ],
-        "affected_assets": [
-          "AI公司公众形象"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "Altman的具体提案是什么？",
-          "财政部警告的具体内容？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 13,
-      "title_cn": "惠普与OpenAI建立Frontier战略合作伙伴关系",
+      "title_cn": "三星电子向员工部署ChatGPT和Codex",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI官方博客",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-06-29",
+      "date_display": "2026-06-22",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "惠普扩大与OpenAI的Frontier合作，在客户体验和运营中部署AI。",
-      "short_summary_cn": "惠普扩大与OpenAI的Frontier战略合作，在客户体验、软件开发和企业运营中部署AI能力。这是传统硬件巨头加速AI转型的标志。",
-      "why_it_matters_cn": "显示传统企业积极拥抱AI，AI应用从科技公司向传统行业扩展。",
-      "action_suggestion_cn": "传统行业企业参考惠普案例，探索AI转型路径。",
-      "importance_score": 9,
+      "key_takeaway_cn": "三星电子在全球范围内向员工部署ChatGPT Enterprise和Codex。",
+      "short_summary_cn": "三星电子在全球员工中部署ChatGPT Enterprise和Codex，这是OpenAI最大规模的企业AI部署之一。",
+      "why_it_matters_cn": "这标志着大型企业全面拥抱AI，可能推动其他企业效仿。",
+      "action_suggestion_cn": "关注三星的AI应用案例，评估企业AI市场的增长潜力。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "传统企业AI转型标杆案例。",
-      "frontpage_reason_cn": "惠普作为老牌科技公司，其AI战略具有示范效应。",
+      "tracking_value": 2,
+      "editor_reason_cn": "大型企业AI部署是行业风向标。",
+      "frontpage_reason_cn": "科技板块，关注企业AI应用。",
       "impact_analysis": {
-        "immediate_impact_cn": "惠普股价可能受益于AI转型预期。",
-        "medium_term_impact_cn": "更多传统企业可能宣布类似合作。",
-        "long_term_impact_cn": "AI渗透到各行各业，推动产业升级。",
+        "immediate_impact_cn": "提升OpenAI在企业市场的地位。",
+        "medium_term_impact_cn": "其他大型企业可能加速AI部署。",
+        "long_term_impact_cn": "企业AI市场将快速增长。",
         "affected_sectors": [
-          "硬件制造",
-          "企业服务",
-          "AI"
+          "企业软件",
+          "AI",
+          "制造业"
         ],
         "affected_assets": [
-          "惠普股票",
-          "OpenAI企业收入"
+          "SSNLF",
+          "OpenAI相关资产"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "合作具体范围？",
-          "预计投资金额？"
+          "三星员工的使用效果如何？",
+          "其他韩国企业是否会跟进？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1974,41 +1963,119 @@
       "is_old_context": true
     },
     {
-      "index": 16,
-      "title_cn": "OpenAI二号人物Fidji Simo辞职",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "index": 13,
+      "title_cn": "下载：Claude内部运作与OpenAI超级应用",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI二号高管Fidji Simo因医疗假延长而辞职，正值公司IPO关键期。",
-      "short_summary_cn": "OpenAI二号人物Fidji Simo因医疗假超出预期而辞去全职职务。这一领导层空缺发生在公司考虑IPO并与Anthropic竞争企业市场的关键时刻。",
-      "why_it_matters_cn": "高层变动可能影响OpenAI的战略执行和IPO进程。",
-      "action_suggestion_cn": "关注OpenAI后续高管任命，评估对公司战略的影响。",
-      "importance_score": 7,
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "今日科技简报：Anthropic发现Claude隐藏空间，OpenAI超级应用进展。",
+      "short_summary_cn": "本期《下载》简报涵盖两大新闻：Anthropic对Claude内部运作的突破性洞察，以及OpenAI超级应用的最新动态。",
+      "why_it_matters_cn": "综合了当日最重要的AI新闻，适合快速了解行业动态。",
+      "action_suggestion_cn": "阅读完整简报，获取AI行业最新进展。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI巨头高层变动，影响公司治理。",
-      "frontpage_reason_cn": "OpenAI领导层变动牵动市场神经。",
+      "tracking_value": 2,
+      "editor_reason_cn": "综合简报，信息密度高。",
+      "frontpage_reason_cn": "科技板块，适合快速阅读。",
       "impact_analysis": {
-        "immediate_impact_cn": "OpenAI领导层出现真空，可能影响短期决策。",
-        "medium_term_impact_cn": "IPO进程可能延迟或调整。",
-        "long_term_impact_cn": "新领导层可能带来战略方向变化。",
+        "immediate_impact_cn": "提供AI行业当日关键信息。",
+        "medium_term_impact_cn": "无直接市场影响。",
+        "long_term_impact_cn": "有助于跟踪AI发展趋势。",
+        "affected_sectors": [
+          "AI"
+        ],
+        "affected_assets": [],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Claude内部空间研究有何后续？",
+          "OpenAI超级应用何时发布？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 14,
+      "title_cn": "下载：你在OpenAI的股份与财政部AI警告",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-07",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "今日简报：Sam Altman讨论全民AI财富分配，财政部发布AI风险警告。",
+      "short_summary_cn": "本期《下载》简报涵盖：Sam Altman关于美国人分享AI财富的提案重新受到关注，以及美国财政部对AI风险的警告。",
+      "why_it_matters_cn": "涉及AI财富分配和监管两大热点议题。",
+      "action_suggestion_cn": "关注Altman提案的进展和财政部警告的具体内容。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "AI财富分配和监管是长期重要议题。",
+      "frontpage_reason_cn": "科技政策板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发关于AI财富分配的讨论。",
+        "medium_term_impact_cn": "可能影响AI监管政策。",
+        "long_term_impact_cn": "AI财富分配方案可能成为政策选项。",
+        "affected_sectors": [
+          "政策",
+          "AI",
+          "金融"
+        ],
+        "affected_assets": [],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Altman的提案具体内容是什么？",
+          "财政部警告了哪些风险？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": true
+    },
+    {
+      "index": 16,
+      "title_cn": "苹果起诉OpenAI，指控前员工窃取商业机密",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果起诉OpenAI，指控其前员工窃取商业机密。",
+      "short_summary_cn": "苹果在诉讼中指控OpenAI前员工窃取商业机密，此案在Hacker News上引发广泛讨论，获得688个点赞和334条评论。",
+      "why_it_matters_cn": "社区高度关注，反映了科技界对此案的重视。",
+      "action_suggestion_cn": "关注Hacker News上的讨论，了解行业观点。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "与第3条新闻内容重复，但来源不同，社区讨论热度高。",
+      "frontpage_reason_cn": "科技板块，关注社区反应。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发科技社区广泛讨论。",
+        "medium_term_impact_cn": "可能影响公众对OpenAI的看法。",
+        "long_term_impact_cn": "诉讼结果可能影响AI行业人才流动。",
         "affected_sectors": [
           "AI",
-          "企业管理"
+          "科技"
         ],
-        "affected_assets": [
-          "OpenAI估值"
-        ],
+        "affected_assets": [],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "谁将接替Simo？",
-          "对IPO有何影响？"
+          "社区对诉讼的看法如何？",
+          "是否有更多细节曝光？"
         ]
       },
       "us_market_relevance": "medium",
@@ -2017,40 +2084,261 @@
     },
     {
       "index": 17,
-      "title_cn": "OpenAI关闭Atlas浏览器，但AI浏览器野心不减",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "title_cn": "惠普与OpenAI建立前沿战略合作伙伴关系",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-07-10",
+      "date_display": "2026-06-29",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "惠普扩大与OpenAI的前沿合作，部署AI于客户体验和软件开发。",
+      "short_summary_cn": "惠普公司扩大了与OpenAI的前沿合作伙伴关系，将AI部署到客户体验、软件开发和企业运营中。",
+      "why_it_matters_cn": "这标志着传统硬件公司加速AI转型，可能成为行业趋势。",
+      "action_suggestion_cn": "关注惠普的AI转型进展，评估对硬件行业的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "传统企业AI转型是重要趋势。",
+      "frontpage_reason_cn": "科技板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "提升OpenAI在企业市场的地位。",
+        "medium_term_impact_cn": "惠普可能推出AI驱动的产品和服务。",
+        "long_term_impact_cn": "传统硬件公司可能全面AI化。",
+        "affected_sectors": [
+          "硬件",
+          "AI",
+          "企业服务"
+        ],
+        "affected_assets": [
+          "HPQ",
+          "OpenAI相关资产"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "惠普的AI部署具体包括哪些方面？",
+          "其他硬件公司是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true
+    },
+    {
+      "index": 18,
+      "title_cn": "9点1氪：长鑫科技承销团公布；SK海力士美股大涨",
+      "source": "36氪",
+      "source_display_name": "36氪",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "OpenAI关闭AI浏览器Atlas，但将部分功能移至桌面应用和Chrome扩展。",
-      "short_summary_cn": "OpenAI在推出不到一年后关闭了AI浏览器Atlas。但公司计划将部分代理浏览功能迁移到桌面应用和Chrome扩展中，继续探索AI浏览器领域。",
-      "why_it_matters_cn": "显示AI浏览器市场竞争激烈，OpenAI调整产品策略。",
-      "action_suggestion_cn": "关注OpenAI桌面应用的新功能，评估对浏览器市场的影响。",
+      "key_takeaway_cn": "今日热点：长鑫科技IPO承销团公布，SK海力士美股上市首日大涨。",
+      "short_summary_cn": "36氪今日热点包括：长鑫科技IPO承销团阵容公布，预计7月16日发行；SK海力士登陆美股首日大涨近13%；OpenAI推出ChatGPT智能体；三星李在镕拟7月底赴美会晤英伟达黄仁勋。",
+      "why_it_matters_cn": "涵盖中国存储芯片IPO、韩国半导体巨头美股上市等重大事件，反映全球半导体市场动态。",
+      "action_suggestion_cn": "关注长鑫科技IPO申购，评估SK海力士美股投资机会。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "综合了多个重要科技新闻，信息量大。",
+      "frontpage_reason_cn": "科技板块，适合快速了解当日热点。",
+      "impact_analysis": {
+        "immediate_impact_cn": "长鑫科技IPO引发市场关注，SK海力士美股表现强劲。",
+        "medium_term_impact_cn": "长鑫科技上市将影响中国存储芯片格局。",
+        "long_term_impact_cn": "全球半导体市场竞争加剧。",
+        "affected_sectors": [
+          "半导体",
+          "存储芯片",
+          "AI"
+        ],
+        "affected_assets": [
+          "SK海力士美股",
+          "长鑫科技",
+          "半导体ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "长鑫科技IPO定价如何？",
+          "SK海力士美股后续走势如何？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 1,
+      "title_cn": "魔法少女与毒品战争漫画将于7月21日完结",
+      "source": "Anime News Network",
+      "source_display_name": "Anime News Network",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "漫画《魔法少女与毒品战争》将于7月21日完结，作者为Yū Nomiya和Merou Meiji。",
+      "short_summary_cn": "该漫画由作家Yū Nomiya和艺术家Merou Meiji创作，于2025年5月开始连载。作品融合魔法少女与毒品战争题材，将于7月21日正式完结。",
+      "why_it_matters_cn": "该漫画的完结标志着一种独特跨界题材的阶段性结束，可能引发粉丝讨论和后续IP开发。",
+      "action_suggestion_cn": "关注完结后的官方消息，如有单行本或衍生作品可提前收藏。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "漫画完结是动漫圈重要事件，但题材小众，影响有限。",
+      "frontpage_reason_cn": "适合放在动漫板块，提醒粉丝关注最终话。",
+      "anime_event_detail": {
+        "event_type": "漫画完结",
+        "ip_or_work_title": "魔法少女与毒品战争",
+        "person_name": "Yū Nomiya, Merou Meiji",
+        "role": "作者/画家",
+        "event_date": "2026-07-21",
+        "event_time": "未知",
+        "venue": "未知",
+        "city": "未知",
+        "country": "日本",
+        "ticket_method": "无需门票",
+        "application_period": "不适用",
+        "lottery_or_first_come": "不适用",
+        "purchase_requirement": "无",
+        "goods_or_bonus": "最终话内容",
+        "official_source": "https://www.animenewsnetwork.com/news/2026-07-10/magical-girl-and-narco-wars-manga-ends-on-july-21/.239421",
+        "urgency_level": "低",
+        "collector_value": "低",
+        "travel_feasibility": "不适用",
+        "action_needed_cn": "阅读最终话，关注后续单行本或衍生作品。"
+      },
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 1
+    },
+    {
+      "index": 4,
+      "title_cn": "欧盟威胁对Meta罚款，因其平台存在成瘾性功能",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "politics_world",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "欧盟指控Meta违反数字服务法，因其无限滚动、自动播放等成瘾性功能。",
+      "short_summary_cn": "欧盟委员会表示，Meta在Facebook和Instagram上使用无限滚动、自动播放、推送通知和高度个性化推荐算法，违反了数字服务法。Meta面临巨额罚款风险。",
+      "why_it_matters_cn": "这是欧盟对大型科技平台内容监管的又一重大行动，可能迫使Meta改变产品设计。",
+      "action_suggestion_cn": "关注Meta的回应和整改措施，评估对广告业务的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "欧盟监管升级，对Meta商业模式构成直接威胁。",
+      "frontpage_reason_cn": "科技政策板块重要新闻，影响全球科技监管趋势。",
+      "impact_analysis": {
+        "immediate_impact_cn": "Meta股价可能下跌，公司面临合规压力。",
+        "medium_term_impact_cn": "Meta可能被迫调整产品功能，影响用户参与度和广告收入。",
+        "long_term_impact_cn": "若罚款落地，将树立监管先例，影响其他平台。",
+        "affected_sectors": [
+          "社交媒体",
+          "数字广告",
+          "科技监管"
+        ],
+        "affected_assets": [
+          "META",
+          "社交媒体ETF"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "Meta是否会提起上诉？",
+          "其他欧盟国家是否会跟进？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 4
+    },
+    {
+      "index": 15,
+      "title_cn": "欧盟要求Meta禁用自动播放和无限滚动",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "politics_world",
+      "news_type": "tech",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "欧盟根据数字服务法要求Meta禁用自动播放和无限滚动功能。",
+      "short_summary_cn": "欧盟委员会根据数字服务法，要求Meta禁用Facebook和Instagram上的自动播放、无限滚动等成瘾性功能，否则将面临巨额罚款。",
+      "why_it_matters_cn": "这可能导致Meta平台用户体验和广告收入发生重大变化。",
+      "action_suggestion_cn": "关注Meta的合规措施，评估对广告投放效果的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "与第4条新闻内容重复，但来源不同，确认信息可靠性。",
+      "frontpage_reason_cn": "科技政策板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "Meta股价可能承压。",
+        "medium_term_impact_cn": "Meta可能被迫调整产品设计。",
+        "long_term_impact_cn": "可能改变社交媒体行业标准。",
+        "affected_sectors": [
+          "社交媒体",
+          "数字广告"
+        ],
+        "affected_assets": [
+          "META"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "Meta是否会遵守？",
+          "其他平台是否会受影响？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 21,
+      "title_cn": "中国可重复使用火箭追赶马斯克",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "politics_world",
+      "news_type": "tech",
+      "date_display": "2026-07-11",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "中国国有航天公司首次回收轨道火箭助推器。",
+      "short_summary_cn": "中国国有航天公司在发射后成功回收了首个轨道火箭助推器，标志着中国在可重复使用火箭技术方面取得重大进展，正在追赶马斯克的SpaceX。",
+      "why_it_matters_cn": "这显示了中国在航天领域的快速进步，可能改变全球航天竞争格局。",
+      "action_suggestion_cn": "关注中国可重复使用火箭的后续测试和商业化进展。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "产品战略调整反映市场变化。",
-      "frontpage_reason_cn": "AI浏览器是热门赛道，OpenAI的动向值得关注。",
+      "tracking_value": 2,
+      "editor_reason_cn": "航天技术突破是重要新闻，但短期市场影响有限。",
+      "frontpage_reason_cn": "科技板块，关注航天动态。",
       "impact_analysis": {
-        "immediate_impact_cn": "Atlas用户需迁移到其他浏览器。",
-        "medium_term_impact_cn": "OpenAI可能通过Chrome扩展获取更多用户。",
-        "long_term_impact_cn": "AI浏览器市场格局可能重新洗牌。",
+        "immediate_impact_cn": "引发航天领域讨论。",
+        "medium_term_impact_cn": "可能加速中国商业航天发展。",
+        "long_term_impact_cn": "全球航天发射成本可能进一步下降。",
         "affected_sectors": [
-          "浏览器",
-          "AI应用"
+          "航天",
+          "国防"
         ],
         "affected_assets": [
-          "Chrome市场份额"
+          "SpaceX相关资产（非上市）",
+          "中国航天概念股"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "关闭原因？",
-          "桌面应用何时更新？"
+          "中国可重复使用火箭的性能如何？",
+          "SpaceX如何应对竞争？"
         ]
       },
       "us_market_relevance": "low",
@@ -2058,48 +2346,88 @@
       "is_old_context": false
     },
     {
-      "index": 15,
-      "title_cn": "继苹果之后，印度智能手机制造进入Vivo合资新阶段",
+      "index": 22,
+      "title_cn": "佛罗里达勒索软件谈判者被判有罪",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "politics_world",
-      "news_type": "politics",
+      "news_type": "general",
       "date_display": "2026-07-10",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Vivo合资企业可能成为中国手机制造商在印度的新模板。",
-      "short_summary_cn": "继苹果之后，印度智能手机制造业迎来新阶段。Vivo的合资企业模式可能成为中国手机制造商在印度运营的范本，影响全球供应链布局。",
-      "why_it_matters_cn": "印度制造政策影响全球科技供应链，Vivo模式可能改变中国企业在印策略。",
-      "action_suggestion_cn": "关注印度制造政策变化，评估对中国手机供应链的影响。",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "第三名勒索软件谈判者因帮助勒索团伙敲诈美国公司被判刑。",
+      "short_summary_cn": "一名佛罗里达州的勒索软件谈判者因帮助一个臭名昭著的勒索软件团伙敲诈美国受害者公司而被判有罪。这是第三名因此类行为被判刑的谈判者。",
+      "why_it_matters_cn": "显示了美国司法部门对勒索软件产业链的严厉打击。",
+      "action_suggestion_cn": "企业应加强网络安全防护，避免成为勒索软件目标。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "全球供应链重组重要信号。",
-      "frontpage_reason_cn": "印度制造崛起，影响全球科技产业格局。",
+      "tracking_value": 2,
+      "editor_reason_cn": "网络安全执法新闻，对企业和个人有警示作用。",
+      "frontpage_reason_cn": "科技安全板块。",
       "impact_analysis": {
-        "immediate_impact_cn": "中国手机制造商可能调整印度策略。",
-        "medium_term_impact_cn": "印度智能手机产能和出口有望增长。",
-        "long_term_impact_cn": "全球供应链从中国向印度转移加速。",
+        "immediate_impact_cn": "对勒索软件产业链形成威慑。",
+        "medium_term_impact_cn": "可能减少勒索软件攻击事件。",
+        "long_term_impact_cn": "推动网络安全保险和防护市场发展。",
+        "affected_sectors": [
+          "网络安全",
+          "法律"
+        ],
+        "affected_assets": [
+          "网络安全ETF"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "该谈判者具体帮助了哪个团伙？",
+          "其他谈判者是否也会被追责？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 23,
+      "title_cn": "印度智能手机制造进入新阶段：Vivo合资",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-07-10",
+      "freshness_label": "35h前",
+      "key_takeaway_cn": "Vivo的合资企业可能成为中国手机制造商在印度的模板。",
+      "short_summary_cn": "继苹果之后，印度智能手机制造业进入新阶段，Vivo的合资企业可能成为中国手机制造商在印度的新模式。",
+      "why_it_matters_cn": "反映了全球供应链从中国向印度转移的趋势。",
+      "action_suggestion_cn": "关注印度智能手机制造政策，评估对中国供应链的影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 2,
+      "editor_reason_cn": "供应链转移是长期趋势，值得跟踪。",
+      "frontpage_reason_cn": "科技产业板块。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发供应链讨论。",
+        "medium_term_impact_cn": "更多中国手机制造商可能效仿Vivo。",
+        "long_term_impact_cn": "印度可能成为全球智能手机制造中心之一。",
         "affected_sectors": [
           "智能手机制造",
-          "电子制造",
           "供应链"
         ],
         "affected_assets": [
-          "Vivo",
-          "小米",
-          "苹果供应链"
+          "中国手机制造商股票",
+          "印度相关ETF"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
+        "us_stock_relevance": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
         "follow_up_questions": [
-          "Vivo合资的具体条款？",
+          "Vivo合资的具体细节？",
           "其他中国厂商是否会跟进？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "us_market_relevance": "low",
+      "is_recent": false,
       "is_old_context": false
     }
   ]
