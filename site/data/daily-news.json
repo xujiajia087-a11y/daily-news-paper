@@ -1,104 +1,105 @@
 {
   "metadata": {
     "report_title": "JiaJia Daily 情报日报",
-    "report_date": "2026年08月16日",
-    "report_weekday": "星期日",
-    "generated_at": "2026-08-16 10:13",
+    "report_date": "2026年08月17日",
+    "report_weekday": "星期一",
+    "generated_at": "2026-08-17 10:11",
     "timezone": "Australia/Perth (UTC+8)",
     "data_window": "24h新闻 + 7d市场事件 + 90d动漫活动",
     "total_fetched": 297,
-    "after_dedupe": 175,
+    "after_dedupe": 176,
     "selected_count": 30,
     "frontpage_count": 8,
-    "anime_event_count": 17,
-    "market_related_count": 18,
-    "watchlist_count": 5
+    "anime_event_count": 15,
+    "market_related_count": 24,
+    "watchlist_count": 4
   },
   "daily_overview": {
-    "one_sentence_cn": "今日AI领域竞争白热化，OpenAI与Anthropic价格战升级并推出提速功能，同时动漫界《王国之心》动画化等重磅消息点燃粉丝热情，但市场需警惕AI泡沫风险。",
-    "market_mood_cn": "AI科技股情绪偏乐观但存分歧，价格战与广告测试引发盈利担忧，动漫IP改编活跃，整体市场谨慎偏多。",
-    "anime_event_mood_cn": "动漫活动氛围热烈，《王国之心》动画化、《药屋少女的呢喃》第三季定档等消息提振粉丝期待，但高价值情报有限。",
-    "what_to_watch_next_cn": "关注OpenAI广告测试进展、GPT-5.6 Sol实际性能、苹果佣金案判决，以及《王国之心》动画化后续细节。"
+    "one_sentence_cn": "今日AI领域动态密集，OpenAI与Anthropic在技术升级、价格战及广告测试上动作频频，同时英伟达缩减融资担保引发市场关注；动漫方面仅有零星获奖与销量消息，整体氛围平淡。",
+    "market_mood_cn": "AI竞争白热化，科技股波动加剧，市场情绪偏谨慎乐观，关注AI商业化与政策风险。",
+    "anime_event_mood_cn": "今日未发现高价值动漫情报，仅有宝可梦销量破500万和《魔女之旅》获奖等常规消息，氛围平静。",
+    "what_to_watch_next_cn": "关注OpenAI广告测试的落地效果、英伟达与OpenAI融资谈判进展，以及欧洲火箭政策对航天股的影响。"
   },
   "impact_map": {
     "anime_collecting": {
-      "level": "medium",
-      "summary_cn": "《王国之心》动画化及游戏新作、宝可梦销量破500万等IP动态可能带动周边收藏需求，但具体商品未公布。",
-      "related_count": 4,
-      "representative": "《王国之心》动画化+第四部游戏2027年发售"
+      "level": "low",
+      "summary_cn": "今日动漫相关新闻较少，宝可梦销量和获奖消息对收藏市场影响有限，无重大签售或限定品信息。",
+      "related_count": 3,
+      "representative": "宝可梦Pokopia全球销量突破500万份"
     },
     "japanese_events": {
-      "level": "medium",
-      "summary_cn": "《药屋少女的呢喃》第三季定档10月，罗德岛战记Webtoon上线，日本动漫IP跨媒体动作频繁。",
-      "related_count": 3,
-      "representative": "《药屋少女的呢喃》第三季10月2日开播"
+      "level": "low",
+      "summary_cn": "日本动漫活动今日无高价值情报，仅有小学馆调查结果和Plott新动画预告，未涉及大型展会或签售。",
+      "related_count": 2,
+      "representative": "小学馆公布第三方调查结果及整改措施"
     },
     "ai_tech": {
       "level": "high",
-      "summary_cn": "OpenAI与Anthropic价格战、GPT-5.6 Sol提速14倍、ChatGPT广告测试等密集发布，AI竞争白热化。",
-      "related_count": 18,
+      "summary_cn": "AI领域新闻密集，OpenAI与Anthropic在模型升级、价格战、广告测试及水印技术上均有重大进展，影响科技股和AI产业链。",
+      "related_count": 20,
       "representative": "OpenAI与Anthropic价格战应对中国AI竞争"
     },
     "us_stocks": {
       "level": "high",
-      "summary_cn": "AI相关新闻密集，价格战和广告测试可能影响科技股估值，苹果佣金案和Uber Robotaxi也影响相关板块。",
-      "related_count": 10,
-      "representative": "OpenAI与Anthropic价格战应对中国AI竞争"
+      "summary_cn": "英伟达缩减OpenAI融资担保、苹果佣金提议、OpenAI广告测试等消息可能影响科技股，尤其是AI相关标的。",
+      "related_count": 5,
+      "representative": "英伟达大幅缩减OpenAI基础设施融资担保"
     },
     "politics_risk": {
       "level": "medium",
-      "summary_cn": "美国法院公布间谍软件使用频率、欧洲火箭发射政策困境，以及苹果佣金案，显示政策与科技监管风险。",
-      "related_count": 4,
-      "representative": "苹果提议对App Store外购买收取15%佣金"
+      "summary_cn": "美国政策方面，“审查产业综合体”概念进入政策核心，联邦关键词列表取消研究经费，可能影响科技行业监管环境。",
+      "related_count": 3,
+      "representative": "联邦关键词列表取消数十亿研究经费"
     },
     "future_watchlist": {
       "level": "medium",
-      "summary_cn": "关注OpenAI广告测试、苹果佣金案判决、欧洲Robotaxi部署，以及《王国之心》动画化细节。",
-      "related_count": 5,
+      "summary_cn": "未来需关注OpenAI广告测试的商业模式影响、英伟达与OpenAI融资谈判、欧洲火箭政策走向，以及AI水印技术标准。",
+      "related_count": 4,
       "representative": "OpenAI开始在ChatGPT中测试广告"
     }
   },
   "executive_brief": {
     "top_5_judgements": [
-      "OpenAI与Anthropic价格战升级，AI模型成本下降，但可能压缩利润空间，需关注盈利模式。",
-      "ChatGPT广告测试开启，免费访问与商业化平衡成关键，可能影响用户体验和广告行业。",
-      "GPT-5.6 Sol提速14倍，AI效率大幅提升，企业采用率或加速，但需警惕过度炒作。",
-      "《王国之心》动画化+游戏新作，迪士尼IP联动，动漫收藏市场或迎新一轮热潮。",
-      "苹果佣金案若败诉，可能重塑App Store生态，影响科技巨头收入结构。"
+      "OpenAI与Anthropic价格战升级，AI商业化竞争白热化，可能压缩中小AI企业生存空间。",
+      "英伟达缩减OpenAI融资担保，反映AI基础设施投资风险重估，或影响数据中心产业链。",
+      "OpenAI测试广告，探索免费模式变现，但需平衡用户体验与隐私，广告效果待观察。",
+      "谷歌允许移除AI水印，与Anthropic强调水印技术形成对比，AI内容溯源标准未统一。",
+      "苹果提议App Store外购买佣金15%，可能引发监管反弹，影响应用生态和开发者成本。"
     ],
     "anime_merch_signing_highlights": [
-      "《王国之心》动画化可能带动游戏、手办等周边收藏，值得蹲守官方商品发布。",
-      "宝可梦Pokopia销量破500万，DLC水下小镇或引发新周边需求。",
-      "《药屋少女的呢喃》第三季开播，相关手办和漫画可能热销。"
+      "宝可梦Pokopia销量破500万，DLC水下城镇可能带动周边收藏需求，可关注相关手办和卡牌。",
+      "《魔女之旅》获Astra奖，可能推动原作漫画和周边销量，但无具体签售信息。"
     ],
     "ai_tech_highlights": [
-      "OpenAI Ultrafast模式提速14倍，API性能提升，开发者可关注。",
-      "Anthropic水印技术细节公开，AI内容溯源或成行业标准。",
-      "谷歌允许移除可见水印，但不可见标识保留，AI内容标识政策分化。"
+      "OpenAI升级GPT-5.6 Sol并扩大Luna免费访问，提升模型竞争力。",
+      "OpenAI推出Ultrafast模式，速度提升14倍，利好实时应用。",
+      "Anthropic公开水印技术细节，强调AI内容可追溯性。",
+      "OpenAI测试广告，探索免费模式变现。",
+      "英伟达缩减OpenAI融资担保，AI基础设施投资风险受关注。"
     ],
     "politics_highlights": [
-      "美国法院将披露间谍软件使用频率，隐私与安全平衡受关注。",
-      "欧洲火箭发射政策两难，航天产业或迎变革。",
-      "苹果佣金案可能影响反垄断监管趋势。"
+      "“审查产业综合体”概念进入美国政策核心，可能影响科技公司内容审核政策。",
+      "联邦关键词列表取消数十亿研究经费，科研领域受冲击，或影响AI基础研究。",
+      "欧洲火箭发射政策两难，可能影响航天产业竞争格局。"
     ],
     "us_stock_market_impacts": [
-      "AI价格战可能压制科技股利润率，但提升采用率，长期利好。",
-      "ChatGPT广告测试或改变数字广告格局，影响Meta、Google。",
-      "Uber与Pony.ai Robotaxi扩张，利好自动驾驶概念股。",
-      "苹果佣金案若败诉，可能影响AAPL股价。"
+      "英伟达缩减担保或引发AI基建股回调，关注NVDA、ANET等。",
+      "OpenAI广告测试可能利好广告科技股，如RDDT、META，但需观察用户接受度。",
+      "苹果佣金提议可能影响APP开发者，AAPL短期或承压，但长期利好苹果服务收入。",
+      "AI价格战或压缩云服务商利润，关注MSFT、GOOGL等。"
     ],
     "future_watchlist": [
       "OpenAI广告测试的正式推出时间及用户反馈。",
-      "苹果佣金案法院裁决日期。",
-      "Uber与Pony.ai欧洲部署进展。",
-      "《王国之心》动画化上线时间及游戏预告。"
+      "英伟达与OpenAI融资谈判的最终结果。",
+      "欧洲火箭政策的具体调整方案。",
+      "AI水印技术标准是否统一。"
     ],
     "noise_or_low_priority": [
-      "维珍航空和Zapier使用ChatGPT Work的案例，营销性质强，影响有限。",
-      "OpenAI教育插件和Univé案例，属于常规企业推广。",
-      "OpenAI回应苹果诉讼的细节，法律纠纷噪音。"
+      "维珍大西洋航空和Zapier的ChatGPT Work案例，属于常规企业应用，影响有限。",
+      "OpenAI CFO分享经验，无具体业务影响。",
+      "希腊火灾事件，与市场关联度低。"
     ],
-    "final_editor_note": "AI竞争白热化，但需警惕泡沫；动漫IP活力四射，收藏市场可期。保持理性，关注长期价值。"
+    "final_editor_note": "今日AI领域动态主导市场情绪，建议投资者关注AI商业化进展及政策风险，动漫领域暂无明显机会。不构成投资建议。"
   },
   "top_stories": [
     {
@@ -109,21 +110,21 @@
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-16",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic公开Claude水印机制，探讨编辑隐藏可能性及对代码影响。",
-      "short_summary_cn": "Anthropic分享了Claude新水印如何工作的更多细节。文章探讨了水印是否可以通过编辑隐藏，以及这对代码生成的影响。",
-      "why_it_matters_cn": "AI内容溯源与版权保护是行业焦点，水印技术细节影响AI生成内容的可信度与使用规范。",
-      "action_suggestion_cn": "关注Anthropic官方文档，了解水印对自身AI工作流的影响，评估内容合规风险。",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "Anthropic公开Claude水印机制，引发关于编辑隐藏与代码影响的讨论。",
+      "short_summary_cn": "Anthropic分享了Claude新水印技术的更多细节，包括其工作原理、是否可通过编辑隐藏，以及对代码生成的影响。此举旨在提升AI内容可追溯性。",
+      "why_it_matters_cn": "水印技术是AI内容溯源的关键，直接影响内容创作者、开发者及监管方。",
+      "action_suggestion_cn": "关注Anthropic官方文档，评估水印对自身AI工作流的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI水印是AI治理关键议题，技术细节具有行业指导意义。",
-      "frontpage_reason_cn": "头部AI公司技术披露，影响AI内容生态。",
+      "tracking_value": 10,
+      "editor_reason_cn": "AI安全与溯源核心议题，技术细节披露具有高信息价值。",
+      "frontpage_reason_cn": "AI行业头部企业技术动向，影响广泛。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI开发者社区对水印技术可行性的讨论。",
-        "medium_term_impact_cn": "可能推动行业水印标准制定，影响AI内容平台审核机制。",
-        "long_term_impact_cn": "水印技术成熟将增强AI内容溯源能力，影响版权法规。",
+        "immediate_impact_cn": "引发AI社区对水印技术可行性的讨论。",
+        "medium_term_impact_cn": "可能推动行业水印标准制定。",
+        "long_term_impact_cn": "影响AI内容监管与版权保护格局。",
         "affected_sectors": [
           "AI",
           "内容创作",
@@ -133,138 +134,94 @@
           "AI相关股票",
           "内容平台"
         ],
-        "us_stock_relevance": "medium",
+        "us_stock_relevance": "high",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "水印对代码生成的具体影响？",
-          "其他AI公司是否会跟进？"
+          "水印能否被有效移除？",
+          "对开源模型有何影响？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "us_market_relevance": "high",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 1
     },
     {
       "index": 2,
-      "title_cn": "美国法院将公布政府间谍软件使用频率",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "title_cn": "欧洲火箭发射政策陷入两难困境",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
       "category": "politics_world",
       "news_type": "politics",
-      "date_display": "2026-08-14",
+      "date_display": "2026-08-15",
       "freshness_label": "58h前",
-      "key_takeaway_cn": "美国法院行政办公室将披露法官授权使用间谍软件进行窃听的次数。",
-      "short_summary_cn": "美国法院行政办公室向TechCrunch表示，将开始披露法官授权使用间谍软件窃听疑似罪犯的次数。这是政府监控透明度的一次重要进展。",
-      "why_it_matters_cn": "政府监控透明度直接影响公民隐私权和法治信任，此政策变化具有重大社会影响。",
-      "action_suggestion_cn": "关注后续披露数据，评估隐私政策变化对个人和企业的影响。",
+      "key_takeaway_cn": "欧洲在火箭发射政策上进退维谷，火箭复用经济性凸显。",
+      "short_summary_cn": "政策专家指出，欧洲在火箭发射领域面临艰难抉择。火箭复用技术的经济优势明显，但欧洲在政策与产业布局上尚未跟上。",
+      "why_it_matters_cn": "影响欧洲航天竞争力与全球航天市场格局。",
+      "action_suggestion_cn": "关注欧洲航天局政策动向及商业航天公司布局。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "政府监控透明度是重大政治议题，涉及公民权利。",
-      "frontpage_reason_cn": "影响公共政策与公民自由。",
+      "tracking_value": 10,
+      "editor_reason_cn": "航天政策与产业经济交叉，具有战略意义。",
+      "frontpage_reason_cn": "全球航天竞争关键节点。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发公众对政府监控的讨论。",
-        "medium_term_impact_cn": "可能推动相关立法改革。",
-        "long_term_impact_cn": "增强政府问责，影响监控技术使用。",
+        "immediate_impact_cn": "引发欧洲航天政策讨论。",
+        "medium_term_impact_cn": "可能影响欧洲火箭项目投资决策。",
+        "long_term_impact_cn": "重塑全球航天发射市场格局。",
         "affected_sectors": [
-          "政府",
-          "法律",
+          "航天",
+          "国防",
           "科技"
         ],
         "affected_assets": [
-          "监控技术公司"
+          "航天类股票",
+          "欧洲航天概念"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "具体披露频率？",
-          "对执法部门有何影响？"
+          "欧洲是否会加速火箭复用研发？",
+          "对Ariane 6有何影响？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 2
     },
     {
       "index": 3,
-      "title_cn": "政策专家：欧洲火箭发射陷入两难境地",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "火箭回收经济性凸显，欧洲在航天发射政策上面临艰难抉择。",
-      "short_summary_cn": "政策专家指出，欧洲在火箭发射问题上进退两难。火箭重复使用的经济性非常可观，这给欧洲的航天战略带来了挑战。",
-      "why_it_matters_cn": "航天战略影响欧洲科技自主与竞争力，火箭回收技术改变行业格局。",
-      "action_suggestion_cn": "关注欧洲航天局后续政策动向，评估对全球航天市场的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "航天政策与科技经济密切相关，具有战略意义。",
-      "frontpage_reason_cn": "影响全球航天竞争格局。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发航天政策讨论。",
-        "medium_term_impact_cn": "可能影响欧洲火箭项目投资决策。",
-        "long_term_impact_cn": "改变全球航天发射市场格局。",
-        "affected_sectors": [
-          "航天",
-          "科技",
-          "政策"
-        ],
-        "affected_assets": [
-          "航天公司",
-          "火箭制造商"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "欧洲是否会采用可回收火箭？",
-          "对Ariane项目有何影响？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 4,
       "title_cn": "OpenAI与Anthropic价格战应对中国AI竞争",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "面对中国AI挑战，OpenAI和Anthropic发布更便宜模型，开启价格战。",
-      "short_summary_cn": "美国AI巨头OpenAI和Anthropic正陷入价格战，纷纷发布更便宜的模型。此举是为了应对中国AI竞争对手带来的新挑战，这些挑战威胁到他们万亿美元的市场雄心。",
-      "why_it_matters_cn": "AI价格战重塑市场格局，影响行业利润和竞争态势，中国AI崛起是关键变量。",
-      "action_suggestion_cn": "关注模型定价变化，评估AI服务成本，适时调整采购策略。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "中美AI竞争加剧，OpenAI与Anthropic降价应对中国对手挑战。",
+      "short_summary_cn": "面对中国AI企业的崛起，OpenAI和Anthropic发布更便宜的模型，以应对其万亿美元雄心面临的新挑战。价格战正式打响。",
+      "why_it_matters_cn": "AI模型价格战直接影响企业采购成本与行业竞争格局。",
+      "action_suggestion_cn": "评估新模型性价比，考虑迁移至更便宜的AI服务。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI行业竞争格局重大变化，影响广泛。",
-      "frontpage_reason_cn": "AI巨头动态，市场影响大。",
+      "tracking_value": 10,
+      "editor_reason_cn": "AI行业竞争格局重大变化，影响深远。",
+      "frontpage_reason_cn": "AI巨头价格战，市场关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "AI模型价格下降，企业成本降低。",
-        "medium_term_impact_cn": "中小AI公司面临更大竞争压力。",
-        "long_term_impact_cn": "AI行业整合加速，中国AI影响力上升。",
+        "immediate_impact_cn": "AI服务价格下降，企业成本降低。",
+        "medium_term_impact_cn": "中小AI企业可能面临更大压力。",
+        "long_term_impact_cn": "加速AI技术普及，重塑行业格局。",
         "affected_sectors": [
           "AI",
           "云计算",
-          "科技"
+          "企业服务"
         ],
         "affected_assets": [
-          "AI公司股票",
+          "AI概念股",
           "科技股"
         ],
         "us_stock_relevance": "very_high",
@@ -272,51 +229,97 @@
         "risk_level": "medium",
         "follow_up_questions": [
           "价格战会持续多久？",
-          "对AI初创企业有何影响？"
+          "中国AI企业的竞争优势何在？"
         ]
       },
       "us_market_relevance": "very_high",
       "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 4,
+      "title_cn": "英伟达大幅缩减OpenAI基础设施融资担保",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "英伟达缩减对OpenAI数据中心2500亿美元融资的担保规模。",
+      "short_summary_cn": "据路透社报道，英伟达大幅减少了对OpenAI数据中心基础设施融资的担保额度。此举可能影响OpenAI的算力扩张计划。",
+      "why_it_matters_cn": "反映AI基础设施投资风险变化，影响OpenAI与英伟达合作关系。",
+      "action_suggestion_cn": "关注英伟达与OpenAI后续合作动态及数据中心投资趋势。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 10,
+      "editor_reason_cn": "AI算力供应链关键变动，影响重大。",
+      "frontpage_reason_cn": "AI巨头合作生变，市场敏感。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对OpenAI算力扩张的担忧。",
+        "medium_term_impact_cn": "可能影响AI数据中心投资节奏。",
+        "long_term_impact_cn": "改变AI算力市场供需格局。",
+        "affected_sectors": [
+          "AI",
+          "半导体",
+          "数据中心"
+        ],
+        "affected_assets": [
+          "英伟达",
+          "OpenAI相关",
+          "AI芯片股"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "OpenAI如何弥补资金缺口？",
+          "英伟达缩减担保的原因？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 4
     },
     {
       "index": 5,
-      "title_cn": "OpenAI改进GPT-5.6 Sol并扩大Luna免费访问",
+      "title_cn": "OpenAI升级GPT-5.6 Sol并扩大Luna免费访问",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-06",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT推出改进版GPT-5.6 Sol，免费用户可无限使用GPT-5.6 Luna。",
-      "short_summary_cn": "OpenAI宣布改进GPT-5.6 Sol，提升准确性和一致性，并扩大免费用户对GPT-5.6 Luna的访问权限，提供无限日常聊天。",
-      "why_it_matters_cn": "模型升级和免费策略影响用户体验和AI普及，是OpenAI产品战略的重要一步。",
-      "action_suggestion_cn": "体验新版模型，评估性能提升，关注免费用户功能变化。",
+      "key_takeaway_cn": "ChatGPT升级GPT-5.6 Sol提升准确性，免费用户可无限使用Luna。",
+      "short_summary_cn": "OpenAI宣布改进GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户对GPT-5.6 Luna的访问权限，提供无限日常聊天。",
+      "why_it_matters_cn": "提升AI模型性能与可及性，影响用户体验与竞争格局。",
+      "action_suggestion_cn": "试用新版模型，体验性能提升与免费功能。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "OpenAI核心产品更新，影响大量用户。",
-      "frontpage_reason_cn": "AI产品重大更新。",
+      "tracking_value": 10,
+      "editor_reason_cn": "OpenAI核心产品更新，用户影响面广。",
+      "frontpage_reason_cn": "AI模型重大升级，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "用户可体验新模型，免费用户受益。",
-        "medium_term_impact_cn": "可能提升ChatGPT用户粘性。",
+        "immediate_impact_cn": "用户可立即体验新模型。",
+        "medium_term_impact_cn": "可能吸引更多免费用户。",
         "long_term_impact_cn": "巩固OpenAI市场地位。",
         "affected_sectors": [
           "AI",
-          "科技"
+          "消费科技"
         ],
         "affected_assets": [
           "OpenAI相关",
           "AI概念股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "Sol改进具体有哪些？",
-          "免费用户限制是什么？"
+          "Sol与Luna有何区别？",
+          "免费用户限制有哪些？"
         ]
       },
       "us_market_relevance": "high",
@@ -326,80 +329,36 @@
     },
     {
       "index": 6,
-      "title_cn": "罗德岛战记新Webtoon英文版上线",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-08-13",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "经典IP《罗德岛战记》新作Webtoon英文版在全球150多国上线。",
-      "short_summary_cn": "《罗德岛战记：死亡女王》Webtoon英文版于7月31日在LINE Manga、ebookjapan及全球WEBTOON平台上线，覆盖150多个国家和地区。",
-      "why_it_matters_cn": "经典IP跨媒介拓展，Webtoon形式吸引新读者，扩大IP影响力。",
-      "action_suggestion_cn": "在WEBTOON平台搜索阅读，关注后续更新。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "经典IP新作，具有粉丝吸引力。",
-      "frontpage_reason_cn": "IP跨媒介合作案例。",
-      "anime_event_detail": {
-        "event_type": "webtoon_launch",
-        "ip_or_work_title": "罗德岛战记",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2026-07-31",
-        "event_time": "未知",
-        "venue": "线上",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "无需门票",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "免费阅读",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 5,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "在线阅读"
-      },
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 6
-    },
-    {
-      "index": 7,
-      "title_cn": "圆桌讨论：影响美国政策的“审查工业综合体”",
+      "title_cn": "“审查产业综合体”概念如何影响美国政策",
       "source": "MIT Technology Review",
       "source_display_name": "MIT Technology Review",
       "category": "politics_world",
       "news_type": "politics",
       "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "探讨“审查工业综合体”概念如何从右翼圈层进入美国政策制定。",
-      "short_summary_cn": "MIT Technology Review举办圆桌讨论，探讨“审查工业综合体”这一概念。该概念认为政府、科技和研究团体合作压制保守派网络言论，现已影响美国政策。",
-      "why_it_matters_cn": "该概念影响美国言论自由政策，反映政治与科技复杂关系。",
-      "action_suggestion_cn": "观看讨论视频，了解政策动向。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "“审查产业综合体”概念从右翼圈层进入美国政策核心。",
+      "short_summary_cn": "MIT技术评论探讨了“审查产业综合体”这一概念，即政府、科技与研究机构网络合作压制保守派网络言论。该概念已从右翼信息圈渗透至美国政策制定。",
+      "why_it_matters_cn": "揭示美国科技政策与言论自由博弈的新动向。",
+      "action_suggestion_cn": "关注美国科技政策走向及对平台监管的影响。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "涉及言论自由与科技政策，具有深度。",
-      "frontpage_reason_cn": "政策思想影响深远。",
+      "tracking_value": 9,
+      "editor_reason_cn": "科技与政治交叉议题，具有深度分析价值。",
+      "frontpage_reason_cn": "美国政策风向标，影响科技行业。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对审查制度的讨论。",
-        "medium_term_impact_cn": "可能影响科技公司内容审核政策。",
-        "long_term_impact_cn": "塑造美国网络言论监管方向。",
+        "immediate_impact_cn": "引发对科技平台审查政策的讨论。",
+        "medium_term_impact_cn": "可能影响美国科技立法方向。",
+        "long_term_impact_cn": "重塑美国言论自由与科技监管平衡。",
         "affected_sectors": [
           "科技",
           "政策",
           "媒体"
         ],
         "affected_assets": [
-          "科技平台"
+          "科技平台股"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
@@ -407,129 +366,216 @@
           "科技公司如何应对？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 6
+    },
+    {
+      "index": 7,
+      "title_cn": "Anthropic CEO称AI反弹是信任危机",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Anthropic CEO Dario Amodei认为AI反弹本质是信任危机。",
+      "short_summary_cn": "Anthropic CEO Dario Amodei反驳外界对其过度悲观描绘AI的批评，强调AI反弹“从根本上是一场信任危机”。",
+      "why_it_matters_cn": "AI行业领袖对公众信任问题的表态，影响行业声誉与监管。",
+      "action_suggestion_cn": "关注AI信任相关讨论，思考如何建立用户信任。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "AI行业核心人物观点，具有风向标意义。",
+      "frontpage_reason_cn": "AI信任危机议题，公众关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发AI信任问题讨论。",
+        "medium_term_impact_cn": "可能影响AI企业公关策略。",
+        "long_term_impact_cn": "推动AI行业建立更透明的沟通机制。",
+        "affected_sectors": [
+          "AI",
+          "科技"
+        ],
+        "affected_assets": [
+          "AI概念股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "如何重建AI信任？",
+          "其他AI领袖有何看法？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 7
     },
     {
       "index": 8,
-      "title_cn": "Thrive创始人Kushner警告硅谷AI投资泡沫",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "Joshua Kushner警告AI机遇巨大，但不应因兴奋放松投资纪律。",
-      "short_summary_cn": "Thrive Capital创始人Joshua Kushner在其首份投资信中警告硅谷VC对AI的狂热。他表示AI机遇巨大，但让兴奋削弱投资纪律是严重错误。",
-      "why_it_matters_cn": "顶级投资人警告AI泡沫风险，影响市场情绪和投资决策。",
-      "action_suggestion_cn": "关注Kushner投资信全文，评估AI投资风险。",
-      "importance_score": 7,
+      "title_cn": "联邦关键词列表取消数十亿研究经费",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "联邦关键词列表导致数十亿美元研究经费被取消。",
+      "short_summary_cn": "一份联邦关键词列表被用于取消数十亿美元的研究经费，引发对科研政策与学术自由的担忧。",
+      "why_it_matters_cn": "直接影响科研资金分配与学术研究方向。",
+      "action_suggestion_cn": "关注科研经费政策变化，评估对相关领域的影响。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "知名投资人观点，影响市场情绪。",
-      "frontpage_reason_cn": "AI投资风险警示。",
+      "tracking_value": 9,
+      "editor_reason_cn": "科研政策重大变动，影响面广。",
+      "frontpage_reason_cn": "科研经费削减，学术界关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI投资泡沫讨论。",
-        "medium_term_impact_cn": "可能影响VC投资节奏。",
-        "long_term_impact_cn": "促进理性投资。",
+        "immediate_impact_cn": "相关研究项目可能中断。",
+        "medium_term_impact_cn": "影响科研机构预算与人才流动。",
+        "long_term_impact_cn": "可能削弱美国科研竞争力。",
         "affected_sectors": [
-          "风险投资",
-          "AI"
+          "科研",
+          "教育",
+          "政策"
         ],
         "affected_assets": [
-          "AI初创公司"
+          "教育类股",
+          "科研相关"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
         "follow_up_questions": [
-          "AI估值是否过高？",
-          "哪些领域存在泡沫？"
+          "哪些关键词被列入？",
+          "受影响最大的领域？"
         ]
       },
       "us_market_relevance": "medium",
-      "is_recent": false,
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 8
     }
   ],
   "anime_event_highlights": [
     {
-      "index": 6,
-      "title_cn": "罗德岛战记新Webtoon英文版上线",
+      "index": 25,
+      "title_cn": "宝可梦Pokopia全球销量突破500万份",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
-      "date_display": "2026-08-13",
+      "date_display": "2026-08-14",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "经典IP《罗德岛战记》新作Webtoon英文版在全球150多国上线。",
-      "short_summary_cn": "《罗德岛战记：死亡女王》Webtoon英文版于7月31日在LINE Manga、ebookjapan及全球WEBTOON平台上线，覆盖150多个国家和地区。",
-      "why_it_matters_cn": "经典IP跨媒介拓展，Webtoon形式吸引新读者，扩大IP影响力。",
-      "action_suggestion_cn": "在WEBTOON平台搜索阅读，关注后续更新。",
-      "importance_score": 9,
+      "key_takeaway_cn": "宝可梦Pokopia游戏全球销量超500万，DLC新增水下城镇。",
+      "short_summary_cn": "宝可梦Pokopia游戏全球销量突破500万份。8月5日发布的扩展通行证第1部分新增了水下Bubbly Basin城镇，并附带包含新宝可梦的免费更新。",
+      "why_it_matters_cn": "宝可梦IP商业成功，显示其持续吸引力与DLC策略有效性。",
+      "action_suggestion_cn": "宝可梦粉丝可关注DLC内容，玩家可体验新区域。",
+      "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "经典IP新作，具有粉丝吸引力。",
-      "frontpage_reason_cn": "IP跨媒介合作案例。",
+      "collector_value": 4,
+      "tracking_value": 6,
+      "editor_reason_cn": "宝可梦IP重大商业里程碑，粉丝关注度高。",
+      "frontpage_reason_cn": "宝可梦销量新闻，游戏圈关注。",
       "anime_event_detail": {
-        "event_type": "webtoon_launch",
-        "ip_or_work_title": "罗德岛战记",
+        "event_type": "未知",
+        "ip_or_work_title": "宝可梦Pokopia",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-07-31",
+        "event_date": "未知",
         "event_time": "未知",
-        "venue": "线上",
+        "venue": "未知",
         "city": "未知",
-        "country": "全球",
-        "ticket_method": "无需门票",
+        "country": "未知",
+        "ticket_method": "未知",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
-        "purchase_requirement": "免费阅读",
-        "goods_or_bonus": "未知",
+        "purchase_requirement": "未知",
+        "goods_or_bonus": "DLC扩展通行证第1部分",
         "official_source": "Anime News Network",
         "urgency_level": "低",
-        "collector_value": 5,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "在线阅读"
+        "collector_value": 4,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注DLC后续内容发布"
       },
       "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 6
+      "is_old_context": true
     },
     {
-      "index": 27,
-      "title_cn": "Plott宣布9月推出《Rakuraku Hanten》短篇动画",
+      "index": 29,
+      "title_cn": "《魔女之旅》获Astra最佳动画奖",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-08-16",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Plott宣布黑帮题材短篇动画《Rakuraku Hanten》将于9月在YouTube播出。",
-      "short_summary_cn": "YouTube动画制作和发行公司Plott周六宣布了一部新的短篇动画《Rakuraku Hanten》，该动画将于9月在YouTube上播出。这是一部黑帮战斗系列。",
-      "why_it_matters_cn": "新动画作品发布，丰富YouTube动画内容。",
-      "action_suggestion_cn": "关注YouTube频道，9月观看。",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "《魔女之旅》在洛杉矶获Astra奖最佳动画。",
+      "short_summary_cn": "《魔女之旅》在周六于洛杉矶举行的颁奖典礼上获得Astra奖最佳动画奖。该奖项由好莱坞创意联盟（前好莱坞评论家协会）的电影评论家颁发。",
+      "why_it_matters_cn": "动画作品获奖，提升IP知名度与商业价值。",
+      "action_suggestion_cn": "动画爱好者可关注该作品，支持正版。",
       "importance_score": 6,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 4,
-      "editor_reason_cn": "新动画发布。",
-      "frontpage_reason_cn": "动漫新作动态。",
+      "tracking_value": 6,
+      "editor_reason_cn": "动画获奖新闻，具有行业认可意义。",
+      "frontpage_reason_cn": "动画获奖，粉丝圈关注。",
       "anime_event_detail": {
-        "event_type": "anime_release",
+        "event_type": "未知",
+        "ip_or_work_title": "魔女之旅",
+        "person_name": "未知",
+        "role": "未知",
+        "event_date": "2026-08-15",
+        "event_time": "未知",
+        "venue": "未知",
+        "city": "洛杉矶",
+        "country": "美国",
+        "ticket_method": "未知",
+        "application_period": "未知",
+        "lottery_or_first_come": "未知",
+        "purchase_requirement": "未知",
+        "goods_or_bonus": "未知",
+        "official_source": "Anime News Network",
+        "urgency_level": "低",
+        "collector_value": 2,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注作品后续动态"
+      },
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 30,
+      "title_cn": "Plott宣布9月推出《Rakuraku Hanten》短动画",
+      "source": "Anime News Network",
+      "source_display_name": "Anime News Network",
+      "category": "anime_collab",
+      "news_type": "anime_event",
+      "date_display": "2026-08-16",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "Plott宣布9月推出黑帮题材短动画《Rakuraku Hanten》。",
+      "short_summary_cn": "YouTube动画制作与发行公司Plott周六宣布，将推出新短动画《Rakuraku Hanten》，该黑帮战斗系列将于9月在YouTube上播出。",
+      "why_it_matters_cn": "新动画作品发布，丰富动漫内容生态。",
+      "action_suggestion_cn": "动漫爱好者可关注该动画的YouTube频道。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "新动画企划发布，具有内容价值。",
+      "frontpage_reason_cn": "新动画预告，粉丝期待。",
+      "anime_event_detail": {
+        "event_type": "未知",
         "ip_or_work_title": "Rakuraku Hanten",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-09",
+        "event_date": "2026年9月",
         "event_time": "未知",
         "venue": "YouTube",
         "city": "未知",
-        "country": "全球",
+        "country": "未知",
         "ticket_method": "免费观看",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
@@ -537,42 +583,42 @@
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
         "urgency_level": "低",
-        "collector_value": 4,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注YouTube频道"
+        "collector_value": 2,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注YouTube频道获取播出信息"
       },
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false
     },
     {
       "index": 28,
-      "title_cn": "《药屋少女的呢喃》第三季10月2日开播",
+      "title_cn": "小学馆公布第三方调查结果及整改措施",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
-      "category": "anime_collab",
+      "category": "manga_signing_events",
       "news_type": "anime_event",
-      "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "《药屋少女的呢喃》第三季预告公布，10月2日首播，新增声优和片头曲。",
-      "short_summary_cn": "《药屋少女的呢喃》第三季的预告片揭示了10月2日的首播日期、更多声优阵容和片头曲信息。",
-      "why_it_matters_cn": "热门动画续作，粉丝期待度高。",
-      "action_suggestion_cn": "关注官方渠道，准备观看。",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "小学馆第三方调查认定其“鼓励并支持”侵犯受害者人权。",
+      "short_summary_cn": "小学馆公布了第三方调查结果，调查小组发现小学馆“鼓励并支持”了侵犯受害者人权的行为，并宣布了防止再次发生的措施。",
+      "why_it_matters_cn": "日本出版巨头丑闻，影响行业声誉与创作者权益保护。",
+      "action_suggestion_cn": "关注事件后续发展，了解出版行业人权保护问题。",
       "importance_score": 6,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "热门动画续作。",
-      "frontpage_reason_cn": "动漫粉丝关注。",
+      "tracking_value": 6,
+      "editor_reason_cn": "出版行业重大丑闻，具有社会影响。",
+      "frontpage_reason_cn": "动漫出版巨头负面新闻，粉丝关注。",
       "anime_event_detail": {
-        "event_type": "anime_release",
-        "ip_or_work_title": "药屋少女的呢喃",
+        "event_type": "未知",
+        "ip_or_work_title": "未知",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-10-02",
+        "event_date": "未知",
         "event_time": "未知",
         "venue": "未知",
         "city": "未知",
-        "country": "日本",
+        "country": "未知",
         "ticket_method": "未知",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
@@ -580,140 +626,11 @@
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
         "urgency_level": "低",
-        "collector_value": 5,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注播出信息"
+        "collector_value": 2,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注小学馆后续整改措施"
       },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 29,
-      "title_cn": "《王国之心》动画化+第四部游戏2027年发售",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "《王国之心》宣布Disney+动画化，第四部游戏2027年发售含《寻梦环游记》世界。",
-      "short_summary_cn": "《王国之心》宣布推出Disney+动画，同时《王国之心IV》游戏将于2027年底发售，包含《寻梦环游记》世界。新预告片已发布。",
-      "why_it_matters_cn": "经典游戏IP跨媒介拓展，动画化吸引新粉丝。",
-      "action_suggestion_cn": "关注Disney+动画和游戏发售信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "IP跨媒介合作。",
-      "frontpage_reason_cn": "重大IP动态。",
-      "anime_event_detail": {
-        "event_type": "anime_announcement",
-        "ip_or_work_title": "王国之心",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2027",
-        "event_time": "未知",
-        "venue": "Disney+",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 6,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注后续消息"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 30,
-      "title_cn": "Disney+公布真人版《A Man's Man》演员阵容",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "Disney+公布Webtoon改编真人剧《A Man's Man》主演阵容。",
-      "short_summary_cn": "Disney+宣布了基于Webtoon的真人剧《A Man's Man》的演员阵容，朴正民将饰演Yoo-hyun Han，其他演员包括裴晟祐、金智贤等。",
-      "why_it_matters_cn": "Webtoon IP改编真人剧，展示跨媒介趋势。",
-      "action_suggestion_cn": "关注剧集制作进展。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 4,
-      "editor_reason_cn": "IP改编动态。",
-      "frontpage_reason_cn": "影视化趋势。",
-      "anime_event_detail": {
-        "event_type": "live_action_announcement",
-        "ip_or_work_title": "A Man's Man",
-        "person_name": "朴正民",
-        "role": "主演",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "Disney+",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 4,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注剧集信息"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 25,
-      "title_cn": "宝可梦Pokopia游戏全球销量突破500万",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "merch_release",
-      "news_type": "anime_event",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "《宝可梦Pokopia》全球销量超500万，DLC新增水下小镇。",
-      "short_summary_cn": "《宝可梦Pokopia》游戏全球销量突破500万份。扩展通行证第1部分于8月5日添加了水下Bubbly Basin小镇，并附带包含新宝可梦的免费更新。",
-      "why_it_matters_cn": "宝可梦IP商业成功，DLC内容持续吸引玩家。",
-      "action_suggestion_cn": "关注DLC内容，玩家可体验新区域。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 4,
-      "tracking_value": 6,
-      "editor_reason_cn": "宝可梦IP动态。",
-      "frontpage_reason_cn": "IP商业成功案例。",
-      "anime_event_detail": {
-        "event_type": "game_release",
-        "ip_or_work_title": "宝可梦",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2026-08-05",
-        "event_time": "未知",
-        "venue": "线上",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "无需门票",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "购买游戏",
-        "goods_or_bonus": "DLC内容",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 6,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "购买游戏体验"
-      },
-      "is_recent": false,
+      "is_recent": true,
       "is_old_context": false
     }
   ],
@@ -726,21 +643,21 @@
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-16",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic公开Claude水印机制，探讨编辑隐藏可能性及对代码影响。",
-      "short_summary_cn": "Anthropic分享了Claude新水印如何工作的更多细节。文章探讨了水印是否可以通过编辑隐藏，以及这对代码生成的影响。",
-      "why_it_matters_cn": "AI内容溯源与版权保护是行业焦点，水印技术细节影响AI生成内容的可信度与使用规范。",
-      "action_suggestion_cn": "关注Anthropic官方文档，了解水印对自身AI工作流的影响，评估内容合规风险。",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "Anthropic公开Claude水印机制，引发关于编辑隐藏与代码影响的讨论。",
+      "short_summary_cn": "Anthropic分享了Claude新水印技术的更多细节，包括其工作原理、是否可通过编辑隐藏，以及对代码生成的影响。此举旨在提升AI内容可追溯性。",
+      "why_it_matters_cn": "水印技术是AI内容溯源的关键，直接影响内容创作者、开发者及监管方。",
+      "action_suggestion_cn": "关注Anthropic官方文档，评估水印对自身AI工作流的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI水印是AI治理关键议题，技术细节具有行业指导意义。",
-      "frontpage_reason_cn": "头部AI公司技术披露，影响AI内容生态。",
+      "tracking_value": 10,
+      "editor_reason_cn": "AI安全与溯源核心议题，技术细节披露具有高信息价值。",
+      "frontpage_reason_cn": "AI行业头部企业技术动向，影响广泛。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI开发者社区对水印技术可行性的讨论。",
-        "medium_term_impact_cn": "可能推动行业水印标准制定，影响AI内容平台审核机制。",
-        "long_term_impact_cn": "水印技术成熟将增强AI内容溯源能力，影响版权法规。",
+        "immediate_impact_cn": "引发AI社区对水印技术可行性的讨论。",
+        "medium_term_impact_cn": "可能推动行业水印标准制定。",
+        "long_term_impact_cn": "影响AI内容监管与版权保护格局。",
         "affected_sectors": [
           "AI",
           "内容创作",
@@ -750,49 +667,49 @@
           "AI相关股票",
           "内容平台"
         ],
-        "us_stock_relevance": "medium",
+        "us_stock_relevance": "high",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "水印对代码生成的具体影响？",
-          "其他AI公司是否会跟进？"
+          "水印能否被有效移除？",
+          "对开源模型有何影响？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "us_market_relevance": "high",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 1
     },
     {
-      "index": 4,
+      "index": 3,
       "title_cn": "OpenAI与Anthropic价格战应对中国AI竞争",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "面对中国AI挑战，OpenAI和Anthropic发布更便宜模型，开启价格战。",
-      "short_summary_cn": "美国AI巨头OpenAI和Anthropic正陷入价格战，纷纷发布更便宜的模型。此举是为了应对中国AI竞争对手带来的新挑战，这些挑战威胁到他们万亿美元的市场雄心。",
-      "why_it_matters_cn": "AI价格战重塑市场格局，影响行业利润和竞争态势，中国AI崛起是关键变量。",
-      "action_suggestion_cn": "关注模型定价变化，评估AI服务成本，适时调整采购策略。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "中美AI竞争加剧，OpenAI与Anthropic降价应对中国对手挑战。",
+      "short_summary_cn": "面对中国AI企业的崛起，OpenAI和Anthropic发布更便宜的模型，以应对其万亿美元雄心面临的新挑战。价格战正式打响。",
+      "why_it_matters_cn": "AI模型价格战直接影响企业采购成本与行业竞争格局。",
+      "action_suggestion_cn": "评估新模型性价比，考虑迁移至更便宜的AI服务。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI行业竞争格局重大变化，影响广泛。",
-      "frontpage_reason_cn": "AI巨头动态，市场影响大。",
+      "tracking_value": 10,
+      "editor_reason_cn": "AI行业竞争格局重大变化，影响深远。",
+      "frontpage_reason_cn": "AI巨头价格战，市场关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "AI模型价格下降，企业成本降低。",
-        "medium_term_impact_cn": "中小AI公司面临更大竞争压力。",
-        "long_term_impact_cn": "AI行业整合加速，中国AI影响力上升。",
+        "immediate_impact_cn": "AI服务价格下降，企业成本降低。",
+        "medium_term_impact_cn": "中小AI企业可能面临更大压力。",
+        "long_term_impact_cn": "加速AI技术普及，重塑行业格局。",
         "affected_sectors": [
           "AI",
           "云计算",
-          "科技"
+          "企业服务"
         ],
         "affected_assets": [
-          "AI公司股票",
+          "AI概念股",
           "科技股"
         ],
         "us_stock_relevance": "very_high",
@@ -800,51 +717,97 @@
         "risk_level": "medium",
         "follow_up_questions": [
           "价格战会持续多久？",
-          "对AI初创企业有何影响？"
+          "中国AI企业的竞争优势何在？"
         ]
       },
       "us_market_relevance": "very_high",
       "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 4,
+      "title_cn": "英伟达大幅缩减OpenAI基础设施融资担保",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "英伟达缩减对OpenAI数据中心2500亿美元融资的担保规模。",
+      "short_summary_cn": "据路透社报道，英伟达大幅减少了对OpenAI数据中心基础设施融资的担保额度。此举可能影响OpenAI的算力扩张计划。",
+      "why_it_matters_cn": "反映AI基础设施投资风险变化，影响OpenAI与英伟达合作关系。",
+      "action_suggestion_cn": "关注英伟达与OpenAI后续合作动态及数据中心投资趋势。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 10,
+      "editor_reason_cn": "AI算力供应链关键变动，影响重大。",
+      "frontpage_reason_cn": "AI巨头合作生变，市场敏感。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对OpenAI算力扩张的担忧。",
+        "medium_term_impact_cn": "可能影响AI数据中心投资节奏。",
+        "long_term_impact_cn": "改变AI算力市场供需格局。",
+        "affected_sectors": [
+          "AI",
+          "半导体",
+          "数据中心"
+        ],
+        "affected_assets": [
+          "英伟达",
+          "OpenAI相关",
+          "AI芯片股"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "OpenAI如何弥补资金缺口？",
+          "英伟达缩减担保的原因？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 4
     },
     {
       "index": 5,
-      "title_cn": "OpenAI改进GPT-5.6 Sol并扩大Luna免费访问",
+      "title_cn": "OpenAI升级GPT-5.6 Sol并扩大Luna免费访问",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-06",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT推出改进版GPT-5.6 Sol，免费用户可无限使用GPT-5.6 Luna。",
-      "short_summary_cn": "OpenAI宣布改进GPT-5.6 Sol，提升准确性和一致性，并扩大免费用户对GPT-5.6 Luna的访问权限，提供无限日常聊天。",
-      "why_it_matters_cn": "模型升级和免费策略影响用户体验和AI普及，是OpenAI产品战略的重要一步。",
-      "action_suggestion_cn": "体验新版模型，评估性能提升，关注免费用户功能变化。",
+      "key_takeaway_cn": "ChatGPT升级GPT-5.6 Sol提升准确性，免费用户可无限使用Luna。",
+      "short_summary_cn": "OpenAI宣布改进GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户对GPT-5.6 Luna的访问权限，提供无限日常聊天。",
+      "why_it_matters_cn": "提升AI模型性能与可及性，影响用户体验与竞争格局。",
+      "action_suggestion_cn": "试用新版模型，体验性能提升与免费功能。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "OpenAI核心产品更新，影响大量用户。",
-      "frontpage_reason_cn": "AI产品重大更新。",
+      "tracking_value": 10,
+      "editor_reason_cn": "OpenAI核心产品更新，用户影响面广。",
+      "frontpage_reason_cn": "AI模型重大升级，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "用户可体验新模型，免费用户受益。",
-        "medium_term_impact_cn": "可能提升ChatGPT用户粘性。",
+        "immediate_impact_cn": "用户可立即体验新模型。",
+        "medium_term_impact_cn": "可能吸引更多免费用户。",
         "long_term_impact_cn": "巩固OpenAI市场地位。",
         "affected_sectors": [
           "AI",
-          "科技"
+          "消费科技"
         ],
         "affected_assets": [
           "OpenAI相关",
           "AI概念股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "Sol改进具体有哪些？",
-          "免费用户限制是什么？"
+          "Sol与Luna有何区别？",
+          "免费用户限制有哪些？"
         ]
       },
       "us_market_relevance": "high",
@@ -853,135 +816,178 @@
       "frontpage_rank": 5
     },
     {
-      "index": 8,
-      "title_cn": "Thrive创始人Kushner警告硅谷AI投资泡沫",
+      "index": 7,
+      "title_cn": "Anthropic CEO称AI反弹是信任危机",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Anthropic CEO Dario Amodei认为AI反弹本质是信任危机。",
+      "short_summary_cn": "Anthropic CEO Dario Amodei反驳外界对其过度悲观描绘AI的批评，强调AI反弹“从根本上是一场信任危机”。",
+      "why_it_matters_cn": "AI行业领袖对公众信任问题的表态，影响行业声誉与监管。",
+      "action_suggestion_cn": "关注AI信任相关讨论，思考如何建立用户信任。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "AI行业核心人物观点，具有风向标意义。",
+      "frontpage_reason_cn": "AI信任危机议题，公众关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发AI信任问题讨论。",
+        "medium_term_impact_cn": "可能影响AI企业公关策略。",
+        "long_term_impact_cn": "推动AI行业建立更透明的沟通机制。",
+        "affected_sectors": [
+          "AI",
+          "科技"
+        ],
+        "affected_assets": [
+          "AI概念股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "如何重建AI信任？",
+          "其他AI领袖有何看法？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 9,
+      "title_cn": "Kushner警告硅谷VC警惕AI狂热",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "Joshua Kushner警告AI机遇巨大，但不应因兴奋放松投资纪律。",
-      "short_summary_cn": "Thrive Capital创始人Joshua Kushner在其首份投资信中警告硅谷VC对AI的狂热。他表示AI机遇巨大，但让兴奋削弱投资纪律是严重错误。",
-      "why_it_matters_cn": "顶级投资人警告AI泡沫风险，影响市场情绪和投资决策。",
-      "action_suggestion_cn": "关注Kushner投资信全文，评估AI投资风险。",
+      "freshness_label": "58h前",
+      "key_takeaway_cn": "Thrive创始人Kushner警告VC勿因AI狂热放松投资纪律。",
+      "short_summary_cn": "Thrive Capital的Joshua Kushner在其首份投资信中警告，AI机会巨大，但“让兴奋削弱投资纪律将是严重错误”。",
+      "why_it_matters_cn": "顶级VC对AI泡沫的警示，影响一级市场投资情绪。",
+      "action_suggestion_cn": "关注VC投资动向，理性评估AI项目估值。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "知名投资人观点，影响市场情绪。",
-      "frontpage_reason_cn": "AI投资风险警示。",
+      "editor_reason_cn": "投资界权威观点，对市场有参考价值。",
+      "frontpage_reason_cn": "AI投资过热讨论，市场关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI投资泡沫讨论。",
+        "immediate_impact_cn": "引发对AI估值的反思。",
         "medium_term_impact_cn": "可能影响VC投资节奏。",
-        "long_term_impact_cn": "促进理性投资。",
+        "long_term_impact_cn": "有助于市场理性发展。",
         "affected_sectors": [
           "风险投资",
           "AI"
         ],
         "affected_assets": [
-          "AI初创公司"
+          "AI初创公司",
+          "科技股"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "AI估值是否过高？",
-          "哪些领域存在泡沫？"
+          "AI泡沫是否正在形成？",
+          "哪些领域估值过高？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 8
+      "is_old_context": false
     },
     {
-      "index": 9,
+      "index": 10,
       "title_cn": "谷歌允许用户移除AI生成内容的可见水印",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "谷歌允许用户关闭AI生成内容的可见水印，但不可见标识不受影响。",
-      "short_summary_cn": "谷歌将允许用户移除其AI生成内容上的可见水印。关闭此设置不会影响用于识别AI生成文件的不可见基准。",
-      "why_it_matters_cn": "水印政策平衡内容溯源与用户体验，影响AI内容传播。",
-      "action_suggestion_cn": "了解谷歌AI水印设置，评估内容管理策略。",
+      "freshness_label": "58h前",
+      "key_takeaway_cn": "谷歌新设置允许用户移除AI生成内容的可见水印。",
+      "short_summary_cn": "谷歌将允许用户关闭AI生成内容的可见水印设置，但此举不影响用于识别AI生成文件的隐形基准。",
+      "why_it_matters_cn": "平衡AI内容美观与溯源需求，影响内容平台政策。",
+      "action_suggestion_cn": "了解谷歌AI水印设置，评估内容发布策略。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI内容管理政策变化。",
-      "frontpage_reason_cn": "影响AI内容使用规范。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI内容管理政策调整，具有行业参考性。",
+      "frontpage_reason_cn": "AI水印政策变化，内容创作者关注。",
       "impact_analysis": {
         "immediate_impact_cn": "用户可更灵活使用AI生成内容。",
-        "medium_term_impact_cn": "可能引发内容溯源争议。",
-        "long_term_impact_cn": "推动行业水印标准讨论。",
+        "medium_term_impact_cn": "可能引发其他平台跟进。",
+        "long_term_impact_cn": "影响AI内容溯源标准。",
         "affected_sectors": [
           "AI",
-          "内容创作"
-        ],
-        "affected_assets": [
-          "谷歌",
-          "AI平台"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "不可见水印如何工作？",
-          "其他公司会跟进吗？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 11,
-      "title_cn": "Uber与Pony.ai计划在欧洲部署2000辆Robotaxi",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "Uber与Pony.ai扩大合作，将2000辆Robotaxi扩展至欧洲五个城市。",
-      "short_summary_cn": "Uber和Pony.ai的合作将超出最初克罗地亚萨格勒布市场，扩展至另外四个欧洲城市，计划部署2000辆Robotaxi。",
-      "why_it_matters_cn": "Robotaxi商业化加速，影响出行行业和自动驾驶技术发展。",
-      "action_suggestion_cn": "关注Robotaxi服务城市，评估出行方式变化。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "自动驾驶商业化重要进展。",
-      "frontpage_reason_cn": "出行行业变革信号。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发自动驾驶关注。",
-        "medium_term_impact_cn": "可能影响欧洲出行市场。",
-        "long_term_impact_cn": "推动Robotaxi全球普及。",
-        "affected_sectors": [
-          "出行",
-          "自动驾驶",
+          "内容创作",
           "科技"
         ],
         "affected_assets": [
-          "Uber",
-          "Pony.ai",
-          "汽车股"
+          "谷歌",
+          "AI概念股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
         "follow_up_questions": [
-          "具体哪些城市？",
-          "何时上线？"
+          "隐形水印如何工作？",
+          "对版权保护有何影响？"
         ]
       },
       "us_market_relevance": "high",
       "is_recent": false,
       "is_old_context": false
+    },
+    {
+      "index": 11,
+      "title_cn": "苹果提议对App Store外购买收取15%佣金",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-14",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "苹果提议对iOS应用外部链接购买收取最高15%佣金。",
+      "short_summary_cn": "苹果请求联邦法官允许其对iOS应用中通过外部链接完成的购买收取最高15%的佣金。此举是对反垄断监管的回应。",
+      "why_it_matters_cn": "影响App Store商业模式与开发者收益。",
+      "action_suggestion_cn": "开发者需关注苹果政策变化，评估商业模式影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "科技巨头商业模式调整，影响广泛。",
+      "frontpage_reason_cn": "苹果反垄断案进展，市场关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发开发者对佣金政策的讨论。",
+        "medium_term_impact_cn": "可能改变iOS应用分发格局。",
+        "long_term_impact_cn": "影响全球应用商店监管趋势。",
+        "affected_sectors": [
+          "科技",
+          "应用开发",
+          "电商"
+        ],
+        "affected_assets": [
+          "苹果",
+          "应用开发商"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "法院如何裁决？",
+          "开发者会如何应对？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": false,
+      "is_old_context": true
     },
     {
       "index": 12,
@@ -992,34 +998,36 @@
       "news_type": "tech",
       "date_display": "2026-08-13",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI推出Ultrafast API服务，GPT-5.6 Sol运行速度提升14倍。",
-      "short_summary_cn": "OpenAI预览Ultrafast模式，这是一种新的API服务层级，由Cerebras提供支持，运行GPT-5.6 Sol的速度最高可提升14倍，每秒输出高达750个token。",
-      "why_it_matters_cn": "AI推理速度大幅提升，降低延迟，拓展实时应用场景。",
-      "action_suggestion_cn": "开发者可关注API服务，评估性能提升对应用的影响。",
+      "key_takeaway_cn": "OpenAI推出Ultrafast API服务，GPT-5.6 Sol速度提升14倍。",
+      "short_summary_cn": "OpenAI预览新的API服务层级Ultrafast，由Cerebras提供支持，运行GPT-5.6 Sol速度最高提升14倍，每秒输出高达750个token。",
+      "why_it_matters_cn": "大幅提升AI推理速度，降低延迟，拓展实时应用场景。",
+      "action_suggestion_cn": "开发者可关注Ultrafast API的可用性与定价。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "AI性能重大提升。",
-      "frontpage_reason_cn": "技术突破影响AI应用。",
+      "editor_reason_cn": "AI性能重大突破，对应用开发有直接影响。",
+      "frontpage_reason_cn": "AI速度提升，技术爱好者关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "开发者可测试新服务。",
-        "medium_term_impact_cn": "可能推动实时AI应用发展。",
-        "long_term_impact_cn": "提升AI竞争力。",
+        "immediate_impact_cn": "开发者可测试新API性能。",
+        "medium_term_impact_cn": "推动实时AI应用发展。",
+        "long_term_impact_cn": "改变AI服务市场格局。",
         "affected_sectors": [
           "AI",
-          "云计算"
+          "云计算",
+          "企业服务"
         ],
         "affected_assets": [
-          "OpenAI",
-          "Cerebras"
+          "OpenAI相关",
+          "Cerebras",
+          "AI芯片股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "定价如何？",
-          "何时全面上线？"
+          "Ultrafast模式定价如何？",
+          "对Cerebras有何影响？"
         ]
       },
       "us_market_relevance": "high",
@@ -1035,76 +1043,79 @@
       "news_type": "tech",
       "date_display": "2026-08-11",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI开始在ChatGPT中测试广告，以支持免费访问，并强调清晰标注和隐私保护。",
+      "key_takeaway_cn": "OpenAI测试ChatGPT广告以支持免费访问，强调清晰标注与隐私保护。",
       "short_summary_cn": "OpenAI开始在ChatGPT中测试广告，以支持免费访问。广告将清晰标注，保证答案独立性，并加强隐私保护和用户控制。",
-      "why_it_matters_cn": "ChatGPT商业化模式探索，影响用户体验和AI行业盈利模式。",
-      "action_suggestion_cn": "关注广告测试反馈，评估对使用体验的影响。",
+      "why_it_matters_cn": "AI聊天机器人商业化新模式，影响用户体验与行业趋势。",
+      "action_suggestion_cn": "关注ChatGPT广告形式，评估对用户体验的影响。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "AI商业化重要尝试。",
-      "frontpage_reason_cn": "影响AI产品商业模式。",
+      "editor_reason_cn": "AI商业化重要尝试，具有行业示范效应。",
+      "frontpage_reason_cn": "ChatGPT广告测试，用户关注度高。",
       "impact_analysis": {
         "immediate_impact_cn": "部分用户可能看到广告。",
-        "medium_term_impact_cn": "可能影响用户满意度。",
-        "long_term_impact_cn": "塑造AI广告模式。",
+        "medium_term_impact_cn": "可能影响ChatGPT用户增长与留存。",
+        "long_term_impact_cn": "探索AI平台可持续商业模式。",
         "affected_sectors": [
           "AI",
-          "广告"
+          "广告",
+          "科技"
         ],
         "affected_assets": [
-          "OpenAI",
-          "广告商"
+          "OpenAI相关",
+          "广告科技股"
         ],
-        "us_stock_relevance": "medium",
+        "us_stock_relevance": "high",
         "market_sentiment": "mixed",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "广告形式如何？",
-          "用户如何控制？"
+          "广告如何精准投放？",
+          "用户反馈如何？"
         ]
       },
-      "us_market_relevance": "medium",
+      "us_market_relevance": "high",
       "is_recent": false,
       "is_old_context": true
     },
     {
       "index": 14,
-      "title_cn": "Model ML利用GPT-5.6 Sol提升金融工作效率",
+      "title_cn": "Model ML用GPT-5.6 Sol提升金融工作效率",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Model ML使用GPT-5.6 Sol完成金融工作，从研究分析到生成PPT和Excel。",
-      "short_summary_cn": "Model ML使用GPT-5.6 Sol处理金融工作，从研究和分析到生成可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。",
-      "why_it_matters_cn": "AI在金融领域的应用案例，展示自动化潜力。",
-      "action_suggestion_cn": "关注AI金融工具发展，评估在自身工作中的应用。",
+      "key_takeaway_cn": "Model ML利用GPT-5.6 Sol完成金融工作，生成PPT与Excel。",
+      "short_summary_cn": "Model ML使用GPT-5.6 Sol处理金融工作，从研究分析到生成可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。",
+      "why_it_matters_cn": "展示AI在金融领域的实际应用价值，提升工作效率。",
+      "action_suggestion_cn": "金融从业者可探索GPT-5.6 Sol在自身工作中的应用。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI行业应用案例。",
-      "frontpage_reason_cn": "展示AI实际价值。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI金融应用案例，具有参考价值。",
+      "frontpage_reason_cn": "AI赋能金融，行业关注。",
       "impact_analysis": {
         "immediate_impact_cn": "引发金融行业AI应用讨论。",
-        "medium_term_impact_cn": "可能推动金融工具创新。",
-        "long_term_impact_cn": "改变金融工作流程。",
+        "medium_term_impact_cn": "推动金融工具智能化升级。",
+        "long_term_impact_cn": "改变金融行业工作模式。",
         "affected_sectors": [
           "金融",
-          "AI"
+          "AI",
+          "企业服务"
         ],
         "affected_assets": [
-          "金融科技公司"
+          "金融科技股",
+          "AI概念股"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体效率提升多少？",
-          "其他行业会跟进吗？"
+          "AI在金融领域还有哪些应用？",
+          "如何确保数据安全？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1113,40 +1124,41 @@
     },
     {
       "index": 15,
-      "title_cn": "OpenAI CFO分享AI原生财务部门建设经验",
+      "title_cn": "OpenAI CFO分享AI原生财务建设经验",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-11",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI CFO Sarah Friar分享建设AI原生财务部门的五个经验教训。",
-      "short_summary_cn": "OpenAI CFO Sarah Friar分享了建设AI原生财务部门的五个经验，涵盖自动化预测、强化控制和AI投资回报率等方面。",
-      "why_it_matters_cn": "企业AI转型实践案例，为财务部门提供参考。",
-      "action_suggestion_cn": "阅读全文，借鉴AI转型经验。",
+      "key_takeaway_cn": "OpenAI CFO Sarah Friar分享AI原生财务五大经验。",
+      "short_summary_cn": "OpenAI CFO Sarah Friar分享了建设AI原生财务职能的五个经验，涵盖自动化预测、强化控制和AI投资回报率等方面。",
+      "why_it_matters_cn": "为企业财务部门AI转型提供实践指导。",
+      "action_suggestion_cn": "财务管理者可借鉴OpenAI经验，探索AI应用。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "企业AI转型实践。",
-      "frontpage_reason_cn": "提供AI应用洞见。",
+      "tracking_value": 7,
+      "editor_reason_cn": "企业AI转型案例，具有实操参考价值。",
+      "frontpage_reason_cn": "AI在财务领域的应用，企业关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发企业AI转型讨论。",
-        "medium_term_impact_cn": "可能推动财务部门AI应用。",
-        "long_term_impact_cn": "加速企业AI普及。",
+        "immediate_impact_cn": "引发财务AI应用讨论。",
+        "medium_term_impact_cn": "推动企业财务部门AI adoption。",
+        "long_term_impact_cn": "重塑财务职能与人才需求。",
         "affected_sectors": [
+          "金融",
           "企业服务",
           "AI"
         ],
         "affected_assets": [
-          "AI软件公司"
+          "金融科技股"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体经验是什么？",
-          "如何衡量AI ROI？"
+          "AI如何改变CFO角色？",
+          "中小企业如何借鉴？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1155,85 +1167,88 @@
     },
     {
       "index": 16,
-      "title_cn": "ChatGPT Business推出高级席位",
+      "title_cn": "ChatGPT Business将推出高级席位",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT Business将推出高级席位，8月20日前注册可得100美元积分。",
-      "short_summary_cn": "ChatGPT Business即将推出高级席位。8月20日前注册可获得100美元工作区积分，并为团队最 demanding 的工作解锁更高使用量。",
-      "why_it_matters_cn": "企业级AI服务升级，影响团队协作效率。",
-      "action_suggestion_cn": "企业用户可考虑在8月20日前注册获取优惠。",
+      "key_takeaway_cn": "ChatGPT Business高级席位即将推出，8月20日前注册获$100积分。",
+      "short_summary_cn": "ChatGPT Business即将推出高级席位，8月20日前注册可获得100美元工作区积分，并解锁更高使用额度。",
+      "why_it_matters_cn": "为企业用户提供更高性能AI服务，影响企业采购决策。",
+      "action_suggestion_cn": "企业用户可考虑在8月20日前注册以获取优惠。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "企业AI服务更新。",
-      "frontpage_reason_cn": "影响企业用户。",
+      "tracking_value": 7,
+      "editor_reason_cn": "OpenAI企业服务升级，具有商业价值。",
+      "frontpage_reason_cn": "企业AI服务动态，B2B市场关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "企业可注册获取优惠。",
-        "medium_term_impact_cn": "可能提升ChatGPT企业市场份额。",
-        "long_term_impact_cn": "巩固OpenAI企业服务。",
+        "immediate_impact_cn": "企业用户可注册获取优惠。",
+        "medium_term_impact_cn": "可能提升ChatGPT Business市场份额。",
+        "long_term_impact_cn": "巩固OpenAI在企业AI市场地位。",
         "affected_sectors": [
-          "企业服务",
-          "AI"
+          "AI",
+          "企业服务"
         ],
         "affected_assets": [
-          "OpenAI"
+          "OpenAI相关",
+          "SaaS股"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "高级席位价格？",
-          "具体功能差异？"
+          "高级席位定价如何？",
+          "与普通席位有何区别？"
         ]
       },
-      "us_market_relevance": "medium",
+      "us_market_relevance": "high",
       "is_recent": false,
       "is_old_context": true
     },
     {
       "index": 17,
-      "title_cn": "维珍航空利用ChatGPT Work优化客户旅程",
+      "title_cn": "维珍大西洋航空用ChatGPT Work优化客户体验",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "维珍航空使用ChatGPT Work加速研究、产品规划和决策。",
-      "short_summary_cn": "维珍航空正在使用ChatGPT Work加速研究、产品规划和决策，帮助团队连接客户旅程中的信号。",
-      "why_it_matters_cn": "AI在企业运营中的应用案例，展示效率提升潜力。",
-      "action_suggestion_cn": "关注AI在航空业的应用，评估自身业务场景。",
+      "key_takeaway_cn": "维珍大西洋航空利用ChatGPT Work加速研究与决策。",
+      "short_summary_cn": "维珍大西洋航空正在使用ChatGPT Work加速研究、产品规划和决策，帮助团队连接客户旅程中的信号。",
+      "why_it_matters_cn": "展示AI在航空业的应用，提升运营效率与客户体验。",
+      "action_suggestion_cn": "关注AI在航空领域的应用案例，探索合作机会。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "企业AI应用案例。",
-      "frontpage_reason_cn": "展示AI实际价值。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI行业应用案例，具有示范效应。",
+      "frontpage_reason_cn": "AI赋能传统行业，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发行业讨论。",
-        "medium_term_impact_cn": "可能推动航空业AI应用。",
-        "long_term_impact_cn": "提升行业效率。",
+        "immediate_impact_cn": "引发航空业AI应用讨论。",
+        "medium_term_impact_cn": "推动航空业数字化转型。",
+        "long_term_impact_cn": "改变航空业客户服务模式。",
         "affected_sectors": [
           "航空",
+          "旅游",
           "AI"
         ],
         "affected_assets": [
-          "维珍航空"
+          "航空股",
+          "AI概念股"
         ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体应用场景？",
-          "效果如何？"
+          "AI如何提升客户体验？",
+          "其他航空公司会跟进吗？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": true
     },
@@ -1246,120 +1261,38 @@
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Zapier营销团队使用ChatGPT Work减少线索流失、构建营销资产和自动化报告。",
-      "short_summary_cn": "Zapier的企业营销团队使用ChatGPT Work减少线索漏斗中的流失，构建营销活动资产，并自动化报告。",
-      "why_it_matters_cn": "AI在营销领域的应用，展示自动化潜力。",
-      "action_suggestion_cn": "关注AI营销工具，评估效率提升机会。",
+      "key_takeaway_cn": "Zapier营销团队用ChatGPT Work减少线索流失并自动化报告。",
+      "short_summary_cn": "Zapier的企业营销团队使用ChatGPT Work减少潜在客户漏斗中的流失，构建营销活动资产，并自动化报告。",
+      "why_it_matters_cn": "展示AI在营销自动化中的实际效果，提升营销ROI。",
+      "action_suggestion_cn": "营销团队可评估ChatGPT Work在自身工作流中的应用。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "AI营销应用案例。",
-      "frontpage_reason_cn": "展示AI实际价值。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI营销应用案例，具有实操参考价值。",
+      "frontpage_reason_cn": "AI营销自动化，企业关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发营销行业讨论。",
-        "medium_term_impact_cn": "可能推动营销自动化。",
-        "long_term_impact_cn": "改变营销工作方式。",
+        "immediate_impact_cn": "引发营销AI应用讨论。",
+        "medium_term_impact_cn": "推动营销工具智能化。",
+        "long_term_impact_cn": "改变营销行业工作方式。",
         "affected_sectors": [
           "营销",
+          "SaaS",
           "AI"
         ],
         "affected_assets": [
-          "Zapier"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "具体效果如何？",
-          "其他公司会跟进吗？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 19,
-      "title_cn": "OpenAI数据揭示全球ChatGPT使用趋势",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-06",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI Signals数据显示全球ChatGPT使用情况，包含国家层面的采用和趋势。",
-      "short_summary_cn": "新的OpenAI Signals数据展示了全球人们如何使用ChatGPT，提供了国家层面的采用、使用趋势和演变行为的洞察。",
-      "why_it_matters_cn": "了解AI采用趋势，为市场策略提供数据支持。",
-      "action_suggestion_cn": "关注数据报告，了解AI市场动态。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI市场数据洞察。",
-      "frontpage_reason_cn": "提供行业趋势。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发市场分析。",
-        "medium_term_impact_cn": "可能影响AI投资决策。",
-        "long_term_impact_cn": "指导AI产品开发。",
-        "affected_sectors": [
-          "AI",
-          "市场研究"
-        ],
-        "affected_assets": [
-          "OpenAI"
+          "Zapier相关",
+          "营销科技股"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体数据如何？",
-          "哪些国家增长最快？"
+          "AI如何提升营销效率？",
+          "对营销人员有何影响？"
         ]
       },
       "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 20,
-      "title_cn": "OpenAI推出ChatGPT Work和Codex教育插件",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-04",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI为ChatGPT Work和Codex推出新教育插件，帮助K-12教师和学生。",
-      "short_summary_cn": "OpenAI为ChatGPT Work和Codex推出新的教育插件，帮助K-12教师、大学教育者和学生学习、教学、研究和构建。",
-      "why_it_matters_cn": "AI在教育领域的应用，可能改变教学方式。",
-      "action_suggestion_cn": "教育工作者可探索这些插件。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "AI教育应用。",
-      "frontpage_reason_cn": "影响教育领域。",
-      "impact_analysis": {
-        "immediate_impact_cn": "教育者可试用插件。",
-        "medium_term_impact_cn": "可能推动教育AI应用。",
-        "long_term_impact_cn": "改变教育方式。",
-        "affected_sectors": [
-          "教育",
-          "AI"
-        ],
-        "affected_assets": [
-          "OpenAI"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "插件具体功能？",
-          "如何获取？"
-        ]
-      },
-      "us_market_relevance": "low",
       "is_recent": false,
       "is_old_context": true
     }
@@ -1367,125 +1300,81 @@
   "politics_highlights": [
     {
       "index": 2,
-      "title_cn": "美国法院将公布政府间谍软件使用频率",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "美国法院行政办公室将披露法官授权使用间谍软件进行窃听的次数。",
-      "short_summary_cn": "美国法院行政办公室向TechCrunch表示，将开始披露法官授权使用间谍软件窃听疑似罪犯的次数。这是政府监控透明度的一次重要进展。",
-      "why_it_matters_cn": "政府监控透明度直接影响公民隐私权和法治信任，此政策变化具有重大社会影响。",
-      "action_suggestion_cn": "关注后续披露数据，评估隐私政策变化对个人和企业的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "政府监控透明度是重大政治议题，涉及公民权利。",
-      "frontpage_reason_cn": "影响公共政策与公民自由。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发公众对政府监控的讨论。",
-        "medium_term_impact_cn": "可能推动相关立法改革。",
-        "long_term_impact_cn": "增强政府问责，影响监控技术使用。",
-        "affected_sectors": [
-          "政府",
-          "法律",
-          "科技"
-        ],
-        "affected_assets": [
-          "监控技术公司"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "具体披露频率？",
-          "对执法部门有何影响？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "政策专家：欧洲火箭发射陷入两难境地",
+      "title_cn": "欧洲火箭发射政策陷入两难困境",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "politics_world",
       "news_type": "politics",
       "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "火箭回收经济性凸显，欧洲在航天发射政策上面临艰难抉择。",
-      "short_summary_cn": "政策专家指出，欧洲在火箭发射问题上进退两难。火箭重复使用的经济性非常可观，这给欧洲的航天战略带来了挑战。",
-      "why_it_matters_cn": "航天战略影响欧洲科技自主与竞争力，火箭回收技术改变行业格局。",
-      "action_suggestion_cn": "关注欧洲航天局后续政策动向，评估对全球航天市场的影响。",
+      "freshness_label": "58h前",
+      "key_takeaway_cn": "欧洲在火箭发射政策上进退维谷，火箭复用经济性凸显。",
+      "short_summary_cn": "政策专家指出，欧洲在火箭发射领域面临艰难抉择。火箭复用技术的经济优势明显，但欧洲在政策与产业布局上尚未跟上。",
+      "why_it_matters_cn": "影响欧洲航天竞争力与全球航天市场格局。",
+      "action_suggestion_cn": "关注欧洲航天局政策动向及商业航天公司布局。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "航天政策与科技经济密切相关，具有战略意义。",
-      "frontpage_reason_cn": "影响全球航天竞争格局。",
+      "tracking_value": 10,
+      "editor_reason_cn": "航天政策与产业经济交叉，具有战略意义。",
+      "frontpage_reason_cn": "全球航天竞争关键节点。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发航天政策讨论。",
+        "immediate_impact_cn": "引发欧洲航天政策讨论。",
         "medium_term_impact_cn": "可能影响欧洲火箭项目投资决策。",
-        "long_term_impact_cn": "改变全球航天发射市场格局。",
+        "long_term_impact_cn": "重塑全球航天发射市场格局。",
         "affected_sectors": [
           "航天",
-          "科技",
-          "政策"
+          "国防",
+          "科技"
         ],
         "affected_assets": [
-          "航天公司",
-          "火箭制造商"
+          "航天类股票",
+          "欧洲航天概念"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "欧洲是否会采用可回收火箭？",
-          "对Ariane项目有何影响？"
+          "欧洲是否会加速火箭复用研发？",
+          "对Ariane 6有何影响？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": false,
-      "frontpage_rank": 3
+      "frontpage_rank": 2
     },
     {
-      "index": 7,
-      "title_cn": "圆桌讨论：影响美国政策的“审查工业综合体”",
+      "index": 6,
+      "title_cn": "“审查产业综合体”概念如何影响美国政策",
       "source": "MIT Technology Review",
       "source_display_name": "MIT Technology Review",
       "category": "politics_world",
       "news_type": "politics",
       "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "探讨“审查工业综合体”概念如何从右翼圈层进入美国政策制定。",
-      "short_summary_cn": "MIT Technology Review举办圆桌讨论，探讨“审查工业综合体”这一概念。该概念认为政府、科技和研究团体合作压制保守派网络言论，现已影响美国政策。",
-      "why_it_matters_cn": "该概念影响美国言论自由政策，反映政治与科技复杂关系。",
-      "action_suggestion_cn": "观看讨论视频，了解政策动向。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "“审查产业综合体”概念从右翼圈层进入美国政策核心。",
+      "short_summary_cn": "MIT技术评论探讨了“审查产业综合体”这一概念，即政府、科技与研究机构网络合作压制保守派网络言论。该概念已从右翼信息圈渗透至美国政策制定。",
+      "why_it_matters_cn": "揭示美国科技政策与言论自由博弈的新动向。",
+      "action_suggestion_cn": "关注美国科技政策走向及对平台监管的影响。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "涉及言论自由与科技政策，具有深度。",
-      "frontpage_reason_cn": "政策思想影响深远。",
+      "tracking_value": 9,
+      "editor_reason_cn": "科技与政治交叉议题，具有深度分析价值。",
+      "frontpage_reason_cn": "美国政策风向标，影响科技行业。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对审查制度的讨论。",
-        "medium_term_impact_cn": "可能影响科技公司内容审核政策。",
-        "long_term_impact_cn": "塑造美国网络言论监管方向。",
+        "immediate_impact_cn": "引发对科技平台审查政策的讨论。",
+        "medium_term_impact_cn": "可能影响美国科技立法方向。",
+        "long_term_impact_cn": "重塑美国言论自由与科技监管平衡。",
         "affected_sectors": [
           "科技",
           "政策",
           "媒体"
         ],
         "affected_assets": [
-          "科技平台"
+          "科技平台股"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
@@ -1493,276 +1382,351 @@
           "科技公司如何应对？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 7
+      "is_old_context": true,
+      "frontpage_rank": 6
     },
     {
-      "index": 10,
-      "title_cn": "苹果提议对App Store外购买收取15%佣金",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "index": 8,
+      "title_cn": "联邦关键词列表取消数十亿研究经费",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
       "category": "politics_world",
       "news_type": "politics",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "苹果请求法院允许对iOS应用外部链接购买收取最高15%佣金。",
-      "short_summary_cn": "苹果请求联邦法官允许其对iOS应用中通过外部链接进行的购买收取最高15%的佣金。此举是苹果在反垄断压力下调整其App Store政策的一部分。",
-      "why_it_matters_cn": "苹果佣金政策影响应用开发者生态和数字市场竞争，是反垄断焦点。",
-      "action_suggestion_cn": "关注法院裁决，评估对应用开发成本的影响。",
-      "importance_score": 7,
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "联邦关键词列表导致数十亿美元研究经费被取消。",
+      "short_summary_cn": "一份联邦关键词列表被用于取消数十亿美元的研究经费，引发对科研政策与学术自由的担忧。",
+      "why_it_matters_cn": "直接影响科研资金分配与学术研究方向。",
+      "action_suggestion_cn": "关注科研经费政策变化，评估对相关领域的影响。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "苹果政策调整影响广泛开发者。",
-      "frontpage_reason_cn": "科技巨头反垄断动态。",
+      "tracking_value": 9,
+      "editor_reason_cn": "科研政策重大变动，影响面广。",
+      "frontpage_reason_cn": "科研经费削减，学术界关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发开发者社区讨论。",
-        "medium_term_impact_cn": "可能改变应用分发格局。",
-        "long_term_impact_cn": "影响全球数字市场监管。",
+        "immediate_impact_cn": "相关研究项目可能中断。",
+        "medium_term_impact_cn": "影响科研机构预算与人才流动。",
+        "long_term_impact_cn": "可能削弱美国科研竞争力。",
         "affected_sectors": [
-          "科技",
-          "应用开发"
+          "科研",
+          "教育",
+          "政策"
         ],
         "affected_assets": [
-          "苹果",
-          "应用开发者"
+          "教育类股",
+          "科研相关"
         ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
         "follow_up_questions": [
-          "法院会批准吗？",
-          "对开发者有何实际影响？"
+          "哪些关键词被列入？",
+          "受影响最大的领域？"
         ]
       },
-      "us_market_relevance": "high",
-      "is_recent": false,
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 8
+    },
+    {
+      "index": 27,
+      "title_cn": "希腊岛屿双火灾致两人死亡数百人疏散",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "希腊萨拉米纳岛双火灾致2人死亡，数百人疏散。",
+      "short_summary_cn": "希腊岛屿发生两起火灾，造成两人死亡，数百人疏散。约200名消防员努力防止火势在萨拉米纳岛汇合，其中一处火势已得到控制。",
+      "why_it_matters_cn": "自然灾害事件，影响当地居民安全与旅游。",
+      "action_suggestion_cn": "关注希腊火灾动态，避免前往受影响区域。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 4,
+      "tracking_value": 6,
+      "editor_reason_cn": "重大自然灾害新闻，具有时效性。",
+      "frontpage_reason_cn": "灾害新闻，公众关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "影响当地居民生活与安全。",
+        "medium_term_impact_cn": "可能影响希腊旅游业。",
+        "long_term_impact_cn": "引发对气候灾害的讨论。",
+        "affected_sectors": [
+          "旅游",
+          "保险",
+          "公共安全"
+        ],
+        "affected_assets": [
+          "旅游相关股票"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "火灾原因是什么？",
+          "救援进展如何？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
       "is_old_context": false
     }
   ],
   "us_market_impact": {
     "overall_market_tone": "mixed",
-    "summary_cn": "AI新闻主导市场情绪，价格战和广告测试引发盈利担忧，但技术突破和Robotaxi扩张提供支撑，整体偏谨慎。",
+    "summary_cn": "AI竞争加剧和英伟达缩减担保引发科技股波动，但OpenAI升级和广告测试带来新看点，市场情绪复杂。",
     "index_impact": {
-      "nasdaq": "AI权重股波动，价格战可能短期压制，但长期看好。",
-      "sp500": "科技板块影响中性，其他板块如消费、工业受苹果案和火箭政策影响。",
-      "russell2000": "中小型AI公司可能受益于价格战带来的机会，但风险偏好下降。"
+      "nasdaq": "科技股受AI消息影响，可能小幅波动，关注NVDA和MSFT。",
+      "sp500": "整体平稳，但科技权重股波动或拖累指数。",
+      "russell2000": "中小科技股可能受AI价格战冲击，表现偏弱。"
     },
     "sector_impacts": [
       {
-        "sector": "科技",
-        "direction": "mixed",
-        "reason_cn": "AI价格战压缩利润，但提速和广告测试带来新收入源。",
-        "related_news": "OpenAI与Anthropic价格战",
-        "possible_tickers": "MSFT, GOOGL, META"
+        "sector": "AI基础设施",
+        "direction": "down",
+        "reason_cn": "英伟达缩减OpenAI融资担保，引发对数据中心投资回报的担忧。",
+        "related_news": "英伟达大幅缩减OpenAI基础设施融资担保",
+        "possible_tickers": "NVDA, ANET, VRT"
       },
       {
-        "sector": "自动驾驶",
+        "sector": "软件服务",
         "direction": "up",
-        "reason_cn": "Uber与Pony.ai扩大Robotaxi部署，行业前景看好。",
-        "related_news": "Uber与Pony.ai计划在欧洲部署2000辆Robotaxi",
-        "possible_tickers": "UBER, PONY"
+        "reason_cn": "OpenAI升级GPT-5.6并推出Ultrafast模式，提升AI应用效率，利好软件股。",
+        "related_news": "OpenAI升级GPT-5.6 Sol并扩大Luna免费访问",
+        "possible_tickers": "MSFT, CRM, NOW"
       },
       {
-        "sector": "航天",
-        "direction": "mixed",
-        "reason_cn": "欧洲火箭发射政策两难，可能影响相关公司。",
-        "related_news": "政策专家：欧洲火箭发射陷入两难境地",
-        "possible_tickers": "RKLB, BA"
+        "sector": "广告科技",
+        "direction": "up",
+        "reason_cn": "OpenAI测试广告，可能为广告平台带来新流量，但需观察用户接受度。",
+        "related_news": "OpenAI开始在ChatGPT中测试广告",
+        "possible_tickers": "RDDT, META, GOOGL"
       },
       {
         "sector": "消费电子",
         "direction": "down",
-        "reason_cn": "苹果佣金案可能影响App Store收入，利空苹果。",
+        "reason_cn": "苹果提议App Store外购买佣金15%，可能引发开发者不满和监管审查，影响苹果生态。",
         "related_news": "苹果提议对App Store外购买收取15%佣金",
         "possible_tickers": "AAPL"
       }
     ],
     "theme_impacts": [
       {
-        "theme": "AI商业化",
-        "direction": "mixed",
-        "reason_cn": "广告测试和价格战是商业化尝试，但盈利模式未明。",
-        "watch_tickers": "MSFT, GOOGL, META"
+        "theme": "AI价格战",
+        "direction": "down",
+        "reason_cn": "OpenAI与Anthropic降价应对中国AI竞争，可能压缩AI公司利润率。",
+        "watch_tickers": "MSFT, GOOGL, AMZN"
       },
       {
-        "theme": "AI监管",
-        "direction": "down",
-        "reason_cn": "水印技术和间谍软件披露增加监管压力。",
+        "theme": "AI内容溯源",
+        "direction": "up",
+        "reason_cn": "Anthropic公开水印技术，谷歌允许移除水印，引发对AI内容监管的讨论，利好合规技术公司。",
         "watch_tickers": "ANTH, GOOGL"
       },
       {
-        "theme": "动漫IP",
+        "theme": "AI商业化变现",
         "direction": "up",
-        "reason_cn": "《王国之心》动画化等消息提振IP价值，但美股影响有限。",
-        "watch_tickers": "DIS"
+        "reason_cn": "OpenAI测试广告和推出高级席位，探索多元化变现，利好AI应用公司。",
+        "watch_tickers": "OPENAI, MSFT"
       }
     ],
     "risk_factors": [
-      "AI投资泡沫警告，Kushner提醒纪律。",
-      "苹果佣金案败诉风险。",
-      "欧洲火箭政策不确定性。",
-      "AI价格战可能引发行业整合。"
+      "AI价格战可能引发行业利润率下滑。",
+      "英伟达缩减担保或导致AI基建融资困难。",
+      "苹果佣金提议可能引发反垄断诉讼。",
+      "美国政策对科技公司审查加强。"
     ],
     "follow_up_events": [
       {
-        "event_name": "苹果佣金案裁决",
+        "event_name": "OpenAI广告测试正式上线",
         "expected_date": "未定",
-        "why_watch_cn": "影响App Store生态和苹果收入",
-        "market_relevance_cn": "AAPL股价和科技监管"
+        "why_watch_cn": "广告模式可能改变ChatGPT免费版体验，影响用户增长和变现。",
+        "market_relevance_cn": "利好广告科技股，但可能引发隐私担忧。"
       },
       {
-        "event_name": "OpenAI广告测试正式推出",
+        "event_name": "英伟达与OpenAI融资谈判结果",
         "expected_date": "未定",
-        "why_watch_cn": "改变AI商业模式和广告市场",
-        "market_relevance_cn": "科技股和广告股"
+        "why_watch_cn": "融资规模缩减可能影响AI数据中心建设进度。",
+        "market_relevance_cn": "影响AI基础设施相关股票。"
       },
       {
-        "event_name": "Uber与Pony.ai欧洲部署",
+        "event_name": "欧洲火箭政策调整",
         "expected_date": "未定",
-        "why_watch_cn": "自动驾驶商业化进展",
-        "market_relevance_cn": "UBER和自动驾驶概念股"
+        "why_watch_cn": "政策两难可能影响欧洲航天竞争力。",
+        "market_relevance_cn": "影响欧洲航天股，如EADSY。"
       }
     ]
   },
   "future_watchlist": [
     {
-      "title": "OpenAI广告测试进展",
+      "title": "OpenAI广告测试的正式推出",
       "category": "ai_tech",
       "expected_date": "未定",
-      "why_watch_cn": "影响AI免费模式可持续性",
-      "market_relevance_cn": "科技股估值",
+      "why_watch_cn": "广告模式可能改变ChatGPT免费版体验，影响用户增长和变现。",
+      "market_relevance_cn": "利好广告科技股，但可能引发隐私担忧。",
       "anime_relevance_cn": "无",
       "urgency": "high",
-      "created_at": "2026-08-16",
-      "updated_at": "2026-08-16",
+      "created_at": "2026-08-17",
+      "updated_at": "2026-08-17",
       "status": "active"
     },
     {
-      "title": "苹果佣金案裁决",
+      "title": "英伟达与OpenAI融资谈判结果",
+      "category": "ai_tech",
+      "expected_date": "未定",
+      "why_watch_cn": "融资规模缩减可能影响AI数据中心建设进度。",
+      "market_relevance_cn": "影响AI基础设施相关股票。",
+      "anime_relevance_cn": "无",
+      "urgency": "high",
+      "created_at": "2026-08-17",
+      "updated_at": "2026-08-17",
+      "status": "active"
+    },
+    {
+      "title": "欧洲火箭政策调整",
       "category": "politics_world",
       "expected_date": "未定",
-      "why_watch_cn": "重塑App Store商业模式",
-      "market_relevance_cn": "AAPL和科技监管",
+      "why_watch_cn": "政策两难可能影响欧洲航天竞争力。",
+      "market_relevance_cn": "影响欧洲航天股，如EADSY。",
       "anime_relevance_cn": "无",
-      "urgency": "high",
-      "created_at": "2026-08-16",
-      "updated_at": "2026-08-16",
-      "status": "active"
-    },
-    {
-      "title": "《王国之心》动画化上线",
-      "category": "anime_collab",
-      "expected_date": "未定",
-      "why_watch_cn": "迪士尼IP联动，粉丝期待高",
-      "market_relevance_cn": "DIS和动漫周边",
-      "anime_relevance_cn": "收藏市场",
       "urgency": "medium",
-      "created_at": "2026-08-16",
-      "updated_at": "2026-08-16",
+      "created_at": "2026-08-17",
+      "updated_at": "2026-08-17",
       "status": "active"
     },
     {
-      "title": "Uber与Pony.ai欧洲部署",
+      "title": "AI水印技术标准统一",
       "category": "ai_tech",
       "expected_date": "未定",
-      "why_watch_cn": "自动驾驶全球化",
-      "market_relevance_cn": "UBER和自动驾驶",
+      "why_watch_cn": "谷歌允许移除水印与Anthropic强调水印形成对比，标准不统一可能影响AI内容监管。",
+      "market_relevance_cn": "影响AI内容审核和合规技术公司。",
       "anime_relevance_cn": "无",
       "urgency": "medium",
-      "created_at": "2026-08-16",
-      "updated_at": "2026-08-16",
+      "created_at": "2026-08-17",
+      "updated_at": "2026-08-17",
       "status": "active"
-    },
-    {
-      "title": "《药屋少女的呢喃》第三季开播",
-      "category": "anime_collab",
-      "expected_date": "2025-10-02",
-      "why_watch_cn": "热门IP新季，带动周边",
-      "market_relevance_cn": "动漫产业",
-      "anime_relevance_cn": "收藏和手办",
-      "urgency": "medium",
-      "created_at": "2026-08-16",
-      "updated_at": "2026-08-16",
-      "status": "expired"
     }
   ],
   "articles": [
     {
-      "index": 6,
-      "title_cn": "罗德岛战记新Webtoon英文版上线",
+      "index": 25,
+      "title_cn": "宝可梦Pokopia全球销量突破500万份",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
-      "date_display": "2026-08-13",
+      "date_display": "2026-08-14",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "经典IP《罗德岛战记》新作Webtoon英文版在全球150多国上线。",
-      "short_summary_cn": "《罗德岛战记：死亡女王》Webtoon英文版于7月31日在LINE Manga、ebookjapan及全球WEBTOON平台上线，覆盖150多个国家和地区。",
-      "why_it_matters_cn": "经典IP跨媒介拓展，Webtoon形式吸引新读者，扩大IP影响力。",
-      "action_suggestion_cn": "在WEBTOON平台搜索阅读，关注后续更新。",
-      "importance_score": 9,
+      "key_takeaway_cn": "宝可梦Pokopia游戏全球销量超500万，DLC新增水下城镇。",
+      "short_summary_cn": "宝可梦Pokopia游戏全球销量突破500万份。8月5日发布的扩展通行证第1部分新增了水下Bubbly Basin城镇，并附带包含新宝可梦的免费更新。",
+      "why_it_matters_cn": "宝可梦IP商业成功，显示其持续吸引力与DLC策略有效性。",
+      "action_suggestion_cn": "宝可梦粉丝可关注DLC内容，玩家可体验新区域。",
+      "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "经典IP新作，具有粉丝吸引力。",
-      "frontpage_reason_cn": "IP跨媒介合作案例。",
+      "collector_value": 4,
+      "tracking_value": 6,
+      "editor_reason_cn": "宝可梦IP重大商业里程碑，粉丝关注度高。",
+      "frontpage_reason_cn": "宝可梦销量新闻，游戏圈关注。",
       "anime_event_detail": {
-        "event_type": "webtoon_launch",
-        "ip_or_work_title": "罗德岛战记",
+        "event_type": "未知",
+        "ip_or_work_title": "宝可梦Pokopia",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-07-31",
+        "event_date": "未知",
         "event_time": "未知",
-        "venue": "线上",
+        "venue": "未知",
         "city": "未知",
-        "country": "全球",
-        "ticket_method": "无需门票",
+        "country": "未知",
+        "ticket_method": "未知",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
-        "purchase_requirement": "免费阅读",
-        "goods_or_bonus": "未知",
+        "purchase_requirement": "未知",
+        "goods_or_bonus": "DLC扩展通行证第1部分",
         "official_source": "Anime News Network",
         "urgency_level": "低",
-        "collector_value": 5,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "在线阅读"
+        "collector_value": 4,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注DLC后续内容发布"
       },
       "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 6
+      "is_old_context": true
     },
     {
-      "index": 27,
-      "title_cn": "Plott宣布9月推出《Rakuraku Hanten》短篇动画",
+      "index": 29,
+      "title_cn": "《魔女之旅》获Astra最佳动画奖",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-08-16",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Plott宣布黑帮题材短篇动画《Rakuraku Hanten》将于9月在YouTube播出。",
-      "short_summary_cn": "YouTube动画制作和发行公司Plott周六宣布了一部新的短篇动画《Rakuraku Hanten》，该动画将于9月在YouTube上播出。这是一部黑帮战斗系列。",
-      "why_it_matters_cn": "新动画作品发布，丰富YouTube动画内容。",
-      "action_suggestion_cn": "关注YouTube频道，9月观看。",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "《魔女之旅》在洛杉矶获Astra奖最佳动画。",
+      "short_summary_cn": "《魔女之旅》在周六于洛杉矶举行的颁奖典礼上获得Astra奖最佳动画奖。该奖项由好莱坞创意联盟（前好莱坞评论家协会）的电影评论家颁发。",
+      "why_it_matters_cn": "动画作品获奖，提升IP知名度与商业价值。",
+      "action_suggestion_cn": "动画爱好者可关注该作品，支持正版。",
       "importance_score": 6,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 4,
-      "editor_reason_cn": "新动画发布。",
-      "frontpage_reason_cn": "动漫新作动态。",
+      "tracking_value": 6,
+      "editor_reason_cn": "动画获奖新闻，具有行业认可意义。",
+      "frontpage_reason_cn": "动画获奖，粉丝圈关注。",
       "anime_event_detail": {
-        "event_type": "anime_release",
+        "event_type": "未知",
+        "ip_or_work_title": "魔女之旅",
+        "person_name": "未知",
+        "role": "未知",
+        "event_date": "2026-08-15",
+        "event_time": "未知",
+        "venue": "未知",
+        "city": "洛杉矶",
+        "country": "美国",
+        "ticket_method": "未知",
+        "application_period": "未知",
+        "lottery_or_first_come": "未知",
+        "purchase_requirement": "未知",
+        "goods_or_bonus": "未知",
+        "official_source": "Anime News Network",
+        "urgency_level": "低",
+        "collector_value": 2,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注作品后续动态"
+      },
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
+      "index": 30,
+      "title_cn": "Plott宣布9月推出《Rakuraku Hanten》短动画",
+      "source": "Anime News Network",
+      "source_display_name": "Anime News Network",
+      "category": "anime_collab",
+      "news_type": "anime_event",
+      "date_display": "2026-08-16",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "Plott宣布9月推出黑帮题材短动画《Rakuraku Hanten》。",
+      "short_summary_cn": "YouTube动画制作与发行公司Plott周六宣布，将推出新短动画《Rakuraku Hanten》，该黑帮战斗系列将于9月在YouTube上播出。",
+      "why_it_matters_cn": "新动画作品发布，丰富动漫内容生态。",
+      "action_suggestion_cn": "动漫爱好者可关注该动画的YouTube频道。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "新动画企划发布，具有内容价值。",
+      "frontpage_reason_cn": "新动画预告，粉丝期待。",
+      "anime_event_detail": {
+        "event_type": "未知",
         "ip_or_work_title": "Rakuraku Hanten",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-09",
+        "event_date": "2026年9月",
         "event_time": "未知",
         "venue": "YouTube",
         "city": "未知",
-        "country": "全球",
+        "country": "未知",
         "ticket_method": "免费观看",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
@@ -1770,42 +1734,42 @@
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
         "urgency_level": "低",
-        "collector_value": 4,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注YouTube频道"
+        "collector_value": 2,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注YouTube频道获取播出信息"
       },
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false
     },
     {
       "index": 28,
-      "title_cn": "《药屋少女的呢喃》第三季10月2日开播",
+      "title_cn": "小学馆公布第三方调查结果及整改措施",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
-      "category": "anime_collab",
+      "category": "manga_signing_events",
       "news_type": "anime_event",
-      "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "《药屋少女的呢喃》第三季预告公布，10月2日首播，新增声优和片头曲。",
-      "short_summary_cn": "《药屋少女的呢喃》第三季的预告片揭示了10月2日的首播日期、更多声优阵容和片头曲信息。",
-      "why_it_matters_cn": "热门动画续作，粉丝期待度高。",
-      "action_suggestion_cn": "关注官方渠道，准备观看。",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "小学馆第三方调查认定其“鼓励并支持”侵犯受害者人权。",
+      "short_summary_cn": "小学馆公布了第三方调查结果，调查小组发现小学馆“鼓励并支持”了侵犯受害者人权的行为，并宣布了防止再次发生的措施。",
+      "why_it_matters_cn": "日本出版巨头丑闻，影响行业声誉与创作者权益保护。",
+      "action_suggestion_cn": "关注事件后续发展，了解出版行业人权保护问题。",
       "importance_score": 6,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "热门动画续作。",
-      "frontpage_reason_cn": "动漫粉丝关注。",
+      "tracking_value": 6,
+      "editor_reason_cn": "出版行业重大丑闻，具有社会影响。",
+      "frontpage_reason_cn": "动漫出版巨头负面新闻，粉丝关注。",
       "anime_event_detail": {
-        "event_type": "anime_release",
-        "ip_or_work_title": "药屋少女的呢喃",
+        "event_type": "未知",
+        "ip_or_work_title": "未知",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-10-02",
+        "event_date": "未知",
         "event_time": "未知",
         "venue": "未知",
         "city": "未知",
-        "country": "日本",
+        "country": "未知",
         "ticket_method": "未知",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
@@ -1813,140 +1777,11 @@
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
         "urgency_level": "低",
-        "collector_value": 5,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注播出信息"
+        "collector_value": 2,
+        "travel_feasibility": "未知",
+        "action_needed_cn": "关注小学馆后续整改措施"
       },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 29,
-      "title_cn": "《王国之心》动画化+第四部游戏2027年发售",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "《王国之心》宣布Disney+动画化，第四部游戏2027年发售含《寻梦环游记》世界。",
-      "short_summary_cn": "《王国之心》宣布推出Disney+动画，同时《王国之心IV》游戏将于2027年底发售，包含《寻梦环游记》世界。新预告片已发布。",
-      "why_it_matters_cn": "经典游戏IP跨媒介拓展，动画化吸引新粉丝。",
-      "action_suggestion_cn": "关注Disney+动画和游戏发售信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "IP跨媒介合作。",
-      "frontpage_reason_cn": "重大IP动态。",
-      "anime_event_detail": {
-        "event_type": "anime_announcement",
-        "ip_or_work_title": "王国之心",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2027",
-        "event_time": "未知",
-        "venue": "Disney+",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 6,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注后续消息"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 30,
-      "title_cn": "Disney+公布真人版《A Man's Man》演员阵容",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "Disney+公布Webtoon改编真人剧《A Man's Man》主演阵容。",
-      "short_summary_cn": "Disney+宣布了基于Webtoon的真人剧《A Man's Man》的演员阵容，朴正民将饰演Yoo-hyun Han，其他演员包括裴晟祐、金智贤等。",
-      "why_it_matters_cn": "Webtoon IP改编真人剧，展示跨媒介趋势。",
-      "action_suggestion_cn": "关注剧集制作进展。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 4,
-      "editor_reason_cn": "IP改编动态。",
-      "frontpage_reason_cn": "影视化趋势。",
-      "anime_event_detail": {
-        "event_type": "live_action_announcement",
-        "ip_or_work_title": "A Man's Man",
-        "person_name": "朴正民",
-        "role": "主演",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "Disney+",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 4,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "关注剧集信息"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 25,
-      "title_cn": "宝可梦Pokopia游戏全球销量突破500万",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "merch_release",
-      "news_type": "anime_event",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "《宝可梦Pokopia》全球销量超500万，DLC新增水下小镇。",
-      "short_summary_cn": "《宝可梦Pokopia》游戏全球销量突破500万份。扩展通行证第1部分于8月5日添加了水下Bubbly Basin小镇，并附带包含新宝可梦的免费更新。",
-      "why_it_matters_cn": "宝可梦IP商业成功，DLC内容持续吸引玩家。",
-      "action_suggestion_cn": "关注DLC内容，玩家可体验新区域。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 4,
-      "tracking_value": 6,
-      "editor_reason_cn": "宝可梦IP动态。",
-      "frontpage_reason_cn": "IP商业成功案例。",
-      "anime_event_detail": {
-        "event_type": "game_release",
-        "ip_or_work_title": "宝可梦",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2026-08-05",
-        "event_time": "未知",
-        "venue": "线上",
-        "city": "未知",
-        "country": "全球",
-        "ticket_method": "无需门票",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "购买游戏",
-        "goods_or_bonus": "DLC内容",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": 6,
-        "travel_feasibility": "不适用",
-        "action_needed_cn": "购买游戏体验"
-      },
-      "is_recent": false,
+      "is_recent": true,
       "is_old_context": false
     },
     {
@@ -1957,21 +1792,21 @@
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-16",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic公开Claude水印机制，探讨编辑隐藏可能性及对代码影响。",
-      "short_summary_cn": "Anthropic分享了Claude新水印如何工作的更多细节。文章探讨了水印是否可以通过编辑隐藏，以及这对代码生成的影响。",
-      "why_it_matters_cn": "AI内容溯源与版权保护是行业焦点，水印技术细节影响AI生成内容的可信度与使用规范。",
-      "action_suggestion_cn": "关注Anthropic官方文档，了解水印对自身AI工作流的影响，评估内容合规风险。",
+      "freshness_label": "34h前",
+      "key_takeaway_cn": "Anthropic公开Claude水印机制，引发关于编辑隐藏与代码影响的讨论。",
+      "short_summary_cn": "Anthropic分享了Claude新水印技术的更多细节，包括其工作原理、是否可通过编辑隐藏，以及对代码生成的影响。此举旨在提升AI内容可追溯性。",
+      "why_it_matters_cn": "水印技术是AI内容溯源的关键，直接影响内容创作者、开发者及监管方。",
+      "action_suggestion_cn": "关注Anthropic官方文档，评估水印对自身AI工作流的影响。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI水印是AI治理关键议题，技术细节具有行业指导意义。",
-      "frontpage_reason_cn": "头部AI公司技术披露，影响AI内容生态。",
+      "tracking_value": 10,
+      "editor_reason_cn": "AI安全与溯源核心议题，技术细节披露具有高信息价值。",
+      "frontpage_reason_cn": "AI行业头部企业技术动向，影响广泛。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI开发者社区对水印技术可行性的讨论。",
-        "medium_term_impact_cn": "可能推动行业水印标准制定，影响AI内容平台审核机制。",
-        "long_term_impact_cn": "水印技术成熟将增强AI内容溯源能力，影响版权法规。",
+        "immediate_impact_cn": "引发AI社区对水印技术可行性的讨论。",
+        "medium_term_impact_cn": "可能推动行业水印标准制定。",
+        "long_term_impact_cn": "影响AI内容监管与版权保护格局。",
         "affected_sectors": [
           "AI",
           "内容创作",
@@ -1981,49 +1816,49 @@
           "AI相关股票",
           "内容平台"
         ],
-        "us_stock_relevance": "medium",
+        "us_stock_relevance": "high",
         "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "水印对代码生成的具体影响？",
-          "其他AI公司是否会跟进？"
+          "水印能否被有效移除？",
+          "对开源模型有何影响？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
+      "us_market_relevance": "high",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 1
     },
     {
-      "index": 4,
+      "index": 3,
       "title_cn": "OpenAI与Anthropic价格战应对中国AI竞争",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "面对中国AI挑战，OpenAI和Anthropic发布更便宜模型，开启价格战。",
-      "short_summary_cn": "美国AI巨头OpenAI和Anthropic正陷入价格战，纷纷发布更便宜的模型。此举是为了应对中国AI竞争对手带来的新挑战，这些挑战威胁到他们万亿美元的市场雄心。",
-      "why_it_matters_cn": "AI价格战重塑市场格局，影响行业利润和竞争态势，中国AI崛起是关键变量。",
-      "action_suggestion_cn": "关注模型定价变化，评估AI服务成本，适时调整采购策略。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "中美AI竞争加剧，OpenAI与Anthropic降价应对中国对手挑战。",
+      "short_summary_cn": "面对中国AI企业的崛起，OpenAI和Anthropic发布更便宜的模型，以应对其万亿美元雄心面临的新挑战。价格战正式打响。",
+      "why_it_matters_cn": "AI模型价格战直接影响企业采购成本与行业竞争格局。",
+      "action_suggestion_cn": "评估新模型性价比，考虑迁移至更便宜的AI服务。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "AI行业竞争格局重大变化，影响广泛。",
-      "frontpage_reason_cn": "AI巨头动态，市场影响大。",
+      "tracking_value": 10,
+      "editor_reason_cn": "AI行业竞争格局重大变化，影响深远。",
+      "frontpage_reason_cn": "AI巨头价格战，市场关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "AI模型价格下降，企业成本降低。",
-        "medium_term_impact_cn": "中小AI公司面临更大竞争压力。",
-        "long_term_impact_cn": "AI行业整合加速，中国AI影响力上升。",
+        "immediate_impact_cn": "AI服务价格下降，企业成本降低。",
+        "medium_term_impact_cn": "中小AI企业可能面临更大压力。",
+        "long_term_impact_cn": "加速AI技术普及，重塑行业格局。",
         "affected_sectors": [
           "AI",
           "云计算",
-          "科技"
+          "企业服务"
         ],
         "affected_assets": [
-          "AI公司股票",
+          "AI概念股",
           "科技股"
         ],
         "us_stock_relevance": "very_high",
@@ -2031,51 +1866,97 @@
         "risk_level": "medium",
         "follow_up_questions": [
           "价格战会持续多久？",
-          "对AI初创企业有何影响？"
+          "中国AI企业的竞争优势何在？"
         ]
       },
       "us_market_relevance": "very_high",
       "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 4,
+      "title_cn": "英伟达大幅缩减OpenAI基础设施融资担保",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "英伟达缩减对OpenAI数据中心2500亿美元融资的担保规模。",
+      "short_summary_cn": "据路透社报道，英伟达大幅减少了对OpenAI数据中心基础设施融资的担保额度。此举可能影响OpenAI的算力扩张计划。",
+      "why_it_matters_cn": "反映AI基础设施投资风险变化，影响OpenAI与英伟达合作关系。",
+      "action_suggestion_cn": "关注英伟达与OpenAI后续合作动态及数据中心投资趋势。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 10,
+      "editor_reason_cn": "AI算力供应链关键变动，影响重大。",
+      "frontpage_reason_cn": "AI巨头合作生变，市场敏感。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对OpenAI算力扩张的担忧。",
+        "medium_term_impact_cn": "可能影响AI数据中心投资节奏。",
+        "long_term_impact_cn": "改变AI算力市场供需格局。",
+        "affected_sectors": [
+          "AI",
+          "半导体",
+          "数据中心"
+        ],
+        "affected_assets": [
+          "英伟达",
+          "OpenAI相关",
+          "AI芯片股"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "OpenAI如何弥补资金缺口？",
+          "英伟达缩减担保的原因？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 4
     },
     {
       "index": 5,
-      "title_cn": "OpenAI改进GPT-5.6 Sol并扩大Luna免费访问",
+      "title_cn": "OpenAI升级GPT-5.6 Sol并扩大Luna免费访问",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-06",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT推出改进版GPT-5.6 Sol，免费用户可无限使用GPT-5.6 Luna。",
-      "short_summary_cn": "OpenAI宣布改进GPT-5.6 Sol，提升准确性和一致性，并扩大免费用户对GPT-5.6 Luna的访问权限，提供无限日常聊天。",
-      "why_it_matters_cn": "模型升级和免费策略影响用户体验和AI普及，是OpenAI产品战略的重要一步。",
-      "action_suggestion_cn": "体验新版模型，评估性能提升，关注免费用户功能变化。",
+      "key_takeaway_cn": "ChatGPT升级GPT-5.6 Sol提升准确性，免费用户可无限使用Luna。",
+      "short_summary_cn": "OpenAI宣布改进GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户对GPT-5.6 Luna的访问权限，提供无限日常聊天。",
+      "why_it_matters_cn": "提升AI模型性能与可及性，影响用户体验与竞争格局。",
+      "action_suggestion_cn": "试用新版模型，体验性能提升与免费功能。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "OpenAI核心产品更新，影响大量用户。",
-      "frontpage_reason_cn": "AI产品重大更新。",
+      "tracking_value": 10,
+      "editor_reason_cn": "OpenAI核心产品更新，用户影响面广。",
+      "frontpage_reason_cn": "AI模型重大升级，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "用户可体验新模型，免费用户受益。",
-        "medium_term_impact_cn": "可能提升ChatGPT用户粘性。",
+        "immediate_impact_cn": "用户可立即体验新模型。",
+        "medium_term_impact_cn": "可能吸引更多免费用户。",
         "long_term_impact_cn": "巩固OpenAI市场地位。",
         "affected_sectors": [
           "AI",
-          "科技"
+          "消费科技"
         ],
         "affected_assets": [
           "OpenAI相关",
           "AI概念股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "Sol改进具体有哪些？",
-          "免费用户限制是什么？"
+          "Sol与Luna有何区别？",
+          "免费用户限制有哪些？"
         ]
       },
       "us_market_relevance": "high",
@@ -2084,135 +1965,178 @@
       "frontpage_rank": 5
     },
     {
-      "index": 8,
-      "title_cn": "Thrive创始人Kushner警告硅谷AI投资泡沫",
+      "index": 7,
+      "title_cn": "Anthropic CEO称AI反弹是信任危机",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Anthropic CEO Dario Amodei认为AI反弹本质是信任危机。",
+      "short_summary_cn": "Anthropic CEO Dario Amodei反驳外界对其过度悲观描绘AI的批评，强调AI反弹“从根本上是一场信任危机”。",
+      "why_it_matters_cn": "AI行业领袖对公众信任问题的表态，影响行业声誉与监管。",
+      "action_suggestion_cn": "关注AI信任相关讨论，思考如何建立用户信任。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 9,
+      "editor_reason_cn": "AI行业核心人物观点，具有风向标意义。",
+      "frontpage_reason_cn": "AI信任危机议题，公众关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发AI信任问题讨论。",
+        "medium_term_impact_cn": "可能影响AI企业公关策略。",
+        "long_term_impact_cn": "推动AI行业建立更透明的沟通机制。",
+        "affected_sectors": [
+          "AI",
+          "科技"
+        ],
+        "affected_assets": [
+          "AI概念股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "如何重建AI信任？",
+          "其他AI领袖有何看法？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 9,
+      "title_cn": "Kushner警告硅谷VC警惕AI狂热",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "Joshua Kushner警告AI机遇巨大，但不应因兴奋放松投资纪律。",
-      "short_summary_cn": "Thrive Capital创始人Joshua Kushner在其首份投资信中警告硅谷VC对AI的狂热。他表示AI机遇巨大，但让兴奋削弱投资纪律是严重错误。",
-      "why_it_matters_cn": "顶级投资人警告AI泡沫风险，影响市场情绪和投资决策。",
-      "action_suggestion_cn": "关注Kushner投资信全文，评估AI投资风险。",
+      "freshness_label": "58h前",
+      "key_takeaway_cn": "Thrive创始人Kushner警告VC勿因AI狂热放松投资纪律。",
+      "short_summary_cn": "Thrive Capital的Joshua Kushner在其首份投资信中警告，AI机会巨大，但“让兴奋削弱投资纪律将是严重错误”。",
+      "why_it_matters_cn": "顶级VC对AI泡沫的警示，影响一级市场投资情绪。",
+      "action_suggestion_cn": "关注VC投资动向，理性评估AI项目估值。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "知名投资人观点，影响市场情绪。",
-      "frontpage_reason_cn": "AI投资风险警示。",
+      "editor_reason_cn": "投资界权威观点，对市场有参考价值。",
+      "frontpage_reason_cn": "AI投资过热讨论，市场关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI投资泡沫讨论。",
+        "immediate_impact_cn": "引发对AI估值的反思。",
         "medium_term_impact_cn": "可能影响VC投资节奏。",
-        "long_term_impact_cn": "促进理性投资。",
+        "long_term_impact_cn": "有助于市场理性发展。",
         "affected_sectors": [
           "风险投资",
           "AI"
         ],
         "affected_assets": [
-          "AI初创公司"
+          "AI初创公司",
+          "科技股"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "AI估值是否过高？",
-          "哪些领域存在泡沫？"
+          "AI泡沫是否正在形成？",
+          "哪些领域估值过高？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 8
+      "is_old_context": false
     },
     {
-      "index": 9,
+      "index": 10,
       "title_cn": "谷歌允许用户移除AI生成内容的可见水印",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "谷歌允许用户关闭AI生成内容的可见水印，但不可见标识不受影响。",
-      "short_summary_cn": "谷歌将允许用户移除其AI生成内容上的可见水印。关闭此设置不会影响用于识别AI生成文件的不可见基准。",
-      "why_it_matters_cn": "水印政策平衡内容溯源与用户体验，影响AI内容传播。",
-      "action_suggestion_cn": "了解谷歌AI水印设置，评估内容管理策略。",
+      "freshness_label": "58h前",
+      "key_takeaway_cn": "谷歌新设置允许用户移除AI生成内容的可见水印。",
+      "short_summary_cn": "谷歌将允许用户关闭AI生成内容的可见水印设置，但此举不影响用于识别AI生成文件的隐形基准。",
+      "why_it_matters_cn": "平衡AI内容美观与溯源需求，影响内容平台政策。",
+      "action_suggestion_cn": "了解谷歌AI水印设置，评估内容发布策略。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI内容管理政策变化。",
-      "frontpage_reason_cn": "影响AI内容使用规范。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI内容管理政策调整，具有行业参考性。",
+      "frontpage_reason_cn": "AI水印政策变化，内容创作者关注。",
       "impact_analysis": {
         "immediate_impact_cn": "用户可更灵活使用AI生成内容。",
-        "medium_term_impact_cn": "可能引发内容溯源争议。",
-        "long_term_impact_cn": "推动行业水印标准讨论。",
+        "medium_term_impact_cn": "可能引发其他平台跟进。",
+        "long_term_impact_cn": "影响AI内容溯源标准。",
         "affected_sectors": [
           "AI",
-          "内容创作"
-        ],
-        "affected_assets": [
-          "谷歌",
-          "AI平台"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "不可见水印如何工作？",
-          "其他公司会跟进吗？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 11,
-      "title_cn": "Uber与Pony.ai计划在欧洲部署2000辆Robotaxi",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "Uber与Pony.ai扩大合作，将2000辆Robotaxi扩展至欧洲五个城市。",
-      "short_summary_cn": "Uber和Pony.ai的合作将超出最初克罗地亚萨格勒布市场，扩展至另外四个欧洲城市，计划部署2000辆Robotaxi。",
-      "why_it_matters_cn": "Robotaxi商业化加速，影响出行行业和自动驾驶技术发展。",
-      "action_suggestion_cn": "关注Robotaxi服务城市，评估出行方式变化。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "自动驾驶商业化重要进展。",
-      "frontpage_reason_cn": "出行行业变革信号。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发自动驾驶关注。",
-        "medium_term_impact_cn": "可能影响欧洲出行市场。",
-        "long_term_impact_cn": "推动Robotaxi全球普及。",
-        "affected_sectors": [
-          "出行",
-          "自动驾驶",
+          "内容创作",
           "科技"
         ],
         "affected_assets": [
-          "Uber",
-          "Pony.ai",
-          "汽车股"
+          "谷歌",
+          "AI概念股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
         "follow_up_questions": [
-          "具体哪些城市？",
-          "何时上线？"
+          "隐形水印如何工作？",
+          "对版权保护有何影响？"
         ]
       },
       "us_market_relevance": "high",
       "is_recent": false,
       "is_old_context": false
+    },
+    {
+      "index": 11,
+      "title_cn": "苹果提议对App Store外购买收取15%佣金",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-08-14",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "苹果提议对iOS应用外部链接购买收取最高15%佣金。",
+      "short_summary_cn": "苹果请求联邦法官允许其对iOS应用中通过外部链接完成的购买收取最高15%的佣金。此举是对反垄断监管的回应。",
+      "why_it_matters_cn": "影响App Store商业模式与开发者收益。",
+      "action_suggestion_cn": "开发者需关注苹果政策变化，评估商业模式影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "科技巨头商业模式调整，影响广泛。",
+      "frontpage_reason_cn": "苹果反垄断案进展，市场关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发开发者对佣金政策的讨论。",
+        "medium_term_impact_cn": "可能改变iOS应用分发格局。",
+        "long_term_impact_cn": "影响全球应用商店监管趋势。",
+        "affected_sectors": [
+          "科技",
+          "应用开发",
+          "电商"
+        ],
+        "affected_assets": [
+          "苹果",
+          "应用开发商"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "法院如何裁决？",
+          "开发者会如何应对？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": false,
+      "is_old_context": true
     },
     {
       "index": 12,
@@ -2223,34 +2147,36 @@
       "news_type": "tech",
       "date_display": "2026-08-13",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI推出Ultrafast API服务，GPT-5.6 Sol运行速度提升14倍。",
-      "short_summary_cn": "OpenAI预览Ultrafast模式，这是一种新的API服务层级，由Cerebras提供支持，运行GPT-5.6 Sol的速度最高可提升14倍，每秒输出高达750个token。",
-      "why_it_matters_cn": "AI推理速度大幅提升，降低延迟，拓展实时应用场景。",
-      "action_suggestion_cn": "开发者可关注API服务，评估性能提升对应用的影响。",
+      "key_takeaway_cn": "OpenAI推出Ultrafast API服务，GPT-5.6 Sol速度提升14倍。",
+      "short_summary_cn": "OpenAI预览新的API服务层级Ultrafast，由Cerebras提供支持，运行GPT-5.6 Sol速度最高提升14倍，每秒输出高达750个token。",
+      "why_it_matters_cn": "大幅提升AI推理速度，降低延迟，拓展实时应用场景。",
+      "action_suggestion_cn": "开发者可关注Ultrafast API的可用性与定价。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "AI性能重大提升。",
-      "frontpage_reason_cn": "技术突破影响AI应用。",
+      "editor_reason_cn": "AI性能重大突破，对应用开发有直接影响。",
+      "frontpage_reason_cn": "AI速度提升，技术爱好者关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "开发者可测试新服务。",
-        "medium_term_impact_cn": "可能推动实时AI应用发展。",
-        "long_term_impact_cn": "提升AI竞争力。",
+        "immediate_impact_cn": "开发者可测试新API性能。",
+        "medium_term_impact_cn": "推动实时AI应用发展。",
+        "long_term_impact_cn": "改变AI服务市场格局。",
         "affected_sectors": [
           "AI",
-          "云计算"
+          "云计算",
+          "企业服务"
         ],
         "affected_assets": [
-          "OpenAI",
-          "Cerebras"
+          "OpenAI相关",
+          "Cerebras",
+          "AI芯片股"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "定价如何？",
-          "何时全面上线？"
+          "Ultrafast模式定价如何？",
+          "对Cerebras有何影响？"
         ]
       },
       "us_market_relevance": "high",
@@ -2266,76 +2192,79 @@
       "news_type": "tech",
       "date_display": "2026-08-11",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI开始在ChatGPT中测试广告，以支持免费访问，并强调清晰标注和隐私保护。",
+      "key_takeaway_cn": "OpenAI测试ChatGPT广告以支持免费访问，强调清晰标注与隐私保护。",
       "short_summary_cn": "OpenAI开始在ChatGPT中测试广告，以支持免费访问。广告将清晰标注，保证答案独立性，并加强隐私保护和用户控制。",
-      "why_it_matters_cn": "ChatGPT商业化模式探索，影响用户体验和AI行业盈利模式。",
-      "action_suggestion_cn": "关注广告测试反馈，评估对使用体验的影响。",
+      "why_it_matters_cn": "AI聊天机器人商业化新模式，影响用户体验与行业趋势。",
+      "action_suggestion_cn": "关注ChatGPT广告形式，评估对用户体验的影响。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "AI商业化重要尝试。",
-      "frontpage_reason_cn": "影响AI产品商业模式。",
+      "editor_reason_cn": "AI商业化重要尝试，具有行业示范效应。",
+      "frontpage_reason_cn": "ChatGPT广告测试，用户关注度高。",
       "impact_analysis": {
         "immediate_impact_cn": "部分用户可能看到广告。",
-        "medium_term_impact_cn": "可能影响用户满意度。",
-        "long_term_impact_cn": "塑造AI广告模式。",
+        "medium_term_impact_cn": "可能影响ChatGPT用户增长与留存。",
+        "long_term_impact_cn": "探索AI平台可持续商业模式。",
         "affected_sectors": [
           "AI",
-          "广告"
+          "广告",
+          "科技"
         ],
         "affected_assets": [
-          "OpenAI",
-          "广告商"
+          "OpenAI相关",
+          "广告科技股"
         ],
-        "us_stock_relevance": "medium",
+        "us_stock_relevance": "high",
         "market_sentiment": "mixed",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "广告形式如何？",
-          "用户如何控制？"
+          "广告如何精准投放？",
+          "用户反馈如何？"
         ]
       },
-      "us_market_relevance": "medium",
+      "us_market_relevance": "high",
       "is_recent": false,
       "is_old_context": true
     },
     {
       "index": 14,
-      "title_cn": "Model ML利用GPT-5.6 Sol提升金融工作效率",
+      "title_cn": "Model ML用GPT-5.6 Sol提升金融工作效率",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Model ML使用GPT-5.6 Sol完成金融工作，从研究分析到生成PPT和Excel。",
-      "short_summary_cn": "Model ML使用GPT-5.6 Sol处理金融工作，从研究和分析到生成可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。",
-      "why_it_matters_cn": "AI在金融领域的应用案例，展示自动化潜力。",
-      "action_suggestion_cn": "关注AI金融工具发展，评估在自身工作中的应用。",
+      "key_takeaway_cn": "Model ML利用GPT-5.6 Sol完成金融工作，生成PPT与Excel。",
+      "short_summary_cn": "Model ML使用GPT-5.6 Sol处理金融工作，从研究分析到生成可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。",
+      "why_it_matters_cn": "展示AI在金融领域的实际应用价值，提升工作效率。",
+      "action_suggestion_cn": "金融从业者可探索GPT-5.6 Sol在自身工作中的应用。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI行业应用案例。",
-      "frontpage_reason_cn": "展示AI实际价值。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI金融应用案例，具有参考价值。",
+      "frontpage_reason_cn": "AI赋能金融，行业关注。",
       "impact_analysis": {
         "immediate_impact_cn": "引发金融行业AI应用讨论。",
-        "medium_term_impact_cn": "可能推动金融工具创新。",
-        "long_term_impact_cn": "改变金融工作流程。",
+        "medium_term_impact_cn": "推动金融工具智能化升级。",
+        "long_term_impact_cn": "改变金融行业工作模式。",
         "affected_sectors": [
           "金融",
-          "AI"
+          "AI",
+          "企业服务"
         ],
         "affected_assets": [
-          "金融科技公司"
+          "金融科技股",
+          "AI概念股"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体效率提升多少？",
-          "其他行业会跟进吗？"
+          "AI在金融领域还有哪些应用？",
+          "如何确保数据安全？"
         ]
       },
       "us_market_relevance": "medium",
@@ -2344,40 +2273,41 @@
     },
     {
       "index": 15,
-      "title_cn": "OpenAI CFO分享AI原生财务部门建设经验",
+      "title_cn": "OpenAI CFO分享AI原生财务建设经验",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-11",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI CFO Sarah Friar分享建设AI原生财务部门的五个经验教训。",
-      "short_summary_cn": "OpenAI CFO Sarah Friar分享了建设AI原生财务部门的五个经验，涵盖自动化预测、强化控制和AI投资回报率等方面。",
-      "why_it_matters_cn": "企业AI转型实践案例，为财务部门提供参考。",
-      "action_suggestion_cn": "阅读全文，借鉴AI转型经验。",
+      "key_takeaway_cn": "OpenAI CFO Sarah Friar分享AI原生财务五大经验。",
+      "short_summary_cn": "OpenAI CFO Sarah Friar分享了建设AI原生财务职能的五个经验，涵盖自动化预测、强化控制和AI投资回报率等方面。",
+      "why_it_matters_cn": "为企业财务部门AI转型提供实践指导。",
+      "action_suggestion_cn": "财务管理者可借鉴OpenAI经验，探索AI应用。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "企业AI转型实践。",
-      "frontpage_reason_cn": "提供AI应用洞见。",
+      "tracking_value": 7,
+      "editor_reason_cn": "企业AI转型案例，具有实操参考价值。",
+      "frontpage_reason_cn": "AI在财务领域的应用，企业关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发企业AI转型讨论。",
-        "medium_term_impact_cn": "可能推动财务部门AI应用。",
-        "long_term_impact_cn": "加速企业AI普及。",
+        "immediate_impact_cn": "引发财务AI应用讨论。",
+        "medium_term_impact_cn": "推动企业财务部门AI adoption。",
+        "long_term_impact_cn": "重塑财务职能与人才需求。",
         "affected_sectors": [
+          "金融",
           "企业服务",
           "AI"
         ],
         "affected_assets": [
-          "AI软件公司"
+          "金融科技股"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体经验是什么？",
-          "如何衡量AI ROI？"
+          "AI如何改变CFO角色？",
+          "中小企业如何借鉴？"
         ]
       },
       "us_market_relevance": "medium",
@@ -2386,85 +2316,88 @@
     },
     {
       "index": 16,
-      "title_cn": "ChatGPT Business推出高级席位",
+      "title_cn": "ChatGPT Business将推出高级席位",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT Business将推出高级席位，8月20日前注册可得100美元积分。",
-      "short_summary_cn": "ChatGPT Business即将推出高级席位。8月20日前注册可获得100美元工作区积分，并为团队最 demanding 的工作解锁更高使用量。",
-      "why_it_matters_cn": "企业级AI服务升级，影响团队协作效率。",
-      "action_suggestion_cn": "企业用户可考虑在8月20日前注册获取优惠。",
+      "key_takeaway_cn": "ChatGPT Business高级席位即将推出，8月20日前注册获$100积分。",
+      "short_summary_cn": "ChatGPT Business即将推出高级席位，8月20日前注册可获得100美元工作区积分，并解锁更高使用额度。",
+      "why_it_matters_cn": "为企业用户提供更高性能AI服务，影响企业采购决策。",
+      "action_suggestion_cn": "企业用户可考虑在8月20日前注册以获取优惠。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "企业AI服务更新。",
-      "frontpage_reason_cn": "影响企业用户。",
+      "tracking_value": 7,
+      "editor_reason_cn": "OpenAI企业服务升级，具有商业价值。",
+      "frontpage_reason_cn": "企业AI服务动态，B2B市场关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "企业可注册获取优惠。",
-        "medium_term_impact_cn": "可能提升ChatGPT企业市场份额。",
-        "long_term_impact_cn": "巩固OpenAI企业服务。",
+        "immediate_impact_cn": "企业用户可注册获取优惠。",
+        "medium_term_impact_cn": "可能提升ChatGPT Business市场份额。",
+        "long_term_impact_cn": "巩固OpenAI在企业AI市场地位。",
         "affected_sectors": [
-          "企业服务",
-          "AI"
+          "AI",
+          "企业服务"
         ],
         "affected_assets": [
-          "OpenAI"
+          "OpenAI相关",
+          "SaaS股"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "高级席位价格？",
-          "具体功能差异？"
+          "高级席位定价如何？",
+          "与普通席位有何区别？"
         ]
       },
-      "us_market_relevance": "medium",
+      "us_market_relevance": "high",
       "is_recent": false,
       "is_old_context": true
     },
     {
       "index": 17,
-      "title_cn": "维珍航空利用ChatGPT Work优化客户旅程",
+      "title_cn": "维珍大西洋航空用ChatGPT Work优化客户体验",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "维珍航空使用ChatGPT Work加速研究、产品规划和决策。",
-      "short_summary_cn": "维珍航空正在使用ChatGPT Work加速研究、产品规划和决策，帮助团队连接客户旅程中的信号。",
-      "why_it_matters_cn": "AI在企业运营中的应用案例，展示效率提升潜力。",
-      "action_suggestion_cn": "关注AI在航空业的应用，评估自身业务场景。",
+      "key_takeaway_cn": "维珍大西洋航空利用ChatGPT Work加速研究与决策。",
+      "short_summary_cn": "维珍大西洋航空正在使用ChatGPT Work加速研究、产品规划和决策，帮助团队连接客户旅程中的信号。",
+      "why_it_matters_cn": "展示AI在航空业的应用，提升运营效率与客户体验。",
+      "action_suggestion_cn": "关注AI在航空领域的应用案例，探索合作机会。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "企业AI应用案例。",
-      "frontpage_reason_cn": "展示AI实际价值。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI行业应用案例，具有示范效应。",
+      "frontpage_reason_cn": "AI赋能传统行业，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发行业讨论。",
-        "medium_term_impact_cn": "可能推动航空业AI应用。",
-        "long_term_impact_cn": "提升行业效率。",
+        "immediate_impact_cn": "引发航空业AI应用讨论。",
+        "medium_term_impact_cn": "推动航空业数字化转型。",
+        "long_term_impact_cn": "改变航空业客户服务模式。",
         "affected_sectors": [
           "航空",
+          "旅游",
           "AI"
         ],
         "affected_assets": [
-          "维珍航空"
+          "航空股",
+          "AI概念股"
         ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体应用场景？",
-          "效果如何？"
+          "AI如何提升客户体验？",
+          "其他航空公司会跟进吗？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": true
     },
@@ -2477,244 +2410,118 @@
       "news_type": "tech",
       "date_display": "2026-08-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "Zapier营销团队使用ChatGPT Work减少线索流失、构建营销资产和自动化报告。",
-      "short_summary_cn": "Zapier的企业营销团队使用ChatGPT Work减少线索漏斗中的流失，构建营销活动资产，并自动化报告。",
-      "why_it_matters_cn": "AI在营销领域的应用，展示自动化潜力。",
-      "action_suggestion_cn": "关注AI营销工具，评估效率提升机会。",
+      "key_takeaway_cn": "Zapier营销团队用ChatGPT Work减少线索流失并自动化报告。",
+      "short_summary_cn": "Zapier的企业营销团队使用ChatGPT Work减少潜在客户漏斗中的流失，构建营销活动资产，并自动化报告。",
+      "why_it_matters_cn": "展示AI在营销自动化中的实际效果，提升营销ROI。",
+      "action_suggestion_cn": "营销团队可评估ChatGPT Work在自身工作流中的应用。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "AI营销应用案例。",
-      "frontpage_reason_cn": "展示AI实际价值。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI营销应用案例，具有实操参考价值。",
+      "frontpage_reason_cn": "AI营销自动化，企业关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发营销行业讨论。",
-        "medium_term_impact_cn": "可能推动营销自动化。",
-        "long_term_impact_cn": "改变营销工作方式。",
+        "immediate_impact_cn": "引发营销AI应用讨论。",
+        "medium_term_impact_cn": "推动营销工具智能化。",
+        "long_term_impact_cn": "改变营销行业工作方式。",
         "affected_sectors": [
           "营销",
+          "SaaS",
           "AI"
         ],
         "affected_assets": [
-          "Zapier"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "具体效果如何？",
-          "其他公司会跟进吗？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 19,
-      "title_cn": "OpenAI数据揭示全球ChatGPT使用趋势",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-06",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI Signals数据显示全球ChatGPT使用情况，包含国家层面的采用和趋势。",
-      "short_summary_cn": "新的OpenAI Signals数据展示了全球人们如何使用ChatGPT，提供了国家层面的采用、使用趋势和演变行为的洞察。",
-      "why_it_matters_cn": "了解AI采用趋势，为市场策略提供数据支持。",
-      "action_suggestion_cn": "关注数据报告，了解AI市场动态。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI市场数据洞察。",
-      "frontpage_reason_cn": "提供行业趋势。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发市场分析。",
-        "medium_term_impact_cn": "可能影响AI投资决策。",
-        "long_term_impact_cn": "指导AI产品开发。",
-        "affected_sectors": [
-          "AI",
-          "市场研究"
-        ],
-        "affected_assets": [
-          "OpenAI"
+          "Zapier相关",
+          "营销科技股"
         ],
         "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体数据如何？",
-          "哪些国家增长最快？"
+          "AI如何提升营销效率？",
+          "对营销人员有何影响？"
         ]
       },
       "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 20,
-      "title_cn": "OpenAI推出ChatGPT Work和Codex教育插件",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-04",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI为ChatGPT Work和Codex推出新教育插件，帮助K-12教师和学生。",
-      "short_summary_cn": "OpenAI为ChatGPT Work和Codex推出新的教育插件，帮助K-12教师、大学教育者和学生学习、教学、研究和构建。",
-      "why_it_matters_cn": "AI在教育领域的应用，可能改变教学方式。",
-      "action_suggestion_cn": "教育工作者可探索这些插件。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "AI教育应用。",
-      "frontpage_reason_cn": "影响教育领域。",
-      "impact_analysis": {
-        "immediate_impact_cn": "教育者可试用插件。",
-        "medium_term_impact_cn": "可能推动教育AI应用。",
-        "long_term_impact_cn": "改变教育方式。",
-        "affected_sectors": [
-          "教育",
-          "AI"
-        ],
-        "affected_assets": [
-          "OpenAI"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "插件具体功能？",
-          "如何获取？"
-        ]
-      },
-      "us_market_relevance": "low",
       "is_recent": false,
       "is_old_context": true
     },
     {
       "index": 2,
-      "title_cn": "美国法院将公布政府间谍软件使用频率",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "美国法院行政办公室将披露法官授权使用间谍软件进行窃听的次数。",
-      "short_summary_cn": "美国法院行政办公室向TechCrunch表示，将开始披露法官授权使用间谍软件窃听疑似罪犯的次数。这是政府监控透明度的一次重要进展。",
-      "why_it_matters_cn": "政府监控透明度直接影响公民隐私权和法治信任，此政策变化具有重大社会影响。",
-      "action_suggestion_cn": "关注后续披露数据，评估隐私政策变化对个人和企业的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "政府监控透明度是重大政治议题，涉及公民权利。",
-      "frontpage_reason_cn": "影响公共政策与公民自由。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发公众对政府监控的讨论。",
-        "medium_term_impact_cn": "可能推动相关立法改革。",
-        "long_term_impact_cn": "增强政府问责，影响监控技术使用。",
-        "affected_sectors": [
-          "政府",
-          "法律",
-          "科技"
-        ],
-        "affected_assets": [
-          "监控技术公司"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "具体披露频率？",
-          "对执法部门有何影响？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "政策专家：欧洲火箭发射陷入两难境地",
+      "title_cn": "欧洲火箭发射政策陷入两难困境",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "politics_world",
       "news_type": "politics",
       "date_display": "2026-08-15",
-      "freshness_label": "34h前",
-      "key_takeaway_cn": "火箭回收经济性凸显，欧洲在航天发射政策上面临艰难抉择。",
-      "short_summary_cn": "政策专家指出，欧洲在火箭发射问题上进退两难。火箭重复使用的经济性非常可观，这给欧洲的航天战略带来了挑战。",
-      "why_it_matters_cn": "航天战略影响欧洲科技自主与竞争力，火箭回收技术改变行业格局。",
-      "action_suggestion_cn": "关注欧洲航天局后续政策动向，评估对全球航天市场的影响。",
+      "freshness_label": "58h前",
+      "key_takeaway_cn": "欧洲在火箭发射政策上进退维谷，火箭复用经济性凸显。",
+      "short_summary_cn": "政策专家指出，欧洲在火箭发射领域面临艰难抉择。火箭复用技术的经济优势明显，但欧洲在政策与产业布局上尚未跟上。",
+      "why_it_matters_cn": "影响欧洲航天竞争力与全球航天市场格局。",
+      "action_suggestion_cn": "关注欧洲航天局政策动向及商业航天公司布局。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "航天政策与科技经济密切相关，具有战略意义。",
-      "frontpage_reason_cn": "影响全球航天竞争格局。",
+      "tracking_value": 10,
+      "editor_reason_cn": "航天政策与产业经济交叉，具有战略意义。",
+      "frontpage_reason_cn": "全球航天竞争关键节点。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发航天政策讨论。",
+        "immediate_impact_cn": "引发欧洲航天政策讨论。",
         "medium_term_impact_cn": "可能影响欧洲火箭项目投资决策。",
-        "long_term_impact_cn": "改变全球航天发射市场格局。",
+        "long_term_impact_cn": "重塑全球航天发射市场格局。",
         "affected_sectors": [
           "航天",
-          "科技",
-          "政策"
+          "国防",
+          "科技"
         ],
         "affected_assets": [
-          "航天公司",
-          "火箭制造商"
+          "航天类股票",
+          "欧洲航天概念"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "欧洲是否会采用可回收火箭？",
-          "对Ariane项目有何影响？"
+          "欧洲是否会加速火箭复用研发？",
+          "对Ariane 6有何影响？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": false,
-      "frontpage_rank": 3
+      "frontpage_rank": 2
     },
     {
-      "index": 7,
-      "title_cn": "圆桌讨论：影响美国政策的“审查工业综合体”",
+      "index": 6,
+      "title_cn": "“审查产业综合体”概念如何影响美国政策",
       "source": "MIT Technology Review",
       "source_display_name": "MIT Technology Review",
       "category": "politics_world",
       "news_type": "politics",
       "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "探讨“审查工业综合体”概念如何从右翼圈层进入美国政策制定。",
-      "short_summary_cn": "MIT Technology Review举办圆桌讨论，探讨“审查工业综合体”这一概念。该概念认为政府、科技和研究团体合作压制保守派网络言论，现已影响美国政策。",
-      "why_it_matters_cn": "该概念影响美国言论自由政策，反映政治与科技复杂关系。",
-      "action_suggestion_cn": "观看讨论视频，了解政策动向。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "“审查产业综合体”概念从右翼圈层进入美国政策核心。",
+      "short_summary_cn": "MIT技术评论探讨了“审查产业综合体”这一概念，即政府、科技与研究机构网络合作压制保守派网络言论。该概念已从右翼信息圈渗透至美国政策制定。",
+      "why_it_matters_cn": "揭示美国科技政策与言论自由博弈的新动向。",
+      "action_suggestion_cn": "关注美国科技政策走向及对平台监管的影响。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "涉及言论自由与科技政策，具有深度。",
-      "frontpage_reason_cn": "政策思想影响深远。",
+      "tracking_value": 9,
+      "editor_reason_cn": "科技与政治交叉议题，具有深度分析价值。",
+      "frontpage_reason_cn": "美国政策风向标，影响科技行业。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对审查制度的讨论。",
-        "medium_term_impact_cn": "可能影响科技公司内容审核政策。",
-        "long_term_impact_cn": "塑造美国网络言论监管方向。",
+        "immediate_impact_cn": "引发对科技平台审查政策的讨论。",
+        "medium_term_impact_cn": "可能影响美国科技立法方向。",
+        "long_term_impact_cn": "重塑美国言论自由与科技监管平衡。",
         "affected_sectors": [
           "科技",
           "政策",
           "媒体"
         ],
         "affected_assets": [
-          "科技平台"
+          "科技平台股"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
@@ -2722,52 +2529,97 @@
           "科技公司如何应对？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 7
+      "is_old_context": true,
+      "frontpage_rank": 6
     },
     {
-      "index": 10,
-      "title_cn": "苹果提议对App Store外购买收取15%佣金",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "index": 8,
+      "title_cn": "联邦关键词列表取消数十亿研究经费",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
       "category": "politics_world",
       "news_type": "politics",
-      "date_display": "2026-08-14",
-      "freshness_label": "58h前",
-      "key_takeaway_cn": "苹果请求法院允许对iOS应用外部链接购买收取最高15%佣金。",
-      "short_summary_cn": "苹果请求联邦法官允许其对iOS应用中通过外部链接进行的购买收取最高15%的佣金。此举是苹果在反垄断压力下调整其App Store政策的一部分。",
-      "why_it_matters_cn": "苹果佣金政策影响应用开发者生态和数字市场竞争，是反垄断焦点。",
-      "action_suggestion_cn": "关注法院裁决，评估对应用开发成本的影响。",
-      "importance_score": 7,
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "联邦关键词列表导致数十亿美元研究经费被取消。",
+      "short_summary_cn": "一份联邦关键词列表被用于取消数十亿美元的研究经费，引发对科研政策与学术自由的担忧。",
+      "why_it_matters_cn": "直接影响科研资金分配与学术研究方向。",
+      "action_suggestion_cn": "关注科研经费政策变化，评估对相关领域的影响。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "苹果政策调整影响广泛开发者。",
-      "frontpage_reason_cn": "科技巨头反垄断动态。",
+      "tracking_value": 9,
+      "editor_reason_cn": "科研政策重大变动，影响面广。",
+      "frontpage_reason_cn": "科研经费削减，学术界关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发开发者社区讨论。",
-        "medium_term_impact_cn": "可能改变应用分发格局。",
-        "long_term_impact_cn": "影响全球数字市场监管。",
+        "immediate_impact_cn": "相关研究项目可能中断。",
+        "medium_term_impact_cn": "影响科研机构预算与人才流动。",
+        "long_term_impact_cn": "可能削弱美国科研竞争力。",
         "affected_sectors": [
-          "科技",
-          "应用开发"
+          "科研",
+          "教育",
+          "政策"
         ],
         "affected_assets": [
-          "苹果",
-          "应用开发者"
+          "教育类股",
+          "科研相关"
         ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
         "follow_up_questions": [
-          "法院会批准吗？",
-          "对开发者有何实际影响？"
+          "哪些关键词被列入？",
+          "受影响最大的领域？"
         ]
       },
-      "us_market_relevance": "high",
-      "is_recent": false,
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 8
+    },
+    {
+      "index": 27,
+      "title_cn": "希腊岛屿双火灾致两人死亡数百人疏散",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-08-17",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "希腊萨拉米纳岛双火灾致2人死亡，数百人疏散。",
+      "short_summary_cn": "希腊岛屿发生两起火灾，造成两人死亡，数百人疏散。约200名消防员努力防止火势在萨拉米纳岛汇合，其中一处火势已得到控制。",
+      "why_it_matters_cn": "自然灾害事件，影响当地居民安全与旅游。",
+      "action_suggestion_cn": "关注希腊火灾动态，避免前往受影响区域。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 4,
+      "tracking_value": 6,
+      "editor_reason_cn": "重大自然灾害新闻，具有时效性。",
+      "frontpage_reason_cn": "灾害新闻，公众关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "影响当地居民生活与安全。",
+        "medium_term_impact_cn": "可能影响希腊旅游业。",
+        "long_term_impact_cn": "引发对气候灾害的讨论。",
+        "affected_sectors": [
+          "旅游",
+          "保险",
+          "公共安全"
+        ],
+        "affected_assets": [
+          "旅游相关股票"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "火灾原因是什么？",
+          "救援进展如何？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
       "is_old_context": false
     }
   ]
