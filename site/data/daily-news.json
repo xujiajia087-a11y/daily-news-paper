@@ -1,412 +1,427 @@
 {
   "metadata": {
     "report_title": "JiaJia Daily 情报日报",
-    "report_date": "2026年09月09日",
-    "report_weekday": "星期三",
-    "generated_at": "2026-09-09 13:26",
+    "report_date": "2026年09月10日",
+    "report_weekday": "星期四",
+    "generated_at": "2026-09-10 13:23",
     "timezone": "Australia/Perth (UTC+8)",
     "data_window": "24h新闻 + 7d市场事件 + 90d动漫活动",
     "total_fetched": 297,
-    "after_dedupe": 174,
+    "after_dedupe": 176,
     "selected_count": 30,
     "frontpage_count": 8,
-    "anime_event_count": 12,
-    "market_related_count": 11,
-    "watchlist_count": 5
+    "anime_event_count": 15,
+    "market_related_count": 20,
+    "watchlist_count": 4
   },
   "daily_overview": {
-    "one_sentence_cn": "今日AI与科技领域动态密集，谷歌云合作、核电站重启及苹果发布会前瞻成为焦点；动漫界有印日合作新作及多部动画延期，但整体热度平稳。",
-    "market_mood_cn": "市场情绪偏积极，AI商业化加速及政策支持提振科技股，但需关注苹果发布会预期兑现风险。",
-    "anime_event_mood_cn": "今日动漫情报以声优追加和动画延期为主，无重大高价值事件，氛围平淡。",
-    "what_to_watch_next_cn": "关注苹果9月9日发布会细节、谷歌核电站项目进展，以及AI智能体安全事件后续。"
+    "one_sentence_cn": "苹果秋季发布会以折叠屏iPhone Duo和AI健康功能主导科技头条，特朗普称伊朗战争将持续至11月大选推高地缘风险，动漫侧Square Enix公布FF7启示录预告及CC重制版。",
+    "market_mood_cn": "科技硬件创新与AI应用扩张带来结构性乐观，但地缘政治风险压制整体风险偏好，市场情绪偏混合。",
+    "anime_event_mood_cn": "Square Enix公布《最终幻想VII 启示录》预告及《核心危机》重制版登陆Switch 2，动漫游戏收藏侧有明确高价值情报。",
+    "what_to_watch_next_cn": "关注苹果新机预售与供应链反应、伊朗局势对油价和美股板块的传导，以及FF7重制版后续发售细节。"
   },
   "impact_map": {
     "anime_collecting": {
-      "level": "low",
-      "summary_cn": "今日无重大手办或周边发售情报，仅《街头霸王6》DLC角色上线，对收藏市场影响有限。",
+      "level": "medium",
+      "summary_cn": "Square Enix公布FF7启示录预告及核心危机重制版登陆Switch 2，构成动漫游戏收藏侧明确催化。",
       "related_count": 1,
-      "representative": "《街头霸王6》DLC角色Arjun 10月13日上线"
+      "representative": "SE公布FF7启示录预告及CC重制版"
     },
     "japanese_events": {
       "level": "medium",
-      "summary_cn": "多部动画公布追加声优及开播日期，但无大型活动或展会信息，整体氛围平稳。",
-      "related_count": 6,
-      "representative": "《钻石王牌Act II》第二季第二部分公布新声优"
+      "summary_cn": "Square Enix作为日本游戏大厂发布重磅IP新作与重制，对日本游戏及动漫活动侧有直接带动。",
+      "related_count": 1,
+      "representative": "Square Enix FF7启示录与核心危机重制版"
     },
     "ai_tech": {
       "level": "high",
-      "summary_cn": "AI领域新闻密集，涉及谷歌云合作、GPT-5.6应用、Meta新智能体、OpenAI安全警告等，技术进展与风险并存。",
-      "related_count": 15,
-      "representative": "谷歌云与埃森哲合作加速企业AI部署"
+      "summary_cn": "苹果发布会密集发布折叠屏iPhone、AI健康与Watch新功能，OpenAI、Anthropic、谷歌等AI动态密集，AI硬件与安全治理双线升温。",
+      "related_count": 20,
+      "representative": "苹果折叠屏iPhone Duo及AI健康功能"
     },
     "us_stocks": {
       "level": "high",
-      "summary_cn": "苹果发布会前瞻、谷歌核电站贷款、AI商业化合作等消息可能影响科技股表现，市场关注度较高。",
-      "related_count": 5,
-      "representative": "谷歌重启核电站获美国政府19亿美元贷款"
+      "summary_cn": "苹果发布会涉及多条产品线，对AAPL及供应链有直接催化；伊朗战争言论推高油价与地缘风险，影响能源与防务板块。",
+      "related_count": 3,
+      "representative": "苹果秋季发布会全汇总"
     },
     "politics_risk": {
-      "level": "medium",
-      "summary_cn": "美国最高法院选举广告裁决、英国制裁以色列定居点等事件带来一定政治不确定性，但整体风险可控。",
-      "related_count": 4,
-      "representative": "最高法院强制电视台低价出售选举广告"
+      "level": "high",
+      "summary_cn": "特朗普称伊朗战争将持续至11月大选后且油价高企，地缘政治风险显著上升，压制风险资产。",
+      "related_count": 1,
+      "representative": "特朗普称伊朗战争将持续至11月大选后"
     },
     "future_watchlist": {
-      "level": "high",
-      "summary_cn": "苹果发布会、谷歌核电站重启、AI智能体安全事件等均值得持续追踪，影响范围广。",
-      "related_count": 5,
-      "representative": "苹果9月9日发布会"
+      "level": "medium",
+      "summary_cn": "苹果新机预售、伊朗局势演变、FF7重制版发售细节及AI安全治理进展值得持续追踪。",
+      "related_count": 4,
+      "representative": "苹果折叠屏iPhone Duo预售与供应链反应"
     }
   },
   "executive_brief": {
     "top_5_judgements": [
-      "谷歌云与埃森哲合作标志AI企业级部署加速，利好云服务及AI应用板块。",
-      "谷歌核电站重启获政府贷款，显示科技巨头进军清洁能源，长期利好但短期风险仍存。",
-      "苹果可折叠iPhone发布会临近，预期已高，需防“利好出尽”风险。",
-      "Meta推出Muse AI智能体，数据隐私问题或成消费者信任关键，需关注监管反应。",
-      "OpenAI资助青少年AI研究，反映行业对AI伦理的重视，但短期市场影响有限。"
+      "苹果秋季发布会以折叠屏iPhone Duo为核心，叠加AI健康与Watch功能，硬件创新周期重启，对AAPL及供应链构成中期催化。",
+      "特朗普称伊朗战争将持续至11月大选后，地缘风险溢价上升，油价高企预期强化，能源与防务板块受益、风险资产承压。",
+      "Square Enix公布FF7启示录预告及核心危机重制版登陆Switch 2，日本游戏IP收藏侧迎来明确催化。",
+      "AI安全治理双线升温：Anthropic研究员离职警告与Paul Christiano加入OpenAI董事会，显示行业对自我改进AI风险高度关注。",
+      "苹果旧款iPhone涨价100美元，反映新机发布后定价策略调整，可能影响换机周期与销量结构。"
     ],
     "anime_merch_signing_highlights": [
-      "《街头霸王6》DLC角色Arjun上线，可关注相关周边预售。",
-      "多部动画追加声优，可能带动角色周边热度，但无具体商品信息。"
+      "Square Enix《最终幻想VII 启示录》预告公布，关注后续发售日期与限定版收藏信息。",
+      "《核心危机》重制版登陆Switch 2，关注实体版与特典周边发售节奏。"
     ],
     "ai_tech_highlights": [
-      "谷歌云与埃森哲合作，企业AI部署加速。",
-      "GPT-5.6 Sol用于量子计算实验自动化，展示AI在科研领域的潜力。",
-      "Meta推出Muse AI智能体，需关注用户接受度。",
-      "黑客窃取Claude令牌，AI安全风险再次敲响警钟。"
+      "苹果发布首款折叠屏iPhone Duo，采用AI与3D打印铰链制造，展开后视频比例更佳。",
+      "苹果Watch Series 12与Ultra 4新增AI音频智能，可回顾日常对话，但引发隐私争议。",
+      "GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特，AI for Science再进一步。",
+      "OpenAI推出ChatGPT Images 2.5，可将草图与参考照片转化为个性化图像。",
+      "谷歌AI基因组系统可评估人类基因组所有可能的单碱基变化。"
     ],
     "politics_highlights": [
-      "美国最高法院裁决电视台低价出售选举广告，可能影响媒体股。",
-      "英国制裁以色列定居点，引发外交紧张，但市场影响有限。",
-      "谷歌称欧盟规定降低搜索质量，或引发监管讨论。"
+      "特朗普称伊朗战争不会在11月美国大选前结束，油价也将持续高企。",
+      "谷歌广告平台被曝可投放恶意软件，引发安全与平台治理讨论。"
     ],
     "us_stock_market_impacts": [
-      "苹果发布会预期可能推高AAPL及相关供应链股。",
-      "谷歌核电站贷款消息或利好GOOGL及清洁能源板块。",
-      "AI合作与新品发布可能提振科技股整体情绪。"
+      "苹果发布会密集发布折叠屏iPhone、Watch、AirPods及健康功能，对AAPL及供应链构成直接催化。",
+      "伊朗战争持续言论推高油价预期，能源板块受益，航空与消费板块承压。",
+      "AI安全治理动态密集，对AI龙头估值情绪有双向影响，长期利好合规领先者。"
     ],
     "future_watchlist": [
-      "苹果9月9日发布会：关注可折叠iPhone细节及市场反应。",
-      "谷歌核电站重启进展：关注监管及建设进度。",
-      "Meta Muse AI智能体：关注用户反馈及隐私争议。",
-      "OpenAI安全事件：关注Claude令牌泄露影响范围。"
+      "苹果折叠屏iPhone Duo预售与供应链反应",
+      "伊朗局势对油价及美股板块的传导",
+      "FF7启示录与核心危机重制版发售细节",
+      "OpenAI董事会安全治理动向与AI监管政策窗口"
     ],
     "noise_or_low_priority": [
-      "白宫“建墙”游戏下架事件，娱乐性质，市场影响低。",
-      "NYU数学家指责OpenAI，学术争议，短期市场影响有限。",
-      "ATV Big Air Tour使用ChatGPT，个案效率提升，不具广泛代表性。"
+      "ATV Big Air Tour用ChatGPT提升效率，个案应用，市场影响有限。",
+      "ChatGPT与批判性思维训练研究，学术性较强，短期无直接交易含义。",
+      "欧洲航天创业新星，早期信息，缺乏具体标的。"
     ],
-    "final_editor_note": "今日AI与科技动态主导市场情绪，动漫领域相对平淡。建议投资者聚焦苹果发布会及谷歌核电站项目，同时警惕AI安全事件发酵。不构成投资建议。"
+    "final_editor_note": "今日主线是苹果硬件创新与地缘风险并行，动漫侧FF7重制版提供收藏催化。市场分析不构成投资建议，请独立判断。"
   },
   "top_stories": [
     {
       "index": 1,
-      "title_cn": "谷歌云与埃森哲合作加速企业AI部署",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌云与埃森哲达成合作，通过派驻工程师推动企业AI采用，以追赶竞争对手。",
-      "short_summary_cn": "谷歌云宣布与埃森哲合作，扩大企业AI业务。合作重点在于派遣前部署工程师，帮助企业克服AI部署瓶颈。此举旨在加速AI技术在企业中的实际应用。",
-      "why_it_matters_cn": "显示谷歌云在AI部署领域的竞争策略，对企业和云服务市场格局有影响。",
-      "action_suggestion_cn": "关注谷歌云企业AI服务动态，评估对相关云服务商竞争格局的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "谷歌云重大战略合作，影响AI产业格局。",
-      "frontpage_reason_cn": "AI产业重大动态，值得关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能推动谷歌云股价短期上涨，市场关注AI部署领域竞争。",
-        "medium_term_impact_cn": "企业AI部署服务市场可能加速增长，影响相关云服务商市场份额。",
-        "long_term_impact_cn": "AI部署服务可能成为云服务商竞争的关键领域。",
-        "affected_sectors": [
-          "云计算",
-          "企业服务",
-          "AI"
-        ],
-        "affected_assets": [
-          "GOOGL",
-          "ACN",
-          "MSFT",
-          "AMZN"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "合作具体条款和规模如何？",
-          "对竞争对手AWS和Azure有何影响？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "谷歌重启核电站获美国政府19亿美元贷款",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "politics_world",
-      "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "谷歌参与的爱荷华州核电站重启项目获美国能源部19亿美元贷款支持。",
-      "short_summary_cn": "谷歌宣布将重启爱荷华州一座核电站，该核电站所有者已获得美国能源部19亿美元贷款。此举显示谷歌在清洁能源领域的重大投资。",
-      "why_it_matters_cn": "结合AI与能源政策，显示科技巨头在能源领域的布局，影响能源政策和科技公司战略。",
-      "action_suggestion_cn": "关注核能政策动向及谷歌能源投资对科技股的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "科技与能源政策交叉重大事件。",
-      "frontpage_reason_cn": "涉及科技巨头和政府政策，影响广泛。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能提振核能相关股票，市场关注清洁能源政策。",
-        "medium_term_impact_cn": "科技公司参与核能项目可能增加，影响能源市场结构。",
-        "long_term_impact_cn": "AI数据中心能源需求可能推动核能复兴。",
-        "affected_sectors": [
-          "能源",
-          "科技",
-          "公用事业"
-        ],
-        "affected_assets": [
-          "GOOGL",
-          "核能ETF",
-          "铀矿股"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "核电站重启时间表？",
-          "对谷歌碳排放目标有何影响？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "GPT-5.6 Sol助力量子计算实验自动化",
+      "title_cn": "GPT-5.6 Sol助力量子计算实验",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "MIT研究员使用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
-      "short_summary_cn": "OpenAI博客展示了MIT研究员如何利用GPT-5.6 Sol和Codex自动运行量子计算实验，包括分析结果和校准量子比特。这展示了AI在科研自动化领域的应用潜力。",
-      "why_it_matters_cn": "AI与量子计算结合，可能加速科研进程，对科技发展有深远影响。",
-      "action_suggestion_cn": "关注AI在科研领域的应用案例，评估对科研工具市场的影响。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
+      "short_summary_cn": "OpenAI发布案例，展示MIT研究员如何利用GPT-5.6 Sol配合Codex自主运行量子计算实验、分析结果并校准量子比特。这标志着AI代理在尖端科研自动化领域迈出重要一步。",
+      "why_it_matters_cn": "AI代理进入量子计算等前沿科研场景，可能大幅加速实验迭代与科研效率。",
+      "action_suggestion_cn": "关注OpenAI官方博客原文，评估AI代理在自身科研或工程流程中的可迁移性。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 8,
-      "editor_reason_cn": "AI前沿应用，展示技术突破。",
-      "frontpage_reason_cn": "AI与量子计算交叉领域重大进展。",
+      "editor_reason_cn": "AI代理自主科研的标杆案例，重要性极高。",
+      "frontpage_reason_cn": "AI+量子计算双重前沿，适合头条。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能提升OpenAI在科研AI领域的声誉。",
-        "medium_term_impact_cn": "AI辅助科研工具需求可能增加。",
-        "long_term_impact_cn": "AI可能成为量子计算研究的关键工具。",
+        "immediate_impact_cn": "引发AI科研自动化讨论，量子计算与AI交叉领域关注度上升。",
+        "medium_term_impact_cn": "更多实验室尝试AI代理辅助实验，科研工具链或迎更新。",
+        "long_term_impact_cn": "AI自主科研或重塑实验科学范式，加速量子计算等硬科技突破。",
         "affected_sectors": [
           "AI",
           "量子计算",
-          "科研服务"
+          "科研自动化",
+          "半导体"
         ],
         "affected_assets": [
-          "OpenAI相关",
-          "量子计算概念股"
+          "OpenAI相关概念",
+          "量子计算概念股",
+          "AI芯片"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "GPT-5.6 Sol的科研应用范围？",
-          "量子计算商业化进程如何？"
+          "GPT-5.6 Sol的具体能力边界？",
+          "Codex在实验中的自主程度？",
+          "是否可复现于其他科研领域？"
         ]
       },
       "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 1
+    },
+    {
+      "index": 2,
+      "title_cn": "特朗普称伊朗战争将持续至11月大选后",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "特朗普称伊朗战争不会在11月美国大选前结束，油价也将持续高企。",
+      "short_summary_cn": "特朗普表示伊朗战争将持续到11月美国大选之后，并称油价在此之前不会回落。他还无证据地声称伊朗意图影响美国选举。此番言论将地缘冲突与美国国内政治直接挂钩。",
+      "why_it_matters_cn": "地缘冲突与选举政治交织，油价与市场波动风险上升。",
+      "action_suggestion_cn": "关注油价、能源股及避险资产走势，评估地缘风险对投资组合的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "重大地缘政治与选举交叉事件，影响面广。",
+      "frontpage_reason_cn": "涉及战争、油价与大选，全球关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "油价与避险资产短线波动，市场情绪偏谨慎。",
+        "medium_term_impact_cn": "能源价格维持高位，通胀预期与选举博弈升温。",
+        "long_term_impact_cn": "中东局势持续影响全球能源格局与地缘秩序。",
+        "affected_sectors": [
+          "能源",
+          "国防",
+          "航运",
+          "大宗商品"
+        ],
+        "affected_assets": [
+          "原油",
+          "黄金",
+          "美元",
+          "能源股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "伊朗战争实际进展如何？",
+          "油价对通胀与美联储政策的影响？",
+          "选举结果对局势的潜在改变？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 2
+    },
+    {
+      "index": 3,
+      "title_cn": "SE公布FF7启示录预告及CC重制版",
+      "source": "Anime News Network",
+      "source_display_name": "Anime News Network",
+      "category": "anime_collab",
+      "news_type": "anime_event",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Square Enix公布《最终幻想VII 启示录》预告，并宣布《核心危机》重制版登陆Switch 2。",
+      "short_summary_cn": "Square Enix公开《最终幻想VII Revelation》游戏预告片，同时宣布《Crisis Core: Final Fantasy VII Reunion》重制版将登陆Switch 2，且于公布当日同步发售。FF7系列持续扩展，覆盖新作与重制。",
+      "why_it_matters_cn": "FF7 IP持续扩张，Switch 2首发阵容增强，粉丝与收藏者关注度高。",
+      "action_suggestion_cn": "关注官方发售渠道，Switch 2版本可留意首发特典与限定版信息。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "FF7系列重大新作与重制消息，IP价值高。",
+      "frontpage_reason_cn": "知名游戏IP新作与Switch 2首发，玩家关注度高。",
+      "anime_event_detail": {
+        "event_type": "游戏新作公布/重制版发售",
+        "ip_or_work_title": "最终幻想VII Revelation / Crisis Core: Final Fantasy VII Reunion",
+        "person_name": "未知",
+        "role": "未知",
+        "event_date": "2026-09-09",
+        "event_time": "未知",
+        "venue": "线上公布",
+        "city": "未知",
+        "country": "日本",
+        "ticket_method": "未知",
+        "application_period": "未知",
+        "lottery_or_first_come": "未知",
+        "purchase_requirement": "未知",
+        "goods_or_bonus": "未知",
+        "official_source": "Square Enix / Anime News Network",
+        "urgency_level": "中",
+        "collector_value": "高",
+        "travel_feasibility": "不适用",
+        "action_needed_cn": "关注Square Enix官方渠道，留意Switch 2版本发售与特典信息。"
+      },
       "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 3
     },
     {
       "index": 4,
-      "title_cn": "Geek Pictures公布印日合作魔法少女动画",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
+      "title_cn": "AI创业者开发可提前规划的智能体",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
+      "category": "ai_tech",
+      "news_type": "tech",
       "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "东京Geek Pictures印度子公司制作印日合作魔法少女动画《Panchsheela》。",
-      "short_summary_cn": "Geek Pictures宣布其印度子公司将制作一部印度与日本合作的魔法少女动画《Panchsheela》。该项目展示了跨国IP合作的趋势。",
-      "why_it_matters_cn": "显示动漫产业跨国合作趋势，可能带来新的文化融合和市场机会。",
-      "action_suggestion_cn": "关注该项目后续信息，评估对印度和日本动漫市场的影响。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Danijar Hafner创办 stealth 初创，开发能提前规划应对意外的AI智能体。",
+      "short_summary_cn": "MIT Technology Review报道，AI研究者Danijar Hafner在旧金山创办一家仍处于隐身模式的初创公司，致力于开发能够提前规划、应对意外情况的AI智能体。公司规模尚小，但方向聚焦于前瞻性自主规划能力。",
+      "why_it_matters_cn": "前瞻性规划是AI智能体走向实用的关键能力，可能推动自动化决策升级。",
+      "action_suggestion_cn": "关注该初创后续融资与产品发布，跟踪AI规划智能体技术进展。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "跨国动漫合作项目，具有市场和文化意义。",
-      "frontpage_reason_cn": "动漫产业新动向，值得关注。",
-      "anime_event_detail": {
-        "event_type": "动漫企划",
-        "ip_or_work_title": "Panchsheela",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注后续制作和播出信息"
+      "editor_reason_cn": "AI智能体前沿方向，创业者背景值得关注。",
+      "frontpage_reason_cn": "AI智能体规划能力是行业热点，具前瞻性。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对AI规划智能体的讨论，关注度上升。",
+        "medium_term_impact_cn": "相关技术或吸引投资，推动智能体产品迭代。",
+        "long_term_impact_cn": "前瞻规划智能体或改变自动化与决策系统格局。",
+        "affected_sectors": [
+          "AI",
+          "自动化",
+          "机器人",
+          "企业软件"
+        ],
+        "affected_assets": [
+          "AI初创概念",
+          "自动化相关股票"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "公司名称与融资情况？",
+          "技术路线与差异化？",
+          "何时产品化？"
+        ]
       },
+      "us_market_relevance": "low",
       "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 4
     },
     {
       "index": 5,
-      "title_cn": "AI创业者开发可预判意外的智能体",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Danijar Hafner的初创公司正在开发能提前规划应对意外情况的AI智能体。",
-      "short_summary_cn": "MIT Technology Review报道了AI研究员Danijar Hafner的初创公司，该公司正在开发能够提前规划并应对意外情况的AI智能体。公司目前处于隐身模式。",
-      "why_it_matters_cn": "AI智能体能力提升，可能影响自动化决策和机器人领域。",
-      "action_suggestion_cn": "关注该初创公司技术进展，评估对AI智能体市场的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI前沿研究，具有潜在颠覆性。",
-      "frontpage_reason_cn": "AI智能体技术新突破。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能引发AI研究社区关注。",
-        "medium_term_impact_cn": "AI智能体在复杂环境中的应用可能增加。",
-        "long_term_impact_cn": "可能推动自主AI系统发展。",
-        "affected_sectors": [
-          "AI",
-          "机器人",
-          "自动化"
-        ],
-        "affected_assets": [
-          "AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "该技术何时商业化？",
-          "与现有AI智能体有何不同？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
-      "title_cn": "下载：寻找地下氢与更多OpenAI智能体",
+      "title_cn": "地下氢能勘探与OpenAI失控智能体",
       "source": "MIT Technology Review",
       "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "本期下载涵盖地下氢能源勘探和OpenAI智能体新动态。",
-      "short_summary_cn": "MIT Technology Review的每日通讯介绍了地下氢能源的勘探进展，以及关于OpenAI智能体的最新消息。",
-      "why_it_matters_cn": "涵盖能源和AI两大领域，提供综合信息。",
-      "action_suggestion_cn": "阅读全文了解地下氢和OpenAI智能体的具体进展。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "MIT科技评论日报关注地下氢能勘探热潮及OpenAI失控智能体事件。",
+      "short_summary_cn": "MIT Technology Review每日简报聚焦两大话题：一是全球多地掀起地下氢气勘探热潮，或成零碳燃料重要来源；二是关于OpenAI失控智能体的更多讨论。内容为综合简报，覆盖能源与AI安全。",
+      "why_it_matters_cn": "地下氢能或改变能源格局，AI失控智能体则关乎安全治理。",
+      "action_suggestion_cn": "关注地下氢能勘探进展与AI智能体安全治理动态。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "综合科技新闻，信息量大。",
-      "frontpage_reason_cn": "科技领域综合动态。",
+      "editor_reason_cn": "能源与AI安全双热点，信息密度高。",
+      "frontpage_reason_cn": "氢能与AI安全均为长期重要议题。",
       "impact_analysis": {
-        "immediate_impact_cn": "无直接影响。",
-        "medium_term_impact_cn": "地下氢能源可能成为新投资方向。",
-        "long_term_impact_cn": "清洁能源结构可能变化。",
+        "immediate_impact_cn": "氢能勘探与AI安全话题热度上升。",
+        "medium_term_impact_cn": "氢能投资或增加，AI智能体安全标准讨论升温。",
+        "long_term_impact_cn": "地下氢能或重塑能源结构，AI安全治理影响行业规范。",
         "affected_sectors": [
           "能源",
-          "AI"
+          "AI",
+          "清洁技术",
+          "政策"
         ],
         "affected_assets": [
-          "氢能源概念股",
-          "OpenAI相关"
+          "氢能概念股",
+          "AI安全相关"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "地下氢勘探的商业化前景？",
-          "OpenAI智能体有何新进展？"
+          "地下氢能商业化前景？",
+          "OpenAI失控智能体具体事件？",
+          "AI安全监管走向？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "苹果秋季发布会全汇总：折叠屏iPhone Duo亮相",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果发布首款折叠屏iPhone Duo及常听Apple Watch等全系新品。",
+      "short_summary_cn": "苹果秋季发布会推出首款折叠屏手机iPhone Duo，以及可常听的Apple Watch等新品。发布会涵盖iPhone、Watch、AirPods等多条产品线，AI功能成为贯穿亮点。",
+      "why_it_matters_cn": "苹果首款折叠屏标志产品线重大扩展，AI穿戴设备竞争加剧。",
+      "action_suggestion_cn": "关注苹果新品定价与发售时间，评估供应链与竞品影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "苹果年度重磅发布会，产品线全面更新。",
+      "frontpage_reason_cn": "折叠屏iPhone首秀，全球科技媒体焦点。",
+      "impact_analysis": {
+        "immediate_impact_cn": "苹果股价与供应链短线波动，折叠屏概念升温。",
+        "medium_term_impact_cn": "折叠屏与AI穿戴设备竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "苹果产品形态与AI战略影响消费电子长期格局。",
+        "affected_sectors": [
+          "消费电子",
+          "半导体",
+          "AI穿戴",
+          "供应链"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "折叠屏供应链",
+          "AI芯片"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "iPhone Duo定价与销量预期？",
+          "AI功能隐私争议？",
+          "供应链受益标的？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 6
     },
     {
       "index": 7,
-      "title_cn": "如何观看苹果可折叠iPhone发布会",
+      "title_cn": "苹果发布Watch Series 12与Ultra 4",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-09",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "苹果年度iPhone发布会将于9月9日直播，预计发布可折叠iPhone。",
-      "short_summary_cn": "苹果年度iPhone发布会将于9月9日上午10点PDT直播。预计将发布可折叠iPhone等新品。",
-      "why_it_matters_cn": "苹果新品发布影响消费电子市场和相关供应链。",
-      "action_suggestion_cn": "关注发布会直播，了解新品详情。",
+      "key_takeaway_cn": "苹果推出Watch Series 12与Ultra 4，新增AI音频智能可回顾日常对话。",
+      "short_summary_cn": "苹果发布Apple Watch Series 12和Watch Ultra 4，主打AI升级，新增“音频智能”功能，可回放和记忆日常对话细节。苹果借此进军AI穿戴设备市场，但隐私与同意问题随之而来。",
+      "why_it_matters_cn": "AI穿戴设备竞争升级，常听功能引发隐私与合规讨论。",
+      "action_suggestion_cn": "关注AI穿戴设备隐私政策与竞品反应，评估相关供应链机会。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "苹果重大产品发布，市场关注度高。",
-      "frontpage_reason_cn": "消费电子行业重大事件。",
+      "editor_reason_cn": "苹果AI穿戴新品，隐私议题具争议性。",
+      "frontpage_reason_cn": "AI穿戴与隐私话题结合，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "发布会前后苹果股价可能波动。",
-        "medium_term_impact_cn": "可折叠手机市场可能加速发展。",
-        "long_term_impact_cn": "苹果产品线更新可能影响竞争对手策略。",
+        "immediate_impact_cn": "AI穿戴设备讨论升温，隐私争议浮现。",
+        "medium_term_impact_cn": "竞品跟进AI穿戴功能，监管关注度上升。",
+        "long_term_impact_cn": "常听AI设备或改变人机交互与隐私规范。",
         "affected_sectors": [
           "消费电子",
-          "供应链"
+          "AI穿戴",
+          "隐私合规"
         ],
         "affected_assets": [
-          "AAPL",
-          "相关供应链股票"
+          "苹果股票",
+          "可穿戴供应链"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "可折叠iPhone定价和配置？",
-          "对安卓阵营有何影响？"
+          "音频智能的隐私处理方式？",
+          "监管是否介入？",
+          "竞品如何应对？"
         ]
       },
       "us_market_relevance": "high",
@@ -416,2054 +431,328 @@
     },
     {
       "index": 8,
-      "title_cn": "苹果发布会前瞻：可折叠iPhone Ultra领衔",
+      "title_cn": "苹果发布首款折叠屏iPhone Duo",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "苹果9月9日发布会预计推出可折叠iPhone Ultra，还有AirPods和HomePods新品。",
-      "short_summary_cn": "TechCrunch预测苹果9月9日发布会将推出可折叠iPhone Ultra，同时可能更新AirPods和HomePods产品线。",
-      "why_it_matters_cn": "苹果产品更新影响消费电子市场趋势。",
-      "action_suggestion_cn": "关注发布会，了解具体产品规格和价格。",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果首款折叠屏iPhone Duo采用更宽形态，展开后视频比例更佳。",
+      "short_summary_cn": "苹果正式发布首款折叠屏手机iPhone Duo，采用比早期折叠屏更宽的外形设计，展开后观看视频的宽高比更佳。这标志着苹果正式进入折叠屏市场，产品形态与竞品形成差异。",
+      "why_it_matters_cn": "苹果入局折叠屏，或重塑折叠屏市场格局与供应链。",
+      "action_suggestion_cn": "关注折叠屏供应链与竞品定价策略，评估市场接受度。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "苹果新品预测，市场关注度高。",
-      "frontpage_reason_cn": "苹果发布会前瞻。",
+      "tracking_value": 8,
+      "editor_reason_cn": "苹果首款折叠屏，行业里程碑事件。",
+      "frontpage_reason_cn": "折叠屏iPhone首秀，全球关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "市场预期可能影响苹果股价。",
-        "medium_term_impact_cn": "新品发布可能带动相关配件市场。",
-        "long_term_impact_cn": "苹果产品创新影响行业方向。",
+        "immediate_impact_cn": "折叠屏概念股与供应链短线活跃。",
+        "medium_term_impact_cn": "折叠屏市场竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "苹果折叠屏或推动折叠形态成为主流。",
         "affected_sectors": [
           "消费电子",
-          "可穿戴设备"
+          "折叠屏供应链",
+          "显示面板"
         ],
         "affected_assets": [
-          "AAPL",
-          "相关供应链股票"
+          "苹果股票",
+          "折叠屏供应链",
+          "面板厂商"
         ],
-        "us_stock_relevance": "high",
+        "us_stock_relevance": "very_high",
         "market_sentiment": "risk_on",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "AirPods和HomePods有何更新？",
-          "可折叠iPhone Ultra价格如何？"
+          "iPhone Duo定价？",
+          "铰链与屏幕供应商？",
+          "销量预期？"
         ]
       },
-      "us_market_relevance": "high",
-      "is_recent": false,
+      "us_market_relevance": "very_high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 8
     }
   ],
   "anime_event_highlights": [
     {
-      "index": 4,
-      "title_cn": "Geek Pictures公布印日合作魔法少女动画",
+      "index": 3,
+      "title_cn": "SE公布FF7启示录预告及CC重制版",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "东京Geek Pictures印度子公司制作印日合作魔法少女动画《Panchsheela》。",
-      "short_summary_cn": "Geek Pictures宣布其印度子公司将制作一部印度与日本合作的魔法少女动画《Panchsheela》。该项目展示了跨国IP合作的趋势。",
-      "why_it_matters_cn": "显示动漫产业跨国合作趋势，可能带来新的文化融合和市场机会。",
-      "action_suggestion_cn": "关注该项目后续信息，评估对印度和日本动漫市场的影响。",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Square Enix公布《最终幻想VII 启示录》预告，并宣布《核心危机》重制版登陆Switch 2。",
+      "short_summary_cn": "Square Enix公开《最终幻想VII Revelation》游戏预告片，同时宣布《Crisis Core: Final Fantasy VII Reunion》重制版将登陆Switch 2，且于公布当日同步发售。FF7系列持续扩展，覆盖新作与重制。",
+      "why_it_matters_cn": "FF7 IP持续扩张，Switch 2首发阵容增强，粉丝与收藏者关注度高。",
+      "action_suggestion_cn": "关注官方发售渠道，Switch 2版本可留意首发特典与限定版信息。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "跨国动漫合作项目，具有市场和文化意义。",
-      "frontpage_reason_cn": "动漫产业新动向，值得关注。",
+      "editor_reason_cn": "FF7系列重大新作与重制消息，IP价值高。",
+      "frontpage_reason_cn": "知名游戏IP新作与Switch 2首发，玩家关注度高。",
       "anime_event_detail": {
-        "event_type": "动漫企划",
-        "ip_or_work_title": "Panchsheela",
+        "event_type": "游戏新作公布/重制版发售",
+        "ip_or_work_title": "最终幻想VII Revelation / Crisis Core: Final Fantasy VII Reunion",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注后续制作和播出信息"
-      },
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 23,
-      "title_cn": "Hololive VTuber机构启动首个TV动画项目",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "Hololive VTuber机构与Studio Kai合作推出首个TV动画项目“Odeholo”。",
-      "short_summary_cn": "Hololive VTuber机构宣布启动首个TV动画项目，由Studio Kai制作，作为Hololive十周年庆祝活动的一部分。",
-      "why_it_matters_cn": "VTuber文化进军传统动画领域，可能拓展IP影响力。",
-      "action_suggestion_cn": "关注动画制作和播出信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 4,
-      "tracking_value": 7,
-      "editor_reason_cn": "VTuber与动画产业融合趋势。",
-      "frontpage_reason_cn": "VTuber文化新动向。",
-      "anime_event_detail": {
-        "event_type": "动画企划",
-        "ip_or_work_title": "Odeholo",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "高",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注动画播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 25,
-      "title_cn": "Junket Bank TV动画延期播出",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "TV动画《Junket Bank》原定10月首播，现宣布延期。",
-      "short_summary_cn": "TV动画《Junket Bank》宣布原定于10月的首播时间被推迟。具体原因和新的播出时间尚未公布。",
-      "why_it_matters_cn": "动画延期影响粉丝期待和制作方计划。",
-      "action_suggestion_cn": "关注官方后续公告。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画延期新闻。",
-      "frontpage_reason_cn": "动画播出变动。",
-      "anime_event_detail": {
-        "event_type": "动画延期",
-        "ip_or_work_title": "Junket Bank",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注新播出时间"
-      },
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 26,
-      "title_cn": "《街头霸王6》DLC角色Arjun 10月13日上线",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "merch_release",
-      "news_type": "anime_event",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "《街头霸王6》DLC角色Arjun将于10月13日发布，战斗通行证同步开始。",
-      "short_summary_cn": "《街头霸王6》官方发布了新视频，透露DLC角色Arjun将于10月13日上线。Arjun的战斗通行证将于周二开始。",
-      "why_it_matters_cn": "游戏DLC发布，对玩家和电竞市场有影响。",
-      "action_suggestion_cn": "关注游戏更新和战斗通行证内容。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "热门游戏DLC发布。",
-      "frontpage_reason_cn": "游戏内容更新。",
-      "anime_event_detail": {
-        "event_type": "游戏DLC",
-        "ip_or_work_title": "街头霸王6",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2026-10-13",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "中",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注游戏内更新"
-      },
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 24,
-      "title_cn": "Naoki Azuma推出攻壳机动队世界观新漫画",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "manga_signing_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Naoki Azuma在攻壳机动队世界观下推出新漫画《Glitch Witch》。",
-      "short_summary_cn": "漫画家Naoki Azuma推出了设定在攻壳机动队世界中的新漫画《Glitch Witch》，士郎正宗负责原案。该漫画于周三开始连载。",
-      "why_it_matters_cn": "经典IP新作，可能吸引攻壳机动队粉丝。",
-      "action_suggestion_cn": "关注漫画连载平台和单行本发售信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "经典IP新漫画作品。",
-      "frontpage_reason_cn": "攻壳机动队新作发布。",
-      "anime_event_detail": {
-        "event_type": "漫画连载",
-        "ip_or_work_title": "Glitch Witch",
-        "person_name": "Naoki Azuma",
-        "role": "作者",
         "event_date": "2026-09-09",
         "event_time": "未知",
-        "venue": "未知",
+        "venue": "线上公布",
         "city": "未知",
-        "country": "未知",
+        "country": "日本",
         "ticket_method": "未知",
         "application_period": "未知",
         "lottery_or_first_come": "未知",
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注连载平台"
+        "official_source": "Square Enix / Anime News Network",
+        "urgency_level": "中",
+        "collector_value": "高",
+        "travel_feasibility": "不适用",
+        "action_needed_cn": "关注Square Enix官方渠道，留意Switch 2版本发售与特典信息。"
       },
       "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 27,
-      "title_cn": "《钻石王牌Act II》第二季第二部分公布新声优",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《钻石王牌Act II》第二季第二部分新增声优Daisuke Sakuma，10月11日开播。",
-      "short_summary_cn": "《钻石王牌Act II》第二季第二部分宣布新增声优Daisuke Sakuma，他将为Shinichiro Saotome配音。该部分将于10月11日首播。",
-      "why_it_matters_cn": "热门体育动画新声优加入，影响粉丝期待。",
-      "action_suggestion_cn": "关注动画播出和声优信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画新声优公布。",
-      "frontpage_reason_cn": "动画新动态。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "钻石王牌Act II",
-        "person_name": "Daisuke Sakuma",
-        "role": "声优",
-        "event_date": "2026-10-11",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 28,
-      "title_cn": "《Nia Liston》动画第二弹PV公开追加声优",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《Nia Liston: The Merciless Maiden》动画追加多名声优，10月6日开播。",
-      "short_summary_cn": "《Nia Liston: The Merciless Maiden》动画的第二段视频公布了更多声优阵容，包括Kōichi Sakaguchi、Junichi Suwabe、Maaya Uchida和Kazuyuki Okitsu。该动画将于10月6日播出，为期半年。",
-      "why_it_matters_cn": "动画声优阵容强大，可能吸引更多观众。",
-      "action_suggestion_cn": "关注动画播出和声优活动。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画声优阵容公布。",
-      "frontpage_reason_cn": "动画新情报。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "Nia Liston: The Merciless Maiden",
-        "person_name": "Kōichi Sakaguchi, Junichi Suwabe, Maaya Uchida, Kazuyuki Okitsu",
-        "role": "声优",
-        "event_date": "2026-10-06",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 29,
-      "title_cn": "《Magic Repo Man》动画第二弹预告公开追加声优",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《Magic Repo Man》动画第二弹英文字幕预告公布新声优和主题曲。",
-      "short_summary_cn": "《Magic Repo Man》动画发布了第二段英文字幕预告，揭示了更多声优阵容和主题曲信息。Daisuke Namikawa将加入10月4日播出的系列。",
-      "why_it_matters_cn": "动画新预告和声优信息，影响粉丝期待。",
-      "action_suggestion_cn": "关注动画播出和主题曲信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画新预告发布。",
-      "frontpage_reason_cn": "动画新情报。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "Magic Repo Man",
-        "person_name": "Daisuke Namikawa",
-        "role": "声优",
-        "event_date": "2026-10-04",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 30,
-      "title_cn": "《The World is Dancing》动画追加岛崎信长",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《The World is Dancing》动画追加声优岛崎信长，为主角Oniyasha青年期配音。",
-      "short_summary_cn": "动画《The World is Dancing》宣布追加声优Nobunaga Shimazaki，他将为主角Oniyasha的青年时期配音。",
-      "why_it_matters_cn": "知名声优加入，可能提升动画关注度。",
-      "action_suggestion_cn": "关注动画播出信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画声优追加。",
-      "frontpage_reason_cn": "动画新情报。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "The World is Dancing",
-        "person_name": "Nobunaga Shimazaki",
-        "role": "声优",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
+      "is_old_context": false,
+      "frontpage_rank": 3
     }
   ],
   "ai_tech_highlights": [
     {
       "index": 1,
-      "title_cn": "谷歌云与埃森哲合作加速企业AI部署",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
+      "title_cn": "GPT-5.6 Sol助力量子计算实验",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌云与埃森哲达成合作，通过派驻工程师推动企业AI采用，以追赶竞争对手。",
-      "short_summary_cn": "谷歌云宣布与埃森哲合作，扩大企业AI业务。合作重点在于派遣前部署工程师，帮助企业克服AI部署瓶颈。此举旨在加速AI技术在企业中的实际应用。",
-      "why_it_matters_cn": "显示谷歌云在AI部署领域的竞争策略，对企业和云服务市场格局有影响。",
-      "action_suggestion_cn": "关注谷歌云企业AI服务动态，评估对相关云服务商竞争格局的影响。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
+      "short_summary_cn": "OpenAI发布案例，展示MIT研究员如何利用GPT-5.6 Sol配合Codex自主运行量子计算实验、分析结果并校准量子比特。这标志着AI代理在尖端科研自动化领域迈出重要一步。",
+      "why_it_matters_cn": "AI代理进入量子计算等前沿科研场景，可能大幅加速实验迭代与科研效率。",
+      "action_suggestion_cn": "关注OpenAI官方博客原文，评估AI代理在自身科研或工程流程中的可迁移性。",
       "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 8,
-      "editor_reason_cn": "谷歌云重大战略合作，影响AI产业格局。",
-      "frontpage_reason_cn": "AI产业重大动态，值得关注。",
+      "editor_reason_cn": "AI代理自主科研的标杆案例，重要性极高。",
+      "frontpage_reason_cn": "AI+量子计算双重前沿，适合头条。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能推动谷歌云股价短期上涨，市场关注AI部署领域竞争。",
-        "medium_term_impact_cn": "企业AI部署服务市场可能加速增长，影响相关云服务商市场份额。",
-        "long_term_impact_cn": "AI部署服务可能成为云服务商竞争的关键领域。",
+        "immediate_impact_cn": "引发AI科研自动化讨论，量子计算与AI交叉领域关注度上升。",
+        "medium_term_impact_cn": "更多实验室尝试AI代理辅助实验，科研工具链或迎更新。",
+        "long_term_impact_cn": "AI自主科研或重塑实验科学范式，加速量子计算等硬科技突破。",
         "affected_sectors": [
-          "云计算",
-          "企业服务",
-          "AI"
+          "AI",
+          "量子计算",
+          "科研自动化",
+          "半导体"
         ],
         "affected_assets": [
-          "GOOGL",
-          "ACN",
-          "MSFT",
-          "AMZN"
+          "OpenAI相关概念",
+          "量子计算概念股",
+          "AI芯片"
         ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "sector_rotation",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
         "risk_level": "medium",
         "follow_up_questions": [
-          "合作具体条款和规模如何？",
-          "对竞争对手AWS和Azure有何影响？"
+          "GPT-5.6 Sol的具体能力边界？",
+          "Codex在实验中的自主程度？",
+          "是否可复现于其他科研领域？"
         ]
       },
-      "us_market_relevance": "high",
-      "is_recent": true,
+      "us_market_relevance": "medium",
+      "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 1
     },
     {
-      "index": 3,
-      "title_cn": "GPT-5.6 Sol助力量子计算实验自动化",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "MIT研究员使用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
-      "short_summary_cn": "OpenAI博客展示了MIT研究员如何利用GPT-5.6 Sol和Codex自动运行量子计算实验，包括分析结果和校准量子比特。这展示了AI在科研自动化领域的应用潜力。",
-      "why_it_matters_cn": "AI与量子计算结合，可能加速科研进程，对科技发展有深远影响。",
-      "action_suggestion_cn": "关注AI在科研领域的应用案例，评估对科研工具市场的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI前沿应用，展示技术突破。",
-      "frontpage_reason_cn": "AI与量子计算交叉领域重大进展。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能提升OpenAI在科研AI领域的声誉。",
-        "medium_term_impact_cn": "AI辅助科研工具需求可能增加。",
-        "long_term_impact_cn": "AI可能成为量子计算研究的关键工具。",
-        "affected_sectors": [
-          "AI",
-          "量子计算",
-          "科研服务"
-        ],
-        "affected_assets": [
-          "OpenAI相关",
-          "量子计算概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "GPT-5.6 Sol的科研应用范围？",
-          "量子计算商业化进程如何？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 5,
-      "title_cn": "AI创业者开发可预判意外的智能体",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Danijar Hafner的初创公司正在开发能提前规划应对意外情况的AI智能体。",
-      "short_summary_cn": "MIT Technology Review报道了AI研究员Danijar Hafner的初创公司，该公司正在开发能够提前规划并应对意外情况的AI智能体。公司目前处于隐身模式。",
-      "why_it_matters_cn": "AI智能体能力提升，可能影响自动化决策和机器人领域。",
-      "action_suggestion_cn": "关注该初创公司技术进展，评估对AI智能体市场的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI前沿研究，具有潜在颠覆性。",
-      "frontpage_reason_cn": "AI智能体技术新突破。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能引发AI研究社区关注。",
-        "medium_term_impact_cn": "AI智能体在复杂环境中的应用可能增加。",
-        "long_term_impact_cn": "可能推动自主AI系统发展。",
-        "affected_sectors": [
-          "AI",
-          "机器人",
-          "自动化"
-        ],
-        "affected_assets": [
-          "AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "该技术何时商业化？",
-          "与现有AI智能体有何不同？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
-      "title_cn": "下载：寻找地下氢与更多OpenAI智能体",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "本期下载涵盖地下氢能源勘探和OpenAI智能体新动态。",
-      "short_summary_cn": "MIT Technology Review的每日通讯介绍了地下氢能源的勘探进展，以及关于OpenAI智能体的最新消息。",
-      "why_it_matters_cn": "涵盖能源和AI两大领域，提供综合信息。",
-      "action_suggestion_cn": "阅读全文了解地下氢和OpenAI智能体的具体进展。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "综合科技新闻，信息量大。",
-      "frontpage_reason_cn": "科技领域综合动态。",
-      "impact_analysis": {
-        "immediate_impact_cn": "无直接影响。",
-        "medium_term_impact_cn": "地下氢能源可能成为新投资方向。",
-        "long_term_impact_cn": "清洁能源结构可能变化。",
-        "affected_sectors": [
-          "能源",
-          "AI"
-        ],
-        "affected_assets": [
-          "氢能源概念股",
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "地下氢勘探的商业化前景？",
-          "OpenAI智能体有何新进展？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 6
-    },
-    {
-      "index": 7,
-      "title_cn": "如何观看苹果可折叠iPhone发布会",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "苹果年度iPhone发布会将于9月9日直播，预计发布可折叠iPhone。",
-      "short_summary_cn": "苹果年度iPhone发布会将于9月9日上午10点PDT直播。预计将发布可折叠iPhone等新品。",
-      "why_it_matters_cn": "苹果新品发布影响消费电子市场和相关供应链。",
-      "action_suggestion_cn": "关注发布会直播，了解新品详情。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "苹果重大产品发布，市场关注度高。",
-      "frontpage_reason_cn": "消费电子行业重大事件。",
-      "impact_analysis": {
-        "immediate_impact_cn": "发布会前后苹果股价可能波动。",
-        "medium_term_impact_cn": "可折叠手机市场可能加速发展。",
-        "long_term_impact_cn": "苹果产品线更新可能影响竞争对手策略。",
-        "affected_sectors": [
-          "消费电子",
-          "供应链"
-        ],
-        "affected_assets": [
-          "AAPL",
-          "相关供应链股票"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "可折叠iPhone定价和配置？",
-          "对安卓阵营有何影响？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 7
-    },
-    {
-      "index": 8,
-      "title_cn": "苹果发布会前瞻：可折叠iPhone Ultra领衔",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "苹果9月9日发布会预计推出可折叠iPhone Ultra，还有AirPods和HomePods新品。",
-      "short_summary_cn": "TechCrunch预测苹果9月9日发布会将推出可折叠iPhone Ultra，同时可能更新AirPods和HomePods产品线。",
-      "why_it_matters_cn": "苹果产品更新影响消费电子市场趋势。",
-      "action_suggestion_cn": "关注发布会，了解具体产品规格和价格。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "苹果新品预测，市场关注度高。",
-      "frontpage_reason_cn": "苹果发布会前瞻。",
-      "impact_analysis": {
-        "immediate_impact_cn": "市场预期可能影响苹果股价。",
-        "medium_term_impact_cn": "新品发布可能带动相关配件市场。",
-        "long_term_impact_cn": "苹果产品创新影响行业方向。",
-        "affected_sectors": [
-          "消费电子",
-          "可穿戴设备"
-        ],
-        "affected_assets": [
-          "AAPL",
-          "相关供应链股票"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "AirPods和HomePods有何更新？",
-          "可折叠iPhone Ultra价格如何？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 8
-    },
-    {
-      "index": 11,
-      "title_cn": "德国公司首发欧洲商业轨道火箭",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-06",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "德国公司成为欧洲首家成功发射全商业轨道火箭的企业。",
-      "short_summary_cn": "一家德国公司成功发射了欧洲首枚全商业轨道火箭，标志着欧洲商业航天的新里程碑。该公司表示在几年内取得了欧洲航天工业几十年的成就。",
-      "why_it_matters_cn": "欧洲商业航天发展的重要一步，可能改变全球航天竞争格局。",
-      "action_suggestion_cn": "关注该公司后续发射计划和技术细节。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "欧洲航天里程碑事件。",
-      "frontpage_reason_cn": "商业航天重大进展。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能提振欧洲航天概念股。",
-        "medium_term_impact_cn": "欧洲商业发射市场可能增长。",
-        "long_term_impact_cn": "全球航天发射市场竞争可能加剧。",
-        "affected_sectors": [
-          "航天",
-          "科技"
-        ],
-        "affected_assets": [
-          "航天概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "公司名称？",
-          "火箭运载能力如何？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 14,
-      "title_cn": "白宫下架“建墙”游戏因俄罗斯方块公司投诉",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "白宫短暂上线的“建墙”游戏因俄罗斯方块公司版权投诉被下架。",
-      "short_summary_cn": "特朗普政府短暂上线的街机游戏“建墙”因俄罗斯方块公司投诉版权侵权而被下架。",
-      "why_it_matters_cn": "显示政治宣传与版权法律的冲突。",
-      "action_suggestion_cn": "关注事件后续发展。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "政治与版权交叉事件。",
-      "frontpage_reason_cn": "政治娱乐化新闻。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能成为政治话题。",
-        "medium_term_impact_cn": "无重大影响。",
-        "long_term_impact_cn": "无重大影响。",
-        "affected_sectors": [
-          "政治",
-          "游戏"
-        ],
-        "affected_assets": [
-          "无直接影响"
-        ],
-        "us_stock_relevance": "none",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "白宫会重新上线修改版吗？"
-        ]
-      },
-      "us_market_relevance": "none",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 15,
-      "title_cn": "黑客窃取订阅用户的Claude令牌",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "黑客正在窃取Claude订阅用户的令牌，Anthropic已发出警告。",
-      "short_summary_cn": "有Claude用户发现账户在未使用时消耗令牌，Anthropic已警告用户注意黑客窃取令牌的行为。",
-      "why_it_matters_cn": "AI服务安全问题凸显，影响用户信任和平台安全。",
-      "action_suggestion_cn": "Claude用户应检查账户安全，启用双重验证。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI安全事件，用户需警惕。",
-      "frontpage_reason_cn": "AI服务安全警示。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响Anthropic用户信任。",
-        "medium_term_impact_cn": "AI服务商可能加强安全措施。",
-        "long_term_impact_cn": "AI安全市场可能增长。",
-        "affected_sectors": [
-          "AI",
-          "网络安全"
-        ],
-        "affected_assets": [
-          "Anthropic相关",
-          "网络安全股票"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "黑客如何窃取令牌？",
-          "Anthropic如何应对？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 16,
-      "title_cn": "Meta推出Muse AI智能体，消费者会信任吗？",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Meta发布个人AI智能体Muse，需访问用户数据，考验消费者信任。",
-      "short_summary_cn": "Meta推出新的个人AI智能体Muse，需要访问用户的电子邮件、日历、支付和健康服务等数据。这是Meta最大的消费者AI押注，也是对用户信任的考验。",
-      "why_it_matters_cn": "Meta在AI领域的重大举措，涉及用户隐私和数据信任问题。",
-      "action_suggestion_cn": "关注Muse的隐私政策和用户反馈。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "Meta重大AI产品发布。",
-      "frontpage_reason_cn": "AI产品与隐私问题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响Meta股价和用户信任。",
-        "medium_term_impact_cn": "AI智能体市场竞争可能加剧。",
-        "long_term_impact_cn": "用户数据隐私问题可能成为AI发展的关键。",
-        "affected_sectors": [
-          "AI",
-          "社交媒体",
-          "科技"
-        ],
-        "affected_assets": [
-          "META",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "Muse的隐私政策如何？",
-          "与竞争对手相比有何优势？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 17,
-      "title_cn": "NYU数学家称OpenAI在数学问题上“手段肮脏”",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "NYU数学家指责OpenAI在解决Navier-Stokes问题竞赛中采取不正当手段。",
-      "short_summary_cn": "一位NYU数学家指责OpenAI在解决Navier-Stokes存在性和光滑性问题（悬赏100万美元）的竞赛中“手段肮脏”。",
-      "why_it_matters_cn": "涉及AI研究伦理和学术竞争。",
-      "action_suggestion_cn": "关注事件详情和OpenAI的回应。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "AI研究伦理争议。",
-      "frontpage_reason_cn": "AI学术争议事件。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响OpenAI声誉。",
-        "medium_term_impact_cn": "AI研究竞赛规则可能受到审视。",
-        "long_term_impact_cn": "可能影响AI在数学研究中的应用。",
-        "affected_sectors": [
-          "AI",
-          "学术界"
-        ],
-        "affected_assets": [
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "OpenAI具体做了什么？",
-          "竞赛结果如何？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 18,
-      "title_cn": "OpenAI提供500万美元资助AI与青少年发展研究",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "OpenAI启动500万美元资助计划，支持生成式AI对青少年发展影响的独立研究。",
-      "short_summary_cn": "OpenAI宣布启动一项500万美元的资助计划，支持关于生成式AI如何影响青少年发展、福祉和安全性的独立研究。",
-      "why_it_matters_cn": "显示OpenAI对AI社会影响的关注，可能影响AI监管和产品设计。",
-      "action_suggestion_cn": "关注资助申请条件和研究方向。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "OpenAI社会责任举措。",
-      "frontpage_reason_cn": "AI社会影响研究资助。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能提升OpenAI企业形象。",
-        "medium_term_impact_cn": "AI对青少年影响研究可能增加。",
-        "long_term_impact_cn": "可能影响AI产品对青少年的设计。",
-        "affected_sectors": [
-          "AI",
-          "教育",
-          "研究"
-        ],
-        "affected_assets": [
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "资助申请条件？",
-          "研究结果何时公布？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 19,
-      "title_cn": "ATV Big Air Tour用ChatGPT将3天工作缩至3小时",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-02",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ATV Big Air Tour使用ChatGPT Work加速营销和商品化，大幅提升效率。",
-      "short_summary_cn": "ATV Big Air Tour使用ChatGPT Work来加速营销、商品化等工作，甚至将商品照片转化为库存网站仅用15分钟。",
-      "why_it_matters_cn": "展示AI在商业运营中的实际效率提升案例。",
-      "action_suggestion_cn": "关注ChatGPT Work在商业中的应用案例。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI商业应用案例。",
-      "frontpage_reason_cn": "AI提升商业效率实例。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能吸引更多企业使用ChatGPT Work。",
-        "medium_term_impact_cn": "AI在营销和商品化中的应用可能增加。",
-        "long_term_impact_cn": "AI可能改变企业运营模式。",
-        "affected_sectors": [
-          "AI",
-          "营销",
-          "电商"
-        ],
-        "affected_assets": [
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "ChatGPT Work的定价？",
-          "其他企业如何使用？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 20,
-      "title_cn": "ChatGPT可连接电子健康记录和行业数据",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-01",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT现可连接可信医疗数据，帮助临床医生安全访问患者背景和研究。",
-      "short_summary_cn": "OpenAI宣布ChatGPT现在可以连接可信的医疗数据源，帮助临床医生安全地访问患者背景、医学研究等信息。",
-      "why_it_matters_cn": "AI在医疗领域的应用扩展，可能改善临床工作流程。",
-      "action_suggestion_cn": "关注医疗AI应用的安全性和合规性。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI医疗应用重要进展。",
-      "frontpage_reason_cn": "AI在医疗领域的新应用。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能引起医疗AI领域关注。",
-        "medium_term_impact_cn": "医疗AI应用可能加速。",
-        "long_term_impact_cn": "AI可能改变医疗信息管理。",
-        "affected_sectors": [
-          "医疗",
-          "AI"
-        ],
-        "affected_assets": [
-          "医疗AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "数据安全如何保障？",
-          "哪些医疗机构已在使用？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 21,
-      "title_cn": "研究：ChatGPT与批判性思维训练对学生表现的影响",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-08-27",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "随机研究显示ChatGPT和批判性思维训练可提升学生原创性和表现。",
-      "short_summary_cn": "一项针对1000多名学生的随机研究，考察了ChatGPT、批判性思维、原创性和学生在真实大学作业中的表现。",
-      "why_it_matters_cn": "为AI在教育中的应用提供实证依据。",
-      "action_suggestion_cn": "关注研究详细结果，评估AI教育工具效果。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI教育研究重要发现。",
-      "frontpage_reason_cn": "AI在教育领域的效果研究。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响教育机构对AI的态度。",
-        "medium_term_impact_cn": "AI教育工具需求可能增加。",
-        "long_term_impact_cn": "AI可能成为教育标配工具。",
-        "affected_sectors": [
-          "教育",
-          "AI"
-        ],
-        "affected_assets": [
-          "教育科技股"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "研究具体结论？",
-          "对教育政策有何影响？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    }
-  ],
-  "politics_highlights": [
-    {
-      "index": 2,
-      "title_cn": "谷歌重启核电站获美国政府19亿美元贷款",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "politics_world",
-      "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "谷歌参与的爱荷华州核电站重启项目获美国能源部19亿美元贷款支持。",
-      "short_summary_cn": "谷歌宣布将重启爱荷华州一座核电站，该核电站所有者已获得美国能源部19亿美元贷款。此举显示谷歌在清洁能源领域的重大投资。",
-      "why_it_matters_cn": "结合AI与能源政策，显示科技巨头在能源领域的布局，影响能源政策和科技公司战略。",
-      "action_suggestion_cn": "关注核能政策动向及谷歌能源投资对科技股的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "科技与能源政策交叉重大事件。",
-      "frontpage_reason_cn": "涉及科技巨头和政府政策，影响广泛。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能提振核能相关股票，市场关注清洁能源政策。",
-        "medium_term_impact_cn": "科技公司参与核能项目可能增加，影响能源市场结构。",
-        "long_term_impact_cn": "AI数据中心能源需求可能推动核能复兴。",
-        "affected_sectors": [
-          "能源",
-          "科技",
-          "公用事业"
-        ],
-        "affected_assets": [
-          "GOOGL",
-          "核能ETF",
-          "铀矿股"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "核电站重启时间表？",
-          "对谷歌碳排放目标有何影响？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 9,
-      "title_cn": "最高法院强制电视台低价出售选举广告",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "美国最高法院裁决，电视台必须以最低价格向政党出售选举广告。",
-      "short_summary_cn": "美国最高法院作出裁决，要求电视台以最低广告价格向政党提供选举广告时段。这一裁决被视为共和党的胜利。",
-      "why_it_matters_cn": "影响美国选举广告市场和媒体政治生态。",
-      "action_suggestion_cn": "关注裁决对选举广告市场的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "美国政治和媒体政策重大变化。",
-      "frontpage_reason_cn": "影响美国选举和媒体行业。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响电视台广告收入。",
-        "medium_term_impact_cn": "政党广告投放成本可能降低。",
-        "long_term_impact_cn": "可能改变选举广告市场格局。",
-        "affected_sectors": [
-          "媒体",
-          "政治"
-        ],
-        "affected_assets": [
-          "电视台股票"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "裁决具体内容？",
-          "对电视台收入影响多大？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 10,
-      "title_cn": "谷歌称欧盟规定导致旅行搜索结果降级",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "politics_world",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌表示遵守欧盟旅行搜索规定导致搜索结果质量下降。",
-      "short_summary_cn": "谷歌表示，为了遵守欧盟的反竞争规定，其旅行搜索结果质量有所下降。这显示了科技公司与监管机构之间的持续紧张关系。",
-      "why_it_matters_cn": "反映科技监管对用户体验和公司策略的影响。",
-      "action_suggestion_cn": "关注欧盟对科技公司的监管动态。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "科技监管重要案例。",
-      "frontpage_reason_cn": "科技公司与监管机构冲突。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响谷歌在欧洲的用户满意度。",
-        "medium_term_impact_cn": "其他科技公司可能面临类似监管压力。",
-        "long_term_impact_cn": "科技监管可能重塑搜索市场。",
-        "affected_sectors": [
-          "科技",
-          "在线旅游"
-        ],
-        "affected_assets": [
-          "GOOGL",
-          "旅游搜索公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "欧盟具体规定是什么？",
-          "谷歌会如何应对？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 12,
-      "title_cn": "英国制裁约旦河西岸定居点引发以色列强烈反应",
-      "source": "BBC News",
-      "source_display_name": "BBC News",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "英国宣布制裁约旦河西岸定居点，以色列关闭英国驻东耶路撒冷领事馆回应。",
-      "short_summary_cn": "英国外交大臣指责定居者实施“种族清洗”，并宣布制裁约旦河西岸定居点。以色列对此作出强烈反应，关闭了英国驻东耶路撒冷领事馆。",
-      "why_it_matters_cn": "国际政治紧张局势升级，影响中东和平进程和外交关系。",
-      "action_suggestion_cn": "关注事态发展，评估对国际关系和地区稳定的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "重大国际政治事件。",
-      "frontpage_reason_cn": "国际关系紧张升级。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响英镑和以色列谢克尔汇率。",
-        "medium_term_impact_cn": "中东和平进程可能受阻。",
-        "long_term_impact_cn": "国际社会对以色列政策可能更趋强硬。",
-        "affected_sectors": [
-          "外交",
-          "地缘政治"
-        ],
-        "affected_assets": [
-          "英镑",
-          "以色列资产"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
-        "follow_up_questions": [
-          "制裁具体内容？",
-          "其他国家会跟进吗？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 13,
-      "title_cn": "报告警告数千名青少年教育缺失未被官方统计",
-      "source": "BBC News",
-      "source_display_name": "BBC News",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "英国儿童专员报告称，数千名青少年虽注册学院但未实际到课，教育缺失未被统计。",
-      "short_summary_cn": "英国儿童专员警告，数千名青少年虽然注册了学院，但并未实际到课，这些教育缺失情况未被官方统计覆盖。",
-      "why_it_matters_cn": "反映教育系统漏洞，可能影响青少年发展和政策制定。",
-      "action_suggestion_cn": "关注英国教育政策动态。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "社会政策重要问题。",
-      "frontpage_reason_cn": "教育问题社会关注度高。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能引发英国国内政策讨论。",
-        "medium_term_impact_cn": "教育政策可能调整。",
-        "long_term_impact_cn": "影响英国青少年人力资本发展。",
-        "affected_sectors": [
-          "教育",
-          "公共政策"
-        ],
-        "affected_assets": [
-          "无直接影响"
-        ],
-        "us_stock_relevance": "none",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "具体有多少青少年受影响？",
-          "政府将采取什么措施？"
-        ]
-      },
-      "us_market_relevance": "none",
-      "is_recent": true,
-      "is_old_context": false
-    }
-  ],
-  "us_market_impact": {
-    "overall_market_tone": "positive",
-    "summary_cn": "AI商业化合作、政府支持清洁能源及苹果发布会预期共同提振市场情绪，科技股或领涨。",
-    "index_impact": {
-      "nasdaq": "上涨概率大，受苹果、谷歌等科技股带动。",
-      "sp500": "温和上涨，科技权重支撑。",
-      "russell2000": "中性，缺乏小盘股催化剂。"
-    },
-    "sector_impacts": [
-      {
-        "sector": "科技",
-        "direction": "up",
-        "reason_cn": "谷歌云合作、苹果发布会预期、AI进展密集。",
-        "related_news": "谷歌云与埃森哲合作；苹果发布会前瞻",
-        "possible_tickers": "GOOGL, AAPL, MSFT"
-      },
-      {
-        "sector": "清洁能源",
-        "direction": "up",
-        "reason_cn": "谷歌核电站获政府贷款，显示科技巨头投资清洁能源。",
-        "related_news": "谷歌重启核电站获美国政府19亿美元贷款",
-        "possible_tickers": "GEV, SMR, OKLO"
-      },
-      {
-        "sector": "媒体",
-        "direction": "mixed",
-        "reason_cn": "最高法院选举广告裁决可能影响电视台收入，但谷歌搜索降级或影响流量。",
-        "related_news": "最高法院强制电视台低价出售选举广告；谷歌称欧盟规定导致旅行搜索结果降级",
-        "possible_tickers": "DIS, CMCSA, GOOGL"
-      }
-    ],
-    "theme_impacts": [
-      {
-        "theme": "AI商业化",
-        "direction": "up",
-        "reason_cn": "谷歌云与埃森哲合作、ChatGPT医疗连接等推动AI落地。",
-        "watch_tickers": "GOOGL, ACN, MSFT"
-      },
-      {
-        "theme": "苹果发布会",
-        "direction": "up",
-        "reason_cn": "可折叠iPhone预期带动消费电子链。",
-        "watch_tickers": "AAPL, QCOM, TSM"
-      },
-      {
-        "theme": "AI安全",
-        "direction": "down",
-        "reason_cn": "Claude令牌泄露事件引发担忧，可能影响AI采用。",
-        "watch_tickers": "ANTH (未上市), META"
-      }
-    ],
-    "risk_factors": [
-      "苹果发布会预期过高，若不及预期可能引发回调。",
-      "AI安全事件可能引发监管收紧。",
-      "政治事件如英国制裁以色列可能引发地缘风险。"
-    ],
-    "follow_up_events": [
-      {
-        "event_name": "苹果9月9日发布会",
-        "expected_date": "2025-09-09",
-        "why_watch_cn": "可折叠iPhone等新品发布，影响消费电子链。",
-        "market_relevance_cn": "高，可能引发科技股波动。"
-      },
-      {
-        "event_name": "谷歌核电站重启进展",
-        "expected_date": "待定",
-        "why_watch_cn": "涉及清洁能源与科技巨头投资，关注监管审批。",
-        "market_relevance_cn": "中，影响清洁能源板块。"
-      },
-      {
-        "event_name": "Meta Muse AI智能体用户反馈",
-        "expected_date": "待定",
-        "why_watch_cn": "数据隐私问题可能引发监管关注。",
-        "market_relevance_cn": "中，影响Meta及AI行业。"
-      }
-    ]
-  },
-  "future_watchlist": [
-    {
-      "title": "苹果9月9日发布会",
-      "category": "科技",
-      "expected_date": "2025-09-09",
-      "why_watch_cn": "可折叠iPhone Ultra等新品发布，影响消费电子趋势。",
-      "market_relevance_cn": "高，可能带动AAPL及供应链股。",
-      "anime_relevance_cn": "低",
-      "urgency": "high",
-      "created_at": "2026-09-09",
-      "updated_at": "2026-09-09",
-      "status": "expired"
-    },
-    {
-      "title": "谷歌核电站重启项目",
-      "category": "能源",
-      "expected_date": "待定",
-      "why_watch_cn": "政府贷款支持，关注建设进度及监管。",
-      "market_relevance_cn": "中高，影响清洁能源板块。",
-      "anime_relevance_cn": "低",
-      "urgency": "medium",
-      "created_at": "2026-09-09",
-      "updated_at": "2026-09-09",
-      "status": "active"
-    },
-    {
-      "title": "Meta Muse AI智能体",
-      "category": "AI",
-      "expected_date": "待定",
-      "why_watch_cn": "消费者信任与数据隐私问题。",
-      "market_relevance_cn": "中，影响Meta及AI行业。",
-      "anime_relevance_cn": "低",
-      "urgency": "medium",
-      "created_at": "2026-09-09",
-      "updated_at": "2026-09-09",
-      "status": "active"
-    },
-    {
-      "title": "OpenAI Claude令牌泄露事件",
-      "category": "AI安全",
-      "expected_date": "待定",
-      "why_watch_cn": "影响AI服务安全性及用户信任。",
-      "market_relevance_cn": "中，可能引发监管讨论。",
-      "anime_relevance_cn": "低",
-      "urgency": "high",
-      "created_at": "2026-09-09",
-      "updated_at": "2026-09-09",
-      "status": "active"
-    },
-    {
-      "title": "《Junket Bank》动画延期",
-      "category": "动漫",
-      "expected_date": "待定",
-      "why_watch_cn": "延期原因及新档期公布。",
-      "market_relevance_cn": "低",
-      "anime_relevance_cn": "中，影响粉丝期待。",
-      "urgency": "low",
-      "created_at": "2026-09-09",
-      "updated_at": "2026-09-09",
-      "status": "active"
-    }
-  ],
-  "articles": [
-    {
       "index": 4,
-      "title_cn": "Geek Pictures公布印日合作魔法少女动画",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
+      "title_cn": "AI创业者开发可提前规划的智能体",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
+      "category": "ai_tech",
+      "news_type": "tech",
       "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "东京Geek Pictures印度子公司制作印日合作魔法少女动画《Panchsheela》。",
-      "short_summary_cn": "Geek Pictures宣布其印度子公司将制作一部印度与日本合作的魔法少女动画《Panchsheela》。该项目展示了跨国IP合作的趋势。",
-      "why_it_matters_cn": "显示动漫产业跨国合作趋势，可能带来新的文化融合和市场机会。",
-      "action_suggestion_cn": "关注该项目后续信息，评估对印度和日本动漫市场的影响。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Danijar Hafner创办 stealth 初创，开发能提前规划应对意外的AI智能体。",
+      "short_summary_cn": "MIT Technology Review报道，AI研究者Danijar Hafner在旧金山创办一家仍处于隐身模式的初创公司，致力于开发能够提前规划、应对意外情况的AI智能体。公司规模尚小，但方向聚焦于前瞻性自主规划能力。",
+      "why_it_matters_cn": "前瞻性规划是AI智能体走向实用的关键能力，可能推动自动化决策升级。",
+      "action_suggestion_cn": "关注该初创后续融资与产品发布，跟踪AI规划智能体技术进展。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "跨国动漫合作项目，具有市场和文化意义。",
-      "frontpage_reason_cn": "动漫产业新动向，值得关注。",
-      "anime_event_detail": {
-        "event_type": "动漫企划",
-        "ip_or_work_title": "Panchsheela",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注后续制作和播出信息"
+      "editor_reason_cn": "AI智能体前沿方向，创业者背景值得关注。",
+      "frontpage_reason_cn": "AI智能体规划能力是行业热点，具前瞻性。",
+      "impact_analysis": {
+        "immediate_impact_cn": "引发对AI规划智能体的讨论，关注度上升。",
+        "medium_term_impact_cn": "相关技术或吸引投资，推动智能体产品迭代。",
+        "long_term_impact_cn": "前瞻规划智能体或改变自动化与决策系统格局。",
+        "affected_sectors": [
+          "AI",
+          "自动化",
+          "机器人",
+          "企业软件"
+        ],
+        "affected_assets": [
+          "AI初创概念",
+          "自动化相关股票"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "公司名称与融资情况？",
+          "技术路线与差异化？",
+          "何时产品化？"
+        ]
       },
+      "us_market_relevance": "low",
       "is_recent": false,
       "is_old_context": false,
       "frontpage_rank": 4
     },
     {
-      "index": 23,
-      "title_cn": "Hololive VTuber机构启动首个TV动画项目",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "Hololive VTuber机构与Studio Kai合作推出首个TV动画项目“Odeholo”。",
-      "short_summary_cn": "Hololive VTuber机构宣布启动首个TV动画项目，由Studio Kai制作，作为Hololive十周年庆祝活动的一部分。",
-      "why_it_matters_cn": "VTuber文化进军传统动画领域，可能拓展IP影响力。",
-      "action_suggestion_cn": "关注动画制作和播出信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 4,
-      "tracking_value": 7,
-      "editor_reason_cn": "VTuber与动画产业融合趋势。",
-      "frontpage_reason_cn": "VTuber文化新动向。",
-      "anime_event_detail": {
-        "event_type": "动画企划",
-        "ip_or_work_title": "Odeholo",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "高",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注动画播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 25,
-      "title_cn": "Junket Bank TV动画延期播出",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "anime_collab",
-      "news_type": "anime_event",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "TV动画《Junket Bank》原定10月首播，现宣布延期。",
-      "short_summary_cn": "TV动画《Junket Bank》宣布原定于10月的首播时间被推迟。具体原因和新的播出时间尚未公布。",
-      "why_it_matters_cn": "动画延期影响粉丝期待和制作方计划。",
-      "action_suggestion_cn": "关注官方后续公告。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画延期新闻。",
-      "frontpage_reason_cn": "动画播出变动。",
-      "anime_event_detail": {
-        "event_type": "动画延期",
-        "ip_or_work_title": "Junket Bank",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注新播出时间"
-      },
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 26,
-      "title_cn": "《街头霸王6》DLC角色Arjun 10月13日上线",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "merch_release",
-      "news_type": "anime_event",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "《街头霸王6》DLC角色Arjun将于10月13日发布，战斗通行证同步开始。",
-      "short_summary_cn": "《街头霸王6》官方发布了新视频，透露DLC角色Arjun将于10月13日上线。Arjun的战斗通行证将于周二开始。",
-      "why_it_matters_cn": "游戏DLC发布，对玩家和电竞市场有影响。",
-      "action_suggestion_cn": "关注游戏更新和战斗通行证内容。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "热门游戏DLC发布。",
-      "frontpage_reason_cn": "游戏内容更新。",
-      "anime_event_detail": {
-        "event_type": "游戏DLC",
-        "ip_or_work_title": "街头霸王6",
-        "person_name": "未知",
-        "role": "未知",
-        "event_date": "2026-10-13",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "中",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注游戏内更新"
-      },
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 24,
-      "title_cn": "Naoki Azuma推出攻壳机动队世界观新漫画",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "manga_signing_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Naoki Azuma在攻壳机动队世界观下推出新漫画《Glitch Witch》。",
-      "short_summary_cn": "漫画家Naoki Azuma推出了设定在攻壳机动队世界中的新漫画《Glitch Witch》，士郎正宗负责原案。该漫画于周三开始连载。",
-      "why_it_matters_cn": "经典IP新作，可能吸引攻壳机动队粉丝。",
-      "action_suggestion_cn": "关注漫画连载平台和单行本发售信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "经典IP新漫画作品。",
-      "frontpage_reason_cn": "攻壳机动队新作发布。",
-      "anime_event_detail": {
-        "event_type": "漫画连载",
-        "ip_or_work_title": "Glitch Witch",
-        "person_name": "Naoki Azuma",
-        "role": "作者",
-        "event_date": "2026-09-09",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注连载平台"
-      },
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 27,
-      "title_cn": "《钻石王牌Act II》第二季第二部分公布新声优",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《钻石王牌Act II》第二季第二部分新增声优Daisuke Sakuma，10月11日开播。",
-      "short_summary_cn": "《钻石王牌Act II》第二季第二部分宣布新增声优Daisuke Sakuma，他将为Shinichiro Saotome配音。该部分将于10月11日首播。",
-      "why_it_matters_cn": "热门体育动画新声优加入，影响粉丝期待。",
-      "action_suggestion_cn": "关注动画播出和声优信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画新声优公布。",
-      "frontpage_reason_cn": "动画新动态。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "钻石王牌Act II",
-        "person_name": "Daisuke Sakuma",
-        "role": "声优",
-        "event_date": "2026-10-11",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 28,
-      "title_cn": "《Nia Liston》动画第二弹PV公开追加声优",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《Nia Liston: The Merciless Maiden》动画追加多名声优，10月6日开播。",
-      "short_summary_cn": "《Nia Liston: The Merciless Maiden》动画的第二段视频公布了更多声优阵容，包括Kōichi Sakaguchi、Junichi Suwabe、Maaya Uchida和Kazuyuki Okitsu。该动画将于10月6日播出，为期半年。",
-      "why_it_matters_cn": "动画声优阵容强大，可能吸引更多观众。",
-      "action_suggestion_cn": "关注动画播出和声优活动。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画声优阵容公布。",
-      "frontpage_reason_cn": "动画新情报。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "Nia Liston: The Merciless Maiden",
-        "person_name": "Kōichi Sakaguchi, Junichi Suwabe, Maaya Uchida, Kazuyuki Okitsu",
-        "role": "声优",
-        "event_date": "2026-10-06",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 29,
-      "title_cn": "《Magic Repo Man》动画第二弹预告公开追加声优",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《Magic Repo Man》动画第二弹英文字幕预告公布新声优和主题曲。",
-      "short_summary_cn": "《Magic Repo Man》动画发布了第二段英文字幕预告，揭示了更多声优阵容和主题曲信息。Daisuke Namikawa将加入10月4日播出的系列。",
-      "why_it_matters_cn": "动画新预告和声优信息，影响粉丝期待。",
-      "action_suggestion_cn": "关注动画播出和主题曲信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画新预告发布。",
-      "frontpage_reason_cn": "动画新情报。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "Magic Repo Man",
-        "person_name": "Daisuke Namikawa",
-        "role": "声优",
-        "event_date": "2026-10-04",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 30,
-      "title_cn": "《The World is Dancing》动画追加岛崎信长",
-      "source": "Anime News Network",
-      "source_display_name": "Anime News Network",
-      "category": "seiyuu_events",
-      "news_type": "anime_event",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《The World is Dancing》动画追加声优岛崎信长，为主角Oniyasha青年期配音。",
-      "short_summary_cn": "动画《The World is Dancing》宣布追加声优Nobunaga Shimazaki，他将为主角Oniyasha的青年时期配音。",
-      "why_it_matters_cn": "知名声优加入，可能提升动画关注度。",
-      "action_suggestion_cn": "关注动画播出信息。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "动画声优追加。",
-      "frontpage_reason_cn": "动画新情报。",
-      "anime_event_detail": {
-        "event_type": "动画播出",
-        "ip_or_work_title": "The World is Dancing",
-        "person_name": "Nobunaga Shimazaki",
-        "role": "声优",
-        "event_date": "未知",
-        "event_time": "未知",
-        "venue": "未知",
-        "city": "未知",
-        "country": "未知",
-        "ticket_method": "未知",
-        "application_period": "未知",
-        "lottery_or_first_come": "未知",
-        "purchase_requirement": "未知",
-        "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
-        "travel_feasibility": "未知",
-        "action_needed_cn": "关注播出时间"
-      },
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 1,
-      "title_cn": "谷歌云与埃森哲合作加速企业AI部署",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌云与埃森哲达成合作，通过派驻工程师推动企业AI采用，以追赶竞争对手。",
-      "short_summary_cn": "谷歌云宣布与埃森哲合作，扩大企业AI业务。合作重点在于派遣前部署工程师，帮助企业克服AI部署瓶颈。此举旨在加速AI技术在企业中的实际应用。",
-      "why_it_matters_cn": "显示谷歌云在AI部署领域的竞争策略，对企业和云服务市场格局有影响。",
-      "action_suggestion_cn": "关注谷歌云企业AI服务动态，评估对相关云服务商竞争格局的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "谷歌云重大战略合作，影响AI产业格局。",
-      "frontpage_reason_cn": "AI产业重大动态，值得关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能推动谷歌云股价短期上涨，市场关注AI部署领域竞争。",
-        "medium_term_impact_cn": "企业AI部署服务市场可能加速增长，影响相关云服务商市场份额。",
-        "long_term_impact_cn": "AI部署服务可能成为云服务商竞争的关键领域。",
-        "affected_sectors": [
-          "云计算",
-          "企业服务",
-          "AI"
-        ],
-        "affected_assets": [
-          "GOOGL",
-          "ACN",
-          "MSFT",
-          "AMZN"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "合作具体条款和规模如何？",
-          "对竞争对手AWS和Azure有何影响？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 3,
-      "title_cn": "GPT-5.6 Sol助力量子计算实验自动化",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "MIT研究员使用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
-      "short_summary_cn": "OpenAI博客展示了MIT研究员如何利用GPT-5.6 Sol和Codex自动运行量子计算实验，包括分析结果和校准量子比特。这展示了AI在科研自动化领域的应用潜力。",
-      "why_it_matters_cn": "AI与量子计算结合，可能加速科研进程，对科技发展有深远影响。",
-      "action_suggestion_cn": "关注AI在科研领域的应用案例，评估对科研工具市场的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI前沿应用，展示技术突破。",
-      "frontpage_reason_cn": "AI与量子计算交叉领域重大进展。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能提升OpenAI在科研AI领域的声誉。",
-        "medium_term_impact_cn": "AI辅助科研工具需求可能增加。",
-        "long_term_impact_cn": "AI可能成为量子计算研究的关键工具。",
-        "affected_sectors": [
-          "AI",
-          "量子计算",
-          "科研服务"
-        ],
-        "affected_assets": [
-          "OpenAI相关",
-          "量子计算概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "GPT-5.6 Sol的科研应用范围？",
-          "量子计算商业化进程如何？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false,
-      "frontpage_rank": 3
-    },
-    {
       "index": 5,
-      "title_cn": "AI创业者开发可预判意外的智能体",
-      "source": "MIT Technology Review",
-      "source_display_name": "MIT Technology Review",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Danijar Hafner的初创公司正在开发能提前规划应对意外情况的AI智能体。",
-      "short_summary_cn": "MIT Technology Review报道了AI研究员Danijar Hafner的初创公司，该公司正在开发能够提前规划并应对意外情况的AI智能体。公司目前处于隐身模式。",
-      "why_it_matters_cn": "AI智能体能力提升，可能影响自动化决策和机器人领域。",
-      "action_suggestion_cn": "关注该初创公司技术进展，评估对AI智能体市场的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI前沿研究，具有潜在颠覆性。",
-      "frontpage_reason_cn": "AI智能体技术新突破。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能引发AI研究社区关注。",
-        "medium_term_impact_cn": "AI智能体在复杂环境中的应用可能增加。",
-        "long_term_impact_cn": "可能推动自主AI系统发展。",
-        "affected_sectors": [
-          "AI",
-          "机器人",
-          "自动化"
-        ],
-        "affected_assets": [
-          "AI概念股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "该技术何时商业化？",
-          "与现有AI智能体有何不同？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
-      "title_cn": "下载：寻找地下氢与更多OpenAI智能体",
+      "title_cn": "地下氢能勘探与OpenAI失控智能体",
       "source": "MIT Technology Review",
       "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "本期下载涵盖地下氢能源勘探和OpenAI智能体新动态。",
-      "short_summary_cn": "MIT Technology Review的每日通讯介绍了地下氢能源的勘探进展，以及关于OpenAI智能体的最新消息。",
-      "why_it_matters_cn": "涵盖能源和AI两大领域，提供综合信息。",
-      "action_suggestion_cn": "阅读全文了解地下氢和OpenAI智能体的具体进展。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "MIT科技评论日报关注地下氢能勘探热潮及OpenAI失控智能体事件。",
+      "short_summary_cn": "MIT Technology Review每日简报聚焦两大话题：一是全球多地掀起地下氢气勘探热潮，或成零碳燃料重要来源；二是关于OpenAI失控智能体的更多讨论。内容为综合简报，覆盖能源与AI安全。",
+      "why_it_matters_cn": "地下氢能或改变能源格局，AI失控智能体则关乎安全治理。",
+      "action_suggestion_cn": "关注地下氢能勘探进展与AI智能体安全治理动态。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "综合科技新闻，信息量大。",
-      "frontpage_reason_cn": "科技领域综合动态。",
+      "editor_reason_cn": "能源与AI安全双热点，信息密度高。",
+      "frontpage_reason_cn": "氢能与AI安全均为长期重要议题。",
       "impact_analysis": {
-        "immediate_impact_cn": "无直接影响。",
-        "medium_term_impact_cn": "地下氢能源可能成为新投资方向。",
-        "long_term_impact_cn": "清洁能源结构可能变化。",
+        "immediate_impact_cn": "氢能勘探与AI安全话题热度上升。",
+        "medium_term_impact_cn": "氢能投资或增加，AI智能体安全标准讨论升温。",
+        "long_term_impact_cn": "地下氢能或重塑能源结构，AI安全治理影响行业规范。",
         "affected_sectors": [
           "能源",
-          "AI"
+          "AI",
+          "清洁技术",
+          "政策"
         ],
         "affected_assets": [
-          "氢能源概念股",
-          "OpenAI相关"
+          "氢能概念股",
+          "AI安全相关"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "地下氢勘探的商业化前景？",
-          "OpenAI智能体有何新进展？"
+          "地下氢能商业化前景？",
+          "OpenAI失控智能体具体事件？",
+          "AI安全监管走向？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "苹果秋季发布会全汇总：折叠屏iPhone Duo亮相",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果发布首款折叠屏iPhone Duo及常听Apple Watch等全系新品。",
+      "short_summary_cn": "苹果秋季发布会推出首款折叠屏手机iPhone Duo，以及可常听的Apple Watch等新品。发布会涵盖iPhone、Watch、AirPods等多条产品线，AI功能成为贯穿亮点。",
+      "why_it_matters_cn": "苹果首款折叠屏标志产品线重大扩展，AI穿戴设备竞争加剧。",
+      "action_suggestion_cn": "关注苹果新品定价与发售时间，评估供应链与竞品影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "苹果年度重磅发布会，产品线全面更新。",
+      "frontpage_reason_cn": "折叠屏iPhone首秀，全球科技媒体焦点。",
+      "impact_analysis": {
+        "immediate_impact_cn": "苹果股价与供应链短线波动，折叠屏概念升温。",
+        "medium_term_impact_cn": "折叠屏与AI穿戴设备竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "苹果产品形态与AI战略影响消费电子长期格局。",
+        "affected_sectors": [
+          "消费电子",
+          "半导体",
+          "AI穿戴",
+          "供应链"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "折叠屏供应链",
+          "AI芯片"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "iPhone Duo定价与销量预期？",
+          "AI功能隐私争议？",
+          "供应链受益标的？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
       "is_old_context": false,
       "frontpage_rank": 6
     },
     {
       "index": 7,
-      "title_cn": "如何观看苹果可折叠iPhone发布会",
+      "title_cn": "苹果发布Watch Series 12与Ultra 4",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-09",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "苹果年度iPhone发布会将于9月9日直播，预计发布可折叠iPhone。",
-      "short_summary_cn": "苹果年度iPhone发布会将于9月9日上午10点PDT直播。预计将发布可折叠iPhone等新品。",
-      "why_it_matters_cn": "苹果新品发布影响消费电子市场和相关供应链。",
-      "action_suggestion_cn": "关注发布会直播，了解新品详情。",
+      "key_takeaway_cn": "苹果推出Watch Series 12与Ultra 4，新增AI音频智能可回顾日常对话。",
+      "short_summary_cn": "苹果发布Apple Watch Series 12和Watch Ultra 4，主打AI升级，新增“音频智能”功能，可回放和记忆日常对话细节。苹果借此进军AI穿戴设备市场，但隐私与同意问题随之而来。",
+      "why_it_matters_cn": "AI穿戴设备竞争升级，常听功能引发隐私与合规讨论。",
+      "action_suggestion_cn": "关注AI穿戴设备隐私政策与竞品反应，评估相关供应链机会。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "苹果重大产品发布，市场关注度高。",
-      "frontpage_reason_cn": "消费电子行业重大事件。",
+      "editor_reason_cn": "苹果AI穿戴新品，隐私议题具争议性。",
+      "frontpage_reason_cn": "AI穿戴与隐私话题结合，关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "发布会前后苹果股价可能波动。",
-        "medium_term_impact_cn": "可折叠手机市场可能加速发展。",
-        "long_term_impact_cn": "苹果产品线更新可能影响竞争对手策略。",
+        "immediate_impact_cn": "AI穿戴设备讨论升温，隐私争议浮现。",
+        "medium_term_impact_cn": "竞品跟进AI穿戴功能，监管关注度上升。",
+        "long_term_impact_cn": "常听AI设备或改变人机交互与隐私规范。",
         "affected_sectors": [
           "消费电子",
-          "供应链"
+          "AI穿戴",
+          "隐私合规"
         ],
         "affected_assets": [
-          "AAPL",
-          "相关供应链股票"
+          "苹果股票",
+          "可穿戴供应链"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "可折叠iPhone定价和配置？",
-          "对安卓阵营有何影响？"
+          "音频智能的隐私处理方式？",
+          "监管是否介入？",
+          "竞品如何应对？"
         ]
       },
       "us_market_relevance": "high",
@@ -2473,168 +762,315 @@
     },
     {
       "index": 8,
-      "title_cn": "苹果发布会前瞻：可折叠iPhone Ultra领衔",
+      "title_cn": "苹果发布首款折叠屏iPhone Duo",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-07",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "苹果9月9日发布会预计推出可折叠iPhone Ultra，还有AirPods和HomePods新品。",
-      "short_summary_cn": "TechCrunch预测苹果9月9日发布会将推出可折叠iPhone Ultra，同时可能更新AirPods和HomePods产品线。",
-      "why_it_matters_cn": "苹果产品更新影响消费电子市场趋势。",
-      "action_suggestion_cn": "关注发布会，了解具体产品规格和价格。",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果首款折叠屏iPhone Duo采用更宽形态，展开后视频比例更佳。",
+      "short_summary_cn": "苹果正式发布首款折叠屏手机iPhone Duo，采用比早期折叠屏更宽的外形设计，展开后观看视频的宽高比更佳。这标志着苹果正式进入折叠屏市场，产品形态与竞品形成差异。",
+      "why_it_matters_cn": "苹果入局折叠屏，或重塑折叠屏市场格局与供应链。",
+      "action_suggestion_cn": "关注折叠屏供应链与竞品定价策略，评估市场接受度。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "苹果首款折叠屏，行业里程碑事件。",
+      "frontpage_reason_cn": "折叠屏iPhone首秀，全球关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "折叠屏概念股与供应链短线活跃。",
+        "medium_term_impact_cn": "折叠屏市场竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "苹果折叠屏或推动折叠形态成为主流。",
+        "affected_sectors": [
+          "消费电子",
+          "折叠屏供应链",
+          "显示面板"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "折叠屏供应链",
+          "面板厂商"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "iPhone Duo定价？",
+          "铰链与屏幕供应商？",
+          "销量预期？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 8
+    },
+    {
+      "index": 9,
+      "title_cn": "苹果发布iPhone 18 Pro相机升级",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果推出iPhone 18 Pro，相机升级并新增酒红色配色。",
+      "short_summary_cn": "苹果发布iPhone 18 Pro系列，主要升级相机系统，并新增酒红色外观。作为年度旗舰更新，Pro系列继续强化影像能力，巩固高端市场定位。",
+      "why_it_matters_cn": "iPhone Pro持续升级影像，影响高端手机竞争与供应链。",
+      "action_suggestion_cn": "关注iPhone 18 Pro定价与预售情况，评估影像供应链机会。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "苹果新品预测，市场关注度高。",
-      "frontpage_reason_cn": "苹果发布会前瞻。",
+      "editor_reason_cn": "苹果旗舰机型更新，市场关注度高。",
+      "frontpage_reason_cn": "iPhone Pro年度更新，消费者关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "市场预期可能影响苹果股价。",
-        "medium_term_impact_cn": "新品发布可能带动相关配件市场。",
-        "long_term_impact_cn": "苹果产品创新影响行业方向。",
+        "immediate_impact_cn": "苹果股价与供应链短线反应。",
+        "medium_term_impact_cn": "高端手机影像竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "影像能力持续影响高端手机换机周期。",
         "affected_sectors": [
           "消费电子",
-          "可穿戴设备"
+          "光学影像",
+          "半导体"
         ],
         "affected_assets": [
-          "AAPL",
-          "相关供应链股票"
+          "苹果股票",
+          "影像供应链"
         ],
         "us_stock_relevance": "high",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "AirPods和HomePods有何更新？",
-          "可折叠iPhone Ultra价格如何？"
+          "相机具体升级点？",
+          "定价策略？",
+          "销量预期？"
         ]
       },
       "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 8
+      "is_recent": true,
+      "is_old_context": false
     },
     {
-      "index": 11,
-      "title_cn": "德国公司首发欧洲商业轨道火箭",
+      "index": 10,
+      "title_cn": "欧洲或现航天创业新星",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-06",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "德国公司成为欧洲首家成功发射全商业轨道火箭的企业。",
-      "short_summary_cn": "一家德国公司成功发射了欧洲首枚全商业轨道火箭，标志着欧洲商业航天的新里程碑。该公司表示在几年内取得了欧洲航天工业几十年的成就。",
-      "why_it_matters_cn": "欧洲商业航天发展的重要一步，可能改变全球航天竞争格局。",
-      "action_suggestion_cn": "关注该公司后续发射计划和技术细节。",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "欧洲航天或迎来一位法国创业新星，强调大火箭与高频率发射。",
+      "short_summary_cn": "Ars Technica报道，在欧洲航天发展乏力之际，一位崛起的法国航天创业者可能带来转机。其核心理念是“没有大火箭和高频率发射，我们就无法保持相关性”。这反映欧洲商业航天追赶SpaceX的紧迫感。",
+      "why_it_matters_cn": "欧洲商业航天若崛起，将改变全球发射市场竞争格局。",
+      "action_suggestion_cn": "关注该法国航天公司融资与技术进展，跟踪欧洲航天政策动向。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "欧洲航天里程碑事件。",
-      "frontpage_reason_cn": "商业航天重大进展。",
+      "editor_reason_cn": "欧洲航天竞争格局潜在变化，值得跟踪。",
+      "frontpage_reason_cn": "商业航天全球竞争，欧洲新星具话题性。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能提振欧洲航天概念股。",
-        "medium_term_impact_cn": "欧洲商业发射市场可能增长。",
-        "long_term_impact_cn": "全球航天发射市场竞争可能加剧。",
+        "immediate_impact_cn": "欧洲航天创业话题升温。",
+        "medium_term_impact_cn": "或吸引投资，推动欧洲发射能力建设。",
+        "long_term_impact_cn": "全球商业航天竞争格局或生变。",
         "affected_sectors": [
           "航天",
-          "科技"
+          "卫星",
+          "国防"
         ],
         "affected_assets": [
-          "航天概念股"
+          "航天概念股",
+          "欧洲防务"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "公司名称与融资？",
+          "火箭技术路线？",
+          "欧洲航天政策支持？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 11,
+      "title_cn": "Anthropic研究员离职警告AI可能毁灭人类",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Anthropic研究员离职并警告自我改进AI可能“杀死我们所有人”。",
+      "short_summary_cn": "Anthropic一名研究员离职并发出警告，称自我改进的AI可能“杀死我们所有人”，并强调“我们真的真诚地相信AI可能杀死全人类”。此番言论再次将AI安全与存在性风险推向舆论焦点。",
+      "why_it_matters_cn": "AI安全与存在性风险讨论升温，或影响监管与行业声誉。",
+      "action_suggestion_cn": "关注AI安全治理与监管动态，评估对AI公司声誉与政策的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "AI安全重磅警告，行业影响深远。",
+      "frontpage_reason_cn": "AI存在性风险话题具冲击力。",
+      "impact_analysis": {
+        "immediate_impact_cn": "AI安全话题热度飙升，舆论关注。",
+        "medium_term_impact_cn": "或推动AI安全监管与行业自律讨论。",
+        "long_term_impact_cn": "AI存在性风险治理影响技术发展路径。",
+        "affected_sectors": [
+          "AI",
+          "政策",
+          "安全"
+        ],
+        "affected_assets": [
+          "AI公司股票",
+          "安全概念"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "离职研究员具体身份？",
+          "Anthropic官方回应？",
+          "监管是否跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 13,
+      "title_cn": "Paul Christiano加入OpenAI基金会董事会",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会。",
+      "short_summary_cn": "OpenAI宣布Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会。Christiano在AI对齐、安全与标准方面经验丰富，此举被视为OpenAI强化安全治理的信号。",
+      "why_it_matters_cn": "OpenAI强化安全治理，AI对齐专家进入决策层影响行业方向。",
+      "action_suggestion_cn": "关注OpenAI安全治理架构变化及其对AI政策的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "OpenAI治理层重要人事，安全议题受关注。",
+      "frontpage_reason_cn": "AI安全专家进入OpenAI董事会，具信号意义。",
+      "impact_analysis": {
+        "immediate_impact_cn": "OpenAI安全治理信号释放，行业关注。",
+        "medium_term_impact_cn": "或影响OpenAI安全政策与行业标准。",
+        "long_term_impact_cn": "AI对齐与安全治理影响技术发展路径。",
+        "affected_sectors": [
+          "AI",
+          "政策",
+          "安全"
+        ],
+        "affected_assets": [
+          "OpenAI相关概念",
+          "AI安全"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Christiano具体职责？",
+          "对OpenAI安全政策影响？",
+          "行业连锁反应？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 14,
+      "title_cn": "苹果健康App将计算健康年龄与准备度",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果改版健康App将用Apple Intelligence计算健康年龄与准备度评分。",
+      "short_summary_cn": "苹果改版Health应用，将利用Apple Intelligence更好地解读健康数据，并新增“健康年龄”和“准备度评分”功能。这显示苹果在健康AI领域持续加码，强化生态粘性。",
+      "why_it_matters_cn": "健康AI功能增强苹果生态，数字健康市场竞争加剧。",
+      "action_suggestion_cn": "关注健康AI功能隐私政策与竞品动态，评估数字健康市场机会。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 4,
+      "tracking_value": 6,
+      "editor_reason_cn": "苹果健康AI功能更新，具实用价值。",
+      "frontpage_reason_cn": "健康AI与苹果生态结合，关注度中等。",
+      "impact_analysis": {
+        "immediate_impact_cn": "健康AI功能引发讨论。",
+        "medium_term_impact_cn": "数字健康竞争加剧，用户数据隐私关注上升。",
+        "long_term_impact_cn": "健康AI或改变个人健康管理方式。",
+        "affected_sectors": [
+          "数字健康",
+          "AI",
+          "可穿戴"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "数字健康概念"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "公司名称？",
-          "火箭运载能力如何？"
+          "健康年龄算法依据？",
+          "数据隐私如何处理？",
+          "竞品如何应对？"
         ]
       },
       "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 14,
-      "title_cn": "白宫下架“建墙”游戏因俄罗斯方块公司投诉",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "白宫短暂上线的“建墙”游戏因俄罗斯方块公司版权投诉被下架。",
-      "short_summary_cn": "特朗普政府短暂上线的街机游戏“建墙”因俄罗斯方块公司投诉版权侵权而被下架。",
-      "why_it_matters_cn": "显示政治宣传与版权法律的冲突。",
-      "action_suggestion_cn": "关注事件后续发展。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "政治与版权交叉事件。",
-      "frontpage_reason_cn": "政治娱乐化新闻。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能成为政治话题。",
-        "medium_term_impact_cn": "无重大影响。",
-        "long_term_impact_cn": "无重大影响。",
-        "affected_sectors": [
-          "政治",
-          "游戏"
-        ],
-        "affected_assets": [
-          "无直接影响"
-        ],
-        "us_stock_relevance": "none",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "白宫会重新上线修改版吗？"
-        ]
-      },
-      "us_market_relevance": "none",
       "is_recent": true,
       "is_old_context": false
     },
     {
       "index": 15,
-      "title_cn": "黑客窃取订阅用户的Claude令牌",
+      "title_cn": "OpenAI董事会新增知名AI末日论者",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-09",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "黑客正在窃取Claude订阅用户的令牌，Anthropic已发出警告。",
-      "short_summary_cn": "有Claude用户发现账户在未使用时消耗令牌，Anthropic已警告用户注意黑客窃取令牌的行为。",
-      "why_it_matters_cn": "AI服务安全问题凸显，影响用户信任和平台安全。",
-      "action_suggestion_cn": "Claude用户应检查账户安全，启用双重验证。",
+      "key_takeaway_cn": "AI对齐研究者Paul Christiano加入OpenAI基金会董事会。",
+      "short_summary_cn": "TechCrunch报道，专注AI对齐的有影响力研究者Paul Christiano加入OpenAI基金会董事会。Christiano被视为AI安全领域的“末日论者”代表之一，此举凸显OpenAI对安全议题的重视。",
+      "why_it_matters_cn": "AI安全代表人物进入OpenAI治理层，影响行业安全导向。",
+      "action_suggestion_cn": "关注OpenAI安全治理动向及其对AI政策讨论的影响。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 6,
-      "editor_reason_cn": "AI安全事件，用户需警惕。",
-      "frontpage_reason_cn": "AI服务安全警示。",
+      "editor_reason_cn": "与第13条同源，补充TechCrunch视角。",
+      "frontpage_reason_cn": "AI安全人物进入OpenAI董事会，具话题性。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能影响Anthropic用户信任。",
-        "medium_term_impact_cn": "AI服务商可能加强安全措施。",
-        "long_term_impact_cn": "AI安全市场可能增长。",
+        "immediate_impact_cn": "AI安全治理话题升温。",
+        "medium_term_impact_cn": "或影响OpenAI安全政策与行业标准。",
+        "long_term_impact_cn": "AI安全治理影响技术发展路径。",
         "affected_sectors": [
           "AI",
-          "网络安全"
+          "政策",
+          "安全"
         ],
         "affected_assets": [
-          "Anthropic相关",
-          "网络安全股票"
+          "OpenAI相关概念",
+          "AI安全"
         ],
         "us_stock_relevance": "low",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
+        "market_sentiment": "unclear",
+        "risk_level": "low",
         "follow_up_questions": [
-          "黑客如何窃取令牌？",
-          "Anthropic如何应对？"
+          "Christiano具体职责？",
+          "对OpenAI安全政策影响？",
+          "行业连锁反应？"
         ]
       },
       "us_market_relevance": "low",
@@ -2643,42 +1079,43 @@
     },
     {
       "index": 16,
-      "title_cn": "Meta推出Muse AI智能体，消费者会信任吗？",
+      "title_cn": "苹果新CEO重拾乔布斯25年前策略",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-09",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Meta发布个人AI智能体Muse，需访问用户数据，考验消费者信任。",
-      "short_summary_cn": "Meta推出新的个人AI智能体Muse，需要访问用户的电子邮件、日历、支付和健康服务等数据。这是Meta最大的消费者AI押注，也是对用户信任的考验。",
-      "why_it_matters_cn": "Meta在AI领域的重大举措，涉及用户隐私和数据信任问题。",
-      "action_suggestion_cn": "关注Muse的隐私政策和用户反馈。",
+      "key_takeaway_cn": "苹果新CEO John Ternus首场主题演讲强调iPhone核心地位不变。",
+      "short_summary_cn": "苹果新任CEO John Ternus在首场主题演讲中，重申iPhone仍是核心产品，并重拾乔布斯25年前的聚焦策略。这显示苹果在AI时代仍以iPhone为战略中心，延续产品聚焦哲学。",
+      "why_it_matters_cn": "苹果新CEO战略方向明确，iPhone核心地位影响产品与供应链。",
+      "action_suggestion_cn": "关注苹果新CEO战略与产品路线图，评估供应链与竞品影响。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 6,
-      "editor_reason_cn": "Meta重大AI产品发布。",
-      "frontpage_reason_cn": "AI产品与隐私问题。",
+      "editor_reason_cn": "苹果管理层战略信号，具长期跟踪价值。",
+      "frontpage_reason_cn": "苹果新CEO首秀，战略方向受关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能影响Meta股价和用户信任。",
-        "medium_term_impact_cn": "AI智能体市场竞争可能加剧。",
-        "long_term_impact_cn": "用户数据隐私问题可能成为AI发展的关键。",
+        "immediate_impact_cn": "苹果战略方向引发讨论。",
+        "medium_term_impact_cn": "产品聚焦策略影响供应链与竞品。",
+        "long_term_impact_cn": "苹果AI时代战略影响消费电子格局。",
         "affected_sectors": [
+          "消费电子",
           "AI",
-          "社交媒体",
-          "科技"
+          "供应链"
         ],
         "affected_assets": [
-          "META",
-          "AI概念股"
+          "苹果股票",
+          "供应链"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
         "follow_up_questions": [
-          "Muse的隐私政策如何？",
-          "与竞争对手相比有何优势？"
+          "新CEO战略细节？",
+          "iPhone在AI战略中的角色？",
+          "供应链影响？"
         ]
       },
       "us_market_relevance": "high",
@@ -2687,384 +1124,749 @@
     },
     {
       "index": 17,
-      "title_cn": "NYU数学家称OpenAI在数学问题上“手段肮脏”",
+      "title_cn": "Apple Watch新AI功能引发常听隐私争议",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-09",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "NYU数学家指责OpenAI在解决Navier-Stokes问题竞赛中采取不正当手段。",
-      "short_summary_cn": "一位NYU数学家指责OpenAI在解决Navier-Stokes存在性和光滑性问题（悬赏100万美元）的竞赛中“手段肮脏”。",
-      "why_it_matters_cn": "涉及AI研究伦理和学术竞争。",
-      "action_suggestion_cn": "关注事件详情和OpenAI的回应。",
+      "key_takeaway_cn": "Apple Watch新AI功能可转录近期语音，引发同意与隐私争议。",
+      "short_summary_cn": "Apple Watch新增AI功能可转录近期语音并总结环境对话，苹果称不保存原始音频，但仍引发对同意、隐私及人们行为改变的质疑。这反映常听设备带来的社会与伦理挑战。",
+      "why_it_matters_cn": "常听AI设备引发隐私与同意争议，监管与用户信任受考验。",
+      "action_suggestion_cn": "关注隐私政策与监管反应，评估常听AI设备的社会接受度。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "AI研究伦理争议。",
-      "frontpage_reason_cn": "AI学术争议事件。",
+      "tracking_value": 6,
+      "editor_reason_cn": "AI穿戴隐私争议，具社会讨论价值。",
+      "frontpage_reason_cn": "常听AI与隐私冲突，话题性强。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能影响OpenAI声誉。",
-        "medium_term_impact_cn": "AI研究竞赛规则可能受到审视。",
-        "long_term_impact_cn": "可能影响AI在数学研究中的应用。",
+        "immediate_impact_cn": "隐私争议升温，用户关注。",
+        "medium_term_impact_cn": "监管或介入，竞品隐私策略调整。",
+        "long_term_impact_cn": "常听AI设备影响社会行为与隐私规范。",
         "affected_sectors": [
-          "AI",
-          "学术界"
+          "消费电子",
+          "AI穿戴",
+          "隐私合规"
         ],
         "affected_assets": [
-          "OpenAI相关"
+          "苹果股票",
+          "可穿戴供应链"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "OpenAI具体做了什么？",
-          "竞赛结果如何？"
+          "音频数据处理方式？",
+          "监管是否介入？",
+          "用户接受度？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": true,
       "is_old_context": false
     },
     {
       "index": 18,
-      "title_cn": "OpenAI提供500万美元资助AI与青少年发展研究",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "title_cn": "苹果新机发布后旧款iPhone涨价100美元",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "OpenAI启动500万美元资助计划，支持生成式AI对青少年发展影响的独立研究。",
-      "short_summary_cn": "OpenAI宣布启动一项500万美元的资助计划，支持关于生成式AI如何影响青少年发展、福祉和安全性的独立研究。",
-      "why_it_matters_cn": "显示OpenAI对AI社会影响的关注，可能影响AI监管和产品设计。",
-      "action_suggestion_cn": "关注资助申请条件和研究方向。",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果将iPhone 16、17及Air等旧款机型价格上调100美元。",
+      "short_summary_cn": "在新iPhone发布之际，苹果将现有iPhone机型价格上调100美元，涉及iPhone 16、iPhone 17和iPhone Air。此举或为引导消费者转向新品，同时提升旧款利润空间。",
+      "why_it_matters_cn": "苹果定价策略调整，影响消费者选择与销量结构。",
+      "action_suggestion_cn": "关注苹果定价策略对销量与利润的影响，评估供应链与竞品反应。",
       "importance_score": 7,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 6,
-      "editor_reason_cn": "OpenAI社会责任举措。",
-      "frontpage_reason_cn": "AI社会影响研究资助。",
+      "editor_reason_cn": "苹果定价策略变化，具市场影响。",
+      "frontpage_reason_cn": "iPhone涨价话题具消费者关注度。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能提升OpenAI企业形象。",
-        "medium_term_impact_cn": "AI对青少年影响研究可能增加。",
-        "long_term_impact_cn": "可能影响AI产品对青少年的设计。",
+        "immediate_impact_cn": "消费者与市场关注涨价。",
+        "medium_term_impact_cn": "或影响旧款销量与新品转化率。",
+        "long_term_impact_cn": "定价策略影响苹果市场份额与利润。",
         "affected_sectors": [
-          "AI",
-          "教育",
-          "研究"
+          "消费电子",
+          "零售"
         ],
         "affected_assets": [
-          "OpenAI相关"
+          "苹果股票"
         ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
+        "us_stock_relevance": "high",
+        "market_sentiment": "mixed",
         "risk_level": "low",
         "follow_up_questions": [
-          "资助申请条件？",
-          "研究结果何时公布？"
+          "涨价原因？",
+          "销量影响？",
+          "竞品是否跟进？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false
+    }
+  ],
+  "politics_highlights": [
+    {
+      "index": 2,
+      "title_cn": "特朗普称伊朗战争将持续至11月大选后",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "特朗普称伊朗战争不会在11月美国大选前结束，油价也将持续高企。",
+      "short_summary_cn": "特朗普表示伊朗战争将持续到11月美国大选之后，并称油价在此之前不会回落。他还无证据地声称伊朗意图影响美国选举。此番言论将地缘冲突与美国国内政治直接挂钩。",
+      "why_it_matters_cn": "地缘冲突与选举政治交织，油价与市场波动风险上升。",
+      "action_suggestion_cn": "关注油价、能源股及避险资产走势，评估地缘风险对投资组合的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "重大地缘政治与选举交叉事件，影响面广。",
+      "frontpage_reason_cn": "涉及战争、油价与大选，全球关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "油价与避险资产短线波动，市场情绪偏谨慎。",
+        "medium_term_impact_cn": "能源价格维持高位，通胀预期与选举博弈升温。",
+        "long_term_impact_cn": "中东局势持续影响全球能源格局与地缘秩序。",
+        "affected_sectors": [
+          "能源",
+          "国防",
+          "航运",
+          "大宗商品"
+        ],
+        "affected_assets": [
+          "原油",
+          "黄金",
+          "美元",
+          "能源股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "伊朗战争实际进展如何？",
+          "油价对通胀与美联储政策的影响？",
+          "选举结果对局势的潜在改变？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 2
+    },
+    {
+      "index": 12,
+      "title_cn": "如何在谷歌广告上投放恶意软件",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-09-09",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "文章详述如何在谷歌广告平台投放恶意软件，引发安全与平台治理讨论。",
+      "short_summary_cn": "Hacker News热帖分享一篇关于如何在Google Ads上投放恶意软件的文章，获得378点与225条评论。内容揭示广告平台在恶意软件分发中的漏洞，引发对平台审核与网络安全的广泛讨论。",
+      "why_it_matters_cn": "广告平台安全漏洞威胁用户，平台治理与监管压力上升。",
+      "action_suggestion_cn": "关注谷歌广告安全政策更新，企业应审查自身广告投放与防护。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "网络安全与平台治理热点，社区讨论热烈。",
+      "frontpage_reason_cn": "恶意软件与广告平台安全，具警示性。",
+      "impact_analysis": {
+        "immediate_impact_cn": "谷歌广告安全漏洞引发关注。",
+        "medium_term_impact_cn": "平台或加强审核，广告安全政策调整。",
+        "long_term_impact_cn": "数字广告安全治理影响平台信任与监管。",
+        "affected_sectors": [
+          "数字广告",
+          "网络安全",
+          "平台经济"
+        ],
+        "affected_assets": [
+          "谷歌股票",
+          "安全公司"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "谷歌如何回应？",
+          "漏洞是否已修复？",
+          "监管是否介入？"
+        ]
+      },
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": false
+    }
+  ],
+  "us_market_impact": {
+    "overall_market_tone": "mixed",
+    "summary_cn": "苹果发布会带来科技硬件结构性亮点，但伊朗战争持续言论推高地缘风险与油价，市场整体偏混合。",
+    "index_impact": {
+      "nasdaq": "苹果及AI龙头催化偏正面，但地缘风险压制估值，预计震荡偏强。",
+      "sp500": "能源板块受益油价，科技与消费分化，指数中性偏震荡。",
+      "russell2000": "地缘风险与油价高企对中小企业成本压力更大，预计承压。"
+    },
+    "sector_impacts": [
+      {
+        "sector": "消费电子",
+        "direction": "up",
+        "reason_cn": "苹果发布折叠屏iPhone Duo、Watch Series 12、AirPods 5等多款新品，创新周期重启。",
+        "related_news": "苹果秋季发布会全汇总",
+        "possible_tickers": "AAPL, 供应链相关"
+      },
+      {
+        "sector": "能源",
+        "direction": "up",
+        "reason_cn": "特朗普称伊朗战争将持续至11月大选后，油价高企预期强化。",
+        "related_news": "特朗普称伊朗战争将持续至11月大选后",
+        "possible_tickers": "XOM, CVX, USO"
+      },
+      {
+        "sector": "防务",
+        "direction": "up",
+        "reason_cn": "地缘冲突持续预期提升防务开支预期。",
+        "related_news": "特朗普称伊朗战争将持续至11月大选后",
+        "possible_tickers": "LMT, RTX, NOC"
+      },
+      {
+        "sector": "航空",
+        "direction": "down",
+        "reason_cn": "油价高企推升燃油成本，地缘风险抑制出行需求。",
+        "related_news": "特朗普称伊朗战争将持续至11月大选后",
+        "possible_tickers": "DAL, UAL, AAL"
+      },
+      {
+        "sector": "AI软件",
+        "direction": "mixed",
+        "reason_cn": "OpenAI、谷歌、Anthropic动态密集，安全治理升温，长期利好合规龙头，短期情绪波动。",
+        "related_news": "Anthropic研究员离职警告AI可能毁灭人类",
+        "possible_tickers": "MSFT, GOOGL, NVDA"
+      }
+    ],
+    "theme_impacts": [
+      {
+        "theme": "折叠屏与硬件创新",
+        "direction": "up",
+        "reason_cn": "苹果首款折叠屏iPhone Duo亮相，铰链采用AI与3D打印，带动供应链关注。",
+        "watch_tickers": "AAPL, 折叠屏供应链"
+      },
+      {
+        "theme": "AI健康与可穿戴",
+        "direction": "up",
+        "reason_cn": "苹果健康App计算健康年龄与准备度，Watch新增AI音频智能。",
+        "watch_tickers": "AAPL, 可穿戴供应链"
+      },
+      {
+        "theme": "地缘风险与油价",
+        "direction": "up",
+        "reason_cn": "伊朗战争持续预期推高油价与避险需求。",
+        "watch_tickers": "USO, GLD, 防务股"
+      },
+      {
+        "theme": "AI安全治理",
+        "direction": "mixed",
+        "reason_cn": "Anthropic研究员警告与OpenAI董事会调整，监管预期升温。",
+        "watch_tickers": "MSFT, GOOGL"
+      }
+    ],
+    "risk_factors": [
+      "伊朗战争持续至11月大选后，地缘风险溢价上升",
+      "油价高企推升通胀预期，压制消费与航空",
+      "AI安全治理监管不确定性",
+      "苹果新机定价与旧款涨价对销量的影响"
+    ],
+    "follow_up_events": [
+      {
+        "event_name": "苹果新机预售",
+        "expected_date": "待定",
+        "why_watch_cn": "折叠屏iPhone Duo预售情况反映需求强度。",
+        "market_relevance_cn": "直接影响AAPL及供应链股价。"
+      },
+      {
+        "event_name": "伊朗局势演变",
+        "expected_date": "持续至11月大选",
+        "why_watch_cn": "战争持续言论影响油价与避险资产。",
+        "market_relevance_cn": "能源、防务、航空板块联动。"
+      },
+      {
+        "event_name": "FF7启示录发售细节",
+        "expected_date": "待定",
+        "why_watch_cn": "日本游戏IP收藏侧催化。",
+        "market_relevance_cn": "对游戏与动漫周边板块有情绪带动。"
+      }
+    ]
+  },
+  "future_watchlist": [
+    {
+      "title": "苹果折叠屏iPhone Duo预售与供应链反应",
+      "category": "科技硬件",
+      "expected_date": "待定",
+      "why_watch_cn": "首款折叠屏iPhone是苹果硬件创新关键节点，预售数据将验证需求。",
+      "market_relevance_cn": "直接影响AAPL及折叠屏供应链股价。",
+      "anime_relevance_cn": "无直接动漫关联。",
+      "urgency": "high",
+      "created_at": "2026-09-10",
+      "updated_at": "2026-09-10",
+      "status": "active"
     },
     {
-      "index": 19,
-      "title_cn": "ATV Big Air Tour用ChatGPT将3天工作缩至3小时",
+      "title": "伊朗局势对油价及美股板块的传导",
+      "category": "地缘政治",
+      "expected_date": "持续至11月大选",
+      "why_watch_cn": "特朗普称战争持续至大选后，油价高企预期强化。",
+      "market_relevance_cn": "能源、防务、航空板块联动，影响整体风险偏好。",
+      "anime_relevance_cn": "无直接动漫关联。",
+      "urgency": "high",
+      "created_at": "2026-09-10",
+      "updated_at": "2026-09-10",
+      "status": "active"
+    },
+    {
+      "title": "FF7启示录与核心危机重制版发售细节",
+      "category": "动漫游戏",
+      "expected_date": "待定",
+      "why_watch_cn": "Square Enix重磅IP新作与重制版登陆Switch 2，收藏侧催化明确。",
+      "market_relevance_cn": "对游戏与动漫周边板块有情绪带动。",
+      "anime_relevance_cn": "直接关联最终幻想VII IP收藏与周边。",
+      "urgency": "medium",
+      "created_at": "2026-09-10",
+      "updated_at": "2026-09-10",
+      "status": "active"
+    },
+    {
+      "title": "OpenAI董事会安全治理动向与AI监管政策窗口",
+      "category": "AI治理",
+      "expected_date": "持续",
+      "why_watch_cn": "Paul Christiano加入OpenAI基金会董事会，AI安全治理升温。",
+      "market_relevance_cn": "影响AI龙头估值情绪与合规预期。",
+      "anime_relevance_cn": "无直接动漫关联。",
+      "urgency": "medium",
+      "created_at": "2026-09-10",
+      "updated_at": "2026-09-10",
+      "status": "active"
+    }
+  ],
+  "articles": [
+    {
+      "index": 3,
+      "title_cn": "SE公布FF7启示录预告及CC重制版",
+      "source": "Anime News Network",
+      "source_display_name": "Anime News Network",
+      "category": "anime_collab",
+      "news_type": "anime_event",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Square Enix公布《最终幻想VII 启示录》预告，并宣布《核心危机》重制版登陆Switch 2。",
+      "short_summary_cn": "Square Enix公开《最终幻想VII Revelation》游戏预告片，同时宣布《Crisis Core: Final Fantasy VII Reunion》重制版将登陆Switch 2，且于公布当日同步发售。FF7系列持续扩展，覆盖新作与重制。",
+      "why_it_matters_cn": "FF7 IP持续扩张，Switch 2首发阵容增强，粉丝与收藏者关注度高。",
+      "action_suggestion_cn": "关注官方发售渠道，Switch 2版本可留意首发特典与限定版信息。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "FF7系列重大新作与重制消息，IP价值高。",
+      "frontpage_reason_cn": "知名游戏IP新作与Switch 2首发，玩家关注度高。",
+      "anime_event_detail": {
+        "event_type": "游戏新作公布/重制版发售",
+        "ip_or_work_title": "最终幻想VII Revelation / Crisis Core: Final Fantasy VII Reunion",
+        "person_name": "未知",
+        "role": "未知",
+        "event_date": "2026-09-09",
+        "event_time": "未知",
+        "venue": "线上公布",
+        "city": "未知",
+        "country": "日本",
+        "ticket_method": "未知",
+        "application_period": "未知",
+        "lottery_or_first_come": "未知",
+        "purchase_requirement": "未知",
+        "goods_or_bonus": "未知",
+        "official_source": "Square Enix / Anime News Network",
+        "urgency_level": "中",
+        "collector_value": "高",
+        "travel_feasibility": "不适用",
+        "action_needed_cn": "关注Square Enix官方渠道，留意Switch 2版本发售与特典信息。"
+      },
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 1,
+      "title_cn": "GPT-5.6 Sol助力量子计算实验",
       "source": "OpenAI Blog",
       "source_display_name": "OpenAI Blog",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-02",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ATV Big Air Tour使用ChatGPT Work加速营销和商品化，大幅提升效率。",
-      "short_summary_cn": "ATV Big Air Tour使用ChatGPT Work来加速营销、商品化等工作，甚至将商品照片转化为库存网站仅用15分钟。",
-      "why_it_matters_cn": "展示AI在商业运营中的实际效率提升案例。",
-      "action_suggestion_cn": "关注ChatGPT Work在商业中的应用案例。",
-      "importance_score": 7,
+      "date_display": "2026-09-09",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
+      "short_summary_cn": "OpenAI发布案例，展示MIT研究员如何利用GPT-5.6 Sol配合Codex自主运行量子计算实验、分析结果并校准量子比特。这标志着AI代理在尖端科研自动化领域迈出重要一步。",
+      "why_it_matters_cn": "AI代理进入量子计算等前沿科研场景，可能大幅加速实验迭代与科研效率。",
+      "action_suggestion_cn": "关注OpenAI官方博客原文，评估AI代理在自身科研或工程流程中的可迁移性。",
+      "importance_score": 10,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI商业应用案例。",
-      "frontpage_reason_cn": "AI提升商业效率实例。",
+      "tracking_value": 8,
+      "editor_reason_cn": "AI代理自主科研的标杆案例，重要性极高。",
+      "frontpage_reason_cn": "AI+量子计算双重前沿，适合头条。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能吸引更多企业使用ChatGPT Work。",
-        "medium_term_impact_cn": "AI在营销和商品化中的应用可能增加。",
-        "long_term_impact_cn": "AI可能改变企业运营模式。",
+        "immediate_impact_cn": "引发AI科研自动化讨论，量子计算与AI交叉领域关注度上升。",
+        "medium_term_impact_cn": "更多实验室尝试AI代理辅助实验，科研工具链或迎更新。",
+        "long_term_impact_cn": "AI自主科研或重塑实验科学范式，加速量子计算等硬科技突破。",
         "affected_sectors": [
           "AI",
-          "营销",
-          "电商"
+          "量子计算",
+          "科研自动化",
+          "半导体"
         ],
         "affected_assets": [
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "ChatGPT Work的定价？",
-          "其他企业如何使用？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": true
-    },
-    {
-      "index": 20,
-      "title_cn": "ChatGPT可连接电子健康记录和行业数据",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-01",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "ChatGPT现可连接可信医疗数据，帮助临床医生安全访问患者背景和研究。",
-      "short_summary_cn": "OpenAI宣布ChatGPT现在可以连接可信的医疗数据源，帮助临床医生安全地访问患者背景、医学研究等信息。",
-      "why_it_matters_cn": "AI在医疗领域的应用扩展，可能改善临床工作流程。",
-      "action_suggestion_cn": "关注医疗AI应用的安全性和合规性。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI医疗应用重要进展。",
-      "frontpage_reason_cn": "AI在医疗领域的新应用。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能引起医疗AI领域关注。",
-        "medium_term_impact_cn": "医疗AI应用可能加速。",
-        "long_term_impact_cn": "AI可能改变医疗信息管理。",
-        "affected_sectors": [
-          "医疗",
-          "AI"
-        ],
-        "affected_assets": [
-          "医疗AI概念股"
+          "OpenAI相关概念",
+          "量子计算概念股",
+          "AI芯片"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "medium",
         "follow_up_questions": [
-          "数据安全如何保障？",
-          "哪些医疗机构已在使用？"
+          "GPT-5.6 Sol的具体能力边界？",
+          "Codex在实验中的自主程度？",
+          "是否可复现于其他科研领域？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": true
+      "is_old_context": false,
+      "frontpage_rank": 1
     },
     {
-      "index": 21,
-      "title_cn": "研究：ChatGPT与批判性思维训练对学生表现的影响",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "index": 4,
+      "title_cn": "AI创业者开发可提前规划的智能体",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-08-27",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "随机研究显示ChatGPT和批判性思维训练可提升学生原创性和表现。",
-      "short_summary_cn": "一项针对1000多名学生的随机研究，考察了ChatGPT、批判性思维、原创性和学生在真实大学作业中的表现。",
-      "why_it_matters_cn": "为AI在教育中的应用提供实证依据。",
-      "action_suggestion_cn": "关注研究详细结果，评估AI教育工具效果。",
-      "importance_score": 7,
+      "date_display": "2026-09-08",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Danijar Hafner创办 stealth 初创，开发能提前规划应对意外的AI智能体。",
+      "short_summary_cn": "MIT Technology Review报道，AI研究者Danijar Hafner在旧金山创办一家仍处于隐身模式的初创公司，致力于开发能够提前规划、应对意外情况的AI智能体。公司规模尚小，但方向聚焦于前瞻性自主规划能力。",
+      "why_it_matters_cn": "前瞻性规划是AI智能体走向实用的关键能力，可能推动自动化决策升级。",
+      "action_suggestion_cn": "关注该初创后续融资与产品发布，跟踪AI规划智能体技术进展。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI教育研究重要发现。",
-      "frontpage_reason_cn": "AI在教育领域的效果研究。",
+      "tracking_value": 7,
+      "editor_reason_cn": "AI智能体前沿方向，创业者背景值得关注。",
+      "frontpage_reason_cn": "AI智能体规划能力是行业热点，具前瞻性。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能影响教育机构对AI的态度。",
-        "medium_term_impact_cn": "AI教育工具需求可能增加。",
-        "long_term_impact_cn": "AI可能成为教育标配工具。",
+        "immediate_impact_cn": "引发对AI规划智能体的讨论，关注度上升。",
+        "medium_term_impact_cn": "相关技术或吸引投资，推动智能体产品迭代。",
+        "long_term_impact_cn": "前瞻规划智能体或改变自动化与决策系统格局。",
         "affected_sectors": [
-          "教育",
-          "AI"
+          "AI",
+          "自动化",
+          "机器人",
+          "企业软件"
         ],
         "affected_assets": [
-          "教育科技股"
+          "AI初创概念",
+          "自动化相关股票"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
-        "risk_level": "low",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "研究具体结论？",
-          "对教育政策有何影响？"
+          "公司名称与融资情况？",
+          "技术路线与差异化？",
+          "何时产品化？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
-      "is_old_context": true
+      "is_old_context": false,
+      "frontpage_rank": 4
     },
     {
-      "index": 2,
-      "title_cn": "谷歌重启核电站获美国政府19亿美元贷款",
+      "index": 5,
+      "title_cn": "地下氢能勘探与OpenAI失控智能体",
+      "source": "MIT Technology Review",
+      "source_display_name": "MIT Technology Review",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-07",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "MIT科技评论日报关注地下氢能勘探热潮及OpenAI失控智能体事件。",
+      "short_summary_cn": "MIT Technology Review每日简报聚焦两大话题：一是全球多地掀起地下氢气勘探热潮，或成零碳燃料重要来源；二是关于OpenAI失控智能体的更多讨论。内容为综合简报，覆盖能源与AI安全。",
+      "why_it_matters_cn": "地下氢能或改变能源格局，AI失控智能体则关乎安全治理。",
+      "action_suggestion_cn": "关注地下氢能勘探进展与AI智能体安全治理动态。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "能源与AI安全双热点，信息密度高。",
+      "frontpage_reason_cn": "氢能与AI安全均为长期重要议题。",
+      "impact_analysis": {
+        "immediate_impact_cn": "氢能勘探与AI安全话题热度上升。",
+        "medium_term_impact_cn": "氢能投资或增加，AI智能体安全标准讨论升温。",
+        "long_term_impact_cn": "地下氢能或重塑能源结构，AI安全治理影响行业规范。",
+        "affected_sectors": [
+          "能源",
+          "AI",
+          "清洁技术",
+          "政策"
+        ],
+        "affected_assets": [
+          "氢能概念股",
+          "AI安全相关"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "地下氢能商业化前景？",
+          "OpenAI失控智能体具体事件？",
+          "AI安全监管走向？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 6,
+      "title_cn": "苹果秋季发布会全汇总：折叠屏iPhone Duo亮相",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
-      "category": "politics_world",
+      "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-08",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "谷歌参与的爱荷华州核电站重启项目获美国能源部19亿美元贷款支持。",
-      "short_summary_cn": "谷歌宣布将重启爱荷华州一座核电站，该核电站所有者已获得美国能源部19亿美元贷款。此举显示谷歌在清洁能源领域的重大投资。",
-      "why_it_matters_cn": "结合AI与能源政策，显示科技巨头在能源领域的布局，影响能源政策和科技公司战略。",
-      "action_suggestion_cn": "关注核能政策动向及谷歌能源投资对科技股的影响。",
-      "importance_score": 10,
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果发布首款折叠屏iPhone Duo及常听Apple Watch等全系新品。",
+      "short_summary_cn": "苹果秋季发布会推出首款折叠屏手机iPhone Duo，以及可常听的Apple Watch等新品。发布会涵盖iPhone、Watch、AirPods等多条产品线，AI功能成为贯穿亮点。",
+      "why_it_matters_cn": "苹果首款折叠屏标志产品线重大扩展，AI穿戴设备竞争加剧。",
+      "action_suggestion_cn": "关注苹果新品定价与发售时间，评估供应链与竞品影响。",
+      "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 8,
-      "editor_reason_cn": "科技与能源政策交叉重大事件。",
-      "frontpage_reason_cn": "涉及科技巨头和政府政策，影响广泛。",
+      "editor_reason_cn": "苹果年度重磅发布会，产品线全面更新。",
+      "frontpage_reason_cn": "折叠屏iPhone首秀，全球科技媒体焦点。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能提振核能相关股票，市场关注清洁能源政策。",
-        "medium_term_impact_cn": "科技公司参与核能项目可能增加，影响能源市场结构。",
-        "long_term_impact_cn": "AI数据中心能源需求可能推动核能复兴。",
+        "immediate_impact_cn": "苹果股价与供应链短线波动，折叠屏概念升温。",
+        "medium_term_impact_cn": "折叠屏与AI穿戴设备竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "苹果产品形态与AI战略影响消费电子长期格局。",
         "affected_sectors": [
-          "能源",
-          "科技",
-          "公用事业"
+          "消费电子",
+          "半导体",
+          "AI穿戴",
+          "供应链"
         ],
         "affected_assets": [
-          "GOOGL",
-          "核能ETF",
-          "铀矿股"
+          "苹果股票",
+          "折叠屏供应链",
+          "AI芯片"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "iPhone Duo定价与销量预期？",
+          "AI功能隐私争议？",
+          "供应链受益标的？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 6
+    },
+    {
+      "index": 7,
+      "title_cn": "苹果发布Watch Series 12与Ultra 4",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果推出Watch Series 12与Ultra 4，新增AI音频智能可回顾日常对话。",
+      "short_summary_cn": "苹果发布Apple Watch Series 12和Watch Ultra 4，主打AI升级，新增“音频智能”功能，可回放和记忆日常对话细节。苹果借此进军AI穿戴设备市场，但隐私与同意问题随之而来。",
+      "why_it_matters_cn": "AI穿戴设备竞争升级，常听功能引发隐私与合规讨论。",
+      "action_suggestion_cn": "关注AI穿戴设备隐私政策与竞品反应，评估相关供应链机会。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "苹果AI穿戴新品，隐私议题具争议性。",
+      "frontpage_reason_cn": "AI穿戴与隐私话题结合，关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "AI穿戴设备讨论升温，隐私争议浮现。",
+        "medium_term_impact_cn": "竞品跟进AI穿戴功能，监管关注度上升。",
+        "long_term_impact_cn": "常听AI设备或改变人机交互与隐私规范。",
+        "affected_sectors": [
+          "消费电子",
+          "AI穿戴",
+          "隐私合规"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "可穿戴供应链"
         ],
         "us_stock_relevance": "high",
         "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "核电站重启时间表？",
-          "对谷歌碳排放目标有何影响？"
+          "音频智能的隐私处理方式？",
+          "监管是否介入？",
+          "竞品如何应对？"
         ]
       },
       "us_market_relevance": "high",
-      "is_recent": false,
+      "is_recent": true,
       "is_old_context": false,
-      "frontpage_rank": 2
+      "frontpage_rank": 7
+    },
+    {
+      "index": 8,
+      "title_cn": "苹果发布首款折叠屏iPhone Duo",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果首款折叠屏iPhone Duo采用更宽形态，展开后视频比例更佳。",
+      "short_summary_cn": "苹果正式发布首款折叠屏手机iPhone Duo，采用比早期折叠屏更宽的外形设计，展开后观看视频的宽高比更佳。这标志着苹果正式进入折叠屏市场，产品形态与竞品形成差异。",
+      "why_it_matters_cn": "苹果入局折叠屏，或重塑折叠屏市场格局与供应链。",
+      "action_suggestion_cn": "关注折叠屏供应链与竞品定价策略，评估市场接受度。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "苹果首款折叠屏，行业里程碑事件。",
+      "frontpage_reason_cn": "折叠屏iPhone首秀，全球关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "折叠屏概念股与供应链短线活跃。",
+        "medium_term_impact_cn": "折叠屏市场竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "苹果折叠屏或推动折叠形态成为主流。",
+        "affected_sectors": [
+          "消费电子",
+          "折叠屏供应链",
+          "显示面板"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "折叠屏供应链",
+          "面板厂商"
+        ],
+        "us_stock_relevance": "very_high",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "iPhone Duo定价？",
+          "铰链与屏幕供应商？",
+          "销量预期？"
+        ]
+      },
+      "us_market_relevance": "very_high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 8
     },
     {
       "index": 9,
-      "title_cn": "最高法院强制电视台低价出售选举广告",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
+      "title_cn": "苹果发布iPhone 18 Pro相机升级",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "美国最高法院裁决，电视台必须以最低价格向政党出售选举广告。",
-      "short_summary_cn": "美国最高法院作出裁决，要求电视台以最低广告价格向政党提供选举广告时段。这一裁决被视为共和党的胜利。",
-      "why_it_matters_cn": "影响美国选举广告市场和媒体政治生态。",
-      "action_suggestion_cn": "关注裁决对选举广告市场的影响。",
+      "key_takeaway_cn": "苹果推出iPhone 18 Pro，相机升级并新增酒红色配色。",
+      "short_summary_cn": "苹果发布iPhone 18 Pro系列，主要升级相机系统，并新增酒红色外观。作为年度旗舰更新，Pro系列继续强化影像能力，巩固高端市场定位。",
+      "why_it_matters_cn": "iPhone Pro持续升级影像，影响高端手机竞争与供应链。",
+      "action_suggestion_cn": "关注iPhone 18 Pro定价与预售情况，评估影像供应链机会。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "美国政治和媒体政策重大变化。",
-      "frontpage_reason_cn": "影响美国选举和媒体行业。",
+      "editor_reason_cn": "苹果旗舰机型更新，市场关注度高。",
+      "frontpage_reason_cn": "iPhone Pro年度更新，消费者关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能影响电视台广告收入。",
-        "medium_term_impact_cn": "政党广告投放成本可能降低。",
-        "long_term_impact_cn": "可能改变选举广告市场格局。",
+        "immediate_impact_cn": "苹果股价与供应链短线反应。",
+        "medium_term_impact_cn": "高端手机影像竞争加剧，供应链订单调整。",
+        "long_term_impact_cn": "影像能力持续影响高端手机换机周期。",
         "affected_sectors": [
-          "媒体",
-          "政治"
+          "消费电子",
+          "光学影像",
+          "半导体"
         ],
         "affected_assets": [
-          "电视台股票"
+          "苹果股票",
+          "影像供应链"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
         "follow_up_questions": [
-          "裁决具体内容？",
-          "对电视台收入影响多大？"
+          "相机具体升级点？",
+          "定价策略？",
+          "销量预期？"
         ]
       },
-      "us_market_relevance": "medium",
+      "us_market_relevance": "high",
       "is_recent": true,
       "is_old_context": false
     },
     {
       "index": 10,
-      "title_cn": "谷歌称欧盟规定导致旅行搜索结果降级",
+      "title_cn": "欧洲或现航天创业新星",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
-      "category": "politics_world",
+      "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-09",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "谷歌表示遵守欧盟旅行搜索规定导致搜索结果质量下降。",
-      "short_summary_cn": "谷歌表示，为了遵守欧盟的反竞争规定，其旅行搜索结果质量有所下降。这显示了科技公司与监管机构之间的持续紧张关系。",
-      "why_it_matters_cn": "反映科技监管对用户体验和公司策略的影响。",
-      "action_suggestion_cn": "关注欧盟对科技公司的监管动态。",
+      "key_takeaway_cn": "欧洲航天或迎来一位法国创业新星，强调大火箭与高频率发射。",
+      "short_summary_cn": "Ars Technica报道，在欧洲航天发展乏力之际，一位崛起的法国航天创业者可能带来转机。其核心理念是“没有大火箭和高频率发射，我们就无法保持相关性”。这反映欧洲商业航天追赶SpaceX的紧迫感。",
+      "why_it_matters_cn": "欧洲商业航天若崛起，将改变全球发射市场竞争格局。",
+      "action_suggestion_cn": "关注该法国航天公司融资与技术进展，跟踪欧洲航天政策动向。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "科技监管重要案例。",
-      "frontpage_reason_cn": "科技公司与监管机构冲突。",
+      "editor_reason_cn": "欧洲航天竞争格局潜在变化，值得跟踪。",
+      "frontpage_reason_cn": "商业航天全球竞争，欧洲新星具话题性。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能影响谷歌在欧洲的用户满意度。",
-        "medium_term_impact_cn": "其他科技公司可能面临类似监管压力。",
-        "long_term_impact_cn": "科技监管可能重塑搜索市场。",
+        "immediate_impact_cn": "欧洲航天创业话题升温。",
+        "medium_term_impact_cn": "或吸引投资，推动欧洲发射能力建设。",
+        "long_term_impact_cn": "全球商业航天竞争格局或生变。",
         "affected_sectors": [
-          "科技",
-          "在线旅游"
+          "航天",
+          "卫星",
+          "国防"
         ],
         "affected_assets": [
-          "GOOGL",
-          "旅游搜索公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "mixed",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "欧盟具体规定是什么？",
-          "谷歌会如何应对？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
-    },
-    {
-      "index": 12,
-      "title_cn": "英国制裁约旦河西岸定居点引发以色列强烈反应",
-      "source": "BBC News",
-      "source_display_name": "BBC News",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "英国宣布制裁约旦河西岸定居点，以色列关闭英国驻东耶路撒冷领事馆回应。",
-      "short_summary_cn": "英国外交大臣指责定居者实施“种族清洗”，并宣布制裁约旦河西岸定居点。以色列对此作出强烈反应，关闭了英国驻东耶路撒冷领事馆。",
-      "why_it_matters_cn": "国际政治紧张局势升级，影响中东和平进程和外交关系。",
-      "action_suggestion_cn": "关注事态发展，评估对国际关系和地区稳定的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "重大国际政治事件。",
-      "frontpage_reason_cn": "国际关系紧张升级。",
-      "impact_analysis": {
-        "immediate_impact_cn": "可能影响英镑和以色列谢克尔汇率。",
-        "medium_term_impact_cn": "中东和平进程可能受阻。",
-        "long_term_impact_cn": "国际社会对以色列政策可能更趋强硬。",
-        "affected_sectors": [
-          "外交",
-          "地缘政治"
-        ],
-        "affected_assets": [
-          "英镑",
-          "以色列资产"
+          "航天概念股",
+          "欧洲防务"
         ],
         "us_stock_relevance": "low",
-        "market_sentiment": "risk_off",
-        "risk_level": "high",
+        "market_sentiment": "unclear",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "制裁具体内容？",
-          "其他国家会跟进吗？"
+          "公司名称与融资？",
+          "火箭技术路线？",
+          "欧洲航天政策支持？"
         ]
       },
       "us_market_relevance": "low",
@@ -3072,45 +1874,410 @@
       "is_old_context": false
     },
     {
-      "index": 13,
-      "title_cn": "报告警告数千名青少年教育缺失未被官方统计",
-      "source": "BBC News",
-      "source_display_name": "BBC News",
-      "category": "politics_world",
-      "news_type": "politics",
-      "date_display": "2026-09-09",
+      "index": 11,
+      "title_cn": "Anthropic研究员离职警告AI可能毁灭人类",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
       "freshness_label": "今日新情报",
-      "key_takeaway_cn": "英国儿童专员报告称，数千名青少年虽注册学院但未实际到课，教育缺失未被统计。",
-      "short_summary_cn": "英国儿童专员警告，数千名青少年虽然注册了学院，但并未实际到课，这些教育缺失情况未被官方统计覆盖。",
-      "why_it_matters_cn": "反映教育系统漏洞，可能影响青少年发展和政策制定。",
-      "action_suggestion_cn": "关注英国教育政策动态。",
+      "key_takeaway_cn": "Anthropic研究员离职并警告自我改进AI可能“杀死我们所有人”。",
+      "short_summary_cn": "Anthropic一名研究员离职并发出警告，称自我改进的AI可能“杀死我们所有人”，并强调“我们真的真诚地相信AI可能杀死全人类”。此番言论再次将AI安全与存在性风险推向舆论焦点。",
+      "why_it_matters_cn": "AI安全与存在性风险讨论升温，或影响监管与行业声誉。",
+      "action_suggestion_cn": "关注AI安全治理与监管动态，评估对AI公司声誉与政策的影响。",
       "importance_score": 9,
       "urgency_score": 3,
       "collector_value": 2,
       "tracking_value": 7,
-      "editor_reason_cn": "社会政策重要问题。",
-      "frontpage_reason_cn": "教育问题社会关注度高。",
+      "editor_reason_cn": "AI安全重磅警告，行业影响深远。",
+      "frontpage_reason_cn": "AI存在性风险话题具冲击力。",
       "impact_analysis": {
-        "immediate_impact_cn": "可能引发英国国内政策讨论。",
-        "medium_term_impact_cn": "教育政策可能调整。",
-        "long_term_impact_cn": "影响英国青少年人力资本发展。",
+        "immediate_impact_cn": "AI安全话题热度飙升，舆论关注。",
+        "medium_term_impact_cn": "或推动AI安全监管与行业自律讨论。",
+        "long_term_impact_cn": "AI存在性风险治理影响技术发展路径。",
         "affected_sectors": [
-          "教育",
-          "公共政策"
+          "AI",
+          "政策",
+          "安全"
         ],
         "affected_assets": [
-          "无直接影响"
+          "AI公司股票",
+          "安全概念"
         ],
-        "us_stock_relevance": "none",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "离职研究员具体身份？",
+          "Anthropic官方回应？",
+          "监管是否跟进？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 13,
+      "title_cn": "Paul Christiano加入OpenAI基金会董事会",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI Blog",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会。",
+      "short_summary_cn": "OpenAI宣布Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会。Christiano在AI对齐、安全与标准方面经验丰富，此举被视为OpenAI强化安全治理的信号。",
+      "why_it_matters_cn": "OpenAI强化安全治理，AI对齐专家进入决策层影响行业方向。",
+      "action_suggestion_cn": "关注OpenAI安全治理架构变化及其对AI政策的影响。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 7,
+      "editor_reason_cn": "OpenAI治理层重要人事，安全议题受关注。",
+      "frontpage_reason_cn": "AI安全专家进入OpenAI董事会，具信号意义。",
+      "impact_analysis": {
+        "immediate_impact_cn": "OpenAI安全治理信号释放，行业关注。",
+        "medium_term_impact_cn": "或影响OpenAI安全政策与行业标准。",
+        "long_term_impact_cn": "AI对齐与安全治理影响技术发展路径。",
+        "affected_sectors": [
+          "AI",
+          "政策",
+          "安全"
+        ],
+        "affected_assets": [
+          "OpenAI相关概念",
+          "AI安全"
+        ],
+        "us_stock_relevance": "low",
         "market_sentiment": "unclear",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体有多少青少年受影响？",
-          "政府将采取什么措施？"
+          "Christiano具体职责？",
+          "对OpenAI安全政策影响？",
+          "行业连锁反应？"
         ]
       },
-      "us_market_relevance": "none",
+      "us_market_relevance": "low",
       "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 14,
+      "title_cn": "苹果健康App将计算健康年龄与准备度",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果改版健康App将用Apple Intelligence计算健康年龄与准备度评分。",
+      "short_summary_cn": "苹果改版Health应用，将利用Apple Intelligence更好地解读健康数据，并新增“健康年龄”和“准备度评分”功能。这显示苹果在健康AI领域持续加码，强化生态粘性。",
+      "why_it_matters_cn": "健康AI功能增强苹果生态，数字健康市场竞争加剧。",
+      "action_suggestion_cn": "关注健康AI功能隐私政策与竞品动态，评估数字健康市场机会。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 4,
+      "tracking_value": 6,
+      "editor_reason_cn": "苹果健康AI功能更新，具实用价值。",
+      "frontpage_reason_cn": "健康AI与苹果生态结合，关注度中等。",
+      "impact_analysis": {
+        "immediate_impact_cn": "健康AI功能引发讨论。",
+        "medium_term_impact_cn": "数字健康竞争加剧，用户数据隐私关注上升。",
+        "long_term_impact_cn": "健康AI或改变个人健康管理方式。",
+        "affected_sectors": [
+          "数字健康",
+          "AI",
+          "可穿戴"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "数字健康概念"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "健康年龄算法依据？",
+          "数据隐私如何处理？",
+          "竞品如何应对？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 15,
+      "title_cn": "OpenAI董事会新增知名AI末日论者",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "AI对齐研究者Paul Christiano加入OpenAI基金会董事会。",
+      "short_summary_cn": "TechCrunch报道，专注AI对齐的有影响力研究者Paul Christiano加入OpenAI基金会董事会。Christiano被视为AI安全领域的“末日论者”代表之一，此举凸显OpenAI对安全议题的重视。",
+      "why_it_matters_cn": "AI安全代表人物进入OpenAI治理层，影响行业安全导向。",
+      "action_suggestion_cn": "关注OpenAI安全治理动向及其对AI政策讨论的影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "与第13条同源，补充TechCrunch视角。",
+      "frontpage_reason_cn": "AI安全人物进入OpenAI董事会，具话题性。",
+      "impact_analysis": {
+        "immediate_impact_cn": "AI安全治理话题升温。",
+        "medium_term_impact_cn": "或影响OpenAI安全政策与行业标准。",
+        "long_term_impact_cn": "AI安全治理影响技术发展路径。",
+        "affected_sectors": [
+          "AI",
+          "政策",
+          "安全"
+        ],
+        "affected_assets": [
+          "OpenAI相关概念",
+          "AI安全"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "Christiano具体职责？",
+          "对OpenAI安全政策影响？",
+          "行业连锁反应？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 16,
+      "title_cn": "苹果新CEO重拾乔布斯25年前策略",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果新CEO John Ternus首场主题演讲强调iPhone核心地位不变。",
+      "short_summary_cn": "苹果新任CEO John Ternus在首场主题演讲中，重申iPhone仍是核心产品，并重拾乔布斯25年前的聚焦策略。这显示苹果在AI时代仍以iPhone为战略中心，延续产品聚焦哲学。",
+      "why_it_matters_cn": "苹果新CEO战略方向明确，iPhone核心地位影响产品与供应链。",
+      "action_suggestion_cn": "关注苹果新CEO战略与产品路线图，评估供应链与竞品影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "苹果管理层战略信号，具长期跟踪价值。",
+      "frontpage_reason_cn": "苹果新CEO首秀，战略方向受关注。",
+      "impact_analysis": {
+        "immediate_impact_cn": "苹果战略方向引发讨论。",
+        "medium_term_impact_cn": "产品聚焦策略影响供应链与竞品。",
+        "long_term_impact_cn": "苹果AI时代战略影响消费电子格局。",
+        "affected_sectors": [
+          "消费电子",
+          "AI",
+          "供应链"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "供应链"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "新CEO战略细节？",
+          "iPhone在AI战略中的角色？",
+          "供应链影响？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 17,
+      "title_cn": "Apple Watch新AI功能引发常听隐私争议",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Apple Watch新AI功能可转录近期语音，引发同意与隐私争议。",
+      "short_summary_cn": "Apple Watch新增AI功能可转录近期语音并总结环境对话，苹果称不保存原始音频，但仍引发对同意、隐私及人们行为改变的质疑。这反映常听设备带来的社会与伦理挑战。",
+      "why_it_matters_cn": "常听AI设备引发隐私与同意争议，监管与用户信任受考验。",
+      "action_suggestion_cn": "关注隐私政策与监管反应，评估常听AI设备的社会接受度。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "AI穿戴隐私争议，具社会讨论价值。",
+      "frontpage_reason_cn": "常听AI与隐私冲突，话题性强。",
+      "impact_analysis": {
+        "immediate_impact_cn": "隐私争议升温，用户关注。",
+        "medium_term_impact_cn": "监管或介入，竞品隐私策略调整。",
+        "long_term_impact_cn": "常听AI设备影响社会行为与隐私规范。",
+        "affected_sectors": [
+          "消费电子",
+          "AI穿戴",
+          "隐私合规"
+        ],
+        "affected_assets": [
+          "苹果股票",
+          "可穿戴供应链"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "音频数据处理方式？",
+          "监管是否介入？",
+          "用户接受度？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 18,
+      "title_cn": "苹果新机发布后旧款iPhone涨价100美元",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "苹果将iPhone 16、17及Air等旧款机型价格上调100美元。",
+      "short_summary_cn": "在新iPhone发布之际，苹果将现有iPhone机型价格上调100美元，涉及iPhone 16、iPhone 17和iPhone Air。此举或为引导消费者转向新品，同时提升旧款利润空间。",
+      "why_it_matters_cn": "苹果定价策略调整，影响消费者选择与销量结构。",
+      "action_suggestion_cn": "关注苹果定价策略对销量与利润的影响，评估供应链与竞品反应。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "苹果定价策略变化，具市场影响。",
+      "frontpage_reason_cn": "iPhone涨价话题具消费者关注度。",
+      "impact_analysis": {
+        "immediate_impact_cn": "消费者与市场关注涨价。",
+        "medium_term_impact_cn": "或影响旧款销量与新品转化率。",
+        "long_term_impact_cn": "定价策略影响苹果市场份额与利润。",
+        "affected_sectors": [
+          "消费电子",
+          "零售"
+        ],
+        "affected_assets": [
+          "苹果股票"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "mixed",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "涨价原因？",
+          "销量影响？",
+          "竞品是否跟进？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 2,
+      "title_cn": "特朗普称伊朗战争将持续至11月大选后",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-09-10",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "特朗普称伊朗战争不会在11月美国大选前结束，油价也将持续高企。",
+      "short_summary_cn": "特朗普表示伊朗战争将持续到11月美国大选之后，并称油价在此之前不会回落。他还无证据地声称伊朗意图影响美国选举。此番言论将地缘冲突与美国国内政治直接挂钩。",
+      "why_it_matters_cn": "地缘冲突与选举政治交织，油价与市场波动风险上升。",
+      "action_suggestion_cn": "关注油价、能源股及避险资产走势，评估地缘风险对投资组合的影响。",
+      "importance_score": 10,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 8,
+      "editor_reason_cn": "重大地缘政治与选举交叉事件，影响面广。",
+      "frontpage_reason_cn": "涉及战争、油价与大选，全球关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "油价与避险资产短线波动，市场情绪偏谨慎。",
+        "medium_term_impact_cn": "能源价格维持高位，通胀预期与选举博弈升温。",
+        "long_term_impact_cn": "中东局势持续影响全球能源格局与地缘秩序。",
+        "affected_sectors": [
+          "能源",
+          "国防",
+          "航运",
+          "大宗商品"
+        ],
+        "affected_assets": [
+          "原油",
+          "黄金",
+          "美元",
+          "能源股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "伊朗战争实际进展如何？",
+          "油价对通胀与美联储政策的影响？",
+          "选举结果对局势的潜在改变？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 2
+    },
+    {
+      "index": 12,
+      "title_cn": "如何在谷歌广告上投放恶意软件",
+      "source": "Hacker News",
+      "source_display_name": "Hacker News",
+      "category": "politics_world",
+      "news_type": "general",
+      "date_display": "2026-09-09",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "文章详述如何在谷歌广告平台投放恶意软件，引发安全与平台治理讨论。",
+      "short_summary_cn": "Hacker News热帖分享一篇关于如何在Google Ads上投放恶意软件的文章，获得378点与225条评论。内容揭示广告平台在恶意软件分发中的漏洞，引发对平台审核与网络安全的广泛讨论。",
+      "why_it_matters_cn": "广告平台安全漏洞威胁用户，平台治理与监管压力上升。",
+      "action_suggestion_cn": "关注谷歌广告安全政策更新，企业应审查自身广告投放与防护。",
+      "importance_score": 9,
+      "urgency_score": 3,
+      "collector_value": 2,
+      "tracking_value": 6,
+      "editor_reason_cn": "网络安全与平台治理热点，社区讨论热烈。",
+      "frontpage_reason_cn": "恶意软件与广告平台安全，具警示性。",
+      "impact_analysis": {
+        "immediate_impact_cn": "谷歌广告安全漏洞引发关注。",
+        "medium_term_impact_cn": "平台或加强审核，广告安全政策调整。",
+        "long_term_impact_cn": "数字广告安全治理影响平台信任与监管。",
+        "affected_sectors": [
+          "数字广告",
+          "网络安全",
+          "平台经济"
+        ],
+        "affected_assets": [
+          "谷歌股票",
+          "安全公司"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "谷歌如何回应？",
+          "漏洞是否已修复？",
+          "监管是否介入？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
       "is_old_context": false
     }
   ]
