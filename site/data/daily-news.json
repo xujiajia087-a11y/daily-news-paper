@@ -1,382 +1,380 @@
 {
   "metadata": {
     "report_title": "JiaJia Daily 情报日报",
-    "report_date": "2026年09月13日",
-    "report_weekday": "星期日",
-    "generated_at": "2026-09-13 13:27",
+    "report_date": "2026年09月14日",
+    "report_weekday": "星期一",
+    "generated_at": "2026-09-14 13:31",
     "timezone": "Australia/Perth (UTC+8)",
     "data_window": "24h新闻 + 7d市场事件 + 90d动漫活动",
     "total_fetched": 297,
     "after_dedupe": 176,
     "selected_count": 30,
     "frontpage_count": 8,
-    "anime_event_count": 12,
-    "market_related_count": 14,
+    "anime_event_count": 8,
+    "market_related_count": 11,
     "watchlist_count": 5
   },
   "daily_overview": {
-    "one_sentence_cn": "今日AI领域密集释放信号：OpenAI与数学家矛盾升级、向美国政府提供优惠、黄仁勋喊出英伟达明年增长70%，同时动漫侧《死神》延期、《小圆》新预告等情报分散。",
-    "market_mood_cn": "AI叙事仍主导市场情绪，但OpenAI与学术界的摩擦、Anthropic放缓呼吁带来监管与伦理不确定性，整体偏多但波动风险上升。",
-    "anime_event_mood_cn": "动漫侧以延期、新预告、新系列公布为主，缺少高价值签名会或限定商品情报，整体氛围平稳偏日常。",
-    "what_to_watch_next_cn": "关注英伟达增长指引能否兑现、OpenAI政策与IPO动向、以及《死神》延期后10月排播是否再调整。"
+    "one_sentence_cn": "今日AI领域密集释放IPO信号与安全争议，OpenAI金融版ChatGPT和Altman对2026年上市的谨慎表态最值得关注；动漫侧以Otomate 20周年新作和《魔法少女小圆》新剧场版PV为亮点。",
+    "market_mood_cn": "AI叙事从狂热转向审慎，Altman与Anthropic CEO同步释放放缓信号，叠加安全漏洞与法律纠纷，短期情绪偏防御但金融落地仍提供支撑。",
+    "anime_event_mood_cn": "Otomate 20周年公布《薄樱鬼》新作，加上《魔法少女小圆》新剧场版PV和《吸血鬼骑士》时隔19年新连载，怀旧IP重启氛围浓厚。",
+    "what_to_watch_next_cn": "关注OpenAI IPO进程与监管政策窗口的互动、Anthropic安全事件后续，以及10月《死神》延期集数和《吸血鬼骑士》新连载的市场反应。"
   },
   "impact_map": {
     "anime_collecting": {
-      "level": "low",
-      "summary_cn": "今日动漫情报以播出延期、新预告和新系列公布为主，未出现签名会、限定周边或收藏级商品发售信息。",
+      "level": "medium",
+      "summary_cn": "Otomate 20周年公布《薄樱鬼》新作，怀旧乙女IP有望带动周边与游戏预约；《魔法少女小圆》新剧场版PV发布，手办与联名商品预期升温。",
       "related_count": 6,
-      "representative": "《死神：千年血战》第49、50集延期至10月19日、26日"
+      "representative": "Otomate公布薄樱鬼新作等游戏"
     },
     "japanese_events": {
-      "level": "low",
-      "summary_cn": "今日未发现日本线下活动、展会或签名会的高价值情报，动漫相关消息多为作品排播与制作动态。",
-      "related_count": 0,
-      "representative": "无"
+      "level": "medium",
+      "summary_cn": "《死神：千年血战》第49、50集延期至10月19日和26日，短期播出节奏被打乱；《吸血鬼骑士》新系列10月9日连载，经典IP回归值得关注。",
+      "related_count": 4,
+      "representative": "《死神：千年血战》第49、50集延期"
     },
     "ai_tech": {
       "level": "high",
-      "summary_cn": "OpenAI多线出击：与数学家矛盾升级、向美国政府提供五折优惠、推出金融版ChatGPT和Images 2.5；黄仁勋给出英伟达明年70%增长指引，AI算力叙事继续强化。",
-      "related_count": 22,
-      "representative": "黄仁勋解释英伟达明年增长70%"
+      "summary_cn": "OpenAI金融版ChatGPT、IPO信号、Altman与Anthropic CEO同步放缓表态、Claude生物武器防护绕过事件，构成今日AI最高密度情报。",
+      "related_count": 20,
+      "representative": "OpenAI推出金融服务版ChatGPT"
     },
     "us_stocks": {
-      "level": "high",
-      "summary_cn": "英伟达增长指引、OpenAI政府合作与金融版产品发布，对AI算力、金融科技和软件板块形成催化，但OpenAI与学术界冲突及Anthropic放缓呼吁构成情绪扰动。",
-      "related_count": 5,
-      "representative": "黄仁勋称英伟达明年将增长70%"
+      "level": "medium",
+      "summary_cn": "OpenAI金融版ChatGPT和IPO动向可能影响AI应用与金融科技板块情绪，但安全争议和放缓信号压制整体风险偏好。",
+      "related_count": 4,
+      "representative": "Altman称2026年IPO不明智"
     },
     "politics_risk": {
       "level": "medium",
-      "summary_cn": "OpenAI与GSA合作向政府提供AI优惠，显示AI政策窗口正在打开；同时Revolut数据泄露和律师引用ChatGPT虚假证词事件提示合规与安全风险。",
-      "related_count": 4,
-      "representative": "OpenAI向美国政府提供AI优惠"
+      "summary_cn": "加拿大总理卡尼寻求与欧盟建立独特联盟，美加贸易战升级；OpenAI向美国政府提供免费AI许可，政策与地缘交织。",
+      "related_count": 3,
+      "representative": "卡尼寻求与欧盟建立独特联盟"
     },
     "future_watchlist": {
       "level": "medium",
-      "summary_cn": "需追踪OpenAI IPO表态、Anthropic放缓计划、英伟达增长兑现节奏，以及《死神》延期后10月动漫排播变化。",
+      "summary_cn": "OpenAI IPO时间表、Anthropic安全事件后续、10月动漫播出与连载节点，是未来数周需持续追踪的关键线索。",
       "related_count": 5,
-      "representative": "Altman称2026年IPO不明智"
+      "representative": "OpenAI IPO进程"
     }
   },
   "executive_brief": {
     "top_5_judgements": [
-      "OpenAI与25位数学家矛盾升级，AI实验室与学术界的知识产权摩擦可能成为监管新焦点。",
-      "OpenAI向美国政府提供零许可费和五折优惠，AI政策窗口期正在被头部厂商主动卡位。",
-      "黄仁勋喊出英伟达明年增长70%，若兑现将强化AI算力链的盈利叙事，但需警惕预期过高。",
-      "Altman称2026年IPO不明智，短期缓解OpenAI上市对市场的抽血担忧，但长期融资路径仍不清晰。",
-      "Anthropic CEO提出放缓AI前沿发展，与OpenAI激进扩张形成路线分歧，AI安全议题重回台面。"
+      "OpenAI金融版ChatGPT结合GPT-6 Astra，标志AI向高价值垂直行业渗透，金融科技竞争格局可能重塑。",
+      "Altman称2026年IPO不明智，但已秘密提交申请，显示OpenAI在资本与监管之间走钢丝，上市节奏或延后。",
+      "Altman与Anthropic CEO同步释放放缓前沿AI发展信号，行业从军备竞赛转向安全叙事，短期融资情绪或降温。",
+      "Claude用户绕过生物武器研究防护，AI安全治理从理论风险变为现实漏洞，监管压力将上升。",
+      "Otomate 20周年与《魔法少女小圆》新剧场版构成动漫怀旧IP重启潮，周边与联名商业价值值得提前布局。"
     ],
     "anime_merch_signing_highlights": [
-      "《魔法少女小圆-瓦尔普吉斯之夜：崛起-》新预告与视觉图发布，关注后续剧场版周边与联动。",
-      "《吸血鬼记录》19年后出新系列，10月9日启动，老IP复活可能带动收藏品关注。",
-      "《Orb》作者Uoto将推两部新漫画，作者IP延续性值得追踪单行本与特装版。"
+      "Otomate 20周年《薄樱鬼》新作，乙女向周边和游戏预约有望带动收藏热度。",
+      "《魔法少女小圆-瓦尔普吉斯之夜：崛起》新PV和视觉图，手办、联名商品预期升温。",
+      "《吸血鬼骑士》19年后新系列10月9日连载，经典IP回归或引发旧周边二次流通。"
     ],
     "ai_tech_highlights": [
-      "OpenAI推出ChatGPT for Financial Services，结合金融数据和GPT-6 Astra，金融AI落地加速。",
-      "GPT-5.6 Sol助力量子计算实验，AI自主运行并校准量子比特，科研自动化再进一步。",
-      "OpenAI将Habitat扩展为服务10亿ChatGPT用户的全球存储平台，基础设施野心显现。",
-      "Claude用户绕过生物武器研究防护，AI安全护栏被突破，双用途风险需高度警惕。",
-      "Paul Christiano加入OpenAI基金会董事会及安全委员会，对齐派话语权上升。"
+      "OpenAI推出金融服务版ChatGPT，结合金融数据和GPT-6 Astra。",
+      "Altman称2026年IPO不明智，但OpenAI已秘密提交IPO申请。",
+      "Anthropic CEO提出放缓前沿AI发展计划，与Altman观点趋同。",
+      "Claude用户绕过安全防护进行生物武器研究，安全治理警钟。",
+      "GPT-5.6 Sol助力量子计算实验，AI自主科研能力再进一步。"
     ],
     "politics_highlights": [
-      "OpenAI与GSA合作向联邦及地方政府提供AI优惠，政府AI采购与合规框架可能加速成型。",
-      "Revolut因虚假政府请求导致客户数据泄露，金融科技数据安全与身份验证风险再受关注。",
-      "新墨西哥州律师因引用ChatGPT虚假证词受罚，AI生成内容在司法场景的可靠性问题凸显。"
+      "加拿大总理卡尼在美加贸易战升级之际寻求与欧盟建立独特联盟。",
+      "OpenAI与GSA合作向美国政府提供免费AI许可和五折使用优惠。",
+      "Revolut因虚假政府请求导致客户数据泄露，金融数据安全风险凸显。"
     ],
     "us_stock_market_impacts": [
-      "英伟达明年70%增长指引若被市场采信，利好AI算力、半导体设备及数据中心产业链。",
-      "OpenAI金融版ChatGPT可能对金融数据服务商和传统金融软件形成竞争压力。",
-      "OpenAI政府优惠合作利好AI应用与云服务板块，但可能引发其他AI厂商政策套利担忧。",
-      "Anthropic放缓呼吁与数学家冲突可能压制AI板块风险偏好，增加监管折价。"
+      "OpenAI金融版ChatGPT可能提振AI应用与金融科技板块，但具体标的尚不明确。",
+      "Altman与Anthropic CEO放缓表态或压制AI算力与前沿模型相关股票情绪。",
+      "Claude安全漏洞事件可能引发对AI安全合规成本的关注，利好安全类公司。",
+      "OpenAI IPO不确定性增加，一级市场估值传导至二级市场需谨慎。"
     ],
     "future_watchlist": [
-      "OpenAI IPO路径与Altman后续表态，关注2026年是否出现融资结构变化。",
-      "Anthropic放缓AI前沿发展的具体计划，是否影响其融资与算力采购节奏。",
-      "英伟达增长70%指引的季度兑现情况，关注数据中心订单与供应链信号。",
-      "《死神：千年血战》延期后10月19日、26日能否如期播出。",
-      "欧洲商业发射俱乐部进展及Ravn X动向，关注太空商业化竞争格局。"
+      "OpenAI IPO进程与监管政策窗口的互动。",
+      "Anthropic安全事件后续及监管反应。",
+      "《死神：千年血战》10月19日、26日延期集数播出。",
+      "《吸血鬼骑士》新系列10月9日连载开启。",
+      "《魔法少女小圆》新剧场版后续PV与上映日期。"
     ],
     "noise_or_low_priority": [
-      "ATV Big Air Tour用ChatGPT Work提效，属于应用案例，市场影响有限。",
-      "中亚Road to Battlefield获胜者公布，区域电竞新闻，与核心市场关联低。",
-      "MIT评选35岁以下生物技术创新者，荣誉性榜单，短期无直接交易含义。",
-      "OpenAI资助AI与青少年发展研究，社会议题，对市场情绪影响微弱。"
+      "ATV Big Air Tour用ChatGPT提效，个案价值有限。",
+      "律师因引用ChatGPT虚构证词被罚，属旧闻重复。",
+      "MIT讨论AI是否真能毁灭人类，观点性内容无新增信息。",
+      "YC Demo Day最受关注9家初创，早期项目噪音较大。"
     ],
-    "final_editor_note": "今日主线是AI巨头在政策、产品与算力叙事上的密集卡位，动漫侧缺少高价值收藏情报。市场对AI仍偏多，但学术冲突与安全事件是潜在扰动项。以上不构成投资建议。"
+    "final_editor_note": "今日情报核心矛盾在于AI行业一边加速商业化落地，一边主动释放放缓与安全信号。OpenAI金融版和IPO动向是短期交易线索，但安全漏洞与监管风险可能压制估值。动漫侧怀旧IP重启提供确定性收藏机会。以上分析不构成投资建议。"
   },
   "top_stories": [
     {
-      "index": 1,
-      "title_cn": "OpenAI与数学家矛盾升级",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "25位顶尖数学家联名公开信，指控AI实验室威胁其知识产权与学术工作。",
-      "short_summary_cn": "25位领先数学家签署公开信，认为AI实验室正在威胁他们的智力工作。OpenAI与数学界的矛盾持续升级，涉及训练数据版权与学术伦理争议。",
-      "why_it_matters_cn": "AI训练数据版权争议从创作者蔓延至学术圈，可能引发新一轮诉讼与监管关注。",
-      "action_suggestion_cn": "关注公开信全文及OpenAI回应，评估对AI训练数据合规政策的潜在影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI版权争议升级至学术权威层面，具有行业风向标意义。",
-      "frontpage_reason_cn": "OpenAI与数学家对立是AI伦理与版权冲突的标志性事件。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发学术界与AI公司之间的公开对立讨论。",
-        "medium_term_impact_cn": "可能推动AI训练数据版权立法或行业自律规范出台。",
-        "long_term_impact_cn": "重塑AI公司与学术界的合作关系与数据使用规则。",
-        "affected_sectors": [
-          "AI",
-          "学术出版",
-          "法律",
-          "版权"
-        ],
-        "affected_assets": [
-          "OpenAI相关概念股",
-          "AI版权诉讼相关标的"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "unclear",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "公开信具体诉求是什么？",
-          "OpenAI是否回应？",
-          "是否会有后续诉讼？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "OpenAI向美国政府提供AI优惠",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-10",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI与GSA合作，向联邦及地方政府提供零许可费和五折使用优惠。",
-      "short_summary_cn": "OpenAI与美国总务管理局合作，为符合条件的联邦、州、地方和部落政府提供0美元许可费、50%使用折扣及扩展网络防御支持。此举旨在扩大AI在政府部门的接入。",
-      "why_it_matters_cn": "AI巨头加速渗透政府市场，可能重塑公共部门技术采购格局与网络安全体系。",
-      "action_suggestion_cn": "关注GSA合同细节及对其他AI厂商的示范效应，评估政府AI采购趋势。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "OpenAI政府合作是AI商业化与政策结合的重要案例。",
-      "frontpage_reason_cn": "AI进入政府核心系统，涉及安全与采购双重议题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "政府机构可低成本接入OpenAI服务。",
-        "medium_term_impact_cn": "可能引发其他AI厂商跟进政府优惠策略。",
-        "long_term_impact_cn": "AI深度嵌入政府运作，改变公共服务与网络安全模式。",
-        "affected_sectors": [
-          "AI",
-          "政府IT",
-          "网络安全",
-          "云计算"
-        ],
-        "affected_assets": [
-          "OpenAI概念股",
-          "政府IT承包商"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "合同金额与期限？",
-          "是否涉及数据安全审查？",
-          "其他AI公司是否跟进？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "GPT-5.6 Sol助力量子计算实验",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
-      "short_summary_cn": "MIT研究员利用GPT-5.6 Sol配合Codex，自主运行量子计算实验、分析结果并校准量子比特。展示了AI在尖端科研中的自动化潜力。",
-      "why_it_matters_cn": "AI自主科研能力提升，可能加速量子计算等前沿领域突破。",
-      "action_suggestion_cn": "关注AI在科研自动化中的案例积累，评估对量子计算研发效率的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI+量子计算交叉领域，技术前沿性强。",
-      "frontpage_reason_cn": "AI自主运行量子实验是科研范式变革的信号。",
-      "impact_analysis": {
-        "immediate_impact_cn": "展示AI在复杂科研任务中的可行性。",
-        "medium_term_impact_cn": "可能推动更多实验室采用AI辅助科研。",
-        "long_term_impact_cn": "加速量子计算研发进程，改变科研人力结构。",
-        "affected_sectors": [
-          "AI",
-          "量子计算",
-          "科研自动化"
-        ],
-        "affected_assets": [
-          "量子计算概念股",
-          "AI科研工具公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "实验可复现性如何？",
-          "是否开源？",
-          "其他领域应用前景？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 4,
-      "title_cn": "黄仁勋解释英伟达明年增长70%",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "黄仁勋称英伟达明年将增长70%，并否认交易存在循环性。",
-      "short_summary_cn": "英伟达CEO黄仁勋表示公司明年将实现70%的惊人增长，强调其业务触角广泛。他坚称公司的交易并非循环性安排。",
-      "why_it_matters_cn": "英伟达增长预期直接影响AI芯片供应链与全球科技股走势。",
-      "action_suggestion_cn": "关注英伟达财报及供应链动态，评估70%增长预期的可信度与市场反应。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "英伟达是AI算力核心，增长预期对市场影响巨大。",
-      "frontpage_reason_cn": "黄仁勋给出具体增长数字，市场高度关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "提振AI芯片板块情绪。",
-        "medium_term_impact_cn": "影响供应链订单与竞争对手策略。",
-        "long_term_impact_cn": "决定AI算力市场格局与投资方向。",
-        "affected_sectors": [
-          "AI芯片",
-          "半导体",
-          "云计算"
-        ],
-        "affected_assets": [
-          "NVDA",
-          "AMD",
-          "台积电",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "70%增长的具体驱动？",
-          "循环交易质疑如何回应？",
-          "供应链能否跟上？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 5,
-      "title_cn": "律师因引用ChatGPT虚假证词受罚",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "新墨西哥州辩护律师因引用ChatGPT编造的虚假证人证词被处罚。",
-      "short_summary_cn": "一名新墨西哥州辩护律师因在法庭文件中引用ChatGPT生成的虚假证人证词而受到处罚。该律师称不知道AI会幻觉事实。此案凸显AI在法律实务中的风险。",
-      "why_it_matters_cn": "AI幻觉在法律领域造成实际后果，可能推动法律行业AI使用规范。",
-      "action_suggestion_cn": "关注法律行业AI使用指南及后续判例，评估AI工具合规风险。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI幻觉导致法律处罚，具有警示意义。",
-      "frontpage_reason_cn": "律师因AI虚假证词受罚，社会关注度高。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发法律界对AI工具使用的警惕。",
-        "medium_term_impact_cn": "可能推动律所制定AI使用政策。",
-        "long_term_impact_cn": "影响AI在法律行业的应用规范与责任界定。",
-        "affected_sectors": [
-          "法律",
-          "AI",
-          "合规"
-        ],
-        "affected_assets": [
-          "法律AI工具公司"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "处罚具体内容？",
-          "是否会上诉？",
-          "其他类似案例？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 5
-    },
-    {
-      "index": 6,
+      "index": 7,
       "title_cn": "Claude用户绕过生物武器研究防护",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "Claude用户找到绕过安全防护的方法，用于生物武器研究。",
-      "short_summary_cn": "有用户发现绕过Claude安全防护的方法，将其用于生物武器相关研究。部分危险生物学研究与合法研究难以区分，增加了AI安全防护的复杂性。",
-      "why_it_matters_cn": "AI安全防护被绕过涉及生物安全，可能引发监管与伦理危机。",
-      "action_suggestion_cn": "关注Anthropic的回应及AI生物安全防护改进措施。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "Claude用户找到绕过安全防护进行生物武器研究的方法",
+      "short_summary_cn": "有用户发现绕过Claude安全防护的方法，用于生物武器相关研究。危险生物学研究与合法研究界限模糊，使AI安全防护面临挑战。",
+      "why_it_matters_cn": "AI安全防护被绕过涉及生物安全，可能引发监管机构对AI实验室安全措施的审查。",
+      "action_suggestion_cn": "跟踪Anthropic回应及监管机构反应，评估AI生物安全防护的政策走向。",
       "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI安全与生物武器交叉，风险等级高。",
-      "frontpage_reason_cn": "AI防护被绕过用于生物武器研究，安全议题重大。",
+      "urgency_score": 6,
+      "collector_value": 7,
+      "tracking_value": 9,
+      "editor_reason_cn": "AI生物安全风险，具重大监管与伦理意义。",
+      "frontpage_reason_cn": "生物武器+AI安全话题敏感且重要。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对AI安全防护有效性的质疑。",
-        "medium_term_impact_cn": "可能推动AI生物安全监管加强。",
-        "long_term_impact_cn": "影响AI安全标准与生物安全政策制定。",
+        "immediate_impact_cn": "Anthropic面临安全质疑，短期声誉压力。",
+        "medium_term_impact_cn": "或推动AI生物安全防护标准升级。",
+        "long_term_impact_cn": "AI生物安全可能成为国际监管重点领域。",
         "affected_sectors": [
-          "AI安全",
-          "生物技术",
-          "监管"
+          "人工智能",
+          "生物安全",
+          "国防"
         ],
         "affected_assets": [
-          "Anthropic相关",
+          "Anthropic",
           "AI安全公司"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "risk_off",
         "risk_level": "high",
         "follow_up_questions": [
-          "具体绕过方法？",
+          "具体绕过方法是什么？",
           "Anthropic如何回应？",
-          "是否有实际危害？"
+          "监管机构是否介入？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 1
+    },
+    {
+      "index": 12,
+      "title_cn": "Altman称2026年IPO不明智",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-13",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "OpenAI已秘密提交IPO申请，但Altman称2026年上市不明智",
+      "short_summary_cn": "OpenAI CEO Sam Altman表示公司不会在2026年上市，称此时IPO不明智。尽管OpenAI已秘密提交IPO申请，但上市时间表仍不确定。",
+      "why_it_matters_cn": "OpenAI上市时间表影响AI板块估值锚定和一级市场流动性预期。",
+      "action_suggestion_cn": "跟踪OpenAI IPO进展及Altman表态变化，评估对AI板块估值的潜在影响。",
+      "importance_score": 8,
+      "urgency_score": 5,
+      "collector_value": 7,
+      "tracking_value": 8,
+      "editor_reason_cn": "OpenAI上市动向，具重大市场影响潜力。",
+      "frontpage_reason_cn": "OpenAI IPO话题关注度极高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "AI板块情绪短期受抑。",
+        "medium_term_impact_cn": "IPO推迟或影响AI一级市场估值预期。",
+        "long_term_impact_cn": "OpenAI上市时点将成AI行业估值重要里程碑。",
+        "affected_sectors": [
+          "人工智能",
+          "资本市场"
+        ],
+        "affected_assets": [
+          "AI板块股票",
+          "OpenAI股权"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "mixed",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "IPO推迟具体原因？",
+          "何时可能上市？",
+          "对AI估值有何影响？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 2
+    },
+    {
+      "index": 5,
+      "title_cn": "卡尼寻求与欧盟建立独特联盟",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "加拿大总理卡尼在美加贸易战升级之际寻求与欧盟建立独特联盟",
+      "short_summary_cn": "加拿大总理卡尼表示虽排除加入欧盟，但希望与布鲁塞尔建立独特联盟。此举发生在美加贸易战持续升级的背景下，显示加拿大正在寻求贸易多元化。",
+      "why_it_matters_cn": "北美贸易关系紧张推动加拿大转向欧盟，可能重塑跨大西洋贸易格局。",
+      "action_suggestion_cn": "跟踪加欧贸易谈判进展及美国回应，评估对北美供应链和贸易流向的影响。",
+      "importance_score": 8,
+      "urgency_score": 5,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "地缘贸易格局变化，具宏观政策跟踪价值。",
+      "frontpage_reason_cn": "贸易战升级+盟友重组，国际政治头条潜力。",
+      "impact_analysis": {
+        "immediate_impact_cn": "加元与相关贸易资产短期波动。",
+        "medium_term_impact_cn": "加欧贸易谈判或加速，北美供应链面临调整。",
+        "long_term_impact_cn": "若联盟成型，可能削弱美国在北美贸易中的主导地位。",
+        "affected_sectors": [
+          "国际贸易",
+          "能源",
+          "农业",
+          "汽车"
+        ],
+        "affected_assets": [
+          "加元",
+          "欧元",
+          "加拿大出口股"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "sector_rotation",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "独特联盟具体涵盖哪些领域？",
+          "美国是否会有反制措施？",
+          "谈判时间表如何？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 13,
+      "title_cn": "Anthropic CEO提出放缓AI发展计划",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-13",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "Anthropic CEO提出放缓前沿AI发展计划，与Altman观点趋同",
+      "short_summary_cn": "Anthropic的Dario Amodei和OpenAI的Sam Altman似乎都认同需要放缓前沿AI发展。文章探讨了具体如何实施这一计划。",
+      "why_it_matters_cn": "两大AI实验室CEO在放缓发展上达成共识，可能影响行业竞争节奏和监管预期。",
+      "action_suggestion_cn": "跟踪Anthropic具体放缓措施及行业跟进情况，评估对AI发展速度的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 7,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI发展节奏重大信号，具行业方向性意义。",
+      "frontpage_reason_cn": "AI巨头共识话题重要，但非突发。",
+      "impact_analysis": {
+        "immediate_impact_cn": "AI板块情绪短期谨慎。",
+        "medium_term_impact_cn": "或影响AI产品发布节奏和算力投资计划。",
+        "long_term_impact_cn": "若行业集体放缓，AI商业化进程可能延后。",
+        "affected_sectors": [
+          "人工智能",
+          "半导体",
+          "云计算"
+        ],
+        "affected_assets": [
+          "AI股",
+          "芯片股"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "放缓具体措施？",
+          "是否影响产品路线图？",
+          "其他实验室是否跟进？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 4
+    },
+    {
+      "index": 18,
+      "title_cn": "OpenAI推出金融服务版ChatGPT",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "OpenAI推出金融服务版ChatGPT，结合金融数据和GPT-6 Astra",
+      "short_summary_cn": "OpenAI推出ChatGPT for Financial Services，结合内置金融数据和GPT-6 Astra，用于研究、建模和客户材料制作。标志着AI向金融行业深度渗透。",
+      "why_it_matters_cn": "AI进入金融服务核心工作流，可能改变金融行业生产力格局和就业结构。",
+      "action_suggestion_cn": "关注金融版ChatGPT的定价和采用情况，评估对金融IT和AI板块的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 7,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI垂直行业应用重大发布，具商业影响。",
+      "frontpage_reason_cn": "AI+金融话题关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "金融AI工具竞争加剧。",
+        "medium_term_impact_cn": "或推动金融机构AI采用率提升。",
+        "long_term_impact_cn": "金融行业工作流可能被AI深度重塑。",
+        "affected_sectors": [
+          "金融服务",
+          "人工智能",
+          "金融科技"
+        ],
+        "affected_assets": [
+          "金融IT股",
+          "OpenAI"
+        ],
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "定价模式？",
+          "数据来源？",
+          "合规性如何？"
+        ]
+      },
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 5
+    },
+    {
+      "index": 2,
+      "title_cn": "OpenAI与数学家矛盾持续升级",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-12",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "25位顶尖数学家联名抗议AI实验室威胁其学术工作",
+      "short_summary_cn": "25位知名数学家签署公开信，指责AI实验室正在威胁数学领域的知识产权与学术价值。OpenAI与数学界的矛盾进一步激化，涉及训练数据使用与学术成果归属问题。",
+      "why_it_matters_cn": "AI训练数据版权争议从内容创作蔓延至学术领域，可能引发新的法律与伦理监管。",
+      "action_suggestion_cn": "跟踪公开信全文及OpenAI回应，评估对AI训练数据合规政策的潜在影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI与学术界版权冲突升级，具监管风向意义。",
+      "frontpage_reason_cn": "学术与AI巨头对抗话题性强，但非即时市场事件。",
+      "impact_analysis": {
+        "immediate_impact_cn": "舆论层面施压OpenAI，短期无直接商业影响。",
+        "medium_term_impact_cn": "或推动AI训练数据版权立法讨论加速。",
+        "long_term_impact_cn": "学术数据授权模式可能成为AI行业新合规成本。",
+        "affected_sectors": [
+          "人工智能",
+          "学术出版",
+          "知识产权"
+        ],
+        "affected_assets": [
+          "OpenAI估值",
+          "AI训练数据供应商"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "公开信具体要求是什么？",
+          "OpenAI是否已回应？",
+          "是否会有诉讼跟进？"
         ]
       },
       "us_market_relevance": "low",
@@ -385,89 +383,93 @@
       "frontpage_rank": 6
     },
     {
-      "index": 7,
-      "title_cn": "欧洲加入商业发射俱乐部",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "欧洲加入商业发射俱乐部，Ravn X疑似现身。",
-      "short_summary_cn": "欧洲正式加入商业发射俱乐部，有报道称Ravn X可能现身。相关方表示现在是加大投入的时机。",
-      "why_it_matters_cn": "欧洲商业航天崛起，可能改变全球发射市场竞争格局。",
-      "action_suggestion_cn": "关注欧洲商业发射公司动态及Ravn X项目进展。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "商业航天竞争格局变化，欧洲入局值得关注。",
-      "frontpage_reason_cn": "欧洲加入商业发射，航天领域重要进展。",
-      "impact_analysis": {
-        "immediate_impact_cn": "欧洲商业发射市场活跃度提升。",
-        "medium_term_impact_cn": "可能吸引更多投资进入欧洲航天。",
-        "long_term_impact_cn": "改变全球商业发射市场份额分配。",
-        "affected_sectors": [
-          "商业航天",
-          "卫星发射"
-        ],
-        "affected_assets": [
-          "欧洲航天概念股",
-          "SpaceX竞争对手"
-        ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "sector_rotation",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "具体欧洲公司？",
-          "Ravn X是否确认？",
-          "发射时间表？"
-        ]
-      },
-      "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 7
-    },
-    {
-      "index": 8,
-      "title_cn": "Paul Christiano加入OpenAI基金会董事会",
+      "index": 3,
+      "title_cn": "OpenAI向美国政府提供免费AI许可",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "source_display_name": "OpenAI",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会。",
-      "short_summary_cn": "Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会，带来AI对齐、安全和标准方面的经验。此举被视为OpenAI加强安全治理的信号。",
-      "why_it_matters_cn": "AI安全治理人事变动，反映OpenAI在安全与商业化之间的平衡。",
-      "action_suggestion_cn": "关注OpenAI安全委员会后续动作及对AI安全政策的影响。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI安全领域重要人事变动，治理信号明显。",
-      "frontpage_reason_cn": "OpenAI安全治理人事调整，行业关注。",
+      "key_takeaway_cn": "OpenAI与GSA合作，向各级政府提供零许可费和五折使用优惠",
+      "short_summary_cn": "OpenAI与美国总务管理局合作，为联邦、州、地方和部落政府提供零许可费、50%使用折扣及扩展网络防御支持。此举旨在扩大AI在政府部门的普及。",
+      "why_it_matters_cn": "AI巨头加速渗透政府市场，可能重塑公共部门技术采购格局并引发竞争对手跟进。",
+      "action_suggestion_cn": "关注其他AI厂商是否推出类似政府优惠，评估对政府IT预算和AI采购格局的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI进入政府核心采购，具政策与商业双重意义。",
+      "frontpage_reason_cn": "政府AI普及话题重要，但非突发性事件。",
       "impact_analysis": {
-        "immediate_impact_cn": "强化OpenAI安全治理形象。",
-        "medium_term_impact_cn": "可能影响OpenAI安全政策与产品发布节奏。",
-        "long_term_impact_cn": "塑造AI安全标准与行业治理方向。",
+        "immediate_impact_cn": "政府AI使用成本骤降，短期加速部署。",
+        "medium_term_impact_cn": "或引发Google、微软等竞争对手推出对标政府方案。",
+        "long_term_impact_cn": "政府AI基础设施可能深度绑定OpenAI生态。",
         "affected_sectors": [
-          "AI安全",
-          "AI治理"
+          "人工智能",
+          "政府IT",
+          "网络安全"
         ],
         "affected_assets": [
-          "OpenAI相关"
+          "OpenAI",
+          "政府IT承包商"
         ],
-        "us_stock_relevance": "low",
-        "market_sentiment": "unclear",
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "Christiano具体职责？",
-          "是否影响OpenAI产品策略？"
+          "GSA合同具体条款？",
+          "其他AI厂商是否跟进？",
+          "网络安全支持具体内容？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 4,
+      "title_cn": "GPT-5.6 Sol助力量子计算实验",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-09",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol自主运行量子计算实验并校准量子比特",
+      "short_summary_cn": "MIT研究员利用GPT-5.6 Sol配合Codex自主运行量子计算实验、分析结果并校准量子比特。展示了AI在尖端科研自动化中的实际应用能力。",
+      "why_it_matters_cn": "AI自主科研能力提升，可能加速量子计算等前沿领域研发进程。",
+      "action_suggestion_cn": "关注AI驱动科研自动化的商业化路径，评估对量子计算研发效率的影响。",
+      "importance_score": 8,
+      "urgency_score": 3,
+      "collector_value": 7,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI自主科研里程碑案例，具技术突破意义。",
+      "frontpage_reason_cn": "量子计算+AI交叉领域话题吸引科技读者。",
+      "impact_analysis": {
+        "immediate_impact_cn": "展示AI科研自动化可行性，短期无商业冲击。",
+        "medium_term_impact_cn": "或推动更多实验室采用AI辅助科研工具。",
+        "long_term_impact_cn": "AI自主实验可能大幅缩短量子计算研发周期。",
+        "affected_sectors": [
+          "人工智能",
+          "量子计算",
+          "科研自动化"
+        ],
+        "affected_assets": [
+          "OpenAI",
+          "量子计算公司"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "实验具体成果如何？",
+          "是否可复制到其他科研领域？",
+          "Codex在其中的角色？"
+        ]
+      },
+      "us_market_relevance": "medium",
       "is_recent": false,
       "is_old_context": true,
       "frontpage_rank": 8
@@ -475,27 +477,27 @@
   ],
   "anime_event_highlights": [
     {
-      "index": 24,
+      "index": 26,
       "title_cn": "《死神：千年血战》第49、50集延期",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《死神：千年血战-祸斗》第49、50集延期至10月19日、26日播出。",
-      "short_summary_cn": "《死神：千年血战-祸斗》第49、50集延期至10月19日和26日播出。第7、28、46、48集将在第49、50集播出前重播。",
-      "why_it_matters_cn": "热门动画延期，影响粉丝期待与播出安排。",
-      "action_suggestion_cn": "关注官方后续公告及重播安排。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "《死神：千年血战-灾厄》第49、50集延期至10月19日和26日播出",
+      "short_summary_cn": "《死神：千年血战-灾厄》第49、50集延期至10月19日和26日播出。第7、28、46、48集将在新集播出前重播。",
+      "why_it_matters_cn": "热门动画延期影响粉丝追番计划，重播安排为粉丝提供回顾机会。",
+      "action_suggestion_cn": "更新追番日历，关注重播时间安排。",
       "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "热门动画延期，粉丝关注。",
-      "frontpage_reason_cn": "《死神》延期，动漫迷关注。",
+      "urgency_score": 4,
+      "collector_value": 5,
+      "tracking_value": 6,
+      "editor_reason_cn": "热门动画播出变动，粉丝关注度高。",
+      "frontpage_reason_cn": "动画延期话题适合动漫受众。",
       "anime_event_detail": {
         "event_type": "动画播出延期",
-        "ip_or_work_title": "Bleach: Thousand-Year Blood War - The Calamity",
+        "ip_or_work_title": "死神：千年血战-灾厄",
         "person_name": "未知",
         "role": "未知",
         "event_date": "2026-10-19",
@@ -509,36 +511,36 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "urgency_level": "medium",
+        "collector_value": 5,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注官方后续公告及重播安排。"
+        "action_needed_cn": "更新追番日历"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 25,
-      "title_cn": "Netflix公布《Outback》真人剧阵容",
+      "index": 27,
+      "title_cn": "Netflix公布网漫改编剧《Outback》阵容",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Netflix公布改编自网漫《G'day》的真人剧《Outback》演员阵容。",
-      "short_summary_cn": "Netflix公布改编自网漫《G'day》的真人剧《Outback》的演员阵容。该剧讲述一名男子在姐姐突然去世后前往澳大利亚的故事。",
-      "why_it_matters_cn": "网漫IP真人化趋势持续，Netflix内容布局。",
-      "action_suggestion_cn": "关注剧集上线时间及网漫原作热度变化。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Netflix公布网漫改编真人剧《Outback》演员阵容",
+      "short_summary_cn": "Netflix公布改编自网漫《G'day》的真人剧《Outback》演员阵容。该剧讲述一名男子在姐姐突然去世后前往澳大利亚的故事。",
+      "why_it_matters_cn": "网漫IP真人化持续扩展，反映流媒体平台对漫画IP的重视。",
+      "action_suggestion_cn": "关注该剧上线时间和预告片发布。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "网漫真人化，IP改编动态。",
-      "frontpage_reason_cn": "Netflix新剧阵容公布，网漫改编。",
+      "collector_value": 5,
+      "tracking_value": 6,
+      "editor_reason_cn": "网漫IP真人化，具行业跟踪价值。",
+      "frontpage_reason_cn": "Netflix新剧话题适合影视受众。",
       "anime_event_detail": {
-        "event_type": "真人剧演员公布",
-        "ip_or_work_title": "Outback (G'day)",
+        "event_type": "真人剧公布",
+        "ip_or_work_title": "Outback",
         "person_name": "未知",
         "role": "演员",
         "event_date": "未知",
@@ -551,42 +553,42 @@
         "lottery_or_first_come": "未知",
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "official_source": "Netflix",
+        "urgency_level": "low",
+        "collector_value": 5,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注剧集上线时间及网漫原作热度变化。"
+        "action_needed_cn": "关注上线时间"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 26,
-      "title_cn": "《魔法少女小圆》新剧场版发新预告",
+      "index": 28,
+      "title_cn": "《魔法少女小圆》新剧场版公布新PV",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《魔法少女小圆-瓦尔普吉斯之夜：崛起-》发布新预告与视觉图。",
-      "short_summary_cn": "《魔法少女小圆》新剧场版《瓦尔普吉斯之夜：崛起》发布新预告片和视觉图。该片已于8月28日在日本上映，Aniplex One Focus直播活动公布了新内容。",
-      "why_it_matters_cn": "经典IP新剧场版持续营销，粉丝关注度高。",
-      "action_suggestion_cn": "关注新预告内容及后续上映/活动安排。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "《魔法少女小圆-瓦尔普吉斯之夜：崛起》公布新宣传片和视觉图",
+      "short_summary_cn": "《魔法少女小圆-瓦尔普吉斯之夜：崛起》剧场版公布新宣传视频和视觉图。该片已于8月28日在日本上映。",
+      "why_it_matters_cn": "小圆新剧场版持续发布宣传物料，对粉丝和周边收藏者具有吸引力。",
+      "action_suggestion_cn": "关注新PV内容及后续周边发售信息。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 6,
-      "editor_reason_cn": "经典IP新剧场版，粉丝关注。",
-      "frontpage_reason_cn": "小圆新剧场版新预告，动漫迷关注。",
+      "editor_reason_cn": "热门IP新剧场版宣传，粉丝关注。",
+      "frontpage_reason_cn": "小圆话题适合动漫受众。",
       "anime_event_detail": {
-        "event_type": "剧场版新预告发布",
-        "ip_or_work_title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
+        "event_type": "剧场版宣传",
+        "ip_or_work_title": "魔法少女小圆-瓦尔普吉斯之夜：崛起",
         "person_name": "未知",
         "role": "未知",
         "event_date": "2026-08-28",
         "event_time": "未知",
-        "venue": "日本影院",
+        "venue": "日本院线",
         "city": "未知",
         "country": "日本",
         "ticket_method": "未知",
@@ -595,38 +597,38 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
+        "urgency_level": "low",
+        "collector_value": 6,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注新预告内容及后续上映/活动安排。"
+        "action_needed_cn": "关注新PV和周边信息"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 27,
+      "index": 29,
       "title_cn": "《请原谅我的弟弟们》公布新OP",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《请原谅我的弟弟们》TV动画公布新OP歌手Neguse及特别预告。",
-      "short_summary_cn": "《请原谅我的弟弟们》TV动画公布第二部分的OP主题曲由Neguse演唱，并发布特别预告视频。",
-      "why_it_matters_cn": "动画新篇章音乐信息公布，粉丝关注。",
-      "action_suggestion_cn": "关注新OP发布及动画播出时间。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "《请原谅我的弟弟们》第二部公布新OP歌手Neguse及特别PV",
+      "short_summary_cn": "《请原谅我的弟弟们》TV动画公布第二部的新片头曲由Neguse演唱，并发布特别宣传视频。",
+      "why_it_matters_cn": "动画新OP公布，对粉丝和音乐收藏者具有吸引力。",
+      "action_suggestion_cn": "关注新OP发售时间和动画播出信息。",
+      "importance_score": 5,
+      "urgency_score": 2,
+      "collector_value": 5,
       "tracking_value": 5,
-      "editor_reason_cn": "动画新OP公布，常规动画动态。",
-      "frontpage_reason_cn": "动画新OP歌手公布，粉丝关注。",
+      "editor_reason_cn": "动画音乐更新，粉丝关注度中等。",
+      "frontpage_reason_cn": "动画OP话题适合核心受众。",
       "anime_event_detail": {
-        "event_type": "动画新OP公布",
-        "ip_or_work_title": "Please Excuse My Younger Brothers",
+        "event_type": "动画OP公布",
+        "ip_or_work_title": "请原谅我的弟弟们",
         "person_name": "Neguse",
-        "role": "OP歌手",
+        "role": "歌手",
         "event_date": "未知",
         "event_time": "未知",
         "venue": "未知",
@@ -638,39 +640,39 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "urgency_level": "low",
+        "collector_value": 5,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注新OP发布及动画播出时间。"
+        "action_needed_cn": "关注OP发售信息"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 28,
-      "title_cn": "《罗梅利亚战记》公布主题曲与10月3日提前上线",
+      "index": 23,
+      "title_cn": "Otomate公布薄樱鬼新作等游戏",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
-      "category": "anime_collab",
+      "category": "merch_release",
       "news_type": "anime_event",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《罗梅利亚战记》公布主题曲，10月3日提前流媒体上线。",
-      "short_summary_cn": "《罗梅利亚战记》动画公布主题曲，并宣布10月3日提前流媒体上线。同时发布了新视觉图。",
-      "why_it_matters_cn": "新番动画提前上线，流媒体竞争策略。",
-      "action_suggestion_cn": "关注10月3日上线平台及主题曲发布。",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Otomate公布薄樱鬼新作及多款新游戏，纪念20周年",
+      "short_summary_cn": "Otomate品牌公布《薄樱鬼 真改 极》等新游戏，薄樱鬼Switch 2版本将纪念Otomate明年20周年。多款新作同步公开。",
+      "why_it_matters_cn": "Otomate 20周年纪念作品公布，对乙女游戏粉丝和收藏者具有重要价值。",
+      "action_suggestion_cn": "关注各游戏具体发售日期和限定版信息，提前规划预订。",
       "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "新番动画上线信息，常规动态。",
-      "frontpage_reason_cn": "新番提前上线，动漫迷关注。",
+      "urgency_score": 4,
+      "collector_value": 7,
+      "tracking_value": 6,
+      "editor_reason_cn": "乙女游戏重要厂牌新作公布，粉丝关注度高。",
+      "frontpage_reason_cn": "游戏新作话题适合动漫受众。",
       "anime_event_detail": {
-        "event_type": "动画主题曲公布与提前上线",
-        "ip_or_work_title": "Romelia War Chronicle",
+        "event_type": "游戏新作公布",
+        "ip_or_work_title": "薄樱鬼 真改 极",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-10-03",
+        "event_date": "未知",
         "event_time": "未知",
         "venue": "未知",
         "city": "未知",
@@ -680,37 +682,37 @@
         "lottery_or_first_come": "未知",
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "official_source": "Otomate",
+        "urgency_level": "medium",
+        "collector_value": 7,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注10月3日上线平台及主题曲发布。"
+        "action_needed_cn": "关注Otomate官方后续发售信息"
       },
-      "is_recent": false,
+      "is_recent": true,
       "is_old_context": false
     },
     {
-      "index": 22,
-      "title_cn": "《吸血鬼记录》19年后出新系列",
+      "index": 24,
+      "title_cn": "《吸血鬼骑士》19年后推新系列",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "manga_signing_events",
       "news_type": "anime_event",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "《吸血鬼记录》19年后推出新系列，10月9日启动。",
-      "short_summary_cn": "《In/Spectre》作者城平京与木村友里将于10月9日推出新系列《Vampire Jūjikai: Inu ni wa Inu no Uta》。《吸血鬼记录》时隔19年推出新系列，并预告后续公告。",
-      "why_it_matters_cn": "经典漫画IP复活，粉丝期待度高，可能带动周边与联动。",
-      "action_suggestion_cn": "关注10月9日新系列发售及后续公告，留意周边与活动。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "《吸血鬼骑士》19年后推出新系列，10月9日开始连载",
+      "short_summary_cn": "《In/Spectre》作者城平京与木村友里合作推出《吸血鬼十字界：犬には犬の歌》，将于10月9日开始连载。这是《吸血鬼骑士》19年后的新系列。",
+      "why_it_matters_cn": "经典漫画时隔19年推出新系列，对老粉丝和漫画收藏者具有吸引力。",
+      "action_suggestion_cn": "关注连载杂志和单行本发售信息，提前订阅或预订。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 7,
       "tracking_value": 6,
-      "editor_reason_cn": "经典漫画复活，IP价值高。",
-      "frontpage_reason_cn": "19年后新系列，粉丝关注度高。",
+      "editor_reason_cn": "经典漫画新系列，粉丝关注度高。",
+      "frontpage_reason_cn": "漫画新连载话题适合动漫受众。",
       "anime_event_detail": {
-        "event_type": "新系列连载",
-        "ip_or_work_title": "The Record of a Fallen Vampire / Vampire Jūjikai: Inu ni wa Inu no Uta",
+        "event_type": "新漫画连载",
+        "ip_or_work_title": "吸血鬼十字界：犬には犬の歌",
         "person_name": "城平京、木村友里",
         "role": "作者",
         "event_date": "2026-10-09",
@@ -724,37 +726,37 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
+        "urgency_level": "low",
+        "collector_value": 7,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注10月9日新系列发售及后续公告。"
+        "action_needed_cn": "关注连载杂志发售信息"
       },
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 23,
-      "title_cn": "《Orb》作者Uoto将推两部新漫画",
+      "index": 25,
+      "title_cn": "《Orb》作者推出两部新漫画",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "manga_signing_events",
       "news_type": "anime_event",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "《Orb》与《100 Meters》作者Uoto将推出两部新漫画系列。",
-      "short_summary_cn": "《Orb》和《100 Meters》的作者Uoto将推出新作《Hallucination Meat》，并与米代恭绪合作推出《Test Taker/Cheaters》。两部新系列同时启动。",
-      "why_it_matters_cn": "知名漫画家新作，粉丝与出版社关注度高。",
-      "action_suggestion_cn": "关注新作连载时间与出版社信息，留意签售活动。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "《Orb》和《100米》作者Uoto将推出两部新漫画系列",
+      "short_summary_cn": "《Orb》和《100米》的作者Uoto将推出两部新漫画系列，包括《幻覚肉》以及与米代恭绪合作的《受验者/作弊者》。",
+      "why_it_matters_cn": "知名漫画家新作公布，对漫画读者和收藏者具有吸引力。",
+      "action_suggestion_cn": "关注两部新作的连载时间和杂志信息。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 6,
-      "editor_reason_cn": "知名漫画家新作，漫画市场动态。",
-      "frontpage_reason_cn": "Uoto双新作，漫画迷关注。",
+      "editor_reason_cn": "知名漫画家新作，粉丝关注。",
+      "frontpage_reason_cn": "漫画新作话题适合动漫受众。",
       "anime_event_detail": {
         "event_type": "新漫画连载",
-        "ip_or_work_title": "Hallucination Meat / Test Taker/Cheaters",
-        "person_name": "Uoto、米代恭绪",
+        "ip_or_work_title": "幻覚肉、受验者/作弊者",
+        "person_name": "Uoto",
         "role": "作者",
         "event_date": "未知",
         "event_time": "未知",
@@ -767,288 +769,99 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
+        "urgency_level": "low",
+        "collector_value": 6,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注新作连载时间与出版社信息。"
+        "action_needed_cn": "关注连载杂志信息"
       },
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false
     }
   ],
   "ai_tech_highlights": [
     {
       "index": 1,
-      "title_cn": "OpenAI与数学家矛盾升级",
+      "title_cn": "Insight Partners坚持多元化AI投资",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "25位顶尖数学家联名公开信，指控AI实验室威胁其知识产权与学术工作。",
-      "short_summary_cn": "25位领先数学家签署公开信，认为AI实验室正在威胁他们的智力工作。OpenAI与数学界的矛盾持续升级，涉及训练数据版权与学术伦理争议。",
-      "why_it_matters_cn": "AI训练数据版权争议从创作者蔓延至学术圈，可能引发新一轮诉讼与监管关注。",
-      "action_suggestion_cn": "关注公开信全文及OpenAI回应，评估对AI训练数据合规政策的潜在影响。",
-      "importance_score": 10,
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Insight Partners刻意分散AI投资，不押注单一实验室",
+      "short_summary_cn": "Insight Partners的Deven Parekh谈及错失Legora交易，并表示持有竞争AI实验室股份是合理策略。这家900亿美元规模的基金在同行纷纷重仓OpenAI和Anthropic时，选择刻意保持多元化布局。",
+      "why_it_matters_cn": "头部VC的投资策略分化，反映AI一级市场估值泡沫与集中度风险正在被重新评估。",
+      "action_suggestion_cn": "关注Insight Partners后续AI投资组合动向，作为判断一级市场AI估值风向的参考指标。",
+      "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI版权争议升级至学术权威层面，具有行业风向标意义。",
-      "frontpage_reason_cn": "OpenAI与数学家对立是AI伦理与版权冲突的标志性事件。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发学术界与AI公司之间的公开对立讨论。",
-        "medium_term_impact_cn": "可能推动AI训练数据版权立法或行业自律规范出台。",
-        "long_term_impact_cn": "重塑AI公司与学术界的合作关系与数据使用规则。",
-        "affected_sectors": [
-          "AI",
-          "学术出版",
-          "法律",
-          "版权"
-        ],
-        "affected_assets": [
-          "OpenAI相关概念股",
-          "AI版权诉讼相关标的"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "unclear",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "公开信具体诉求是什么？",
-          "OpenAI是否回应？",
-          "是否会有后续诉讼？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "OpenAI向美国政府提供AI优惠",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-10",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI与GSA合作，向联邦及地方政府提供零许可费和五折使用优惠。",
-      "short_summary_cn": "OpenAI与美国总务管理局合作，为符合条件的联邦、州、地方和部落政府提供0美元许可费、50%使用折扣及扩展网络防御支持。此举旨在扩大AI在政府部门的接入。",
-      "why_it_matters_cn": "AI巨头加速渗透政府市场，可能重塑公共部门技术采购格局与网络安全体系。",
-      "action_suggestion_cn": "关注GSA合同细节及对其他AI厂商的示范效应，评估政府AI采购趋势。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "OpenAI政府合作是AI商业化与政策结合的重要案例。",
-      "frontpage_reason_cn": "AI进入政府核心系统，涉及安全与采购双重议题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "政府机构可低成本接入OpenAI服务。",
-        "medium_term_impact_cn": "可能引发其他AI厂商跟进政府优惠策略。",
-        "long_term_impact_cn": "AI深度嵌入政府运作，改变公共服务与网络安全模式。",
-        "affected_sectors": [
-          "AI",
-          "政府IT",
-          "网络安全",
-          "云计算"
-        ],
-        "affected_assets": [
-          "OpenAI概念股",
-          "政府IT承包商"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "合同金额与期限？",
-          "是否涉及数据安全审查？",
-          "其他AI公司是否跟进？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "GPT-5.6 Sol助力量子计算实验",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
-      "short_summary_cn": "MIT研究员利用GPT-5.6 Sol配合Codex，自主运行量子计算实验、分析结果并校准量子比特。展示了AI在尖端科研中的自动化潜力。",
-      "why_it_matters_cn": "AI自主科研能力提升，可能加速量子计算等前沿领域突破。",
-      "action_suggestion_cn": "关注AI在科研自动化中的案例积累，评估对量子计算研发效率的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 5,
       "tracking_value": 7,
-      "editor_reason_cn": "AI+量子计算交叉领域，技术前沿性强。",
-      "frontpage_reason_cn": "AI自主运行量子实验是科研范式变革的信号。",
+      "editor_reason_cn": "头部基金逆势多元化策略，具备行业风向标意义。",
+      "frontpage_reason_cn": "AI投资策略分化话题性强，但缺乏即时市场冲击。",
       "impact_analysis": {
-        "immediate_impact_cn": "展示AI在复杂科研任务中的可行性。",
-        "medium_term_impact_cn": "可能推动更多实验室采用AI辅助科研。",
-        "long_term_impact_cn": "加速量子计算研发进程，改变科研人力结构。",
+        "immediate_impact_cn": "对AI一级市场情绪影响有限，短期无直接交易冲击。",
+        "medium_term_impact_cn": "或引导部分LP重新审视AI基金集中度风险。",
+        "long_term_impact_cn": "若AI泡沫破裂，多元化策略基金抗风险能力将凸显。",
         "affected_sectors": [
-          "AI",
-          "量子计算",
-          "科研自动化"
+          "风险投资",
+          "人工智能",
+          "私募股权"
         ],
         "affected_assets": [
-          "量子计算概念股",
-          "AI科研工具公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "实验可复现性如何？",
-          "是否开源？",
-          "其他领域应用前景？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 4,
-      "title_cn": "黄仁勋解释英伟达明年增长70%",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "黄仁勋称英伟达明年将增长70%，并否认交易存在循环性。",
-      "short_summary_cn": "英伟达CEO黄仁勋表示公司明年将实现70%的惊人增长，强调其业务触角广泛。他坚称公司的交易并非循环性安排。",
-      "why_it_matters_cn": "英伟达增长预期直接影响AI芯片供应链与全球科技股走势。",
-      "action_suggestion_cn": "关注英伟达财报及供应链动态，评估70%增长预期的可信度与市场反应。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "英伟达是AI算力核心，增长预期对市场影响巨大。",
-      "frontpage_reason_cn": "黄仁勋给出具体增长数字，市场高度关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "提振AI芯片板块情绪。",
-        "medium_term_impact_cn": "影响供应链订单与竞争对手策略。",
-        "long_term_impact_cn": "决定AI算力市场格局与投资方向。",
-        "affected_sectors": [
-          "AI芯片",
-          "半导体",
-          "云计算"
-        ],
-        "affected_assets": [
-          "NVDA",
-          "AMD",
-          "台积电",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "70%增长的具体驱动？",
-          "循环交易质疑如何回应？",
-          "供应链能否跟上？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 5,
-      "title_cn": "律师因引用ChatGPT虚假证词受罚",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "新墨西哥州辩护律师因引用ChatGPT编造的虚假证人证词被处罚。",
-      "short_summary_cn": "一名新墨西哥州辩护律师因在法庭文件中引用ChatGPT生成的虚假证人证词而受到处罚。该律师称不知道AI会幻觉事实。此案凸显AI在法律实务中的风险。",
-      "why_it_matters_cn": "AI幻觉在法律领域造成实际后果，可能推动法律行业AI使用规范。",
-      "action_suggestion_cn": "关注法律行业AI使用指南及后续判例，评估AI工具合规风险。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI幻觉导致法律处罚，具有警示意义。",
-      "frontpage_reason_cn": "律师因AI虚假证词受罚，社会关注度高。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发法律界对AI工具使用的警惕。",
-        "medium_term_impact_cn": "可能推动律所制定AI使用政策。",
-        "long_term_impact_cn": "影响AI在法律行业的应用规范与责任界定。",
-        "affected_sectors": [
-          "法律",
-          "AI",
-          "合规"
-        ],
-        "affected_assets": [
-          "法律AI工具公司"
+          "AI初创公司股权",
+          "VC基金"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
         "risk_level": "medium",
         "follow_up_questions": [
-          "处罚具体内容？",
-          "是否会上诉？",
-          "其他类似案例？"
+          "Insight Partners具体持仓结构如何？",
+          "其他大型VC是否跟进多元化策略？"
         ]
       },
       "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 5
+      "is_recent": true,
+      "is_old_context": false
     },
     {
-      "index": 6,
-      "title_cn": "Claude用户绕过生物武器研究防护",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
+      "index": 2,
+      "title_cn": "OpenAI与数学家矛盾持续升级",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-11",
+      "date_display": "2026-09-12",
       "freshness_label": "61h前",
-      "key_takeaway_cn": "Claude用户找到绕过安全防护的方法，用于生物武器研究。",
-      "short_summary_cn": "有用户发现绕过Claude安全防护的方法，将其用于生物武器相关研究。部分危险生物学研究与合法研究难以区分，增加了AI安全防护的复杂性。",
-      "why_it_matters_cn": "AI安全防护被绕过涉及生物安全，可能引发监管与伦理危机。",
-      "action_suggestion_cn": "关注Anthropic的回应及AI生物安全防护改进措施。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "key_takeaway_cn": "25位顶尖数学家联名抗议AI实验室威胁其学术工作",
+      "short_summary_cn": "25位知名数学家签署公开信，指责AI实验室正在威胁数学领域的知识产权与学术价值。OpenAI与数学界的矛盾进一步激化，涉及训练数据使用与学术成果归属问题。",
+      "why_it_matters_cn": "AI训练数据版权争议从内容创作蔓延至学术领域，可能引发新的法律与伦理监管。",
+      "action_suggestion_cn": "跟踪公开信全文及OpenAI回应，评估对AI训练数据合规政策的潜在影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 6,
       "tracking_value": 8,
-      "editor_reason_cn": "AI安全与生物武器交叉，风险等级高。",
-      "frontpage_reason_cn": "AI防护被绕过用于生物武器研究，安全议题重大。",
+      "editor_reason_cn": "AI与学术界版权冲突升级，具监管风向意义。",
+      "frontpage_reason_cn": "学术与AI巨头对抗话题性强，但非即时市场事件。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对AI安全防护有效性的质疑。",
-        "medium_term_impact_cn": "可能推动AI生物安全监管加强。",
-        "long_term_impact_cn": "影响AI安全标准与生物安全政策制定。",
+        "immediate_impact_cn": "舆论层面施压OpenAI，短期无直接商业影响。",
+        "medium_term_impact_cn": "或推动AI训练数据版权立法讨论加速。",
+        "long_term_impact_cn": "学术数据授权模式可能成为AI行业新合规成本。",
         "affected_sectors": [
-          "AI安全",
-          "生物技术",
-          "监管"
+          "人工智能",
+          "学术出版",
+          "知识产权"
         ],
         "affected_assets": [
-          "Anthropic相关",
-          "AI安全公司"
+          "OpenAI估值",
+          "AI训练数据供应商"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "risk_off",
-        "risk_level": "high",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "具体绕过方法？",
-          "Anthropic如何回应？",
-          "是否有实际危害？"
+          "公开信具体要求是什么？",
+          "OpenAI是否已回应？",
+          "是否会有诉讼跟进？"
         ]
       },
       "us_market_relevance": "low",
@@ -1057,352 +870,491 @@
       "frontpage_rank": 6
     },
     {
+      "index": 3,
+      "title_cn": "OpenAI向美国政府提供免费AI许可",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "OpenAI与GSA合作，向各级政府提供零许可费和五折使用优惠",
+      "short_summary_cn": "OpenAI与美国总务管理局合作，为联邦、州、地方和部落政府提供零许可费、50%使用折扣及扩展网络防御支持。此举旨在扩大AI在政府部门的普及。",
+      "why_it_matters_cn": "AI巨头加速渗透政府市场，可能重塑公共部门技术采购格局并引发竞争对手跟进。",
+      "action_suggestion_cn": "关注其他AI厂商是否推出类似政府优惠，评估对政府IT预算和AI采购格局的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI进入政府核心采购，具政策与商业双重意义。",
+      "frontpage_reason_cn": "政府AI普及话题重要，但非突发性事件。",
+      "impact_analysis": {
+        "immediate_impact_cn": "政府AI使用成本骤降，短期加速部署。",
+        "medium_term_impact_cn": "或引发Google、微软等竞争对手推出对标政府方案。",
+        "long_term_impact_cn": "政府AI基础设施可能深度绑定OpenAI生态。",
+        "affected_sectors": [
+          "人工智能",
+          "政府IT",
+          "网络安全"
+        ],
+        "affected_assets": [
+          "OpenAI",
+          "政府IT承包商"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "GSA合同具体条款？",
+          "其他AI厂商是否跟进？",
+          "网络安全支持具体内容？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 4,
+      "title_cn": "GPT-5.6 Sol助力量子计算实验",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-09",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol自主运行量子计算实验并校准量子比特",
+      "short_summary_cn": "MIT研究员利用GPT-5.6 Sol配合Codex自主运行量子计算实验、分析结果并校准量子比特。展示了AI在尖端科研自动化中的实际应用能力。",
+      "why_it_matters_cn": "AI自主科研能力提升，可能加速量子计算等前沿领域研发进程。",
+      "action_suggestion_cn": "关注AI驱动科研自动化的商业化路径，评估对量子计算研发效率的影响。",
+      "importance_score": 8,
+      "urgency_score": 3,
+      "collector_value": 7,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI自主科研里程碑案例，具技术突破意义。",
+      "frontpage_reason_cn": "量子计算+AI交叉领域话题吸引科技读者。",
+      "impact_analysis": {
+        "immediate_impact_cn": "展示AI科研自动化可行性，短期无商业冲击。",
+        "medium_term_impact_cn": "或推动更多实验室采用AI辅助科研工具。",
+        "long_term_impact_cn": "AI自主实验可能大幅缩短量子计算研发周期。",
+        "affected_sectors": [
+          "人工智能",
+          "量子计算",
+          "科研自动化"
+        ],
+        "affected_assets": [
+          "OpenAI",
+          "量子计算公司"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "实验具体成果如何？",
+          "是否可复制到其他科研领域？",
+          "Codex在其中的角色？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 8
+    },
+    {
+      "index": 6,
+      "title_cn": "律师因引用ChatGPT虚构证词被罚",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-12",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "新墨西哥辩护律师因引用ChatGPT编造的虚假证人证词遭处罚",
+      "short_summary_cn": "新墨西哥一名辩护律师因在法庭文件中引用ChatGPT生成的虚假证人证词而受到处罚。该律师声称不知道AI会编造事实，事件凸显AI在法律实务中的幻觉风险。",
+      "why_it_matters_cn": "AI幻觉在法律领域造成实际后果，可能推动律所AI使用规范和法律伦理监管。",
+      "action_suggestion_cn": "关注此案处罚结果及是否引发律协AI使用指引更新，评估法律AI工具合规风险。",
+      "importance_score": 7,
+      "urgency_score": 4,
+      "collector_value": 6,
+      "tracking_value": 7,
+      "editor_reason_cn": "AI幻觉实际案例，具法律与伦理警示意义。",
+      "frontpage_reason_cn": "AI翻车案例传播性强，法律界关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "法律界对AI工具使用更加谨慎。",
+        "medium_term_impact_cn": "或推动律协出台AI使用规范。",
+        "long_term_impact_cn": "法律AI工具需增加事实核查功能，合规成本上升。",
+        "affected_sectors": [
+          "法律服务",
+          "人工智能",
+          "合规"
+        ],
+        "affected_assets": [
+          "法律AI工具公司"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "处罚具体内容？",
+          "是否会有更多类似案例？",
+          "律协是否更新指引？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
       "index": 7,
+      "title_cn": "Claude用户绕过生物武器研究防护",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-11",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "Claude用户找到绕过安全防护进行生物武器研究的方法",
+      "short_summary_cn": "有用户发现绕过Claude安全防护的方法，用于生物武器相关研究。危险生物学研究与合法研究界限模糊，使AI安全防护面临挑战。",
+      "why_it_matters_cn": "AI安全防护被绕过涉及生物安全，可能引发监管机构对AI实验室安全措施的审查。",
+      "action_suggestion_cn": "跟踪Anthropic回应及监管机构反应，评估AI生物安全防护的政策走向。",
+      "importance_score": 9,
+      "urgency_score": 6,
+      "collector_value": 7,
+      "tracking_value": 9,
+      "editor_reason_cn": "AI生物安全风险，具重大监管与伦理意义。",
+      "frontpage_reason_cn": "生物武器+AI安全话题敏感且重要。",
+      "impact_analysis": {
+        "immediate_impact_cn": "Anthropic面临安全质疑，短期声誉压力。",
+        "medium_term_impact_cn": "或推动AI生物安全防护标准升级。",
+        "long_term_impact_cn": "AI生物安全可能成为国际监管重点领域。",
+        "affected_sectors": [
+          "人工智能",
+          "生物安全",
+          "国防"
+        ],
+        "affected_assets": [
+          "Anthropic",
+          "AI安全公司"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "具体绕过方法是什么？",
+          "Anthropic如何回应？",
+          "监管机构是否介入？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 1
+    },
+    {
+      "index": 8,
       "title_cn": "欧洲加入商业发射俱乐部",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "欧洲加入商业发射俱乐部，Ravn X疑似现身。",
-      "short_summary_cn": "欧洲正式加入商业发射俱乐部，有报道称Ravn X可能现身。相关方表示现在是加大投入的时机。",
-      "why_it_matters_cn": "欧洲商业航天崛起，可能改变全球发射市场竞争格局。",
-      "action_suggestion_cn": "关注欧洲商业发射公司动态及Ravn X项目进展。",
-      "importance_score": 9,
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "欧洲加入商业航天发射竞争，Ravn X飞行器疑似现身",
+      "short_summary_cn": "欧洲正式加入商业发射俱乐部，同时有报道称Ravn X飞行器再次现身。商业航天竞争格局进一步扩大。",
+      "why_it_matters_cn": "欧洲入局商业发射，可能改变SpaceX主导的全球发射市场竞争格局。",
+      "action_suggestion_cn": "关注欧洲商业发射公司融资动态及Ravn X项目进展，评估对航天板块投资的影响。",
+      "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "商业航天竞争格局变化，欧洲入局值得关注。",
-      "frontpage_reason_cn": "欧洲加入商业发射，航天领域重要进展。",
+      "editor_reason_cn": "商业航天格局变化，具行业跟踪价值。",
+      "frontpage_reason_cn": "航天话题有固定受众，但非突发重大事件。",
       "impact_analysis": {
-        "immediate_impact_cn": "欧洲商业发射市场活跃度提升。",
-        "medium_term_impact_cn": "可能吸引更多投资进入欧洲航天。",
-        "long_term_impact_cn": "改变全球商业发射市场份额分配。",
+        "immediate_impact_cn": "商业航天板块情绪小幅提振。",
+        "medium_term_impact_cn": "欧洲发射服务或获得更多政府与商业订单。",
+        "long_term_impact_cn": "全球发射市场价格竞争加剧，SpaceX份额可能受挤压。",
         "affected_sectors": [
           "商业航天",
-          "卫星发射"
+          "国防",
+          "卫星通信"
         ],
         "affected_assets": [
-          "欧洲航天概念股",
+          "航天股",
           "SpaceX竞争对手"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "sector_rotation",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体欧洲公司？",
-          "Ravn X是否确认？",
-          "发射时间表？"
+          "欧洲具体发射项目是什么？",
+          "Ravn X是否确认现身？",
+          "对SpaceX影响多大？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 7
+      "is_old_context": true
     },
     {
-      "index": 8,
+      "index": 9,
       "title_cn": "Paul Christiano加入OpenAI基金会董事会",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "source_display_name": "OpenAI",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会。",
-      "short_summary_cn": "Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会，带来AI对齐、安全和标准方面的经验。此举被视为OpenAI加强安全治理的信号。",
-      "why_it_matters_cn": "AI安全治理人事变动，反映OpenAI在安全与商业化之间的平衡。",
-      "action_suggestion_cn": "关注OpenAI安全委员会后续动作及对AI安全政策的影响。",
-      "importance_score": 9,
+      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会",
+      "short_summary_cn": "Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会，带来AI对齐、安全和标准方面的经验。此举显示OpenAI在安全治理层面加强布局。",
+      "why_it_matters_cn": "AI对齐领域权威加入OpenAI治理层，可能影响其安全策略与监管沟通方向。",
+      "action_suggestion_cn": "关注Christiano在OpenAI安全决策中的角色变化，评估对AI安全政策的影响。",
+      "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 5,
       "tracking_value": 7,
-      "editor_reason_cn": "AI安全领域重要人事变动，治理信号明显。",
-      "frontpage_reason_cn": "OpenAI安全治理人事调整，行业关注。",
+      "editor_reason_cn": "AI安全治理人事变动，具政策跟踪意义。",
+      "frontpage_reason_cn": "人事任命话题性一般，但安全领域读者关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "强化OpenAI安全治理形象。",
-        "medium_term_impact_cn": "可能影响OpenAI安全政策与产品发布节奏。",
-        "long_term_impact_cn": "塑造AI安全标准与行业治理方向。",
+        "immediate_impact_cn": "OpenAI安全治理形象增强。",
+        "medium_term_impact_cn": "或影响OpenAI安全标准制定与对外沟通。",
+        "long_term_impact_cn": "AI对齐研究可能更深度融入OpenAI产品开发。",
         "affected_sectors": [
-          "AI安全",
-          "AI治理"
+          "人工智能",
+          "AI安全"
         ],
         "affected_assets": [
-          "OpenAI相关"
+          "OpenAI"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
         "risk_level": "low",
         "follow_up_questions": [
           "Christiano具体职责？",
-          "是否影响OpenAI产品策略？"
+          "是否影响OpenAI安全策略？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 8
+      "is_old_context": true
     },
     {
-      "index": 9,
+      "index": 10,
+      "title_cn": "YC Demo Day最受关注9家初创",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "VC评选出YC夏季批次最受关注的9家初创，涵盖浮动反应堆和脑机芯片",
+      "short_summary_cn": "风险投资人从Y Combinator夏季批次中选出9家最受关注的初创公司，涵盖浮动核反应堆、脑机接口等前沿领域。反映了当前早期投资的热点方向。",
+      "why_it_matters_cn": "YC Demo Day是早期投资风向标，入选项目反映资本对前沿科技的偏好。",
+      "action_suggestion_cn": "梳理9家初创名单及赛道，作为早期科技投资趋势的参考。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 6,
+      "tracking_value": 6,
+      "editor_reason_cn": "早期投资风向标，具行业参考价值。",
+      "frontpage_reason_cn": "初创榜单话题性中等，适合科技读者。",
+      "impact_analysis": {
+        "immediate_impact_cn": "相关赛道早期项目关注度提升。",
+        "medium_term_impact_cn": "或引导更多资本流入浮动核能、脑机接口等领域。",
+        "long_term_impact_cn": "前沿科技商业化进程可能加速。",
+        "affected_sectors": [
+          "风险投资",
+          "核能",
+          "脑机接口",
+          "人工智能"
+        ],
+        "affected_assets": [
+          "早期科技股",
+          "VC基金"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "9家初创具体名单？",
+          "哪些赛道最受追捧？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 11,
+      "title_cn": "AI行业末日警告背后原因",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "TechCrunch讨论AI行业最新末日警告是真实威胁还是炒作",
+      "short_summary_cn": "TechCrunch的Equity节目讨论了AI行业关于其是否对人类构成生存威胁的最新争论。探讨这些警告背后的动机和真实性。",
+      "why_it_matters_cn": "AI生存威胁争论影响公众认知和政策走向，是AI监管讨论的重要背景。",
+      "action_suggestion_cn": "关注AI安全辩论的主要参与方及论点，作为AI政策跟踪的背景信息。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 5,
+      "tracking_value": 6,
+      "editor_reason_cn": "AI安全辩论背景，具政策跟踪参考价值。",
+      "frontpage_reason_cn": "AI末日论话题性强，但属观点讨论非新闻事件。",
+      "impact_analysis": {
+        "immediate_impact_cn": "舆论层面持续发酵，无直接市场影响。",
+        "medium_term_impact_cn": "或影响AI监管立法讨论氛围。",
+        "long_term_impact_cn": "AI安全叙事可能塑造行业长期监管框架。",
+        "affected_sectors": [
+          "人工智能",
+          "政策监管"
+        ],
+        "affected_assets": [
+          "AI公司估值"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "主要争论方观点？",
+          "是否影响立法进程？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 12,
       "title_cn": "Altman称2026年IPO不明智",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Sam Altman表示OpenAI在2026年上市是不明智的。",
-      "short_summary_cn": "尽管OpenAI已秘密提交IPO申请，CEO Sam Altman表示公司今年不会上市，认为2026年IPO是不明智的。这反映了OpenAI对上市时机的谨慎态度。",
-      "why_it_matters_cn": "OpenAI上市计划影响AI行业估值与资本市场预期。",
-      "action_suggestion_cn": "关注OpenAI IPO时间表及市场对AI公司估值的反应。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "OpenAI已秘密提交IPO申请，但Altman称2026年上市不明智",
+      "short_summary_cn": "OpenAI CEO Sam Altman表示公司不会在2026年上市，称此时IPO不明智。尽管OpenAI已秘密提交IPO申请，但上市时间表仍不确定。",
+      "why_it_matters_cn": "OpenAI上市时间表影响AI板块估值锚定和一级市场流动性预期。",
+      "action_suggestion_cn": "跟踪OpenAI IPO进展及Altman表态变化，评估对AI板块估值的潜在影响。",
+      "importance_score": 8,
+      "urgency_score": 5,
+      "collector_value": 7,
       "tracking_value": 8,
-      "editor_reason_cn": "OpenAI IPO动向是AI资本市场核心议题。",
-      "frontpage_reason_cn": "Altman明确表态不上市，市场关注。",
+      "editor_reason_cn": "OpenAI上市动向，具重大市场影响潜力。",
+      "frontpage_reason_cn": "OpenAI IPO话题关注度极高。",
       "impact_analysis": {
-        "immediate_impact_cn": "缓解市场对AI公司集中上市的担忧。",
-        "medium_term_impact_cn": "影响AI初创公司上市节奏与估值预期。",
-        "long_term_impact_cn": "决定OpenAI资本结构与治理模式。",
+        "immediate_impact_cn": "AI板块情绪短期受抑。",
+        "medium_term_impact_cn": "IPO推迟或影响AI一级市场估值预期。",
+        "long_term_impact_cn": "OpenAI上市时点将成AI行业估值重要里程碑。",
         "affected_sectors": [
-          "AI",
+          "人工智能",
           "资本市场"
         ],
         "affected_assets": [
-          "AI概念股",
-          "IPO相关"
+          "AI板块股票",
+          "OpenAI股权"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "unclear",
+        "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "何时上市？",
-          "秘密提交细节？",
-          "估值预期？"
+          "IPO推迟具体原因？",
+          "何时可能上市？",
+          "对AI估值有何影响？"
         ]
       },
       "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 2
     },
     {
-      "index": 10,
+      "index": 13,
       "title_cn": "Anthropic CEO提出放缓AI发展计划",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic CEO Dario Amodei提出放缓AI前沿发展的计划。",
-      "short_summary_cn": "Anthropic CEO Dario Amodei与OpenAI的Sam Altman似乎都认同需要“放缓前沿”。文章探讨了具体如何实施这一计划。",
-      "why_it_matters_cn": "AI头部公司CEO共识放缓发展，可能影响行业竞争节奏与监管方向。",
-      "action_suggestion_cn": "关注“放缓前沿”具体方案及对AI产品发布节奏的影响。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "Anthropic CEO提出放缓前沿AI发展计划，与Altman观点趋同",
+      "short_summary_cn": "Anthropic的Dario Amodei和OpenAI的Sam Altman似乎都认同需要放缓前沿AI发展。文章探讨了具体如何实施这一计划。",
+      "why_it_matters_cn": "两大AI实验室CEO在放缓发展上达成共识，可能影响行业竞争节奏和监管预期。",
+      "action_suggestion_cn": "跟踪Anthropic具体放缓措施及行业跟进情况，评估对AI发展速度的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 7,
       "tracking_value": 8,
-      "editor_reason_cn": "AI安全与发展速度的平衡是行业核心议题。",
-      "frontpage_reason_cn": "两大AI公司CEO共识放缓，行业风向标。",
+      "editor_reason_cn": "AI发展节奏重大信号，具行业方向性意义。",
+      "frontpage_reason_cn": "AI巨头共识话题重要，但非突发。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI发展速度的讨论。",
-        "medium_term_impact_cn": "可能影响AI产品发布与投资节奏。",
-        "long_term_impact_cn": "塑造AI安全治理与行业自律框架。",
+        "immediate_impact_cn": "AI板块情绪短期谨慎。",
+        "medium_term_impact_cn": "或影响AI产品发布节奏和算力投资计划。",
+        "long_term_impact_cn": "若行业集体放缓，AI商业化进程可能延后。",
         "affected_sectors": [
-          "AI",
-          "监管"
+          "人工智能",
+          "半导体",
+          "云计算"
         ],
         "affected_assets": [
-          "AI概念股"
+          "AI股",
+          "芯片股"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "unclear",
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
         "risk_level": "medium",
         "follow_up_questions": [
-          "具体放缓措施？",
-          "是否影响竞争力？",
-          "监管如何回应？"
+          "放缓具体措施？",
+          "是否影响产品路线图？",
+          "其他实验室是否跟进？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 4
     },
     {
-      "index": 12,
+      "index": 15,
       "title_cn": "YC的Garry Tan呼吁美国开源AI蒸馏",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Garry Tan呼吁美国开源AI实验室蒸馏前沿模型，以对抗中国开源AI。",
-      "short_summary_cn": "Y Combinator的Garry Tan希望美国小型开源AI实验室使用与美国前沿AI实验室相同的训练技术，为美国提供更强大的非中国开源权重选项。",
-      "why_it_matters_cn": "中美AI开源竞争加剧，蒸馏技术成为战略议题。",
-      "action_suggestion_cn": "关注美国开源AI政策及蒸馏技术合规性讨论。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "YC的Garry Tan希望美国开源AI实验室蒸馏前沿模型以对抗中国",
+      "short_summary_cn": "Y Combinator的Garry Tan呼吁美国小型开源AI实验室使用美国前沿AI实验室的训练技术进行蒸馏，以提供更多非中国的开源权重选项。",
+      "why_it_matters_cn": "开源AI蒸馏涉及中美技术竞争，可能影响美国AI开源政策与出口管制讨论。",
+      "action_suggestion_cn": "跟踪美国开源AI政策动向及蒸馏技术合规性讨论，评估对AI开源生态的影响。",
       "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "urgency_score": 4,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "中美AI开源竞争，战略意义强。",
-      "frontpage_reason_cn": "美国开源AI对抗中国，地缘科技议题。",
+      "editor_reason_cn": "中美AI竞争新维度，具政策与行业影响。",
+      "frontpage_reason_cn": "中美AI竞争话题关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发开源AI蒸馏合规性讨论。",
-        "medium_term_impact_cn": "可能推动美国开源AI政策调整。",
-        "long_term_impact_cn": "影响全球开源AI生态与中美技术竞争格局。",
+        "immediate_impact_cn": "开源AI社区讨论升温。",
+        "medium_term_impact_cn": "或推动美国开源AI政策调整。",
+        "long_term_impact_cn": "开源权重格局可能重塑，影响全球AI生态。",
         "affected_sectors": [
-          "AI",
-          "开源",
-          "地缘政治"
+          "人工智能",
+          "开源软件",
+          "政策"
         ],
         "affected_assets": [
-          "开源AI公司",
-          "美国AI概念股"
+          "美国开源AI公司",
+          "中国AI公司"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "sector_rotation",
         "risk_level": "medium",
         "follow_up_questions": [
-          "蒸馏是否合法？",
-          "政策是否支持？",
-          "中国如何回应？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 13,
-      "title_cn": "中亚公布2026 Road to Battlefield获胜者",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Cerberus、WeGlobal AI和LOOQ赢得中亚区Road to Battlefield冠军。",
-      "short_summary_cn": "Cerberus、WeGlobal AI和LOOQ在中亚区Road to TechCrunch Startup Battlefield 2026决赛中获胜，将代表中亚参加10月在旧金山举行的Startup Battlefield 200。",
-      "why_it_matters_cn": "中亚初创企业崛起，AI创业生态全球化趋势。",
-      "action_suggestion_cn": "关注获胜项目及TechCrunch Disrupt后续动态。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "创业赛事结果，AI初创生态动态。",
-      "frontpage_reason_cn": "中亚AI初创获胜，区域创新亮点。",
-      "impact_analysis": {
-        "immediate_impact_cn": "获胜项目获得曝光与资源。",
-        "medium_term_impact_cn": "可能吸引投资进入中亚AI生态。",
-        "long_term_impact_cn": "推动全球AI创业多元化。",
-        "affected_sectors": [
-          "AI",
-          "创业投资"
-        ],
-        "affected_assets": [
-          "相关初创公司"
-        ],
-        "us_stock_relevance": "none",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "项目具体内容？",
-          "融资情况？",
-          "Disrupt表现？"
-        ]
-      },
-      "us_market_relevance": "none",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 14,
-      "title_cn": "Nscale任命前OpenAI高管加入董事会",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Nscale在潜在IPO前任命前OpenAI高管Fidji Simo加入董事会。",
-      "short_summary_cn": "Nscale在可能进行IPO之前，任命前OpenAI二号高管、曾带领Instacart上市的Fidji Simo加入董事会。此举被视为加强治理与上市准备。",
-      "why_it_matters_cn": "AI基础设施公司IPO动向，资本市场关注。",
-      "action_suggestion_cn": "关注Nscale IPO进展及AI基础设施投资趋势。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI基础设施公司IPO准备，资本市场信号。",
-      "frontpage_reason_cn": "前OpenAI高管加入Nscale董事会，IPO预期升温。",
-      "impact_analysis": {
-        "immediate_impact_cn": "提升Nscale治理形象与市场信心。",
-        "medium_term_impact_cn": "可能加速Nscale IPO进程。",
-        "long_term_impact_cn": "影响AI基础设施领域资本格局。",
-        "affected_sectors": [
-          "AI基础设施",
-          "云计算",
-          "资本市场"
-        ],
-        "affected_assets": [
-          "Nscale",
-          "AI基础设施股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "IPO时间表？",
-          "估值？",
-          "Simo具体角色？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 15,
-      "title_cn": "OpenAI扩展存储服务10亿用户",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "OpenAI将Habitat从Python库扩展为服务10亿ChatGPT用户的全球存储平台。",
-      "short_summary_cn": "OpenAI详细介绍了如何将Habitat从Python库演变为全球分布式存储平台，服务10亿ChatGPT用户，每秒处理2200万次请求。展示了大规模AI基础设施的技术挑战。",
-      "why_it_matters_cn": "AI基础设施规模化能力，影响ChatGPT服务稳定性与扩展性。",
-      "action_suggestion_cn": "关注OpenAI基础设施技术博客，评估对云存储与AI服务架构的影响。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI基础设施技术细节，工程价值高。",
-      "frontpage_reason_cn": "OpenAI存储平台服务10亿用户，技术规模惊人。",
-      "impact_analysis": {
-        "immediate_impact_cn": "展示OpenAI大规模服务能力。",
-        "medium_term_impact_cn": "可能推动AI基础设施技术标准。",
-        "long_term_impact_cn": "影响AI服务架构与云存储竞争。",
-        "affected_sectors": [
-          "云计算",
-          "AI基础设施",
-          "存储"
-        ],
-        "affected_assets": [
-          "云存储公司",
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "技术细节？",
-          "成本？",
-          "是否开源？"
+          "蒸馏技术是否合规？",
+          "政策层面是否支持？",
+          "对中国AI影响多大？"
         ]
       },
       "us_market_relevance": "medium",
@@ -1411,78 +1363,171 @@
     },
     {
       "index": 16,
-      "title_cn": "研究员用Codex搜索抗菌分子",
+      "title_cn": "OpenAI存储扩展支撑10亿用户",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "source_display_name": "OpenAI",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "César de la Fuente实验室用Codex和ChatGPT搜索活体与灭绝基因组中的抗菌候选分子。",
-      "short_summary_cn": "César de la Fuente的实验室利用Codex和ChatGPT，在活体和灭绝基因组中搜索抗菌候选分子，以对抗耐药性感染。展示了AI在生物医学研究中的应用。",
-      "why_it_matters_cn": "AI加速抗菌药物发现，可能缓解抗生素耐药性危机。",
-      "action_suggestion_cn": "关注AI在药物发现中的案例，评估对生物医药研发的影响。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "OpenAI将Habitat扩展为全球分布式存储平台，支撑10亿ChatGPT用户",
+      "short_summary_cn": "OpenAI分享了如何将Habitat从Python库演变为全球分布式存储平台，支撑10亿ChatGPT用户和每秒2200万次请求。展示了AI基础设施的规模化能力。",
+      "why_it_matters_cn": "AI基础设施规模化经验对云计算和存储行业有参考价值，反映AI算力需求增长。",
+      "action_suggestion_cn": "关注OpenAI基础设施技术细节，评估对云存储和AI算力投资的影响。",
       "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "AI+生物医药，应用前景广阔。",
-      "frontpage_reason_cn": "AI搜索抗菌分子，医疗健康议题。",
+      "editor_reason_cn": "AI基础设施规模化案例，具技术参考价值。",
+      "frontpage_reason_cn": "技术深度内容，适合专业读者。",
       "impact_analysis": {
-        "immediate_impact_cn": "展示AI在药物发现中的潜力。",
-        "medium_term_impact_cn": "可能加速抗菌药物研发进程。",
-        "long_term_impact_cn": "改变药物发现范式，应对耐药性危机。",
+        "immediate_impact_cn": "技术社区关注，无直接市场影响。",
+        "medium_term_impact_cn": "或推动AI基础设施投资增长。",
+        "long_term_impact_cn": "AI存储架构可能成为行业标准参考。",
         "affected_sectors": [
-          "生物医药",
-          "AI",
-          "抗生素"
+          "云计算",
+          "存储",
+          "人工智能"
         ],
         "affected_assets": [
-          "生物医药股",
-          "AI药物发现公司"
+          "云存储股",
+          "AI基础设施公司"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "发现具体分子？",
-          "临床前景？",
-          "合作方？"
+          "Habitat具体架构？",
+          "成本效率如何？",
+          "是否开源？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false
+      "is_old_context": true
+    },
+    {
+      "index": 17,
+      "title_cn": "研究员用AI搜索抗菌分子",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-11",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "研究员用Codex和ChatGPT从基因组中搜索抗菌分子候选",
+      "short_summary_cn": "César de la Fuente的实验室使用Codex和ChatGPT在现存和已灭绝基因组中搜索抗菌候选分子，以对抗耐药性感染。展示了AI在生物医药研发中的应用。",
+      "why_it_matters_cn": "AI加速抗菌药物发现，可能缓解全球抗生素耐药性危机。",
+      "action_suggestion_cn": "关注AI驱动药物发现的商业化进展，评估对生物医药板块的影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 6,
+      "tracking_value": 7,
+      "editor_reason_cn": "AI+生物医药应用案例，具行业跟踪价值。",
+      "frontpage_reason_cn": "AI医疗突破话题有吸引力。",
+      "impact_analysis": {
+        "immediate_impact_cn": "科研层面关注，无直接市场影响。",
+        "medium_term_impact_cn": "或推动AI药物发现投资增加。",
+        "long_term_impact_cn": "AI可能大幅缩短新药研发周期。",
+        "affected_sectors": [
+          "生物医药",
+          "人工智能",
+          "医疗"
+        ],
+        "affected_assets": [
+          "AI制药公司",
+          "生物科技股"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "发现具体成果？",
+          "是否进入临床？",
+          "AI贡献多大？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true
     }
   ],
   "politics_highlights": [
     {
-      "index": 11,
+      "index": 5,
+      "title_cn": "卡尼寻求与欧盟建立独特联盟",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "加拿大总理卡尼在美加贸易战升级之际寻求与欧盟建立独特联盟",
+      "short_summary_cn": "加拿大总理卡尼表示虽排除加入欧盟，但希望与布鲁塞尔建立独特联盟。此举发生在美加贸易战持续升级的背景下，显示加拿大正在寻求贸易多元化。",
+      "why_it_matters_cn": "北美贸易关系紧张推动加拿大转向欧盟，可能重塑跨大西洋贸易格局。",
+      "action_suggestion_cn": "跟踪加欧贸易谈判进展及美国回应，评估对北美供应链和贸易流向的影响。",
+      "importance_score": 8,
+      "urgency_score": 5,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "地缘贸易格局变化，具宏观政策跟踪价值。",
+      "frontpage_reason_cn": "贸易战升级+盟友重组，国际政治头条潜力。",
+      "impact_analysis": {
+        "immediate_impact_cn": "加元与相关贸易资产短期波动。",
+        "medium_term_impact_cn": "加欧贸易谈判或加速，北美供应链面临调整。",
+        "long_term_impact_cn": "若联盟成型，可能削弱美国在北美贸易中的主导地位。",
+        "affected_sectors": [
+          "国际贸易",
+          "能源",
+          "农业",
+          "汽车"
+        ],
+        "affected_assets": [
+          "加元",
+          "欧元",
+          "加拿大出口股"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "sector_rotation",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "独特联盟具体涵盖哪些领域？",
+          "美国是否会有反制措施？",
+          "谈判时间表如何？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 14,
       "title_cn": "Revolut确认客户数据泄露",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "politics_world",
-      "news_type": "politics",
+      "news_type": "general",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Revolut因虚假政府请求导致客户数据泄露，已通知受影响客户。",
-      "short_summary_cn": "Revolut确认通过虚假政府请求导致客户数据泄露。公司已通知受影响客户，并通报相关政府机构、执法部门和金融监管机构。",
-      "why_it_matters_cn": "金融科技公司数据安全漏洞，涉及政府请求滥用与监管信任。",
-      "action_suggestion_cn": "关注Revolut后续安全措施及监管调查进展。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Revolut因虚假政府请求导致客户数据泄露",
+      "short_summary_cn": "Revolut确认通过虚假政府请求导致客户数据泄露，已通知受影响客户及相关政府机构、执法部门和金融监管机构。事件凸显金融科技公司数据安全漏洞。",
+      "why_it_matters_cn": "金融科技数据泄露涉及监管合规与用户信任，可能引发更严格的数据安全审查。",
+      "action_suggestion_cn": "跟踪Revolut后续监管处罚及行业数据安全措施升级，评估金融科技板块合规风险。",
       "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "urgency_score": 5,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "金融数据泄露涉及政府请求滥用，安全议题重要。",
-      "frontpage_reason_cn": "Revolut数据泄露，金融安全关注度高。",
+      "editor_reason_cn": "金融科技安全事件，具监管与行业影响。",
+      "frontpage_reason_cn": "数据泄露话题关注度高，涉及知名金融科技公司。",
       "impact_analysis": {
-        "immediate_impact_cn": "Revolut用户信任受损。",
-        "medium_term_impact_cn": "可能引发金融科技行业数据安全审查。",
-        "long_term_impact_cn": "推动政府请求验证机制与数据保护法规完善。",
+        "immediate_impact_cn": "Revolut声誉受损，用户信任短期下降。",
+        "medium_term_impact_cn": "或引发监管机构对金融科技数据安全审查加强。",
+        "long_term_impact_cn": "行业数据安全标准可能提升，合规成本增加。",
         "affected_sectors": [
           "金融科技",
-          "数据安全",
-          "监管"
+          "网络安全",
+          "银行"
         ],
         "affected_assets": [
           "Revolut",
@@ -1490,11 +1535,11 @@
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "risk_off",
-        "risk_level": "high",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "泄露规模？",
-          "谁发起虚假请求？",
-          "监管处罚？"
+          "泄露规模多大？",
+          "监管处罚如何？",
+          "是否有其他公司受影响？"
         ]
       },
       "us_market_relevance": "low",
@@ -1504,174 +1549,167 @@
   ],
   "us_market_impact": {
     "overall_market_tone": "mixed",
-    "summary_cn": "AI算力与政府合作利好支撑科技板块，但OpenAI与数学家冲突、Anthropic放缓呼吁及安全事件带来监管与伦理折价，整体情绪偏多但分化。",
+    "summary_cn": "AI商业化落地与安全争议并存，OpenAI金融版和IPO信号提供结构性机会，但放缓表态和安全漏洞压制整体风险偏好，市场情绪偏谨慎。",
     "index_impact": {
-      "nasdaq": "AI权重股支撑，偏多但波动加大",
-      "sp500": "科技与金融板块分化，中性偏多",
-      "russell2000": "小盘AI概念受情绪带动，但持续性存疑"
+      "nasdaq": "AI权重股受OpenAI金融版和IPO信号支撑，但放缓表态可能限制涨幅，预计震荡偏强。",
+      "sp500": "金融科技和AI应用板块有结构性机会，但整体受贸易战和监管风险拖累，中性偏震荡。",
+      "russell2000": "小盘AI概念和初创相关标的可能受YC Demo Day和AI投资分散化提振，但流动性有限。"
     },
     "sector_impacts": [
       {
-        "sector": "半导体与AI算力",
+        "sector": "金融科技",
         "direction": "up",
-        "reason_cn": "黄仁勋给出英伟达明年70%增长指引，强化AI算力需求叙事。",
-        "related_news": "黄仁勋解释英伟达明年增长70%",
-        "possible_tickers": "NVDA, AMD, AVGO, TSM"
+        "reason_cn": "OpenAI推出金融服务版ChatGPT，结合金融数据和GPT-6 Astra，可能提升金融科技公司AI应用预期。",
+        "related_news": "OpenAI推出金融服务版ChatGPT",
+        "possible_tickers": "未明确"
       },
       {
-        "sector": "金融科技与数据服务",
-        "direction": "mixed",
-        "reason_cn": "OpenAI推出金融版ChatGPT可能加剧竞争，Revolut数据泄露引发安全担忧。",
-        "related_news": "OpenAI推出金融服务版ChatGPT；Revolut确认客户数据泄露",
-        "possible_tickers": "FIS, FISV, PYPL, SQ"
+        "sector": "AI算力与前沿模型",
+        "direction": "down",
+        "reason_cn": "Altman与Anthropic CEO同步释放放缓前沿AI发展信号，可能压制算力需求和模型竞赛预期。",
+        "related_news": "Altman称2026年IPO不明智；Anthropic CEO提出放缓AI发展计划",
+        "possible_tickers": "未明确"
       },
       {
-        "sector": "AI软件与应用",
+        "sector": "网络安全",
         "direction": "up",
-        "reason_cn": "OpenAI政府优惠合作与Images 2.5发布，扩大AI应用场景。",
-        "related_news": "OpenAI向美国政府提供AI优惠；OpenAI推出ChatGPT Images 2.5",
-        "possible_tickers": "MSFT, GOOGL, CRM, ADBE"
-      },
-      {
-        "sector": "网络安全与合规",
-        "direction": "up",
-        "reason_cn": "Claude绕过防护、律师引用虚假证词、Revolut泄露等事件提升安全与合规需求。",
-        "related_news": "Claude用户绕过生物武器研究防护；律师因引用ChatGPT虚假证词受罚",
-        "possible_tickers": "CRWD, PANW, ZS, OKTA"
+        "reason_cn": "Claude用户绕过生物武器研究防护，AI安全漏洞事件可能提升安全合规需求。",
+        "related_news": "Claude用户绕过生物武器研究防护",
+        "possible_tickers": "未明确"
       }
     ],
     "theme_impacts": [
       {
-        "theme": "AI算力军备竞赛",
-        "direction": "up",
-        "reason_cn": "英伟达增长指引与OpenAI存储扩展强化算力需求预期。",
-        "watch_tickers": "NVDA, AMD, SMCI, DELL"
-      },
-      {
-        "theme": "AI监管与安全",
+        "theme": "AI IPO",
         "direction": "mixed",
-        "reason_cn": "数学家冲突、Anthropic放缓呼吁与安全事件可能推动监管收紧，短期压制估值。",
-        "watch_tickers": "MSFT, GOOGL, AMZN, META"
+        "reason_cn": "OpenAI已秘密提交IPO申请但Altman称2026年不明智，上市节奏不确定，一级市场估值传导存疑。",
+        "watch_tickers": "未明确"
       },
       {
-        "theme": "政府AI采购",
+        "theme": "AI安全与监管",
         "direction": "up",
-        "reason_cn": "OpenAI与GSA合作打开政府AI采购通道，利好云与AI应用商。",
-        "watch_tickers": "MSFT, AMZN, GOOGL, PLTR"
+        "reason_cn": "Claude安全漏洞、律师引用ChatGPT被罚、OpenAI呼吁政策窗口，监管关注度上升。",
+        "watch_tickers": "未明确"
+      },
+      {
+        "theme": "AI垂直应用",
+        "direction": "up",
+        "reason_cn": "金融版ChatGPT、量子计算实验、抗菌分子搜索等垂直落地案例增多。",
+        "watch_tickers": "未明确"
       }
     ],
     "risk_factors": [
-      "OpenAI与学术界矛盾升级可能引发更严格的AI监管审查。",
-      "Anthropic放缓AI前沿发展若被政策采纳，可能拖累AI投资节奏。",
-      "AI安全事件频发可能削弱企业采用信心。",
-      "英伟达70%增长指引若不及预期，可能引发AI板块回调。"
+      "OpenAI IPO时间表不确定，可能引发AI板块估值波动。",
+      "AI安全漏洞和监管收紧可能增加合规成本。",
+      "美加贸易战升级和地缘政治风险压制市场情绪。",
+      "Revolut数据泄露事件可能引发金融数据安全担忧。"
     ],
     "follow_up_events": [
       {
-        "event_name": "英伟达下一季度财报",
+        "event_name": "OpenAI IPO进程",
         "expected_date": "待定",
-        "why_watch_cn": "验证黄仁勋70%增长指引的兑现程度。",
-        "market_relevance_cn": "直接影响AI算力链估值与市场风险偏好。"
+        "why_watch_cn": "Altman称2026年IPO不明智但已秘密提交申请，上市节奏影响AI一级市场估值。",
+        "market_relevance_cn": "可能影响AI板块风险偏好和资金流向。"
       },
       {
-        "event_name": "OpenAI IPO相关表态",
-        "expected_date": "2026年",
-        "why_watch_cn": "Altman称2026年IPO不明智，后续融资路径影响AI一级市场估值。",
-        "market_relevance_cn": "可能改变AI独角兽融资与上市预期。"
-      },
-      {
-        "event_name": "《死神：千年血战》第49、50集播出",
+        "event_name": "《死神：千年血战》延期集数播出",
         "expected_date": "10月19日、26日",
-        "why_watch_cn": "延期后能否如期播出影响动漫排播与周边节奏。",
-        "market_relevance_cn": "对美股无直接关联，但影响动漫IP商业节奏。"
+        "why_watch_cn": "延期后播出表现影响相关IP周边和联名商品热度。",
+        "market_relevance_cn": "动漫IP商业价值传导至收藏品和授权市场。"
+      },
+      {
+        "event_name": "《吸血鬼骑士》新系列连载",
+        "expected_date": "10月9日",
+        "why_watch_cn": "19年后新系列可能带动旧周边二次流通和新商品开发。",
+        "market_relevance_cn": "经典IP重启对动漫收藏市场有提振作用。"
       }
     ]
   },
   "future_watchlist": [
     {
-      "title": "OpenAI与数学家知识产权冲突后续",
-      "category": "AI监管",
+      "title": "OpenAI IPO进程与监管互动",
+      "category": "ai_tech",
       "expected_date": "待定",
-      "why_watch_cn": "25位数学家联名指控可能引发学术与AI实验室的版权规则讨论。",
-      "market_relevance_cn": "可能影响AI训练数据合规成本与监管预期。",
+      "why_watch_cn": "Altman称2026年IPO不明智但已秘密提交申请，上市节奏和监管态度将影响AI行业资本格局。",
+      "market_relevance_cn": "可能影响AI板块估值和一级市场资金流向。",
       "anime_relevance_cn": "无直接关联。",
       "urgency": "high",
-      "created_at": "2026-09-13",
-      "updated_at": "2026-09-13",
+      "created_at": "2026-09-14",
+      "updated_at": "2026-09-14",
       "status": "active"
     },
     {
-      "title": "英伟达70%增长指引兑现节奏",
-      "category": "美股AI算力",
-      "expected_date": "下一财报季",
-      "why_watch_cn": "黄仁勋高调指引需订单与供应链验证。",
-      "market_relevance_cn": "直接影响NVDA及AI算力链估值。",
+      "title": "Anthropic安全事件后续",
+      "category": "ai_tech",
+      "expected_date": "待定",
+      "why_watch_cn": "Claude用户绕过生物武器研究防护，监管反应和公司应对将影响AI安全治理标准。",
+      "market_relevance_cn": "可能提升网络安全和合规板块关注度。",
       "anime_relevance_cn": "无直接关联。",
       "urgency": "high",
-      "created_at": "2026-09-13",
-      "updated_at": "2026-09-13",
+      "created_at": "2026-09-14",
+      "updated_at": "2026-09-14",
       "status": "active"
     },
     {
-      "title": "Anthropic放缓AI前沿发展计划",
-      "category": "AI安全",
-      "expected_date": "待定",
-      "why_watch_cn": "Dario Amodei的放缓提议是否影响行业投资节奏。",
-      "market_relevance_cn": "可能改变AI资本开支预期。",
-      "anime_relevance_cn": "无直接关联。",
-      "urgency": "medium",
-      "created_at": "2026-09-13",
-      "updated_at": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "title": "《死神：千年血战》延期后播出",
-      "category": "动漫排播",
+      "title": "《死神：千年血战》延期集数播出",
+      "category": "anime_collab",
       "expected_date": "10月19日、26日",
-      "why_watch_cn": "确认是否再次延期，影响粉丝与周边节奏。",
-      "market_relevance_cn": "对美股无直接关联。",
-      "anime_relevance_cn": "直接影响动漫收藏与活动安排。",
+      "why_watch_cn": "延期后播出表现影响粉丝情绪和相关周边销售。",
+      "market_relevance_cn": "动漫IP商业价值传导至收藏品市场。",
+      "anime_relevance_cn": "直接关联《死神》IP周边和联名商品。",
       "urgency": "medium",
-      "created_at": "2026-09-13",
-      "updated_at": "2026-09-13",
+      "created_at": "2026-09-14",
+      "updated_at": "2026-09-14",
       "status": "active"
     },
     {
-      "title": "《魔法少女小圆》新剧场版后续情报",
-      "category": "动漫IP",
-      "expected_date": "待定",
-      "why_watch_cn": "新预告与视觉图发布后，关注上映日期与周边商品。",
-      "market_relevance_cn": "对美股无直接关联。",
-      "anime_relevance_cn": "高价值IP，可能带动收藏与联动。",
+      "title": "《吸血鬼骑士》新系列连载",
+      "category": "manga_signing_events",
+      "expected_date": "10月9日",
+      "why_watch_cn": "19年后新系列可能带动旧周边二次流通和新商品开发。",
+      "market_relevance_cn": "经典IP重启对动漫收藏市场有提振作用。",
+      "anime_relevance_cn": "直接关联《吸血鬼骑士》IP收藏品。",
       "urgency": "medium",
-      "created_at": "2026-09-13",
-      "updated_at": "2026-09-13",
+      "created_at": "2026-09-14",
+      "updated_at": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "title": "《魔法少女小圆》新剧场版后续",
+      "category": "anime_collab",
+      "expected_date": "待定",
+      "why_watch_cn": "新PV和视觉图发布后，上映日期和周边商品信息值得追踪。",
+      "market_relevance_cn": "可能带动手办和联名商品销售。",
+      "anime_relevance_cn": "直接关联《魔法少女小圆》IP收藏品。",
+      "urgency": "medium",
+      "created_at": "2026-09-14",
+      "updated_at": "2026-09-14",
       "status": "active"
     }
   ],
   "articles": [
     {
-      "index": 24,
+      "index": 26,
       "title_cn": "《死神：千年血战》第49、50集延期",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《死神：千年血战-祸斗》第49、50集延期至10月19日、26日播出。",
-      "short_summary_cn": "《死神：千年血战-祸斗》第49、50集延期至10月19日和26日播出。第7、28、46、48集将在第49、50集播出前重播。",
-      "why_it_matters_cn": "热门动画延期，影响粉丝期待与播出安排。",
-      "action_suggestion_cn": "关注官方后续公告及重播安排。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "《死神：千年血战-灾厄》第49、50集延期至10月19日和26日播出",
+      "short_summary_cn": "《死神：千年血战-灾厄》第49、50集延期至10月19日和26日播出。第7、28、46、48集将在新集播出前重播。",
+      "why_it_matters_cn": "热门动画延期影响粉丝追番计划，重播安排为粉丝提供回顾机会。",
+      "action_suggestion_cn": "更新追番日历，关注重播时间安排。",
       "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "热门动画延期，粉丝关注。",
-      "frontpage_reason_cn": "《死神》延期，动漫迷关注。",
+      "urgency_score": 4,
+      "collector_value": 5,
+      "tracking_value": 6,
+      "editor_reason_cn": "热门动画播出变动，粉丝关注度高。",
+      "frontpage_reason_cn": "动画延期话题适合动漫受众。",
       "anime_event_detail": {
         "event_type": "动画播出延期",
-        "ip_or_work_title": "Bleach: Thousand-Year Blood War - The Calamity",
+        "ip_or_work_title": "死神：千年血战-灾厄",
         "person_name": "未知",
         "role": "未知",
         "event_date": "2026-10-19",
@@ -1685,36 +1723,36 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "urgency_level": "medium",
+        "collector_value": 5,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注官方后续公告及重播安排。"
+        "action_needed_cn": "更新追番日历"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 25,
-      "title_cn": "Netflix公布《Outback》真人剧阵容",
+      "index": 27,
+      "title_cn": "Netflix公布网漫改编剧《Outback》阵容",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Netflix公布改编自网漫《G'day》的真人剧《Outback》演员阵容。",
-      "short_summary_cn": "Netflix公布改编自网漫《G'day》的真人剧《Outback》的演员阵容。该剧讲述一名男子在姐姐突然去世后前往澳大利亚的故事。",
-      "why_it_matters_cn": "网漫IP真人化趋势持续，Netflix内容布局。",
-      "action_suggestion_cn": "关注剧集上线时间及网漫原作热度变化。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Netflix公布网漫改编真人剧《Outback》演员阵容",
+      "short_summary_cn": "Netflix公布改编自网漫《G'day》的真人剧《Outback》演员阵容。该剧讲述一名男子在姐姐突然去世后前往澳大利亚的故事。",
+      "why_it_matters_cn": "网漫IP真人化持续扩展，反映流媒体平台对漫画IP的重视。",
+      "action_suggestion_cn": "关注该剧上线时间和预告片发布。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "网漫真人化，IP改编动态。",
-      "frontpage_reason_cn": "Netflix新剧阵容公布，网漫改编。",
+      "collector_value": 5,
+      "tracking_value": 6,
+      "editor_reason_cn": "网漫IP真人化，具行业跟踪价值。",
+      "frontpage_reason_cn": "Netflix新剧话题适合影视受众。",
       "anime_event_detail": {
-        "event_type": "真人剧演员公布",
-        "ip_or_work_title": "Outback (G'day)",
+        "event_type": "真人剧公布",
+        "ip_or_work_title": "Outback",
         "person_name": "未知",
         "role": "演员",
         "event_date": "未知",
@@ -1727,42 +1765,42 @@
         "lottery_or_first_come": "未知",
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "official_source": "Netflix",
+        "urgency_level": "low",
+        "collector_value": 5,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注剧集上线时间及网漫原作热度变化。"
+        "action_needed_cn": "关注上线时间"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 26,
-      "title_cn": "《魔法少女小圆》新剧场版发新预告",
+      "index": 28,
+      "title_cn": "《魔法少女小圆》新剧场版公布新PV",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《魔法少女小圆-瓦尔普吉斯之夜：崛起-》发布新预告与视觉图。",
-      "short_summary_cn": "《魔法少女小圆》新剧场版《瓦尔普吉斯之夜：崛起》发布新预告片和视觉图。该片已于8月28日在日本上映，Aniplex One Focus直播活动公布了新内容。",
-      "why_it_matters_cn": "经典IP新剧场版持续营销，粉丝关注度高。",
-      "action_suggestion_cn": "关注新预告内容及后续上映/活动安排。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "《魔法少女小圆-瓦尔普吉斯之夜：崛起》公布新宣传片和视觉图",
+      "short_summary_cn": "《魔法少女小圆-瓦尔普吉斯之夜：崛起》剧场版公布新宣传视频和视觉图。该片已于8月28日在日本上映。",
+      "why_it_matters_cn": "小圆新剧场版持续发布宣传物料，对粉丝和周边收藏者具有吸引力。",
+      "action_suggestion_cn": "关注新PV内容及后续周边发售信息。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 6,
-      "editor_reason_cn": "经典IP新剧场版，粉丝关注。",
-      "frontpage_reason_cn": "小圆新剧场版新预告，动漫迷关注。",
+      "editor_reason_cn": "热门IP新剧场版宣传，粉丝关注。",
+      "frontpage_reason_cn": "小圆话题适合动漫受众。",
       "anime_event_detail": {
-        "event_type": "剧场版新预告发布",
-        "ip_or_work_title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
+        "event_type": "剧场版宣传",
+        "ip_or_work_title": "魔法少女小圆-瓦尔普吉斯之夜：崛起",
         "person_name": "未知",
         "role": "未知",
         "event_date": "2026-08-28",
         "event_time": "未知",
-        "venue": "日本影院",
+        "venue": "日本院线",
         "city": "未知",
         "country": "日本",
         "ticket_method": "未知",
@@ -1771,38 +1809,38 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
+        "urgency_level": "low",
+        "collector_value": 6,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注新预告内容及后续上映/活动安排。"
+        "action_needed_cn": "关注新PV和周边信息"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 27,
+      "index": 29,
       "title_cn": "《请原谅我的弟弟们》公布新OP",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "anime_collab",
       "news_type": "anime_event",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《请原谅我的弟弟们》TV动画公布新OP歌手Neguse及特别预告。",
-      "short_summary_cn": "《请原谅我的弟弟们》TV动画公布第二部分的OP主题曲由Neguse演唱，并发布特别预告视频。",
-      "why_it_matters_cn": "动画新篇章音乐信息公布，粉丝关注。",
-      "action_suggestion_cn": "关注新OP发布及动画播出时间。",
-      "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "《请原谅我的弟弟们》第二部公布新OP歌手Neguse及特别PV",
+      "short_summary_cn": "《请原谅我的弟弟们》TV动画公布第二部的新片头曲由Neguse演唱，并发布特别宣传视频。",
+      "why_it_matters_cn": "动画新OP公布，对粉丝和音乐收藏者具有吸引力。",
+      "action_suggestion_cn": "关注新OP发售时间和动画播出信息。",
+      "importance_score": 5,
+      "urgency_score": 2,
+      "collector_value": 5,
       "tracking_value": 5,
-      "editor_reason_cn": "动画新OP公布，常规动画动态。",
-      "frontpage_reason_cn": "动画新OP歌手公布，粉丝关注。",
+      "editor_reason_cn": "动画音乐更新，粉丝关注度中等。",
+      "frontpage_reason_cn": "动画OP话题适合核心受众。",
       "anime_event_detail": {
-        "event_type": "动画新OP公布",
-        "ip_or_work_title": "Please Excuse My Younger Brothers",
+        "event_type": "动画OP公布",
+        "ip_or_work_title": "请原谅我的弟弟们",
         "person_name": "Neguse",
-        "role": "OP歌手",
+        "role": "歌手",
         "event_date": "未知",
         "event_time": "未知",
         "venue": "未知",
@@ -1814,39 +1852,39 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "urgency_level": "low",
+        "collector_value": 5,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注新OP发布及动画播出时间。"
+        "action_needed_cn": "关注OP发售信息"
       },
       "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 28,
-      "title_cn": "《罗梅利亚战记》公布主题曲与10月3日提前上线",
+      "index": 23,
+      "title_cn": "Otomate公布薄樱鬼新作等游戏",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
-      "category": "anime_collab",
+      "category": "merch_release",
       "news_type": "anime_event",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "《罗梅利亚战记》公布主题曲，10月3日提前流媒体上线。",
-      "short_summary_cn": "《罗梅利亚战记》动画公布主题曲，并宣布10月3日提前流媒体上线。同时发布了新视觉图。",
-      "why_it_matters_cn": "新番动画提前上线，流媒体竞争策略。",
-      "action_suggestion_cn": "关注10月3日上线平台及主题曲发布。",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Otomate公布薄樱鬼新作及多款新游戏，纪念20周年",
+      "short_summary_cn": "Otomate品牌公布《薄樱鬼 真改 极》等新游戏，薄樱鬼Switch 2版本将纪念Otomate明年20周年。多款新作同步公开。",
+      "why_it_matters_cn": "Otomate 20周年纪念作品公布，对乙女游戏粉丝和收藏者具有重要价值。",
+      "action_suggestion_cn": "关注各游戏具体发售日期和限定版信息，提前规划预订。",
       "importance_score": 6,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 5,
-      "editor_reason_cn": "新番动画上线信息，常规动态。",
-      "frontpage_reason_cn": "新番提前上线，动漫迷关注。",
+      "urgency_score": 4,
+      "collector_value": 7,
+      "tracking_value": 6,
+      "editor_reason_cn": "乙女游戏重要厂牌新作公布，粉丝关注度高。",
+      "frontpage_reason_cn": "游戏新作话题适合动漫受众。",
       "anime_event_detail": {
-        "event_type": "动画主题曲公布与提前上线",
-        "ip_or_work_title": "Romelia War Chronicle",
+        "event_type": "游戏新作公布",
+        "ip_or_work_title": "薄樱鬼 真改 极",
         "person_name": "未知",
         "role": "未知",
-        "event_date": "2026-10-03",
+        "event_date": "未知",
         "event_time": "未知",
         "venue": "未知",
         "city": "未知",
@@ -1856,37 +1894,37 @@
         "lottery_or_first_come": "未知",
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
-        "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "低",
+        "official_source": "Otomate",
+        "urgency_level": "medium",
+        "collector_value": 7,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注10月3日上线平台及主题曲发布。"
+        "action_needed_cn": "关注Otomate官方后续发售信息"
       },
-      "is_recent": false,
+      "is_recent": true,
       "is_old_context": false
     },
     {
-      "index": 22,
-      "title_cn": "《吸血鬼记录》19年后出新系列",
+      "index": 24,
+      "title_cn": "《吸血鬼骑士》19年后推新系列",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "manga_signing_events",
       "news_type": "anime_event",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "《吸血鬼记录》19年后推出新系列，10月9日启动。",
-      "short_summary_cn": "《In/Spectre》作者城平京与木村友里将于10月9日推出新系列《Vampire Jūjikai: Inu ni wa Inu no Uta》。《吸血鬼记录》时隔19年推出新系列，并预告后续公告。",
-      "why_it_matters_cn": "经典漫画IP复活，粉丝期待度高，可能带动周边与联动。",
-      "action_suggestion_cn": "关注10月9日新系列发售及后续公告，留意周边与活动。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "《吸血鬼骑士》19年后推出新系列，10月9日开始连载",
+      "short_summary_cn": "《In/Spectre》作者城平京与木村友里合作推出《吸血鬼十字界：犬には犬の歌》，将于10月9日开始连载。这是《吸血鬼骑士》19年后的新系列。",
+      "why_it_matters_cn": "经典漫画时隔19年推出新系列，对老粉丝和漫画收藏者具有吸引力。",
+      "action_suggestion_cn": "关注连载杂志和单行本发售信息，提前订阅或预订。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 7,
       "tracking_value": 6,
-      "editor_reason_cn": "经典漫画复活，IP价值高。",
-      "frontpage_reason_cn": "19年后新系列，粉丝关注度高。",
+      "editor_reason_cn": "经典漫画新系列，粉丝关注度高。",
+      "frontpage_reason_cn": "漫画新连载话题适合动漫受众。",
       "anime_event_detail": {
-        "event_type": "新系列连载",
-        "ip_or_work_title": "The Record of a Fallen Vampire / Vampire Jūjikai: Inu ni wa Inu no Uta",
+        "event_type": "新漫画连载",
+        "ip_or_work_title": "吸血鬼十字界：犬には犬の歌",
         "person_name": "城平京、木村友里",
         "role": "作者",
         "event_date": "2026-10-09",
@@ -1900,37 +1938,37 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
+        "urgency_level": "low",
+        "collector_value": 7,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注10月9日新系列发售及后续公告。"
+        "action_needed_cn": "关注连载杂志发售信息"
       },
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false
     },
     {
-      "index": 23,
-      "title_cn": "《Orb》作者Uoto将推两部新漫画",
+      "index": 25,
+      "title_cn": "《Orb》作者推出两部新漫画",
       "source": "Anime News Network",
       "source_display_name": "Anime News Network",
       "category": "manga_signing_events",
       "news_type": "anime_event",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "《Orb》与《100 Meters》作者Uoto将推出两部新漫画系列。",
-      "short_summary_cn": "《Orb》和《100 Meters》的作者Uoto将推出新作《Hallucination Meat》，并与米代恭绪合作推出《Test Taker/Cheaters》。两部新系列同时启动。",
-      "why_it_matters_cn": "知名漫画家新作，粉丝与出版社关注度高。",
-      "action_suggestion_cn": "关注新作连载时间与出版社信息，留意签售活动。",
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "《Orb》和《100米》作者Uoto将推出两部新漫画系列",
+      "short_summary_cn": "《Orb》和《100米》的作者Uoto将推出两部新漫画系列，包括《幻覚肉》以及与米代恭绪合作的《受验者/作弊者》。",
+      "why_it_matters_cn": "知名漫画家新作公布，对漫画读者和收藏者具有吸引力。",
+      "action_suggestion_cn": "关注两部新作的连载时间和杂志信息。",
       "importance_score": 6,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 6,
-      "editor_reason_cn": "知名漫画家新作，漫画市场动态。",
-      "frontpage_reason_cn": "Uoto双新作，漫画迷关注。",
+      "editor_reason_cn": "知名漫画家新作，粉丝关注。",
+      "frontpage_reason_cn": "漫画新作话题适合动漫受众。",
       "anime_event_detail": {
         "event_type": "新漫画连载",
-        "ip_or_work_title": "Hallucination Meat / Test Taker/Cheaters",
-        "person_name": "Uoto、米代恭绪",
+        "ip_or_work_title": "幻覚肉、受验者/作弊者",
+        "person_name": "Uoto",
         "role": "作者",
         "event_date": "未知",
         "event_time": "未知",
@@ -1943,286 +1981,97 @@
         "purchase_requirement": "未知",
         "goods_or_bonus": "未知",
         "official_source": "Anime News Network",
-        "urgency_level": "低",
-        "collector_value": "中",
+        "urgency_level": "low",
+        "collector_value": 6,
         "travel_feasibility": "未知",
-        "action_needed_cn": "关注新作连载时间与出版社信息。"
+        "action_needed_cn": "关注连载杂志信息"
       },
-      "is_recent": true,
+      "is_recent": false,
       "is_old_context": false
     },
     {
       "index": 1,
-      "title_cn": "OpenAI与数学家矛盾升级",
+      "title_cn": "Insight Partners坚持多元化AI投资",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "25位顶尖数学家联名公开信，指控AI实验室威胁其知识产权与学术工作。",
-      "short_summary_cn": "25位领先数学家签署公开信，认为AI实验室正在威胁他们的智力工作。OpenAI与数学界的矛盾持续升级，涉及训练数据版权与学术伦理争议。",
-      "why_it_matters_cn": "AI训练数据版权争议从创作者蔓延至学术圈，可能引发新一轮诉讼与监管关注。",
-      "action_suggestion_cn": "关注公开信全文及OpenAI回应，评估对AI训练数据合规政策的潜在影响。",
-      "importance_score": 10,
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "Insight Partners刻意分散AI投资，不押注单一实验室",
+      "short_summary_cn": "Insight Partners的Deven Parekh谈及错失Legora交易，并表示持有竞争AI实验室股份是合理策略。这家900亿美元规模的基金在同行纷纷重仓OpenAI和Anthropic时，选择刻意保持多元化布局。",
+      "why_it_matters_cn": "头部VC的投资策略分化，反映AI一级市场估值泡沫与集中度风险正在被重新评估。",
+      "action_suggestion_cn": "关注Insight Partners后续AI投资组合动向，作为判断一级市场AI估值风向的参考指标。",
+      "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "AI版权争议升级至学术权威层面，具有行业风向标意义。",
-      "frontpage_reason_cn": "OpenAI与数学家对立是AI伦理与版权冲突的标志性事件。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发学术界与AI公司之间的公开对立讨论。",
-        "medium_term_impact_cn": "可能推动AI训练数据版权立法或行业自律规范出台。",
-        "long_term_impact_cn": "重塑AI公司与学术界的合作关系与数据使用规则。",
-        "affected_sectors": [
-          "AI",
-          "学术出版",
-          "法律",
-          "版权"
-        ],
-        "affected_assets": [
-          "OpenAI相关概念股",
-          "AI版权诉讼相关标的"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "unclear",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "公开信具体诉求是什么？",
-          "OpenAI是否回应？",
-          "是否会有后续诉讼？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 1
-    },
-    {
-      "index": 2,
-      "title_cn": "OpenAI向美国政府提供AI优惠",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-10",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "OpenAI与GSA合作，向联邦及地方政府提供零许可费和五折使用优惠。",
-      "short_summary_cn": "OpenAI与美国总务管理局合作，为符合条件的联邦、州、地方和部落政府提供0美元许可费、50%使用折扣及扩展网络防御支持。此举旨在扩大AI在政府部门的接入。",
-      "why_it_matters_cn": "AI巨头加速渗透政府市场，可能重塑公共部门技术采购格局与网络安全体系。",
-      "action_suggestion_cn": "关注GSA合同细节及对其他AI厂商的示范效应，评估政府AI采购趋势。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 8,
-      "editor_reason_cn": "OpenAI政府合作是AI商业化与政策结合的重要案例。",
-      "frontpage_reason_cn": "AI进入政府核心系统，涉及安全与采购双重议题。",
-      "impact_analysis": {
-        "immediate_impact_cn": "政府机构可低成本接入OpenAI服务。",
-        "medium_term_impact_cn": "可能引发其他AI厂商跟进政府优惠策略。",
-        "long_term_impact_cn": "AI深度嵌入政府运作，改变公共服务与网络安全模式。",
-        "affected_sectors": [
-          "AI",
-          "政府IT",
-          "网络安全",
-          "云计算"
-        ],
-        "affected_assets": [
-          "OpenAI概念股",
-          "政府IT承包商"
-        ],
-        "us_stock_relevance": "high",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "合同金额与期限？",
-          "是否涉及数据安全审查？",
-          "其他AI公司是否跟进？"
-        ]
-      },
-      "us_market_relevance": "high",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 2
-    },
-    {
-      "index": 3,
-      "title_cn": "GPT-5.6 Sol助力量子计算实验",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-09",
-      "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol与Codex自主运行量子计算实验并校准量子比特。",
-      "short_summary_cn": "MIT研究员利用GPT-5.6 Sol配合Codex，自主运行量子计算实验、分析结果并校准量子比特。展示了AI在尖端科研中的自动化潜力。",
-      "why_it_matters_cn": "AI自主科研能力提升，可能加速量子计算等前沿领域突破。",
-      "action_suggestion_cn": "关注AI在科研自动化中的案例积累，评估对量子计算研发效率的影响。",
-      "importance_score": 10,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 5,
       "tracking_value": 7,
-      "editor_reason_cn": "AI+量子计算交叉领域，技术前沿性强。",
-      "frontpage_reason_cn": "AI自主运行量子实验是科研范式变革的信号。",
+      "editor_reason_cn": "头部基金逆势多元化策略，具备行业风向标意义。",
+      "frontpage_reason_cn": "AI投资策略分化话题性强，但缺乏即时市场冲击。",
       "impact_analysis": {
-        "immediate_impact_cn": "展示AI在复杂科研任务中的可行性。",
-        "medium_term_impact_cn": "可能推动更多实验室采用AI辅助科研。",
-        "long_term_impact_cn": "加速量子计算研发进程，改变科研人力结构。",
+        "immediate_impact_cn": "对AI一级市场情绪影响有限，短期无直接交易冲击。",
+        "medium_term_impact_cn": "或引导部分LP重新审视AI基金集中度风险。",
+        "long_term_impact_cn": "若AI泡沫破裂，多元化策略基金抗风险能力将凸显。",
         "affected_sectors": [
-          "AI",
-          "量子计算",
-          "科研自动化"
+          "风险投资",
+          "人工智能",
+          "私募股权"
         ],
         "affected_assets": [
-          "量子计算概念股",
-          "AI科研工具公司"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "实验可复现性如何？",
-          "是否开源？",
-          "其他领域应用前景？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 3
-    },
-    {
-      "index": 4,
-      "title_cn": "黄仁勋解释英伟达明年增长70%",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "黄仁勋称英伟达明年将增长70%，并否认交易存在循环性。",
-      "short_summary_cn": "英伟达CEO黄仁勋表示公司明年将实现70%的惊人增长，强调其业务触角广泛。他坚称公司的交易并非循环性安排。",
-      "why_it_matters_cn": "英伟达增长预期直接影响AI芯片供应链与全球科技股走势。",
-      "action_suggestion_cn": "关注英伟达财报及供应链动态，评估70%增长预期的可信度与市场反应。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 9,
-      "editor_reason_cn": "英伟达是AI算力核心，增长预期对市场影响巨大。",
-      "frontpage_reason_cn": "黄仁勋给出具体增长数字，市场高度关注。",
-      "impact_analysis": {
-        "immediate_impact_cn": "提振AI芯片板块情绪。",
-        "medium_term_impact_cn": "影响供应链订单与竞争对手策略。",
-        "long_term_impact_cn": "决定AI算力市场格局与投资方向。",
-        "affected_sectors": [
-          "AI芯片",
-          "半导体",
-          "云计算"
-        ],
-        "affected_assets": [
-          "NVDA",
-          "AMD",
-          "台积电",
-          "AI概念股"
-        ],
-        "us_stock_relevance": "very_high",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "70%增长的具体驱动？",
-          "循环交易质疑如何回应？",
-          "供应链能否跟上？"
-        ]
-      },
-      "us_market_relevance": "very_high",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 4
-    },
-    {
-      "index": 5,
-      "title_cn": "律师因引用ChatGPT虚假证词受罚",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "新墨西哥州辩护律师因引用ChatGPT编造的虚假证人证词被处罚。",
-      "short_summary_cn": "一名新墨西哥州辩护律师因在法庭文件中引用ChatGPT生成的虚假证人证词而受到处罚。该律师称不知道AI会幻觉事实。此案凸显AI在法律实务中的风险。",
-      "why_it_matters_cn": "AI幻觉在法律领域造成实际后果，可能推动法律行业AI使用规范。",
-      "action_suggestion_cn": "关注法律行业AI使用指南及后续判例，评估AI工具合规风险。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI幻觉导致法律处罚，具有警示意义。",
-      "frontpage_reason_cn": "律师因AI虚假证词受罚，社会关注度高。",
-      "impact_analysis": {
-        "immediate_impact_cn": "引发法律界对AI工具使用的警惕。",
-        "medium_term_impact_cn": "可能推动律所制定AI使用政策。",
-        "long_term_impact_cn": "影响AI在法律行业的应用规范与责任界定。",
-        "affected_sectors": [
-          "法律",
-          "AI",
-          "合规"
-        ],
-        "affected_assets": [
-          "法律AI工具公司"
+          "AI初创公司股权",
+          "VC基金"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
         "risk_level": "medium",
         "follow_up_questions": [
-          "处罚具体内容？",
-          "是否会上诉？",
-          "其他类似案例？"
+          "Insight Partners具体持仓结构如何？",
+          "其他大型VC是否跟进多元化策略？"
         ]
       },
       "us_market_relevance": "low",
-      "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 5
+      "is_recent": true,
+      "is_old_context": false
     },
     {
-      "index": 6,
-      "title_cn": "Claude用户绕过生物武器研究防护",
-      "source": "Ars Technica",
-      "source_display_name": "Ars Technica",
+      "index": 2,
+      "title_cn": "OpenAI与数学家矛盾持续升级",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
-      "date_display": "2026-09-11",
+      "date_display": "2026-09-12",
       "freshness_label": "61h前",
-      "key_takeaway_cn": "Claude用户找到绕过安全防护的方法，用于生物武器研究。",
-      "short_summary_cn": "有用户发现绕过Claude安全防护的方法，将其用于生物武器相关研究。部分危险生物学研究与合法研究难以区分，增加了AI安全防护的复杂性。",
-      "why_it_matters_cn": "AI安全防护被绕过涉及生物安全，可能引发监管与伦理危机。",
-      "action_suggestion_cn": "关注Anthropic的回应及AI生物安全防护改进措施。",
-      "importance_score": 9,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "key_takeaway_cn": "25位顶尖数学家联名抗议AI实验室威胁其学术工作",
+      "short_summary_cn": "25位知名数学家签署公开信，指责AI实验室正在威胁数学领域的知识产权与学术价值。OpenAI与数学界的矛盾进一步激化，涉及训练数据使用与学术成果归属问题。",
+      "why_it_matters_cn": "AI训练数据版权争议从内容创作蔓延至学术领域，可能引发新的法律与伦理监管。",
+      "action_suggestion_cn": "跟踪公开信全文及OpenAI回应，评估对AI训练数据合规政策的潜在影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 6,
       "tracking_value": 8,
-      "editor_reason_cn": "AI安全与生物武器交叉，风险等级高。",
-      "frontpage_reason_cn": "AI防护被绕过用于生物武器研究，安全议题重大。",
+      "editor_reason_cn": "AI与学术界版权冲突升级，具监管风向意义。",
+      "frontpage_reason_cn": "学术与AI巨头对抗话题性强，但非即时市场事件。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发对AI安全防护有效性的质疑。",
-        "medium_term_impact_cn": "可能推动AI生物安全监管加强。",
-        "long_term_impact_cn": "影响AI安全标准与生物安全政策制定。",
+        "immediate_impact_cn": "舆论层面施压OpenAI，短期无直接商业影响。",
+        "medium_term_impact_cn": "或推动AI训练数据版权立法讨论加速。",
+        "long_term_impact_cn": "学术数据授权模式可能成为AI行业新合规成本。",
         "affected_sectors": [
-          "AI安全",
-          "生物技术",
-          "监管"
+          "人工智能",
+          "学术出版",
+          "知识产权"
         ],
         "affected_assets": [
-          "Anthropic相关",
-          "AI安全公司"
+          "OpenAI估值",
+          "AI训练数据供应商"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "risk_off",
-        "risk_level": "high",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "具体绕过方法？",
-          "Anthropic如何回应？",
-          "是否有实际危害？"
+          "公开信具体要求是什么？",
+          "OpenAI是否已回应？",
+          "是否会有诉讼跟进？"
         ]
       },
       "us_market_relevance": "low",
@@ -2231,352 +2080,491 @@
       "frontpage_rank": 6
     },
     {
+      "index": 3,
+      "title_cn": "OpenAI向美国政府提供免费AI许可",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-10",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "OpenAI与GSA合作，向各级政府提供零许可费和五折使用优惠",
+      "short_summary_cn": "OpenAI与美国总务管理局合作，为联邦、州、地方和部落政府提供零许可费、50%使用折扣及扩展网络防御支持。此举旨在扩大AI在政府部门的普及。",
+      "why_it_matters_cn": "AI巨头加速渗透政府市场，可能重塑公共部门技术采购格局并引发竞争对手跟进。",
+      "action_suggestion_cn": "关注其他AI厂商是否推出类似政府优惠，评估对政府IT预算和AI采购格局的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI进入政府核心采购，具政策与商业双重意义。",
+      "frontpage_reason_cn": "政府AI普及话题重要，但非突发性事件。",
+      "impact_analysis": {
+        "immediate_impact_cn": "政府AI使用成本骤降，短期加速部署。",
+        "medium_term_impact_cn": "或引发Google、微软等竞争对手推出对标政府方案。",
+        "long_term_impact_cn": "政府AI基础设施可能深度绑定OpenAI生态。",
+        "affected_sectors": [
+          "人工智能",
+          "政府IT",
+          "网络安全"
+        ],
+        "affected_assets": [
+          "OpenAI",
+          "政府IT承包商"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "GSA合同具体条款？",
+          "其他AI厂商是否跟进？",
+          "网络安全支持具体内容？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 7
+    },
+    {
+      "index": 4,
+      "title_cn": "GPT-5.6 Sol助力量子计算实验",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-09",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "MIT研究员用GPT-5.6 Sol自主运行量子计算实验并校准量子比特",
+      "short_summary_cn": "MIT研究员利用GPT-5.6 Sol配合Codex自主运行量子计算实验、分析结果并校准量子比特。展示了AI在尖端科研自动化中的实际应用能力。",
+      "why_it_matters_cn": "AI自主科研能力提升，可能加速量子计算等前沿领域研发进程。",
+      "action_suggestion_cn": "关注AI驱动科研自动化的商业化路径，评估对量子计算研发效率的影响。",
+      "importance_score": 8,
+      "urgency_score": 3,
+      "collector_value": 7,
+      "tracking_value": 8,
+      "editor_reason_cn": "AI自主科研里程碑案例，具技术突破意义。",
+      "frontpage_reason_cn": "量子计算+AI交叉领域话题吸引科技读者。",
+      "impact_analysis": {
+        "immediate_impact_cn": "展示AI科研自动化可行性，短期无商业冲击。",
+        "medium_term_impact_cn": "或推动更多实验室采用AI辅助科研工具。",
+        "long_term_impact_cn": "AI自主实验可能大幅缩短量子计算研发周期。",
+        "affected_sectors": [
+          "人工智能",
+          "量子计算",
+          "科研自动化"
+        ],
+        "affected_assets": [
+          "OpenAI",
+          "量子计算公司"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "实验具体成果如何？",
+          "是否可复制到其他科研领域？",
+          "Codex在其中的角色？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 8
+    },
+    {
+      "index": 6,
+      "title_cn": "律师因引用ChatGPT虚构证词被罚",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-12",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "新墨西哥辩护律师因引用ChatGPT编造的虚假证人证词遭处罚",
+      "short_summary_cn": "新墨西哥一名辩护律师因在法庭文件中引用ChatGPT生成的虚假证人证词而受到处罚。该律师声称不知道AI会编造事实，事件凸显AI在法律实务中的幻觉风险。",
+      "why_it_matters_cn": "AI幻觉在法律领域造成实际后果，可能推动律所AI使用规范和法律伦理监管。",
+      "action_suggestion_cn": "关注此案处罚结果及是否引发律协AI使用指引更新，评估法律AI工具合规风险。",
+      "importance_score": 7,
+      "urgency_score": 4,
+      "collector_value": 6,
+      "tracking_value": 7,
+      "editor_reason_cn": "AI幻觉实际案例，具法律与伦理警示意义。",
+      "frontpage_reason_cn": "AI翻车案例传播性强，法律界关注度高。",
+      "impact_analysis": {
+        "immediate_impact_cn": "法律界对AI工具使用更加谨慎。",
+        "medium_term_impact_cn": "或推动律协出台AI使用规范。",
+        "long_term_impact_cn": "法律AI工具需增加事实核查功能，合规成本上升。",
+        "affected_sectors": [
+          "法律服务",
+          "人工智能",
+          "合规"
+        ],
+        "affected_assets": [
+          "法律AI工具公司"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "处罚具体内容？",
+          "是否会有更多类似案例？",
+          "律协是否更新指引？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": false
+    },
+    {
       "index": 7,
+      "title_cn": "Claude用户绕过生物武器研究防护",
+      "source": "Ars Technica",
+      "source_display_name": "Ars Technica",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-11",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "Claude用户找到绕过安全防护进行生物武器研究的方法",
+      "short_summary_cn": "有用户发现绕过Claude安全防护的方法，用于生物武器相关研究。危险生物学研究与合法研究界限模糊，使AI安全防护面临挑战。",
+      "why_it_matters_cn": "AI安全防护被绕过涉及生物安全，可能引发监管机构对AI实验室安全措施的审查。",
+      "action_suggestion_cn": "跟踪Anthropic回应及监管机构反应，评估AI生物安全防护的政策走向。",
+      "importance_score": 9,
+      "urgency_score": 6,
+      "collector_value": 7,
+      "tracking_value": 9,
+      "editor_reason_cn": "AI生物安全风险，具重大监管与伦理意义。",
+      "frontpage_reason_cn": "生物武器+AI安全话题敏感且重要。",
+      "impact_analysis": {
+        "immediate_impact_cn": "Anthropic面临安全质疑，短期声誉压力。",
+        "medium_term_impact_cn": "或推动AI生物安全防护标准升级。",
+        "long_term_impact_cn": "AI生物安全可能成为国际监管重点领域。",
+        "affected_sectors": [
+          "人工智能",
+          "生物安全",
+          "国防"
+        ],
+        "affected_assets": [
+          "Anthropic",
+          "AI安全公司"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_off",
+        "risk_level": "high",
+        "follow_up_questions": [
+          "具体绕过方法是什么？",
+          "Anthropic如何回应？",
+          "监管机构是否介入？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": false,
+      "is_old_context": true,
+      "frontpage_rank": 1
+    },
+    {
+      "index": 8,
       "title_cn": "欧洲加入商业发射俱乐部",
       "source": "Ars Technica",
       "source_display_name": "Ars Technica",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "欧洲加入商业发射俱乐部，Ravn X疑似现身。",
-      "short_summary_cn": "欧洲正式加入商业发射俱乐部，有报道称Ravn X可能现身。相关方表示现在是加大投入的时机。",
-      "why_it_matters_cn": "欧洲商业航天崛起，可能改变全球发射市场竞争格局。",
-      "action_suggestion_cn": "关注欧洲商业发射公司动态及Ravn X项目进展。",
-      "importance_score": 9,
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "欧洲加入商业航天发射竞争，Ravn X飞行器疑似现身",
+      "short_summary_cn": "欧洲正式加入商业发射俱乐部，同时有报道称Ravn X飞行器再次现身。商业航天竞争格局进一步扩大。",
+      "why_it_matters_cn": "欧洲入局商业发射，可能改变SpaceX主导的全球发射市场竞争格局。",
+      "action_suggestion_cn": "关注欧洲商业发射公司融资动态及Ravn X项目进展，评估对航天板块投资的影响。",
+      "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "商业航天竞争格局变化，欧洲入局值得关注。",
-      "frontpage_reason_cn": "欧洲加入商业发射，航天领域重要进展。",
+      "editor_reason_cn": "商业航天格局变化，具行业跟踪价值。",
+      "frontpage_reason_cn": "航天话题有固定受众，但非突发重大事件。",
       "impact_analysis": {
-        "immediate_impact_cn": "欧洲商业发射市场活跃度提升。",
-        "medium_term_impact_cn": "可能吸引更多投资进入欧洲航天。",
-        "long_term_impact_cn": "改变全球商业发射市场份额分配。",
+        "immediate_impact_cn": "商业航天板块情绪小幅提振。",
+        "medium_term_impact_cn": "欧洲发射服务或获得更多政府与商业订单。",
+        "long_term_impact_cn": "全球发射市场价格竞争加剧，SpaceX份额可能受挤压。",
         "affected_sectors": [
           "商业航天",
-          "卫星发射"
+          "国防",
+          "卫星通信"
         ],
         "affected_assets": [
-          "欧洲航天概念股",
+          "航天股",
           "SpaceX竞争对手"
         ],
-        "us_stock_relevance": "low",
+        "us_stock_relevance": "medium",
         "market_sentiment": "sector_rotation",
         "risk_level": "low",
         "follow_up_questions": [
-          "具体欧洲公司？",
-          "Ravn X是否确认？",
-          "发射时间表？"
+          "欧洲具体发射项目是什么？",
+          "Ravn X是否确认现身？",
+          "对SpaceX影响多大？"
         ]
       },
-      "us_market_relevance": "low",
+      "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false,
-      "frontpage_rank": 7
+      "is_old_context": true
     },
     {
-      "index": 8,
+      "index": 9,
       "title_cn": "Paul Christiano加入OpenAI基金会董事会",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "source_display_name": "OpenAI",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-10",
       "freshness_label": "旧闻/背景",
-      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会。",
-      "short_summary_cn": "Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会，带来AI对齐、安全和标准方面的经验。此举被视为OpenAI加强安全治理的信号。",
-      "why_it_matters_cn": "AI安全治理人事变动，反映OpenAI在安全与商业化之间的平衡。",
-      "action_suggestion_cn": "关注OpenAI安全委员会后续动作及对AI安全政策的影响。",
-      "importance_score": 9,
+      "key_takeaway_cn": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会",
+      "short_summary_cn": "Paul Christiano加入OpenAI基金会董事会及其安全与安保委员会，带来AI对齐、安全和标准方面的经验。此举显示OpenAI在安全治理层面加强布局。",
+      "why_it_matters_cn": "AI对齐领域权威加入OpenAI治理层，可能影响其安全策略与监管沟通方向。",
+      "action_suggestion_cn": "关注Christiano在OpenAI安全决策中的角色变化，评估对AI安全政策的影响。",
+      "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 5,
       "tracking_value": 7,
-      "editor_reason_cn": "AI安全领域重要人事变动，治理信号明显。",
-      "frontpage_reason_cn": "OpenAI安全治理人事调整，行业关注。",
+      "editor_reason_cn": "AI安全治理人事变动，具政策跟踪意义。",
+      "frontpage_reason_cn": "人事任命话题性一般，但安全领域读者关注。",
       "impact_analysis": {
-        "immediate_impact_cn": "强化OpenAI安全治理形象。",
-        "medium_term_impact_cn": "可能影响OpenAI安全政策与产品发布节奏。",
-        "long_term_impact_cn": "塑造AI安全标准与行业治理方向。",
+        "immediate_impact_cn": "OpenAI安全治理形象增强。",
+        "medium_term_impact_cn": "或影响OpenAI安全标准制定与对外沟通。",
+        "long_term_impact_cn": "AI对齐研究可能更深度融入OpenAI产品开发。",
         "affected_sectors": [
-          "AI安全",
-          "AI治理"
+          "人工智能",
+          "AI安全"
         ],
         "affected_assets": [
-          "OpenAI相关"
+          "OpenAI"
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "unclear",
         "risk_level": "low",
         "follow_up_questions": [
           "Christiano具体职责？",
-          "是否影响OpenAI产品策略？"
+          "是否影响OpenAI安全策略？"
         ]
       },
       "us_market_relevance": "low",
       "is_recent": false,
-      "is_old_context": true,
-      "frontpage_rank": 8
+      "is_old_context": true
     },
     {
-      "index": 9,
+      "index": 10,
+      "title_cn": "YC Demo Day最受关注9家初创",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "VC评选出YC夏季批次最受关注的9家初创，涵盖浮动反应堆和脑机芯片",
+      "short_summary_cn": "风险投资人从Y Combinator夏季批次中选出9家最受关注的初创公司，涵盖浮动核反应堆、脑机接口等前沿领域。反映了当前早期投资的热点方向。",
+      "why_it_matters_cn": "YC Demo Day是早期投资风向标，入选项目反映资本对前沿科技的偏好。",
+      "action_suggestion_cn": "梳理9家初创名单及赛道，作为早期科技投资趋势的参考。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 6,
+      "tracking_value": 6,
+      "editor_reason_cn": "早期投资风向标，具行业参考价值。",
+      "frontpage_reason_cn": "初创榜单话题性中等，适合科技读者。",
+      "impact_analysis": {
+        "immediate_impact_cn": "相关赛道早期项目关注度提升。",
+        "medium_term_impact_cn": "或引导更多资本流入浮动核能、脑机接口等领域。",
+        "long_term_impact_cn": "前沿科技商业化进程可能加速。",
+        "affected_sectors": [
+          "风险投资",
+          "核能",
+          "脑机接口",
+          "人工智能"
+        ],
+        "affected_assets": [
+          "早期科技股",
+          "VC基金"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "risk_on",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "9家初创具体名单？",
+          "哪些赛道最受追捧？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 11,
+      "title_cn": "AI行业末日警告背后原因",
+      "source": "TechCrunch",
+      "source_display_name": "TechCrunch",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "TechCrunch讨论AI行业最新末日警告是真实威胁还是炒作",
+      "short_summary_cn": "TechCrunch的Equity节目讨论了AI行业关于其是否对人类构成生存威胁的最新争论。探讨这些警告背后的动机和真实性。",
+      "why_it_matters_cn": "AI生存威胁争论影响公众认知和政策走向，是AI监管讨论的重要背景。",
+      "action_suggestion_cn": "关注AI安全辩论的主要参与方及论点，作为AI政策跟踪的背景信息。",
+      "importance_score": 6,
+      "urgency_score": 3,
+      "collector_value": 5,
+      "tracking_value": 6,
+      "editor_reason_cn": "AI安全辩论背景，具政策跟踪参考价值。",
+      "frontpage_reason_cn": "AI末日论话题性强，但属观点讨论非新闻事件。",
+      "impact_analysis": {
+        "immediate_impact_cn": "舆论层面持续发酵，无直接市场影响。",
+        "medium_term_impact_cn": "或影响AI监管立法讨论氛围。",
+        "long_term_impact_cn": "AI安全叙事可能塑造行业长期监管框架。",
+        "affected_sectors": [
+          "人工智能",
+          "政策监管"
+        ],
+        "affected_assets": [
+          "AI公司估值"
+        ],
+        "us_stock_relevance": "low",
+        "market_sentiment": "unclear",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "主要争论方观点？",
+          "是否影响立法进程？"
+        ]
+      },
+      "us_market_relevance": "low",
+      "is_recent": true,
+      "is_old_context": false
+    },
+    {
+      "index": 12,
       "title_cn": "Altman称2026年IPO不明智",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Sam Altman表示OpenAI在2026年上市是不明智的。",
-      "short_summary_cn": "尽管OpenAI已秘密提交IPO申请，CEO Sam Altman表示公司今年不会上市，认为2026年IPO是不明智的。这反映了OpenAI对上市时机的谨慎态度。",
-      "why_it_matters_cn": "OpenAI上市计划影响AI行业估值与资本市场预期。",
-      "action_suggestion_cn": "关注OpenAI IPO时间表及市场对AI公司估值的反应。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "OpenAI已秘密提交IPO申请，但Altman称2026年上市不明智",
+      "short_summary_cn": "OpenAI CEO Sam Altman表示公司不会在2026年上市，称此时IPO不明智。尽管OpenAI已秘密提交IPO申请，但上市时间表仍不确定。",
+      "why_it_matters_cn": "OpenAI上市时间表影响AI板块估值锚定和一级市场流动性预期。",
+      "action_suggestion_cn": "跟踪OpenAI IPO进展及Altman表态变化，评估对AI板块估值的潜在影响。",
+      "importance_score": 8,
+      "urgency_score": 5,
+      "collector_value": 7,
       "tracking_value": 8,
-      "editor_reason_cn": "OpenAI IPO动向是AI资本市场核心议题。",
-      "frontpage_reason_cn": "Altman明确表态不上市，市场关注。",
+      "editor_reason_cn": "OpenAI上市动向，具重大市场影响潜力。",
+      "frontpage_reason_cn": "OpenAI IPO话题关注度极高。",
       "impact_analysis": {
-        "immediate_impact_cn": "缓解市场对AI公司集中上市的担忧。",
-        "medium_term_impact_cn": "影响AI初创公司上市节奏与估值预期。",
-        "long_term_impact_cn": "决定OpenAI资本结构与治理模式。",
+        "immediate_impact_cn": "AI板块情绪短期受抑。",
+        "medium_term_impact_cn": "IPO推迟或影响AI一级市场估值预期。",
+        "long_term_impact_cn": "OpenAI上市时点将成AI行业估值重要里程碑。",
         "affected_sectors": [
-          "AI",
+          "人工智能",
           "资本市场"
         ],
         "affected_assets": [
-          "AI概念股",
-          "IPO相关"
+          "AI板块股票",
+          "OpenAI股权"
         ],
         "us_stock_relevance": "high",
-        "market_sentiment": "unclear",
+        "market_sentiment": "mixed",
         "risk_level": "medium",
         "follow_up_questions": [
-          "何时上市？",
-          "秘密提交细节？",
-          "估值预期？"
+          "IPO推迟具体原因？",
+          "何时可能上市？",
+          "对AI估值有何影响？"
         ]
       },
       "us_market_relevance": "high",
-      "is_recent": true,
-      "is_old_context": false
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 2
     },
     {
-      "index": 10,
+      "index": 13,
       "title_cn": "Anthropic CEO提出放缓AI发展计划",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-13",
-      "freshness_label": "今日新情报",
-      "key_takeaway_cn": "Anthropic CEO Dario Amodei提出放缓AI前沿发展的计划。",
-      "short_summary_cn": "Anthropic CEO Dario Amodei与OpenAI的Sam Altman似乎都认同需要“放缓前沿”。文章探讨了具体如何实施这一计划。",
-      "why_it_matters_cn": "AI头部公司CEO共识放缓发展，可能影响行业竞争节奏与监管方向。",
-      "action_suggestion_cn": "关注“放缓前沿”具体方案及对AI产品发布节奏的影响。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "freshness_label": "37h前",
+      "key_takeaway_cn": "Anthropic CEO提出放缓前沿AI发展计划，与Altman观点趋同",
+      "short_summary_cn": "Anthropic的Dario Amodei和OpenAI的Sam Altman似乎都认同需要放缓前沿AI发展。文章探讨了具体如何实施这一计划。",
+      "why_it_matters_cn": "两大AI实验室CEO在放缓发展上达成共识，可能影响行业竞争节奏和监管预期。",
+      "action_suggestion_cn": "跟踪Anthropic具体放缓措施及行业跟进情况，评估对AI发展速度的影响。",
+      "importance_score": 8,
+      "urgency_score": 4,
+      "collector_value": 7,
       "tracking_value": 8,
-      "editor_reason_cn": "AI安全与发展速度的平衡是行业核心议题。",
-      "frontpage_reason_cn": "两大AI公司CEO共识放缓，行业风向标。",
+      "editor_reason_cn": "AI发展节奏重大信号，具行业方向性意义。",
+      "frontpage_reason_cn": "AI巨头共识话题重要，但非突发。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发AI发展速度的讨论。",
-        "medium_term_impact_cn": "可能影响AI产品发布与投资节奏。",
-        "long_term_impact_cn": "塑造AI安全治理与行业自律框架。",
+        "immediate_impact_cn": "AI板块情绪短期谨慎。",
+        "medium_term_impact_cn": "或影响AI产品发布节奏和算力投资计划。",
+        "long_term_impact_cn": "若行业集体放缓，AI商业化进程可能延后。",
         "affected_sectors": [
-          "AI",
-          "监管"
+          "人工智能",
+          "半导体",
+          "云计算"
         ],
         "affected_assets": [
-          "AI概念股"
+          "AI股",
+          "芯片股"
         ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "unclear",
+        "us_stock_relevance": "high",
+        "market_sentiment": "risk_off",
         "risk_level": "medium",
         "follow_up_questions": [
-          "具体放缓措施？",
-          "是否影响竞争力？",
-          "监管如何回应？"
+          "放缓具体措施？",
+          "是否影响产品路线图？",
+          "其他实验室是否跟进？"
         ]
       },
-      "us_market_relevance": "medium",
-      "is_recent": true,
-      "is_old_context": false
+      "us_market_relevance": "high",
+      "is_recent": false,
+      "is_old_context": false,
+      "frontpage_rank": 4
     },
     {
-      "index": 12,
+      "index": 15,
       "title_cn": "YC的Garry Tan呼吁美国开源AI蒸馏",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Garry Tan呼吁美国开源AI实验室蒸馏前沿模型，以对抗中国开源AI。",
-      "short_summary_cn": "Y Combinator的Garry Tan希望美国小型开源AI实验室使用与美国前沿AI实验室相同的训练技术，为美国提供更强大的非中国开源权重选项。",
-      "why_it_matters_cn": "中美AI开源竞争加剧，蒸馏技术成为战略议题。",
-      "action_suggestion_cn": "关注美国开源AI政策及蒸馏技术合规性讨论。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "YC的Garry Tan希望美国开源AI实验室蒸馏前沿模型以对抗中国",
+      "short_summary_cn": "Y Combinator的Garry Tan呼吁美国小型开源AI实验室使用美国前沿AI实验室的训练技术进行蒸馏，以提供更多非中国的开源权重选项。",
+      "why_it_matters_cn": "开源AI蒸馏涉及中美技术竞争，可能影响美国AI开源政策与出口管制讨论。",
+      "action_suggestion_cn": "跟踪美国开源AI政策动向及蒸馏技术合规性讨论，评估对AI开源生态的影响。",
       "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "urgency_score": 4,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "中美AI开源竞争，战略意义强。",
-      "frontpage_reason_cn": "美国开源AI对抗中国，地缘科技议题。",
+      "editor_reason_cn": "中美AI竞争新维度，具政策与行业影响。",
+      "frontpage_reason_cn": "中美AI竞争话题关注度高。",
       "impact_analysis": {
-        "immediate_impact_cn": "引发开源AI蒸馏合规性讨论。",
-        "medium_term_impact_cn": "可能推动美国开源AI政策调整。",
-        "long_term_impact_cn": "影响全球开源AI生态与中美技术竞争格局。",
+        "immediate_impact_cn": "开源AI社区讨论升温。",
+        "medium_term_impact_cn": "或推动美国开源AI政策调整。",
+        "long_term_impact_cn": "开源权重格局可能重塑，影响全球AI生态。",
         "affected_sectors": [
-          "AI",
-          "开源",
-          "地缘政治"
+          "人工智能",
+          "开源软件",
+          "政策"
         ],
         "affected_assets": [
-          "开源AI公司",
-          "美国AI概念股"
+          "美国开源AI公司",
+          "中国AI公司"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "sector_rotation",
         "risk_level": "medium",
         "follow_up_questions": [
-          "蒸馏是否合法？",
-          "政策是否支持？",
-          "中国如何回应？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 13,
-      "title_cn": "中亚公布2026 Road to Battlefield获胜者",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Cerberus、WeGlobal AI和LOOQ赢得中亚区Road to Battlefield冠军。",
-      "short_summary_cn": "Cerberus、WeGlobal AI和LOOQ在中亚区Road to TechCrunch Startup Battlefield 2026决赛中获胜，将代表中亚参加10月在旧金山举行的Startup Battlefield 200。",
-      "why_it_matters_cn": "中亚初创企业崛起，AI创业生态全球化趋势。",
-      "action_suggestion_cn": "关注获胜项目及TechCrunch Disrupt后续动态。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "创业赛事结果，AI初创生态动态。",
-      "frontpage_reason_cn": "中亚AI初创获胜，区域创新亮点。",
-      "impact_analysis": {
-        "immediate_impact_cn": "获胜项目获得曝光与资源。",
-        "medium_term_impact_cn": "可能吸引投资进入中亚AI生态。",
-        "long_term_impact_cn": "推动全球AI创业多元化。",
-        "affected_sectors": [
-          "AI",
-          "创业投资"
-        ],
-        "affected_assets": [
-          "相关初创公司"
-        ],
-        "us_stock_relevance": "none",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "项目具体内容？",
-          "融资情况？",
-          "Disrupt表现？"
-        ]
-      },
-      "us_market_relevance": "none",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 14,
-      "title_cn": "Nscale任命前OpenAI高管加入董事会",
-      "source": "TechCrunch",
-      "source_display_name": "TechCrunch",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Nscale在潜在IPO前任命前OpenAI高管Fidji Simo加入董事会。",
-      "short_summary_cn": "Nscale在可能进行IPO之前，任命前OpenAI二号高管、曾带领Instacart上市的Fidji Simo加入董事会。此举被视为加强治理与上市准备。",
-      "why_it_matters_cn": "AI基础设施公司IPO动向，资本市场关注。",
-      "action_suggestion_cn": "关注Nscale IPO进展及AI基础设施投资趋势。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 7,
-      "editor_reason_cn": "AI基础设施公司IPO准备，资本市场信号。",
-      "frontpage_reason_cn": "前OpenAI高管加入Nscale董事会，IPO预期升温。",
-      "impact_analysis": {
-        "immediate_impact_cn": "提升Nscale治理形象与市场信心。",
-        "medium_term_impact_cn": "可能加速Nscale IPO进程。",
-        "long_term_impact_cn": "影响AI基础设施领域资本格局。",
-        "affected_sectors": [
-          "AI基础设施",
-          "云计算",
-          "资本市场"
-        ],
-        "affected_assets": [
-          "Nscale",
-          "AI基础设施股"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "medium",
-        "follow_up_questions": [
-          "IPO时间表？",
-          "估值？",
-          "Simo具体角色？"
-        ]
-      },
-      "us_market_relevance": "medium",
-      "is_recent": false,
-      "is_old_context": false
-    },
-    {
-      "index": 15,
-      "title_cn": "OpenAI扩展存储服务10亿用户",
-      "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
-      "category": "ai_tech",
-      "news_type": "tech",
-      "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "OpenAI将Habitat从Python库扩展为服务10亿ChatGPT用户的全球存储平台。",
-      "short_summary_cn": "OpenAI详细介绍了如何将Habitat从Python库演变为全球分布式存储平台，服务10亿ChatGPT用户，每秒处理2200万次请求。展示了大规模AI基础设施的技术挑战。",
-      "why_it_matters_cn": "AI基础设施规模化能力，影响ChatGPT服务稳定性与扩展性。",
-      "action_suggestion_cn": "关注OpenAI基础设施技术博客，评估对云存储与AI服务架构的影响。",
-      "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
-      "tracking_value": 6,
-      "editor_reason_cn": "AI基础设施技术细节，工程价值高。",
-      "frontpage_reason_cn": "OpenAI存储平台服务10亿用户，技术规模惊人。",
-      "impact_analysis": {
-        "immediate_impact_cn": "展示OpenAI大规模服务能力。",
-        "medium_term_impact_cn": "可能推动AI基础设施技术标准。",
-        "long_term_impact_cn": "影响AI服务架构与云存储竞争。",
-        "affected_sectors": [
-          "云计算",
-          "AI基础设施",
-          "存储"
-        ],
-        "affected_assets": [
-          "云存储公司",
-          "OpenAI相关"
-        ],
-        "us_stock_relevance": "medium",
-        "market_sentiment": "risk_on",
-        "risk_level": "low",
-        "follow_up_questions": [
-          "技术细节？",
-          "成本？",
-          "是否开源？"
+          "蒸馏技术是否合规？",
+          "政策层面是否支持？",
+          "对中国AI影响多大？"
         ]
       },
       "us_market_relevance": "medium",
@@ -2585,76 +2573,169 @@
     },
     {
       "index": 16,
-      "title_cn": "研究员用Codex搜索抗菌分子",
+      "title_cn": "OpenAI存储扩展支撑10亿用户",
       "source": "OpenAI Blog",
-      "source_display_name": "OpenAI Blog",
+      "source_display_name": "OpenAI",
       "category": "ai_tech",
       "news_type": "tech",
       "date_display": "2026-09-11",
-      "freshness_label": "61h前",
-      "key_takeaway_cn": "César de la Fuente实验室用Codex和ChatGPT搜索活体与灭绝基因组中的抗菌候选分子。",
-      "short_summary_cn": "César de la Fuente的实验室利用Codex和ChatGPT，在活体和灭绝基因组中搜索抗菌候选分子，以对抗耐药性感染。展示了AI在生物医学研究中的应用。",
-      "why_it_matters_cn": "AI加速抗菌药物发现，可能缓解抗生素耐药性危机。",
-      "action_suggestion_cn": "关注AI在药物发现中的案例，评估对生物医药研发的影响。",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "OpenAI将Habitat扩展为全球分布式存储平台，支撑10亿ChatGPT用户",
+      "short_summary_cn": "OpenAI分享了如何将Habitat从Python库演变为全球分布式存储平台，支撑10亿ChatGPT用户和每秒2200万次请求。展示了AI基础设施的规模化能力。",
+      "why_it_matters_cn": "AI基础设施规模化经验对云计算和存储行业有参考价值，反映AI算力需求增长。",
+      "action_suggestion_cn": "关注OpenAI基础设施技术细节，评估对云存储和AI算力投资的影响。",
       "importance_score": 7,
       "urgency_score": 3,
-      "collector_value": 2,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "AI+生物医药，应用前景广阔。",
-      "frontpage_reason_cn": "AI搜索抗菌分子，医疗健康议题。",
+      "editor_reason_cn": "AI基础设施规模化案例，具技术参考价值。",
+      "frontpage_reason_cn": "技术深度内容，适合专业读者。",
       "impact_analysis": {
-        "immediate_impact_cn": "展示AI在药物发现中的潜力。",
-        "medium_term_impact_cn": "可能加速抗菌药物研发进程。",
-        "long_term_impact_cn": "改变药物发现范式，应对耐药性危机。",
+        "immediate_impact_cn": "技术社区关注，无直接市场影响。",
+        "medium_term_impact_cn": "或推动AI基础设施投资增长。",
+        "long_term_impact_cn": "AI存储架构可能成为行业标准参考。",
         "affected_sectors": [
-          "生物医药",
-          "AI",
-          "抗生素"
+          "云计算",
+          "存储",
+          "人工智能"
         ],
         "affected_assets": [
-          "生物医药股",
-          "AI药物发现公司"
+          "云存储股",
+          "AI基础设施公司"
         ],
         "us_stock_relevance": "medium",
         "market_sentiment": "risk_on",
         "risk_level": "low",
         "follow_up_questions": [
-          "发现具体分子？",
-          "临床前景？",
-          "合作方？"
+          "Habitat具体架构？",
+          "成本效率如何？",
+          "是否开源？"
         ]
       },
       "us_market_relevance": "medium",
       "is_recent": false,
-      "is_old_context": false
+      "is_old_context": true
     },
     {
-      "index": 11,
+      "index": 17,
+      "title_cn": "研究员用AI搜索抗菌分子",
+      "source": "OpenAI Blog",
+      "source_display_name": "OpenAI",
+      "category": "ai_tech",
+      "news_type": "tech",
+      "date_display": "2026-09-11",
+      "freshness_label": "旧闻/背景",
+      "key_takeaway_cn": "研究员用Codex和ChatGPT从基因组中搜索抗菌分子候选",
+      "short_summary_cn": "César de la Fuente的实验室使用Codex和ChatGPT在现存和已灭绝基因组中搜索抗菌候选分子，以对抗耐药性感染。展示了AI在生物医药研发中的应用。",
+      "why_it_matters_cn": "AI加速抗菌药物发现，可能缓解全球抗生素耐药性危机。",
+      "action_suggestion_cn": "关注AI驱动药物发现的商业化进展，评估对生物医药板块的影响。",
+      "importance_score": 7,
+      "urgency_score": 3,
+      "collector_value": 6,
+      "tracking_value": 7,
+      "editor_reason_cn": "AI+生物医药应用案例，具行业跟踪价值。",
+      "frontpage_reason_cn": "AI医疗突破话题有吸引力。",
+      "impact_analysis": {
+        "immediate_impact_cn": "科研层面关注，无直接市场影响。",
+        "medium_term_impact_cn": "或推动AI药物发现投资增加。",
+        "long_term_impact_cn": "AI可能大幅缩短新药研发周期。",
+        "affected_sectors": [
+          "生物医药",
+          "人工智能",
+          "医疗"
+        ],
+        "affected_assets": [
+          "AI制药公司",
+          "生物科技股"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "risk_on",
+        "risk_level": "low",
+        "follow_up_questions": [
+          "发现具体成果？",
+          "是否进入临床？",
+          "AI贡献多大？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": false,
+      "is_old_context": true
+    },
+    {
+      "index": 5,
+      "title_cn": "卡尼寻求与欧盟建立独特联盟",
+      "source": "BBC News",
+      "source_display_name": "BBC News",
+      "category": "politics_world",
+      "news_type": "politics",
+      "date_display": "2026-09-14",
+      "freshness_label": "今日新情报",
+      "key_takeaway_cn": "加拿大总理卡尼在美加贸易战升级之际寻求与欧盟建立独特联盟",
+      "short_summary_cn": "加拿大总理卡尼表示虽排除加入欧盟，但希望与布鲁塞尔建立独特联盟。此举发生在美加贸易战持续升级的背景下，显示加拿大正在寻求贸易多元化。",
+      "why_it_matters_cn": "北美贸易关系紧张推动加拿大转向欧盟，可能重塑跨大西洋贸易格局。",
+      "action_suggestion_cn": "跟踪加欧贸易谈判进展及美国回应，评估对北美供应链和贸易流向的影响。",
+      "importance_score": 8,
+      "urgency_score": 5,
+      "collector_value": 6,
+      "tracking_value": 8,
+      "editor_reason_cn": "地缘贸易格局变化，具宏观政策跟踪价值。",
+      "frontpage_reason_cn": "贸易战升级+盟友重组，国际政治头条潜力。",
+      "impact_analysis": {
+        "immediate_impact_cn": "加元与相关贸易资产短期波动。",
+        "medium_term_impact_cn": "加欧贸易谈判或加速，北美供应链面临调整。",
+        "long_term_impact_cn": "若联盟成型，可能削弱美国在北美贸易中的主导地位。",
+        "affected_sectors": [
+          "国际贸易",
+          "能源",
+          "农业",
+          "汽车"
+        ],
+        "affected_assets": [
+          "加元",
+          "欧元",
+          "加拿大出口股"
+        ],
+        "us_stock_relevance": "medium",
+        "market_sentiment": "sector_rotation",
+        "risk_level": "medium",
+        "follow_up_questions": [
+          "独特联盟具体涵盖哪些领域？",
+          "美国是否会有反制措施？",
+          "谈判时间表如何？"
+        ]
+      },
+      "us_market_relevance": "medium",
+      "is_recent": true,
+      "is_old_context": false,
+      "frontpage_rank": 3
+    },
+    {
+      "index": 14,
       "title_cn": "Revolut确认客户数据泄露",
       "source": "TechCrunch",
       "source_display_name": "TechCrunch",
       "category": "politics_world",
-      "news_type": "politics",
+      "news_type": "general",
       "date_display": "2026-09-12",
-      "freshness_label": "37h前",
-      "key_takeaway_cn": "Revolut因虚假政府请求导致客户数据泄露，已通知受影响客户。",
-      "short_summary_cn": "Revolut确认通过虚假政府请求导致客户数据泄露。公司已通知受影响客户，并通报相关政府机构、执法部门和金融监管机构。",
-      "why_it_matters_cn": "金融科技公司数据安全漏洞，涉及政府请求滥用与监管信任。",
-      "action_suggestion_cn": "关注Revolut后续安全措施及监管调查进展。",
+      "freshness_label": "61h前",
+      "key_takeaway_cn": "Revolut因虚假政府请求导致客户数据泄露",
+      "short_summary_cn": "Revolut确认通过虚假政府请求导致客户数据泄露，已通知受影响客户及相关政府机构、执法部门和金融监管机构。事件凸显金融科技公司数据安全漏洞。",
+      "why_it_matters_cn": "金融科技数据泄露涉及监管合规与用户信任，可能引发更严格的数据安全审查。",
+      "action_suggestion_cn": "跟踪Revolut后续监管处罚及行业数据安全措施升级，评估金融科技板块合规风险。",
       "importance_score": 7,
-      "urgency_score": 3,
-      "collector_value": 2,
+      "urgency_score": 5,
+      "collector_value": 6,
       "tracking_value": 7,
-      "editor_reason_cn": "金融数据泄露涉及政府请求滥用，安全议题重要。",
-      "frontpage_reason_cn": "Revolut数据泄露，金融安全关注度高。",
+      "editor_reason_cn": "金融科技安全事件，具监管与行业影响。",
+      "frontpage_reason_cn": "数据泄露话题关注度高，涉及知名金融科技公司。",
       "impact_analysis": {
-        "immediate_impact_cn": "Revolut用户信任受损。",
-        "medium_term_impact_cn": "可能引发金融科技行业数据安全审查。",
-        "long_term_impact_cn": "推动政府请求验证机制与数据保护法规完善。",
+        "immediate_impact_cn": "Revolut声誉受损，用户信任短期下降。",
+        "medium_term_impact_cn": "或引发监管机构对金融科技数据安全审查加强。",
+        "long_term_impact_cn": "行业数据安全标准可能提升，合规成本增加。",
         "affected_sectors": [
           "金融科技",
-          "数据安全",
-          "监管"
+          "网络安全",
+          "银行"
         ],
         "affected_assets": [
           "Revolut",
@@ -2662,11 +2743,11 @@
         ],
         "us_stock_relevance": "low",
         "market_sentiment": "risk_off",
-        "risk_level": "high",
+        "risk_level": "medium",
         "follow_up_questions": [
-          "泄露规模？",
-          "谁发起虚假请求？",
-          "监管处罚？"
+          "泄露规模多大？",
+          "监管处罚如何？",
+          "是否有其他公司受影响？"
         ]
       },
       "us_market_relevance": "low",
